@@ -1,0 +1,35 @@
+{
+    "Name": "MacBook Pro <br> (15-inch, Mid 2012)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_15_unibody_2008_11.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jun 2012",
+            "Discontinued": "Oct 2013",
+            "Model Identifier": "MacBookPro9,2"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core i7 (3615QM, 3720QM, 3820QM) ('Ivy Bridge')",
+            "Processor Speed": "2.3, 2.6, 2.7 GHz",
+            "Number of Cores": "4",
+            "Number of Threads": "8"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.7.4 (Lion)",
+            "Maximum OS": "macOS 10.15.7 (Catalina)"
+        },
+        "Memory": {
+            "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+            "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+        },
+        "Graphics": {
+            "Graphics Chip": "NVIDIA GeForce GT 650M and Intel HD Graphics 4000",
+            "Graphics Memory": "512 MB GDDR5 (2.3) (GT 650M), 1GB GDDR5 (2.6, 2.7) (GT 650M), Up to 1 GB DDR3 (shared) (HD Graphics)"
+        },
+        "Display": {
+            "Display Type": "15.4-inch LED-backlit glossy widescreen display",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "1680 x 1050"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "MacBook Pro <br> (15-inch, Early 2011)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_15_unibody_2008_11.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Feb 2011",
+            "Discontinued": "Oct 2011",
+            "Model Identifier": "MacBookPro8,2 (E)"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core i7 (2635QM, 2720QM, 2820QM) ('Sandy Bridge')",
+            "Processor Speed": "2.0, 2.2, 2.3 GHz",
+            "Number of Cores": "4",
+            "Number of Threads": "8"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.6.6 (Snow Leopard)",
+            "Later OS": "Mac OS X 10.6.7 (Snow Leopard)",
+            "Maximum OS": "macOS 10.13.6 (High Sierra)"
+        },
+        "Memory": {
+            "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+            "Supported RAM": "1333 MHz DDR3 SO-DIMM"
+        },
+        "Graphics": {
+            "Graphics Chip": "AMD Radeon HD 6490M or 6750M and Intel HD Graphics 3000",
+            "Graphics Memory": "256 MB GDDR5 (6490M), 1 GB GDDR5 (6750M), 384 MB DDR3 (HD Graphics) (shared) (up to 512 MB)"
+        },
+        "Display": {
+            "Display Type": "15.4-inch LED-backlit glossy widescreen display",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "1680 x 1050"
+        }
+    }
+}

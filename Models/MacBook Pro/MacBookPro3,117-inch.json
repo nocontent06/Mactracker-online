@@ -1,0 +1,35 @@
+{
+    "Name": "MacBook Pro <br> (17-inch, Mid 2007)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_2006-8.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jun 2007",
+            "Discontinued": "Feb 2008",
+            "Model Identifier": "MacBookPro3,1 (17-inch)"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core 2 Duo (T7700, T7800) ('Merom')",
+            "Processor Speed": "2.4, 2.6 GHz",
+            "Number of Cores": "2"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.4.9 (Tiger)",
+            "Later OS": "Mac OS X 10.4.10 (Tiger), 10.5 (Leopard)",
+            "Maximum OS": "OS X 10.11.6 (El Capitan)"
+        },
+        "Memory": {
+            "Maximum Memory": "6 GB (Actual) 4 GB (Apple)",
+            "Supported RAM": "667 MHz DDR2 SO-DIMM"
+        },
+        "Graphics": {
+            "Graphics Chip": "NVIDIA GeForce 8600M GT",
+            "Graphics Memory": "256 MB GDDR3"
+        },
+        "Display": {
+            "Display Type": "17-inch CCFL-backlit TFT, (Optional glossy display)",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "1440 x 900"
+        }
+    }
+}
