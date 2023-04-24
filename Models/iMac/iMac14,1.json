@@ -1,0 +1,35 @@
+{
+    "Name": "iMac (21.5-inch, Late 2013) <br> (i5)", 
+    "Type": "iMac", 
+    "image": "imac_unibody_21.png",
+    "Info": {
+          "Overview": {
+            "Introduced": "September 2013",
+            "Discontinued": "October 2015",
+            "Model Identifier": "iMac14,1"
+          } ,
+          "Processor": {
+            "Processor Name": "Intel Core i5 (4570R) ('Haswell')",
+            "Processor Speed": "2.7 GHz",
+            "Number of Cores": "4"
+          },
+          "Software": {
+            "Original OS": "OS X 10.8.4 (Mountain Lion)",
+            "Later OS": "OS X 10.9(.2) (Mavericks)",
+            "Maximum OS": "macOS 10.15 (Catalina)"
+          },
+          "Memory": {
+            "Maximum Memory": "16 GB",
+            "Supported RAM": "1600 MHz DDR3 SO-DIMM (Non-user Accessible)"
+          },
+          "Graphics": {
+            "Graphics Chip": "Intel Iris Pro 5200",
+            "Graphics Memory": "Up to 1.5 GB (shared)"
+          },
+          "Display": {
+            "Display Type": "21.5-inch (diagonal) LED-backlit display with IPS technology",
+            "Aspect Ratio": "16:9",
+            "Native Resolution": "1920 x 1080"
+          }
+    }
+  }

@@ -1,0 +1,34 @@
+{
+    "Name": "iMac (27-inch, Late 2009)", 
+    "Type": "iMac",
+    "image": "imac_unibody_27.png", 
+    "Info": {
+          "Overview": {
+              "Introduced": "October 2009",
+              "Discontinued": "July 2010",
+              "Model Identifier": "iMac10,1 or iMac11,1"
+          } ,
+          "Processor": {
+            "Processor Name": "Intel Core 2 Duo (E7600, E8600) ('Wolfdale'), i5-750 or i7-860 ('Lynnfield')",
+            "Processor Speed": "3.06 or 3.33 GHz (Core 2 Duo), 2.66 GHz (i5), 2.8 GHz (i7)",
+            "Number of Cores": "2 (Core 2 Duo), 4 (i5, i7)"
+          },
+          "Software": {
+            "Original OS": "Mac OS X 10.6.1/.2 Snow Leopard",
+            "Maximum OS": "macOS 10.13 (High Sierra)"
+          },
+          "Memory": {
+            "Maximum Memory": "16 GB (Apple), 32 GB (Core i5 or i7 Actual)",
+            "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+          },
+          "Graphics": {
+            "Graphics Chip": "ATI Radeon HD 4670 or Radeon HD 4850",
+            "Graphics Memory": "256 MB (Radeon HD 4670), 512 MB (Radeon HD 4850)"
+          },
+          "Display": {
+            "Display Type": "27-inch (diagonal) LED-backlit glossy widescreen TFT LCD with IPS",
+            "Aspect Ratio": "16:9",
+            "Native Resolution": "2560 x 1440"
+          }
+    }
+  }

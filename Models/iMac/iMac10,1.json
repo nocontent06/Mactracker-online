@@ -1,0 +1,36 @@
+{
+    "Name": "iMac (21.5', Late 2009)", 
+    "Type": "iMac",
+    "image": "imac_unibody_21.png",  
+    "Info": {
+          "Overview": {
+              "Introduced": "October 2009",
+              "Discontinued": "July 2010",
+              "Model Identifier": "iMac10,1"
+          } ,
+          "Processor": {
+            "Processor Name": "Intel Core 2 Duo (E7600, E8600) ('Wolfdale')",
+            "Processor Speed": "3.06 or 3.33 GHz",
+            "Number of Cores": "2"
+          },
+          "Software": {
+            "Original OS": "Mac OS X 10.6.1 (Snow Leopard)",
+            "Later OS": "Mac OS X 10.6.2 (Snow Leopard)",
+            "Maximum OS": "macOS 10.13.6 (High Sierra)"
+          },
+          "Memory": {
+            "Maximum Memory": "16 GB",
+            "Supported RAM": "DDR3 1066 MHz",
+            "RAM Slots": "4"
+          },
+          "Graphics": {
+            "Graphics Chip": "NVIDIA GeForce 9400M or ATI Radeon HD 4670",
+            "Graphics Memory": "256 MB"
+          },
+          "Display": {
+            "Display Type": "21.5 inch (viewable) LED-backlit glossy widescreen TFT LCD with IPS",
+            "Aspect Ratio": "16:9",
+            "Native Resolution": "1920 x 1080"
+          }
+    }
+  }

@@ -1,0 +1,34 @@
+{
+  "Name": "iMac (21.5-inch, Early 2013)", 
+  "Type": "iMac", 
+  "image": "imac_unibody_21.png",
+  "Info": {
+        "Overview": {
+          "Introduced": "March 2013",
+          "Discontinued": "June 2014",
+          "Model Identifier": "iMac13,1 (2013)"
+        } ,
+        "Processor": {
+          "Processor Name": "Intel Core i3 (3225) ('Ivy Bridge')",
+          "Processor Speed": "3.3 GHz",
+          "Number of Cores": "2"
+        },
+        "Software": {
+          "Original OS": "OS X 10.8.2 (Mountain Lion)",
+          "Maximum OS": "macOS 10.15.7 (Catalina)"
+        },
+        "Memory": {
+          "Maximum Memory": "16 GB",
+          "Supported RAM": "1600 MHz DDR3 SO-DIMM (non User-Accessible)"
+        },
+        "Graphics": {
+          "Graphics Chip": "Intel HD Graphics 4000",
+          "Graphics Memory": "512 MB"
+        },
+        "Display": {
+          "Display Type": "21.5-inch (diagonal) LED-backlit display with IPS technology",
+          "Aspect Ratio": "16:9",
+          "Native Resolution": "1920 x 1080"
+        }
+  }
+}

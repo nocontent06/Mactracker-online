@@ -1,0 +1,36 @@
+{
+    "Name": "iMac Mid 2007 (20') & (24')",
+    "Type": "iMac",
+    "image": "imac_aluminium_24.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "August 2007",
+            "Discontinued": "April 2008",
+            "Model Identifier": "iMac7,1"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core 2 Duo (T7300, T7700) ('Merom') (20') <br> Intel Core 2 Duo (T7700) or Core 2 Extreme (X7900) ('Merom') (24')",
+            "Processor Speed": "2.0 GHz or 2.4 GHz (20') <br> 2.4 GHz or 2.8 GHz (24')",
+            "Number of Cores": "2"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.4.10 (Tiger)",
+            "Later OS": "Mac OS X 10.5(.2) (Leopard)",
+            "Maximum OS": "Mac OS X 10.11.6 (El Capitan)"
+        },
+        "Memory": {
+            "Maximum Memory": "6 GB (Actual) <br> 4 GB (Apple)",
+            "Supported RAM": "667 MHz DDR2 SO-DIMM"
+        },
+        "Graphics": {
+            "Graphics Chip": "ATI Radeon HD 2400 XT or 2600 PRO (20') <br> ATI Radeon HD 2600 PRO (24')",
+            "Graphics Memory": "128 MB (2400 XT) or 256 MB (2600 PRO) GDDR3 (20') <br> 256 MB GDDR3 (24')"
+        },
+        "Display": {
+            "Display Type": "20' or 24' (viewable) glossy widescreen TFT LCD",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "1680 x 1050 (20') <br> 1920 x 1200 (24')"
+        }
+
+    }
+  }

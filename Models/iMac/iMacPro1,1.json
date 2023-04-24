@@ -1,0 +1,34 @@
+{
+    "Name": "iMac Pro (2017)", 
+    "Type": "iMac", 
+    "image": "imac_pro.png",
+    "Info": {
+          "Overview": {
+            "Introduced": "December 2017",
+            "Discontinued": "March 2021",
+            "Model Identifier": "iMacPro1,1"
+          } ,
+          "Processor": {
+            "Processor Name": "Intel Xeon W (W-2140B, W-2150B, W-2170B, W-2190B)",
+            "Processor Speed": "3.2, 3.0, 2.5, or 2.3 GHz",
+            "Number of Cores": "8, 10, 14, or 18"
+          },
+          "Software": {
+            "Original OS": "macOS 10.13.2 (High Sierra)",
+            "Maximum OS": "Latest release of macOS (13 - Ventura)"
+          },
+          "Memory": {
+            "Maximum Memory": "512 GB (Actual) 256 GB (Apple)",
+            "Supported RAM": "2666 MHz DDR4 ECC DIMM (Non-user accessible)"
+          },
+          "Graphics": {
+            "Graphics Chip": "AMD Radeon Pro Vega 56, Vega 64 or Vega 64X",
+            "Graphics Memory": "8 GB (Vega 56), or 16 GB (Vega 64, Vega 64X) HBM2"
+          },
+          "Display": {
+            "Display Type": "27-inch Retina 5K Display with IPS Technology",
+            "Aspect Ratio": "16:9",
+            "Native Resolution": "5120 x 2880"
+          }
+    }
+  }
