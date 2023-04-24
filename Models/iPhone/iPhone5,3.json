@@ -1,0 +1,43 @@
+{
+    "Name": "iPhone 5c (GSM and CDMA)",
+    "Type": "iPhone",
+    "image": "iphone_5.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2013 (16, 32), Mar 2014 (8)",
+            "Discontinued": "Sep 2014 (16, 32), Sep 2015 (8)",
+            "Model Identifier": "iPhone5,3"
+        },
+        "Processor": {
+            "Processor Name": "Apple A6",
+            "Processor Speed": "1.3 GHz",
+            "Number of Cores": "2"
+        },
+        "Software": {
+            "Original OS": "iOS 7.0",
+            "Maximum OS": "iOS 10.3.3"
+        },
+        "Memory": {
+            "Built-in Memory": "1 GB LPDDR2"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR SGX543MP3",
+            "Graphics Cores": "3"
+        },
+        "Display": {
+            "Display Type": "Retina LED-backlit LCD IPS Display",
+            "Display Size": "4-inch widescreen",
+            "Display Resolution": "1136 by 640 pixels"
+        },
+        "Storage": {
+            "Capacity": "16, 32 or 64 GB"
+        },
+        "Camera": {
+            "Rear Camera": "1 - 8 MP",
+            "Front Camera": "1 - 1.2 MP"
+        },
+        "Battery": {
+            "Capacity": "1510 mAh"
+        }
+    }
+}

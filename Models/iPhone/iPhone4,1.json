@@ -1,0 +1,36 @@
+{
+    "Name": "iPhone 4s",
+    "Type": "iPhone",
+    "image": "iphone_4.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Oct 2011 (16, 32, 64) <br> Sep 2013 (8)",
+            "Discontinued": "Sep 2012 (32, 64) Sep 2013 (16), Sep 2014 (8)",
+            "Model Identifier": "iPhone4,1"
+        },
+        "Processor": {
+            "Processor Name": "Apple A5",
+            "Processor Speed": "1 GHz (running at 800 MHz)",
+            "Number of Cores": "2"
+        },
+        "Software": {
+            "Original OS": "iOS 5.0",
+            "Maximum OS": "iOS 9.3.6"
+        },
+        "Memory": {
+            "Built-in Memory": "512 MB LPDDR2"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR SGX543MP2",
+            "Graphics Cores": "2"
+        },
+        "Display": {
+            "Display Type": "Retina LED-backlit LCD IPS Display",
+            "Display Size": "3.5-inch widescreen",
+            "Display Resolution": "960 by 640 pixels"
+        },
+        "Storage": {
+            "Capacity": "8, 16, 32, 64 GB"
+        }
+    }
+}

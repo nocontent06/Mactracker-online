@@ -1,0 +1,31 @@
+{
+    "Name": "Mac Mini (Late 2012)", 
+    "Type": "Mac Mini",
+    "image": "Macmini6,1 or 6,2.png",
+    "Info":{
+          "Overview": {
+              "Introduced": "October 2012",
+              "Discontinued": "October 2014",
+              "Model Identifier": "Macmini6,1"
+          } ,
+          "Processor": {
+            "Processor Name": "Intel Core i5 (3210M) ('Ivy Bridge')",
+            "Processor Speed": "2.5 GHz",
+            "Number of Cores": "2"
+          },
+          "Software": {
+            "Original OS": "Mac OS X 10.8.1 (Mountain Lion)",
+            "Later OS": "Mac OS X 10.8.2/3 (Mountain Lion) or 10.9(.2) (Mavericks)",
+            "Maximum OS": "Mac OS X 10.15.7 (Catalina)"
+          },
+          "Memory": {
+            "Maximum Memory": "16 GB",
+            "Supported RAM":  "1600 MHz DDR3 SO-DIMM"
+          },
+          "Graphics": {
+            "Graphics Chip": "Intel HD Graphics 4000",
+            "Graphics Memory": "up to 1 GB (shared)"
+          }
+    }
+  
+  }

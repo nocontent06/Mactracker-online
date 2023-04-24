@@ -1,0 +1,36 @@
+{
+    "Name": "iPhone 3GS",
+    "Type": "iPhone",
+    "image": "iphone_3gs.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jun 2009 (16, 32) Jun 2010 (8)",
+            "Discontinued": "Jun 2010 (16, 32) Sep (8)",
+            "Model Identifier": "iPhone2,1"
+        },
+        "Processor": {
+            "Processor Name": "Samsung ARM Cortex-A8",
+            "Processor Speed": "833 MHz (running at 600 MHz)",
+            "Number of Cores": "1"
+        },
+        "Software": {
+            "Original OS": "iOS 3.0",
+            "Maximum OS": "iOS 6.1.6"
+        },
+        "Memory": {
+            "Built-in Memory": "256 MB LPDDR"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR SGX535",
+            "Graphics Cores": "1"
+        },
+        "Display": {
+            "Display Type": "LCD Display",
+            "Display Size": "3.5-inch widescreen",
+            "Display Resolution": "320 by 480"
+        },
+        "Storage": {
+            "Capacity": "8, 16 or 32 GB"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Name": "Mac Mini (M1, 2020)", 
+    "Type": "Mac Mini",
+    "image": "Macmini9,1.png",
+    "Info":{
+          "Overview": {
+              "Introduced": "November 2020",
+              "Discontinued": "Present",
+              "Model Identifier": "Macmini9,1"
+          } ,
+          "Processor": {
+            "Processor Name": "Apple M1 ('APL1102')",
+            "Processor Speed": "3.2 GHz (high-performance) or 2.1 GHz (high-efficiency)",
+            "Number of Cores": "8 (high-performance) or 4 (high-efficiency)"
+          },
+          "Software": {
+            "Original OS": "macOS 11.0 (Big Sur)",
+            "Later OS": "none",
+            "Maximum OS": "Latest Release of macOS (Ventura)"
+          },
+          "Memory": {
+            "Maximum Memory": "16 GB",
+            "Supported RAM": "not expandable (LPDDR4X)"
+          },
+          "Graphics": {
+            "Graphics Chip": "Apple G13G",
+            "Graphics Memory": "Shared through UMA (Unified Memory Architecture)"
+          }
+    }
+  
+  }

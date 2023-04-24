@@ -1,0 +1,34 @@
+{
+    "Name": "MacBook <br> (13-inch, Late 2006)",
+    "Type": "MacBook",
+    "image": "macbook_white.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Nov 2006",
+            "Discontinued": "May 2007",
+            "Model Identifier": "MacBook2,1 (2006)"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core 2 Duo (T5600, T7200) ('Merom')",
+            "Processor Speed": "1.83 GHz, 2.0 GHz",
+            "Number of Cores": "2"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.4.8 (Tiger)",
+            "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+        },
+        "Memory": {
+            "Maximum Memory": "3 GB (Actual) 2 GB (Apple)",
+            "Supported RAM": "667 MHz DDR2 SO-DIMM"
+        },
+        "Graphics": {
+            "Graphics Chip": "Intel GMA 950",
+            "Graphics Memory": "64 MB (shared)"
+        },
+        "Display": {
+            "Display Type": "13.3-inch (diagonal) glossy widescreen",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "1280 x 800"
+        }
+    }
+}

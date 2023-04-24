@@ -1,0 +1,31 @@
+{
+    "Name": "Mac Mini (Mid 2011)", 
+    "Type": "Mac Mini",
+    "image": "Macmini5,1 or 5,2.png",
+    "Info":{
+          "Overview": {
+              "Introduced": "July 2011",
+              "Discontinued": "October 2012",
+              "Model Identifier": "Macmini5,2"
+          } ,
+          "Processor": {
+            "Processor Name": "Intel Core i5 or i7 (2520M, 2620M) ('Sandy Bridge')",
+            "Processor Speed": "2.5, or 2.7 GHz",
+            "Number of Cores": "2"
+          },
+          "Software": {
+            "Original OS": "Mac OS X 10.7 (Lion)",
+            "Later OS": "Mac OS X 10.7.2/3 (Lion) or 10.8 (Mountain Lion)",
+            "Maximum OS": "Mac OS X 10.13.6 (High Sierra)"
+          },
+          "Memory": {
+            "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+            "Supported RAM": "1067/1333/1600 MHz DDR3 SO-DIMM"
+          },
+          "Graphics": {
+            "Graphics Chip": "Intel HD Graphics 3000 or AMD Radeon HD 6630M",
+            "Graphics Memory": "from 288 MB (HD 3000) (shared) or 256 MB (HD 6630M)"
+          }
+    }
+  
+  }

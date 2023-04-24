@@ -1,0 +1,36 @@
+{
+    "Name": "iPhone 4 (CDMA)",
+    "Type": "iPhone",
+    "image": "iphone_4.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jan 2011 (16, 32 Black) <br> Apr 2011 (16, 32 White) <br> Oct 2011 (8)",
+            "Discontinued": "Oct 2011 (16, 32) Sep 2013 (8)",
+            "Model Identifier": "iPhone3,3"
+        },
+        "Processor": {
+            "Processor Name": "Apple A4",
+            "Processor Speed": "1 GHz (running at 800 MHz)",
+            "Number of Cores": "1"
+        },
+        "Software": {
+            "Original OS": "iOS 4.2.5",
+            "Maximum OS": "iOS 7.1.2"
+        },
+        "Memory": {
+            "Built-in Memory": "512 MB LPDDR"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR SGX535",
+            "Graphics Cores": "1"
+        },
+        "Display": {
+            "Display Type": "Retina LED-backlit LCD IPS Display",
+            "Display Size": "3.5-inch widescreen",
+            "Display Resolution": "960 by 640 pixels"
+        },
+        "Storage": {
+            "Capacity": "8, 16 or 32 GB"
+        }
+    }
+}

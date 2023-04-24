@@ -1,0 +1,34 @@
+{
+    "Name": "MacBook Air <br> (M2, 2022)",
+    "Type": "MacBook Air",
+    "image": "macbook_air_m2_2022.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jul 2022",
+            "Discontinued": "--",
+            "Model Identifier": "Mac14,2"
+        },
+        "Processor": {
+            "Processor Name": "Apple M2 (APL1109)",
+            "Processor Speed": "3.5 GHz (high-performance), 2.4 GHz (high-efficiency)",
+            "Number of Cores": "8 (4 high-performance, 4 high-efficiency)"
+        },
+        "Software": {
+            "Original OS": "macOS 12.4 (Monterey)",
+            "Maximum OS": "Latest release of macOS (Ventura)"
+        },
+        "Memory": {
+            "Maximum Memory": "24 GB",
+            "Supported RAM": "6400 MT/s LPDDR5"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
+        },
+        "Display": {
+            "Display Type": "13.6-inch LED-backlit display with IPS technology",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "2560 x 1664"
+        }
+    }
+}

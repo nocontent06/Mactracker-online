@@ -1,0 +1,32 @@
+{
+  "Name": "Mac Mini (Early 2009)",
+  "Type": "Mac Mini",
+  "image": "Macmini3,1.png",
+  "Info":
+  {
+        "Overview": {
+            "Introduced": "March 2009",
+            "Discontinued": "October 2009",
+            "Model Identifier": "Macmini3,1"
+        },
+        "Processor": {
+          "Processor Name": "Intel Core 2 Duo (P7350, P8400) ('Penryn')",
+          "Processor Speed": "2.0 or 2.26 GHz",
+          "Number of Cores": "2"
+        },
+        "Software": {
+          "Original OS": "Mac OS X 10.5.6 (Leopard)",
+          "Later OS": "none",
+          "Maximum OS": "Mac OS X 10.11.6 (El Capitan)"
+        },
+        "Memory": {
+          "Maximum Memory": "8 GB (Actual) 4 GB (Apple)",
+          "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+        },
+        "Graphics": {
+          "Graphics Chip": "NVIDIA GeForce 9400M",
+          "Graphics Memory": "up to 256 MB"
+        }
+  }
+  
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "iPhone 4 (GSM)",
+    "Type": "iPhone",
+    "image": "iphone_4.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jun 2010 (16, 32 Black) <br> Apr 2011 (16, 32 White)",
+            "Discontinued": "Oct 2011 (16, 32)",
+            "Model Identifier": "iPhone3,1"
+        },
+        "Processor": {
+            "Processor Name": "Apple A4",
+            "Processor Speed": "1 GHz (running at 800 MHz)",
+            "Number of Cores": "1"
+        },
+        "Software": {
+            "Original OS": "iOS 4.0",
+            "Maximum OS": "iOS 7.1.2"
+        },
+        "Memory": {
+            "Built-in Memory": "512 MB LPDDR"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR SGX535",
+            "Graphics Cores": "1"
+        },
+        "Display": {
+            "Display Type": "Retina LED-backlit LCD IPS Display",
+            "Display Size": "3.5-inch widescreen",
+            "Display Resolution": "960 by 640 pixels"
+        },
+        "Storage": {
+            "Capacity": "16 or 32 GB"
+        }
+    }
+}

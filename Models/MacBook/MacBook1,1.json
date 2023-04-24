@@ -1,0 +1,34 @@
+{
+    "Name": "MacBook (13-inch)",
+    "Type": "MacBook",
+    "image": "macbook_white.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "May 2006",
+            "Discontinued": "Nov 2006",
+            "Model Identifier": "MacBook1,1"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core Duo (T2400, T2500) ('Yonah')",
+            "Processor Speed": "1.83 GHz, 2.0 GHz",
+            "Number of Cores": "2"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.4.6 (Tiger)",
+            "Maximum OS": "Mac OS X 10.6.8 (Snow Leopard)"
+        },
+        "Memory": {
+            "Maximum Memory": "2 GB",
+            "Supported RAM": "667 MHz DDR2 SO-DIMM"
+        },
+        "Graphics": {
+            "Graphics Chip": "Intel GMA 950",
+            "Graphics Memory": "64 MB DDR2 (shared)"
+        },
+        "Display": {
+            "Display Type": "13.3-inch glossy widescreen",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "1280 x 800"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "iPhone",
+    "Type": "iPhone",
+    "image": "iphone_3g.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jan 2007",
+            "Discontinued": "Sep 2007 (4 GB) Jun (8 & 16 GB)",
+            "Model Identifier": "iPhone1,1"
+        },
+        "Processor": {
+            "Processor Name": "Samsung ARM 1176JZ(F)-S",
+            "Processor Speed": "620 MHz (running at 412 MHz)",
+            "Number of Cores": "1"
+        },
+        "Software": {
+            "Original OS": "iOS 1.0",
+            "Maximum OS": "iOS 3.1.3"
+        },
+        "Memory": {
+            "Built-in Memory": "128 MB LPDDR"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR MBX Lite",
+            "Graphics Cores": "1"
+        },
+        "Display": {
+            "Display Type": "LCD Display",
+            "Display Size": "3.5-inch widescreen",
+            "Display Resolution": "320 by 480"
+        },
+        "Storage": {
+            "Capacity": "4, 8, or 16 GB"
+        }
+    }
+}
