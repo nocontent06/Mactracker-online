@@ -1,0 +1,29 @@
+[
+    {
+        "name": "iPhone 12 Pro",
+        "year": 2020,
+        "storage": "128GB",
+        "color": "Gold"
+    }, {
+        "name": "iPhone 11 Pro",
+        "year": 2019,
+        "storage": "64GB",
+        "color": "Midnight Green"
+    }, {
+        "name": "iPhone SE (2020)",
+        "year": 2020,
+        "storage": "128GB",
+        "color": "Black"
+    }, {
+        "name": "iPhone XR",
+        "year": 2018,
+        "storage": "64GB",
+        "color": "White"
+    }, {
+        "name": "iPhone 8",
+        "year": 2017,
+        "storage": "256GB",
+        "color": "Space Gray"
+    }
+]
+  

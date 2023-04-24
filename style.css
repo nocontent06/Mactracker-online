@@ -1,0 +1,307 @@
+body {
+    background-color: rgb(17, 24, 39);
+    color: lightgray;
+    font-family: 'Poppins', sans-serif;
+    transition: all 0.3s;
+}
+form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.form-group {
+    display: flex;
+}
+
+#search-button {
+    margin-left: auto;
+}
+
+#search-results div {
+    border-radius: 10px;
+    background-color: rgb(75, 85, 99);
+    padding: 0 0 1em 0;
+    color: white;
+}
+
+#search-results div::before {
+    content: "";
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 50%;
+}
+
+#search-input {
+    background-color: rgb(31, 41, 55);
+    color: lightgray;
+    margin-right: 1em;
+}
+
+#search-results {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.result {
+    margin: 1%;
+    align-items: center;
+    justify-content: center;
+    min-width: 200px;
+    /*! flex-basis: 10%; */
+}
+
+.result:hover {
+    cursor: pointer;
+    transform: scale(1.1); 
+    border-radius: 10px;
+}
+/* @media only screen and (max-width: 600px) {
+    .result {
+        flex-basis: 100%;
+    }
+}
+@media only screen and (min-width: 900px) {
+    .result {
+        flex-basis: 45%;
+    }
+} */
+
+.result img {
+    display: block;
+    width: 7.5em;
+    margin: 2em 4em;
+}
+
+
+
+.result__text {
+    flex: 1;
+    text-align: center;
+    /*! padding: 0 10em; */
+}
+
+#heading {
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 20px;
+    color: lightgray;
+    font-weight: bold;
+}
+
+.heading {
+    text-align: center;
+    color: lightgray;
+}
+
+#search-results-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#search-results {
+    flex-basis: 100%; /* adjust as needed */
+}
+
+/* Add this to your CSS file */
+
+/* Parent container for the filter options */
+
+.res_name {
+
+    font-weight: bold;
+    font-size: 1.2em;
+
+}
+
+.mid_text_result {
+    font-weight: bold;
+    font-size: 1.1em;
+    
+}
+
+#filter-section {
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+.filter-options {
+    display: block;
+}
+
+.detailed_heading {
+    text-align: center;
+    color: lightgray;
+    font-size: 2.5em;
+}
+
+.item-container {
+    
+    margin-left: .5%;
+    background-color: rgb(75, 85, 99);
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    width: 33%;
+    margin-bottom: 2%;
+    margin: 2%;
+    align-items: center;
+    justify-content: center;
+    min-width: 200px;
+    flex-basis: 25%;
+}
+
+
+#detailed-view-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#detailedView {
+    /* display: flex; */
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item_heading {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+@media screen and (min-width: 1350px) {
+    .item-container {
+        flex-basis: 100%;
+    }
+}
+
+@media screen and (min-width: 1350px) {
+    .item-container {
+        flex-basis: 40%;
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1350px) {
+    .item-container {
+        flex-basis: 40%;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    .item-container {
+        flex-basis: 70%;
+    }
+}
+    
+#result-image-MacPro71 {
+    max-height: 225px;
+}
+
+#mid_text_MacPro71 {
+    margin-top: 0px
+}
+
+.fontawesome-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 1.5em;
+    margin-right: 5px;
+    float: left;
+    margin-left: 5%;
+    translate: 0 -50px;
+    text-align: center;
+    background-color: gray;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+#search-results-heading{
+    padding: .8em 0 .8em 0;
+}
+
+.img-detail{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.deviceHover:link{
+    color: #fff;
+    text-decoration: none;
+}
+
+.deviceHover:hover{
+    color: #000;
+    text-decoration: underline;
+    font-size: larger;
+    font-weight: bolder;
+    
+}
+
+.deviceHover:visited{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.linkNotFound:link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.linkNotFound:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+.linkNotFound:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.wrapper .autocom-box {
+    padding: 0;
+    max-height: 280px;
+    overflow-y: scroll;
+}
+
+.autocom-box li {
+    list-style: none;
+    padding: 8px 12px;
+    width: 100%;
+    cursor: default;
+    border-radius: 3px;
+}
+
+.autocom-box li:hover {
+    background: darkblue;
+}
+
+body::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgb(17, 24, 39);    /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: rgb(17, 24, 39);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 2px solid black;  /* creates padding around scroll thumb */
+  }

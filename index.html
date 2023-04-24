@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Search Box with Filters</title>
+        <script src="data.json"></script>
+        <link
+            rel="stylesheet"
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+            integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+            crossorigin="anonymous">
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+            integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+            crossorigin="anonymous">
+
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <form id="search-form">
+            <h1 id="heading" class="heading">Mactracker Online</h1>
+            <div class="wrapper">
+                <div class="form-group">
+                    <a href="#" hidden></a>
+                    <input type="text" class="form-control" id="search-input" placeholder="Search for Name or Model Identifier...">
+                    <button type="submit" class="btn btn-primary" id="search-button">Search</button>
+                </div>
+                <div class="autocom-box"></div>
+            </div>
+        </form>
+
+        <script src="suggestions.js"></script>
+        <script src="index.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/all.min.js"></script>
+    </body>
+</html>
