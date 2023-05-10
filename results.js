@@ -7,16 +7,18 @@ function log(message) {
 const params = new URLSearchParams(window.location.search);
 // const dataString = params.get("data");
 let search = params.get("search");
-// console.log("Data String: " + dataString); console.log("Filtered Data: " +
-// filteredData);
+
+// convert search into a RegExp String
+search = search.replace(" ", ".*")
+let pattern = new RegExp(`.*${search}.*`)
 
 let searchResults_heading = document.createElement("h1");
 searchResults_heading.id = "search-results-heading";
-searchResults_heading.innerText = "Search Results for " + search;
+searchResults_heading.innerText = "Search Results for " + search.replace(".*", " ");
 searchResultsContainer = document.getElementById("search-results-container");
 
 let title = document.getElementById("title");
-title.innerText = "Search Results for " + search;
+title.innerText = "Search Results for " + search.replace(".*", " ");
 
 // Use the data to populate the search results container
 const searchResults = document.getElementById("search-results");
@@ -27,10 +29,6 @@ const filtData = [];
 
 const words = search.split(" ");
 const year = words.find(word => /\d{4}/.test(word));
-let device = words
-    .filter(word => !/\d{4}/.test(word))
-    .join(" ");
-log("device: " + device);
 let screenSize = words.find(word => /-inch/.test(word));
 
 const filesMacMini = [
@@ -213,48 +211,17 @@ const processData = async () => {
     ]);
     log("Data: " + data.length + " files")
 
-    const regexYear = new RegExp("(?=.*\\b\\d{4}\\b)"); // get the year (ANY 4 digits)
-    const regexMB = new RegExp("MacBook(?!\\s+(Pro|Air))", "i");
-    const regexMBP = new RegExp("(?=.*MacBook Pro)", "i"); // "i" for case insensitive
-    const regexMBA = new RegExp("(?=.*MacBook Air)", "i");
-    const regexMM = new RegExp("(?=.*Mac Mini)", "i");
-    const regexMP = new RegExp("(?=.*Mac Pro)", "i");
-    const regexIM = new RegExp("(?=.*iMac)", "i");
-    const regexMS = new RegExp("(?=.*Mac Studio)", "i");
-    const regexIOS = new RegExp("(?=.*iOS)", "i");
-    const regexIP = new RegExp("(?=.*iPhone)", "i");
+    // check if device.Name includes RexExp (use result as variable)
 
-    for (let device of data) {
-        if (regexMB.test(search)) {
-            if (regexYear.test(device.Name) && regexMB.test(device.Name)) {
-                filtData.push(device);
-            } else if (regexMBP.test(device.Name) && regexMBP.test(search)) {
-                filtData.push(device);
-            } else if (regexMBA.test(device.Name) && regexMBA.test(search)) {
-                filtData.push(device);
-            } else {
-                filtData.push(device);
-            }
-                
-        } else if (regexMBP.test(device.Name) && regexMBP.test(search)) {
-            filtData.push(device);
-        } else if (regexMBA.test(device.Name) && regexMBA.test(search)) {
-            filtData.push(device);
-        } else if (regexMM.test(device.Name) && regexMM.test(search)) {
-            filtData.push(device);
-        } else if (regexMP.test(device.Name) && regexMP.test(search)) {
-            filtData.push(device);
-        } else if (regexIM.test(device.Name) && regexIM.test(search)) {
-            filtData.push(device);
-        } else if (regexMS.test(device.Name) && regexMS.test(search)) {
-            filtData.push(device);
-        } else if (regexIOS.test(device.Name) && regexIOS.test(search)) {
-            filtData.push(device);
-        } else if (regexIP.test(device.Name) && regexIP.test(search)) {
-            filtData.push(device);
+    // if result is true, push to filtData
+
+    let result = data.filter(device => {
+        let name = device.Name
+
+        if (pattern.test(name)) {
+            filtData.push(device)
         }
-    }
-    
+    })
     
 
       
