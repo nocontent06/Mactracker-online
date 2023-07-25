@@ -353,10 +353,8 @@ const processData = async () => {
             // Create image element
             let image = document.createElement("img");
             image.src = `img\\${item.image}`;
-            image.id = `result-image-${item
-                .Info
-                .Overview["Model Identifier"]
-                .replace(",", "")}`;
+            image.id = `result-image-${item.Info.Overview["Model Identifier"].replace(",", "")}`;
+            image.classList.add("result_img");
             result.prepend(image);
 
             const text = document.createElement("div");

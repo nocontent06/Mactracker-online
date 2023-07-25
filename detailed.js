@@ -10,9 +10,9 @@ fetch(`Models/${modelType}/${modelIdentifier}.json`).then(response => response.j
         const detailed_heading = document.createElement("h1");
         detailed_heading.innerHTML = data.Name;
         detailed_heading.classList.add("detailed_heading");
-        detailed_heading.style.textAlign = "center";
-        detailed_heading.style.fontSize = "2.5rem";
-        detailed_heading.style.fontWeight = "bold";
+        // detailed_heading.style.textAlign = "center";
+        // detailed_heading.style.fontSize = "2.5rem";
+        // detailed_heading.style.fontWeight = "bold";
         document.body.prepend(detailed_heading);
         
         // Create image element
