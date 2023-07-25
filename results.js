@@ -171,7 +171,9 @@ const filesMacBookPro = [
     "MacBookPro8,2L.json",
     "MacBookPro8,3L.json",
     "MacBookPro9,2.json",
-    "MacBookPro9,1.json"
+    "MacBookPro9,1.json",
+    "MacBookPro10,12012.json",
+    "MacBookPro17,1.json",
 ]
 
 const fetchJSON = async (url) => {

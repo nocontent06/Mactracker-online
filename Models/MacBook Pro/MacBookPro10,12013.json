@@ -1,22 +1,22 @@
 {
-    "Name": "MacBook Pro <br> (Retina, 15-inch, Mid 2012)",
+    "Name": "MacBook Pro <br> (Retina, 15-inch, Early 2013)",
     "Type": "MacBook Pro",
     "image": "macbook_pro_15_retina_2012-13.png",
     "Info": {
         "Overview": {
-            "Introduced": "Jun 2012",
-            "Discontinued": "Feb 2013",
-            "Model Identifier": "MacBookPro10,1 (2012)"
+            "Introduced": "Feb 2013",
+            "Discontinued": "Oct 2013",
+            "Model Identifier": "MacBookPro10,1 (2013)"
         },
         "Processor": {
-            "Processor Name": "Intel Core i7 (3615QM, 3720QM, 3820QM) ('Ivy Bridge')",
-            "Processor Speed": "2.3, 2.6, 2.7 GHz",
+            "Processor Name": "Intel Core i7 (3635QM, 3740QM, 3840QM) ('Ivy Bridge')",
+            "Processor Speed": "2.4, 2.7, 2.8 GHz",
             "Number of Cores": "4",
             "Number of Threads": "8"
         },
         "Software": {
-            "Original OS": "Mac OS X 10.7.4 (Lion)",
-            "Later OS": "OS X 10.8 (Mountain Lion)",
+            "Original OS": "OS X 10.8.2 (Mountain Lion)",
+            "Later OS": "OS X 10.8.3 (Mountain Lion)",
             "Maximum OS": "macOS 10.15.7 (Catalina)"
         },
         "Memory": {

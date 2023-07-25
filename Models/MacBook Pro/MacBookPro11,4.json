@@ -1,0 +1,36 @@
+{
+    "Name": "MacBook Pro <br> (Retina, 15-inch, Mid 2015)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_15_retina_2013-15.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "May 2015",
+            "Discontinued": "Jul 2018",
+            "Model Identifier": "MacBookPro11,4"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core i7 (4770HQ) ('Haswell')",
+            "Processor Speed": "2.2 GHz",
+            "Number of Cores": "4",
+            "Number of Threads": "8"
+        },
+        "Software": {
+            "Original OS": "OS X 10.10.3 (Yosemite)",
+            "Later OS": "OS X 10.11 (.1/2) (El Capitan)",
+            "Maximum OS": "Latest release of macOS 12 (Monterey)"
+        },
+        "Memory": {
+            "Maximum Memory": "16 GB",
+            "Supported RAM": "1600 MHz DDR3L on-board Memory"
+        },
+        "Graphics": {
+            "Graphics Chip": "Intel Iris Pro 5200",
+            "Graphics Memory": "Up to 1.5 GB DDR3 (shared)"
+        },
+        "Display": {
+            "Display Type": "15.4-inch LED-backlit display with IPS technology",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "2880 x 1800"
+        }
+    }
+}
