@@ -1,21 +1,21 @@
 {
-    "Name": "Mac Studio (2022) <br> (M1 Max)",
+    "Name": "Mac Studio (2022)",
     "Type": "Mac Studio",
     "image": "mac_studio_2022.png",
     "Info": {
         "Overview": {
             "Introduced": "March 2022",
-            "Discontinued": "Present",
+            "Discontinued": "Jun 2023",
             "Model Identifier": "Mac13,1"
         },
         "Processor": {
-            "Processor Name": "Apple M1 Max (APL1105)",
+            "Processor Name": "Apple M1 Max",
             "Processor Speed": "3.2 (high-performance), 2.1 GHz (high-efficiency)",
-            "Number of Cores": "10 (8 - high-performance, 2 - high-efficiency)"
+            "Number of Cores": "10 (8 high-performance, 2 high-efficiency)"
         },
         "Software": {
             "Original OS": "macOS 12.3 (Monterey)",
-            "Maximum OS": "Latest release of macOS (13 - Ventura)"
+            "Maximum OS": "Latest release of macOS (Ventura)"
         },
         "Memory": {
             "Maximum Memory": "64 GB",
@@ -23,7 +23,7 @@
         },
         "Graphics": {
             "Graphics Chip": "Apple G13X",
-            "Graphics Memory": "Shared with system through UMA"
+            "Graphics Cores": "24, 32"
         }
     }
 }

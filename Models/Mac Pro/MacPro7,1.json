@@ -1,11 +1,11 @@
 {
-    "Name": "Mac Pro 2019", 
+    "Name": "Mac Pro (2019)", 
     "Type": "Mac Pro",
     "image": "MacPro7,1.png",
     "Info":{
           "Overview": {
               "Introduced": "December 2019",
-              "Discontinued": "Present",
+              "Discontinued": "Jun 2023",
               "Model Identifier": "MacPro7,1"
           } ,
           "Processor": {
