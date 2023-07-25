@@ -67,7 +67,8 @@ const filesMacPro = [
     "MacPro2,1.json",
     "MacPro3,1.json", 
     "MacPro4,1.json",
-    "MacPro5,1.json",
+    "MacPro5,12010.json",
+    "MacPro5,12012.json",
     "MacPro6,1.json",
     "MacPro7,1.json",
 
@@ -288,11 +289,17 @@ const processData = async () => {
 
     data.filter(device => {
         let name = device.Name;
-    
+        console.log("name: " + name)
+        let mid = device.Info.Overview["Model Identifier"];
+        
         // Use the updated pattern to test the match
         if (pattern.test(name)) {
             filtData.push(device);
         }
+        // } else if (pattern.test(modelIdentifier)) {
+        //     filtData.push(device);
+        // }
+
     });
     
 
