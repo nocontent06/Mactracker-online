@@ -2,7 +2,6 @@
 const searchForm = document.querySelector("#search-form");
 const searchWrapper = document.querySelector(".form-group"); // div -> search form
 const searchInput = document.getElementById("search-input"); // search input
-const suggBox = document.querySelector(".autocom-box"); // suggestion box
 let inputBox = document.querySelector("input"); // input
 let linkTag = document.querySelector("a"); // link
 
@@ -20,21 +19,6 @@ inputBox.onkeyup = (e) => {
             linkTag.click();
         });
 
-        emptyArray = suggestions.filter((data)=>{
-            return data.toLocaleLowerCase().includes(userData.toLocaleLowerCase());
-        });
-
-        emptyArray = emptyArray.map((data)=>{
-            return data = `<li>${data}</li>`;
-        });
-
-        searchWrapper.classList.add("active"); //show autocomplete box
-        showSuggestions(emptyArray);
-        let allList = suggBox.querySelectorAll("li");
-        for (let i = 0; i < allList.length; i++) {
-            //adding onclick attribute in all li tag
-            allList[i].setAttribute("onclick", "select(this)");
-        }
     } else {
         searchInput.classList.remove("active"); //hide autocomplete box
     }
@@ -48,16 +32,10 @@ function select(element) {
         .remove("active");
 }
 
-function showSuggestions(list) {
-    let listData;
-    if (!list.length) {
-        userValue = searchInput.value;
-        listData = `<li>${userValue}</li>`;
-    } else {
-        listData = list.join('');
-    }
-    suggBox.innerHTML = listData;
-}
-
 searchInput.setAttribute("required", true)
 
+let footer_index = document.createElement("footer");
+footer_index.setAttribute("class", "footer");
+footer_index.innerText = returnString;
+
+searchForm.appendChild(footer_index);

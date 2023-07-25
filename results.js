@@ -1,16 +1,23 @@
+
 // function log
 function log(message) {
     console.log(message);
 }
+
 
 // Retrieve the search results data from the URL
 const params = new URLSearchParams(window.location.search);
 // const dataString = params.get("data");
 let search = params.get("search");
 
-// convert search into a RegExp String
-search = search.replace(" ", ".*")
-let pattern = new RegExp(`.*${search}.*`)
+// Clean the search query to avoid regex issues
+const cleanedSearch = search.replace(/<br>/gi, ' ').trim();
+
+// Escape special characters in the cleaned search query to avoid regex issues
+const escapedSearch = cleanedSearch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+// Update the pattern to handle parentheses
+let pattern = new RegExp(`.*${escapedSearch.replace(/\(/g, '\\(').replace(/\)/g, '\\)')}.*`, 'i');
 
 let searchResults_heading = document.createElement("h1");
 searchResults_heading.id = "search-results-heading";
@@ -30,6 +37,11 @@ const filtData = [];
 const words = search.split(" ");
 const year = words.find(word => /\d{4}/.test(word));
 let screenSize = words.find(word => /-inch/.test(word));
+
+log("Search: " + search)
+log("Year: " + year)
+log("Screen Size: " + screenSize)
+
 
 const filesMacMini = [
     "PowerMac10,1.json",
@@ -251,9 +263,11 @@ const fetchAllJSON = async (directory, device) => {
     }
     log(`Fetched ` + device.length + ` files from ` + directory)
 
+
 };
 
 const processData = async () => {
+
 
     await Promise.all([
         fetchAllJSON("Models/Mac Mini", filesMacMini),
@@ -272,13 +286,14 @@ const processData = async () => {
 
     // if result is true, push to filtData
 
-    let result = data.filter(device => {
-        let name = device.Name
-
+    data.filter(device => {
+        let name = device.Name;
+    
+        // Use the updated pattern to test the match
         if (pattern.test(name)) {
-            filtData.push(device)
+            filtData.push(device);
         }
-    })
+    });
     
 
       
@@ -319,12 +334,14 @@ const processData = async () => {
         location.href = `detailed.html?model=${model}&type=${filtData[0].Type}`;
 
     } else {
-        for (let item of filtData) {
+        for (let index = 0; index < filtData.length; index++) {
+            let item = filtData[index];
 
             const result = document.createElement("div");
-            result
-                .classList
-                .add("result");
+
+            result.classList.add("result");
+
+            
 
             // Create image element
             let image = document.createElement("img");
@@ -335,10 +352,6 @@ const processData = async () => {
                 .replace(",", "")}`;
             result.prepend(image);
 
-            // Create FA icon element let icon = document.createElement("i");
-            // icon.classList.add("fa-solid", "fa-star", "fontawesome-icon"); icon.id =
-            // `result-icon-${item.Info.Overview["Model Identifier"].replace(",", "")}`;
-            // result.appendChild(icon); Create text element
             const text = document.createElement("div");
             text
                 .classList
@@ -357,6 +370,8 @@ const processData = async () => {
             result.appendChild(text);
             searchResults.appendChild(result);
 
+
+
             // Add event listener to each result element
             let results = document.querySelectorAll(".result");
             for (let result of results) {
@@ -374,15 +389,20 @@ const processData = async () => {
                     location.href = `detailed.html?model=${modelIdentifier}&type=${item.Type}`;
                 });
             }
-
+            
+            
         }
+        let footer = document.createElement("footer");
+        footer.setAttribute("class", "footer");
+        footer.innerText = returnString;
+
+        searchResults.appendChild(footer);
+        
     }
-    document
-        .body
-        .insertBefore(searchResults_heading, searchResultsContainer)
-        .style
-        .textAlign = "center";
+    document.body.insertBefore(searchResults_heading, searchResultsContainer).style.textAlign = "center";
 };
+
+
 
 processData().catch((error) => {
     console.error(error);

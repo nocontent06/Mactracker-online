@@ -35,6 +35,13 @@ fetch(`Models/${modelType}/${modelIdentifier}.json`).then(response => response.j
                 </p>`;
             }
             detailedView.appendChild(item_container);
+
         }
+        let footer_detailed = document.createElement("footer");
+        footer_detailed.setAttribute("class", "footer");
+        footer_detailed.innerText = returnString;
+
+        document.body.appendChild(footer_detailed);
+        
         detailedViewContainer.appendChild(detailedView);
     });

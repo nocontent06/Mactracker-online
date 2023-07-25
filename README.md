@@ -12,5 +12,8 @@ Nah, jk. Under "Relases" you can find an executable app for Mac, and Windows
 2.) It has a better looking UI, is OpenSource, etc.
 
 ## So Wen ETA?
-In a few DAYS!!
+Now :) You can access it at https://mactracker.online
 
+## Some Pics?
+
+![Screenshot](/img/searchForM1.png)

@@ -3,6 +3,7 @@ body {
     color: lightgray;
     font-family: 'Poppins', sans-serif;
     transition: all 0.3s;
+    min-height: 100vh;
 }
 form {
     position: absolute;
@@ -305,3 +306,17 @@ body::-webkit-scrollbar {
     border-radius: 20px;       /* roundness of the scroll thumb */
     border: 2px solid black;  /* creates padding around scroll thumb */
   }
+
+/* Stick footer to bottom */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.footer {
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: gray;
+    margin-top: 1em;
+}
