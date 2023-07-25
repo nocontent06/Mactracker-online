@@ -289,11 +289,12 @@ const processData = async () => {
 
     data.filter(device => {
         let name = device.Name;
-        console.log("name: " + name)
         let mid = device.Info.Overview["Model Identifier"];
         
         // Use the updated pattern to test the match
         if (pattern.test(name)) {
+            filtData.push(device);
+        } else if (pattern.test(mid)) {
             filtData.push(device);
         }
         // } else if (pattern.test(modelIdentifier)) {
