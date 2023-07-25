@@ -1,7 +1,7 @@
 {
     "Name": "Mac Pro (2023)", 
     "Type": "Mac Pro",
-    "image": "MacPro_m2.png",
+    "image": "macpro_2019.png",
     "Info":{
           "Overview": {
               "Introduced": "Jun 2023",

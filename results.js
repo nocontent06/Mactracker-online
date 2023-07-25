@@ -45,13 +45,21 @@ const filesMacMini = [
     "Macmini6,2Server.json",
     "Macmini7,1.json",
     "Macmini8,1.json",
-    "Macmini9,1.json"
+    "Macmini9,1.json",
+
+    "Mac14,3.json",
+    "Mac14,12.json"
 ];
 const filesMacPro = [
-    "MacPro1,1.json", "MacPro2,1.json", "MacPro3,1.json", "MacPro4,1.json",
-    // "MacPro5,1.json",
+    "MacPro1,1.json", 
+    "MacPro2,1.json",
+    "MacPro3,1.json", 
+    "MacPro4,1.json",
+    "MacPro5,1.json",
     "MacPro6,1.json",
-    "MacPro7,1.json"
+    "MacPro7,1.json",
+
+    "Mac14,8.json"
 ];
 const filesiMac = [
     "PowerMac8,1.json",
@@ -98,7 +106,13 @@ const filesiMac = [
     "iMac21,2.json"
 ];
 
-const filesMacStudio = ["Mac13,1.json", "Mac13,2.json"]
+const filesMacStudio = [
+    "Mac13,1.json", 
+    "Mac13,2.json",
+
+    "Mac14,13.json",
+    "Mac14,14.json",
+]
 
 const filesiOS = ["iPhoneOS.json", "iPhoneOS2.json", "iPhoneOS3.json"]
 
@@ -142,7 +156,9 @@ const filesMacBookAir = [
     "MacBookAir8,2.json",
     "MacBookAir9,1.json",
     "MacBookAir10,1.json",
-    "Mac14,2.json"
+
+    "Mac14,2.json",
+    "Mac14,15.json"
 ]
 
 const filesMacBookPro = [
@@ -173,13 +189,52 @@ const filesMacBookPro = [
     "MacBookPro9,2.json",
     "MacBookPro9,1.json",
     "MacBookPro10,12012.json",
+    "MacBookPro10,12013.json",
+    "MacBookPro10,22012.json",
+    "MacBookPro10,22013.json",
+    "MacBookPro11,12013.json",
+    "MacBookPro11,12014.json",
+    "MacBookPro11,22013.json",
+    "MacBookPro11,22014.json",
+    "MacBookPro11,32013.json",
+    "MacBookPro11,32014.json",
+    "MacBookPro12,1.json",
+    "MacBookPro11,4.json",
+    "MacBookPro11,5.json",
+    "MacBookPro13,1.json",
+    "MacBookPro13,2.json",
+    "MacBookPro13,3.json",
+    "MacBookPro14,1.json",
+    "MacBookPro14,2.json",
+    "MacBookPro14,3.json",
+    "MacBookPro15,22018.json",
+    "MacBookPro15,12018.json",
+    "MacBookPro15,32018.json",
+    "MacBookPro15,22019.json",
+    "MacBookPro15,12019.json",
+    "MacBookPro15,32019.json",
+    "MacBookPro15,4.json",
+    "MacBookPro16,1.json",
+    "MacBookPro16,4.json",
+    "MacBookPro16,3.json",
+    "MacBookPro16,2.json",
     "MacBookPro17,1.json",
+    "MacBookPro18,3.json",
+    "MacBookPro18,4.json",
+    "MacBookPro18,1.json",
+    "MacBookPro18,2.json",
+
+    "Mac14,7.json",
+    "Mac14,9.json",
+    "Mac14,5.json",
+    "Mac14,10.json",
+    "Mac14,6.json",
 ]
 
 const fetchJSON = async (url) => {
-    const response = await fetch(url);
+    const response = await fetch(url)
     if (!response.ok) {
-        throw new Error(`Failed to fetch ${url}`);
+        throw new Error(`Failed to fetch ${url}`)
     }
     return await response.json();
 };
