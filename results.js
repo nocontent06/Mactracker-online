@@ -53,6 +53,7 @@ log("Year: " + year)
 log("Screen Size: " + screenSize)
 
 
+
 const filesMacMini = [
     "PowerMac10,1.json",
     "Macmini1,1.json",
@@ -277,6 +278,8 @@ const fetchAllJSON = async (directory, device) => {
 
 };
 
+
+
 const processData = async () => {
 
 
@@ -297,22 +300,51 @@ const processData = async () => {
 
     // if result is true, push to filtData
 
+
+
     data.filter(device => {
         let name = device.Name;
         let mid = device.Info.Overview["Model Identifier"];
+
+        function includesString(s1, s2) {
+        // Remove parentheses and spaces from both strings
+            const s1Cleaned = s1.replace(/\(|\)|\s/g, "");
+            const s2Cleaned = s2.replace(/\(|\)|\s/g, "");
+
+            // Check if s2Cleaned is a substring of s1Cleaned
+            return s1Cleaned.includes(s2Cleaned);
+        }
+        
+        function checkConcatenatedString(arr, targetString) {
+            const targetArray = targetString.split(" ");
+            targetArray.forEach((item, index) => {
+                if (item.includes('"')) {
+                    targetArray[index] = item.replace('"', "-inch");
+                }
+            });
+            console.log("Target Array: " + targetArray);
+            return targetArray.every(item => arr.includes(item));
+        }
+
+
+        // Test the function
+        const resultTest = includesString(name, search);
         
         // Use the updated pattern to test the match
         if (pattern.test(name)) {
             filtData.push(device);
         } else if (pattern.test(mid)) {
             filtData.push(device);
+        } else if (resultTest) {
+            filtData.push(device);
+        } else if (checkConcatenatedString(name, search)) {
+            filtData.push(device);
         }
-        // } else if (pattern.test(modelIdentifier)) {
-        //     filtData.push(device);
-        // }
-
     });
     
+    let footer = document.createElement("footer");
+    footer.setAttribute("class", "footer");
+    footer.innerText += returnString;
 
       
 
@@ -333,12 +365,25 @@ const processData = async () => {
         const requestMsg = document.createElement("p");
         requestMsg.innerHTML = "If you want to request a device, please contact me <br> \
             On Twitter: <a class='linkNotFound' href='https://twitter.com/@NoContent_06'> @NoContent_06 </a> <br> \
-            On Discord: <a class='linkNotFound' href='https://discord.com/invite'>AppleGuy#7469 </a> <br> \
-            On Reddit: u/ytnocontent06" 
+            On Discord: <a class='linkNotFound' href='https://discord.gg/hyTP8ynDAz'>AppleGuy#7469</a><br> \
+            On Reddit: <a class='linkNotFound' href='https://reddit.com/u/ytnocontent06'>u/ytnocontent06</a>" 
         requestMsg.style.textAlign = "center";
         requestMsg.style.fontWeight = "bold";
         requestMsg.style.fontSize = "1.5rem";
         notFoundMessage.appendChild(requestMsg);
+        
+        let notFoundFooter = document.createElement("footer");
+        notFoundFooter.setAttribute("class", "footer");
+        notFoundFooter.innerText += returnString;
+        notFoundFooter.style.position = "absolute";
+        notFoundFooter.style.bottom = "0";
+        notFoundFooter.style.width = "100%";
+        notFoundFooter.style.textAlign = "center";
+        notFoundFooter.style.fontSize = "1rem";
+        notFoundFooter.style.fontWeight = "normal";
+        notFoundFooter.style.color = "gray";
+        notFoundFooter.style.marginBottom = "5vh";
+        document.body.appendChild(notFoundFooter);
 
     } else if (filtData.length === 1) {
         // If only one result, redirect to device page
@@ -408,9 +453,7 @@ const processData = async () => {
             
             
         }
-        let footer = document.createElement("footer");
-        footer.setAttribute("class", "footer");
-        footer.innerText = returnString;
+
 
         searchResults.appendChild(footer);
         
