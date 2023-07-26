@@ -34,8 +34,6 @@ searchResults_heading.id = "search-results-heading";
 searchResults_heading.innerText = "Search Results for " + search.replace(".*", " ");
 searchResultsContainer = document.getElementById("search-results-container");
 
-let title = document.getElementById("title");
-title.innerText = "Search Results for " + search.replace(".*", " ");
 
 // Use the data to populate the search results container
 const searchResults = document.getElementById("search-results");
@@ -306,6 +304,9 @@ const processData = async () => {
         let name = device.Name;
         let mid = device.Info.Overview["Model Identifier"];
 
+        let title = document.getElementById("title");
+        title.innerText = "Search Results for " + search;
+
         function includesString(s1, s2) {
         // Remove parentheses and spaces from both strings
             const s1Cleaned = s1.replace(/\(|\)|\s/g, "");
@@ -314,7 +315,7 @@ const processData = async () => {
             // Check if s2Cleaned is a substring of s1Cleaned
             return s1Cleaned.includes(s2Cleaned);
         }
-        
+
         function checkConcatenatedString(arr, targetString) {
             const targetArray = targetString.split(" ");
             targetArray.forEach((item, index) => {

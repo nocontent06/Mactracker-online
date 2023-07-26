@@ -1,6 +1,10 @@
 const params = new URLSearchParams(window.location.search);
 const modelIdentifier = params.get("model");
 const modelType = params.get("type");
+
+// Add Model Name to the page title
+document.title = "Detailed View - " + modelIdentifier;
+
 fetch(`Models/${modelType}/${modelIdentifier}.json`).then(response => response.json())
     .then(data => {
         // Use the data to populate the detailed view container
