@@ -17,3 +17,4 @@ Now :) You can access it at https://mactracker.online
 ## Some Pics?
 
 ![Screenshot](/img/searchForM1.png)
+<img width="1762" alt="searchForMBP15" src="https://github.com/nocontent06/Mactracker-online/assets/93335632/73306e5b-274f-46cd-95cf-44028597bbfb">
