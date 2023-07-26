@@ -14,6 +14,13 @@ Nah, jk. Under "Relases" you can find an executable app for Mac, and Windows
 ## So Wen ETA?
 Now :) You can access it at https://mactracker.online
 
+## Data Source (Credits)
+
+Me, myself and i with all my Macs
+https://apple.com (Apple Inc.)
+https://everymac.com
+
+
 ## Some Pics?
 
 ![Screenshot](/img/searchForM1.png)
