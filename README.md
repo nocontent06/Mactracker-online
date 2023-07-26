@@ -8,17 +8,17 @@ Not my problem :)
 Nah, jk. Under "Relases" you can find an executable app for Mac, and Windows
 
 ## But what's the Difference between Ian Page's Mactracker and yours?
-1.) It's accessible on *every* OS with a Browser installed. Not just macOS and iOS.
-2.) It has a better looking UI, is OpenSource, etc.
+- 1.) It's accessible on *every* OS with a Browser installed. Not just macOS and iOS.
+- 2.) It has a better looking UI, is OpenSource, etc.
 
 ## So Wen ETA?
 Now :) You can access it at https://mactracker.online
 
 ## Data Source (Credits)
 
-Me, myself and i with all my Macs
-https://apple.com (Apple Inc.)
-https://everymac.com
+- Me, myself and i with all my Macs
+- https://apple.com (Apple Inc.)
+- https://everymac.com
 
 
 ## Some Pics?
