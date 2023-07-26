@@ -4,6 +4,16 @@ function log(message) {
     console.log(message);
 }
 
+// Function to hide the loading screen after 3 seconds
+function hideLoadingScreen() {
+    const loadingScreen = document.querySelector('.loading-screen');
+    loadingScreen.style.display = 'none';
+}
+  
+  // Wait for 3 seconds before hiding the loading screen
+setTimeout(hideLoadingScreen, 1500);
+
+
 
 // Retrieve the search results data from the URL
 const params = new URLSearchParams(window.location.search);

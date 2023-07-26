@@ -12,7 +12,6 @@ form {
     transform: translate(-50%, -50%);
 }
 
-
 .form-group {
     display: flex;
 }
@@ -24,7 +23,7 @@ form {
 #search-results div {
     border-radius: 10px;
     background-color: rgb(75, 85, 99);
-    padding: 0 0 1em 0;
+    padding: 0 0 1em;
     color: white;
 }
 
@@ -62,18 +61,15 @@ form {
 
 .result:hover {
     cursor: pointer;
-    transform: scale(1.1); 
+    transform: scale(1.1);
     border-radius: 10px;
 }
-
 
 .result img {
     display: block;
     width: 7.5em;
-    margin: 4em 4em;
+    margin: 4em;
 }
-
-
 
 .result__text {
     flex: 1;
@@ -113,7 +109,8 @@ form {
 }
 
 #search-results {
-    flex-basis: 100%; /* adjust as needed */
+    flex-basis: 100%;
+    /* adjust as needed */
 }
 
 /* Add this to your CSS file */
@@ -130,7 +127,7 @@ form {
 .mid_text_result {
     font-weight: bold;
     font-size: 1.1em;
-    
+
 }
 
 #filter-section {
@@ -150,21 +147,19 @@ form {
 }
 
 .item-container {
-    
-    margin-left: .5%;
+
+    margin-left: 0.5%;
     background-color: rgb(75, 85, 99);
     border-radius: 10px;
     padding: 10px;
     color: white;
     width: 33%;
-    margin-bottom: 2%;
     margin: 2%;
     align-items: center;
     justify-content: center;
     min-width: 200px;
     flex-basis: 25%;
 }
-
 
 #detailed-view-container {
     display: flex;
@@ -210,14 +205,12 @@ form {
     }
 }
 
-
-    
 #result-image-MacPro71 {
     max-height: 225px;
 }
 
 #mid_text_MacPro71 {
-    margin-top: 0px
+    margin-top: 0;
 }
 
 .fontawesome-icon {
@@ -236,34 +229,33 @@ form {
     border-radius: 50%;
 }
 
-#search-results-heading{
-    padding: .8em 0 .8em 0;
+#search-results-heading {
+    padding: 0.8em 0;
 }
 
-.img-detail{
+.img-detail {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-.deviceHover:link{
+.deviceHover:link {
     color: #fff;
     text-decoration: none;
 }
 
-.deviceHover:hover{
+.deviceHover:hover {
     color: #000;
     text-decoration: underline;
     font-size: larger;
     font-weight: bolder;
-    
+
 }
 
-.deviceHover:visited{
+.deviceHover:visited {
     color: #fff;
     text-decoration: none;
 }
-
 
 .linkNotFound:link {
     color: #fff;
@@ -279,7 +271,6 @@ form {
     color: #fff;
     text-decoration: none;
 }
-
 
 .wrapper .autocom-box {
     padding: 0;
@@ -300,18 +291,23 @@ form {
 }
 
 body::-webkit-scrollbar {
-    width: 12px;               /* width of the entire scrollbar */
-  }
-  
-  body::-webkit-scrollbar-track {
-    background: rgb(17, 24, 39);    /* color of the tracking area */
-  }
-  
-  body::-webkit-scrollbar-thumb {
-    background-color: rgb(17, 24, 39);    /* color of the scroll thumb */
-    border-radius: 20px;       /* roundness of the scroll thumb */
-    border: 2px solid black;  /* creates padding around scroll thumb */
-  }
+    width: 12px;
+    /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+    background: rgb(17, 24, 39);
+    /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: rgb(17, 24, 39);
+    /* color of the scroll thumb */
+    border-radius: 20px;
+    /* roundness of the scroll thumb */
+    border: 2px solid black;
+    /* creates padding around scroll thumb */
+}
 
 /* Stick footer to bottom */
 html {
@@ -338,7 +334,7 @@ html {
         flex-direction: column;
     }
     #search-input {
-        margin-right: 0px;
+        margin-right: 0;
         margin-bottom: 1em;
         width: 100%;
     }
@@ -359,8 +355,6 @@ html {
         text-align: center;
     }
 
-
-
 }
 
 @media screen and (min-width: 1024px) {
@@ -370,5 +364,34 @@ html {
 
     .detailed_heading {
         font-size: 2.5em;
+    }
+}
+
+.loading-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 9999;
+}
+
+.spinner {
+    border: 4px solid rgba(255, 255, 255, 0.3);
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
     }
 }
