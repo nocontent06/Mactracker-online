@@ -1,12 +1,12 @@
 {
     "Name": "iPhone 6 Plus",
     "Type": "iPhone",
-    "image": "iphone_6.png",
+    "image": "iphone_6_plus.png",
     "Info": {
         "Overview": {
             "Introduced": "Sep 2014",
             "Discontinued": "Sep 2016",
-            "Model Identifier": "iPhone7,2"
+            "Model Identifier": "iPhone7,1"
         },
         "Processor": {
             "Processor Name": "Apple A8",

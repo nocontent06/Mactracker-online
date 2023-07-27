@@ -19,7 +19,7 @@
           },
           "Memory": {
             "Maximum Memory": "64 GB (Actual) 32 GB (Apple)",
-            "Supported RAM": "2400/2666 MHz DDR4 SO-DIMM (Non-user accessible)"
+            "Supported RAM": "2400 (i3) 2666 (i5/i7) MHz DDR4 SO-DIMM (Non-user accessible)"
           },
           "Graphics": {
             "Graphics Chip": "AMD Radeon Pro 555X, 560X or Vega 20",

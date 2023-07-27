@@ -1,12 +1,12 @@
 {
-    "Name": "iMac (Retina 5K, 27-inch) <br> (2020)", 
+    "Name": "iMac (Retina 5K, 27-inch) <br> (2020) <br> (5700 / XT)", 
     "Type": "iMac", 
     "image": "imac_unibody_27.png",
     "Info": {
           "Overview": {
             "Introduced": "August 2020",
             "Discontinued": "March 2022",
-            "Model Identifier": "iMac20,1" 
+            "Model Identifier": "iMac20,2" 
           } ,
           "Processor": {
             "Processor Name": "Intel Core i5 (10500, 10600), Core i7 (10700K) or Core i9 (10910) ('Comet Lake')",
@@ -15,14 +15,14 @@
           },
           "Software": {
             "Original OS": "macOS 10.15.6 (Catalina)",
-            "Maximum OS": "Latest release of macOS (13 - Ventura)"
+            "Maximum OS": "Latest release of macOS (Ventura)"
           },
           "Memory": {
             "Maximum Memory": "128 GB",
             "Supported RAM": "2666 MHz DDR4 SO-DIMM"
           },
           "Graphics": {
-            "Graphics Chip": "AMD Radeon Pro 5700 or 5700 XT ",
+            "Graphics Chip": "AMD Radeon Pro 5700 or 5700 XT",
             "Graphics Memory": "8 GB (Radeon Pro 5700) or 16 GB (5700 XT) GDDR6"
           },
           "Display": {

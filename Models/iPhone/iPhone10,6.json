@@ -1,0 +1,44 @@
+{
+    "Name": "iPhone X (Global)",
+    "Type": "iPhone",
+    "image": "iphone_x.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Nov 2017",
+            "Discontinued": "Sep 2018",
+            "Model Identifier": "iPhone10,6"
+        },
+        "Processor": {
+            "Processor Name": "Apple A11 Bionic",
+            "Processor Speed": "2.4 GHz",
+            "Benchmark (SC / MC)": "921 / 2331",
+            "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+        },
+        "Software": {
+            "Original OS": "iOS 11.0.1",
+            "Maximum OS": "Latest release of iOS 16"
+        },
+        "Memory": {
+            "Built-in Memory": "3 GB LPDDR4X"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "Graphics Cores": "3"
+        },
+        "Display": {
+            "Display Type": "Super Retina HD OLED Display",
+            "Display Size": "5.8-inch widescreen",
+            "Display Resolution": "2436x1125"
+        },
+        "Storage": {
+            "Capacity": "64, 256 GB"
+        },
+        "Camera": {
+            "Rear Camera": "2 - 12 MP",
+            "Front Camera": "1 - 7 MP"
+        },
+        "Battery": {
+            "Capacity": "2716 mAh"
+        }
+    }
+}

@@ -1,5 +1,5 @@
 {
-    "Name": "iMac (Retina 5K, 27-inch) <br> (2020)", 
+    "Name": "iMac (Retina 5K, 27-inch) <br> (2020) <br> (5300, 5500 XT)", 
     "Type": "iMac", 
     "image": "imac_unibody_27.png",
     "Info": {
@@ -15,7 +15,7 @@
           },
           "Software": {
             "Original OS": "macOS 10.15.6 (Catalina)",
-            "Maximum OS": "Latest release of macOS (13 - Ventura)"
+            "Maximum OS": "Latest release of macOS (Ventura)"
           },
           "Memory": {
             "Maximum Memory": "128 GB",

@@ -4,7 +4,7 @@
     "image": "ios.png",
     "Info": {
         "Overview": {
-            "Introduced": "June 2009",
+            "Introduced": "Jun 2009",
             "Supported Devices": "<br> iPhone <br> iPhone 3G <br> iPhone 3GS <br> iPod Touch <br> iPod Touch (2nd Gen) <br> iPod Touch (3rd Gen) <br> iPad (Wi-Fi) <br> iPad (Wi-Fi + 3G)",
             "Model Identifier": "iPhoneOS 3"
         },

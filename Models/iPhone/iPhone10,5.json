@@ -1,0 +1,44 @@
+{
+    "Name": "iPhone 8 Plus (Global)",
+    "Type": "iPhone",
+    "image": "iphone_8_plus.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2017 (64, 256) <br> Sep 2019 (128)",
+            "Discontinued": "Sep 2019 (256) <br> Apr 2020 (64, 128)",
+            "Model Identifier": "iPhone10,5"
+        },
+        "Processor": {
+            "Processor Name": "Apple A11 Bionic",
+            "Processor Speed": "2.4 GHz",
+            "Benchmark (SC / MC)": "921 / 2331",
+            "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+        },
+        "Software": {
+            "Original OS": "iOS 11.0",
+            "Maximum OS": "Latest release of iOS 16"
+        },
+        "Memory": {
+            "Built-in Memory": "3 GB LPDDR4X"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "Graphics Cores": "3"
+        },
+        "Display": {
+            "Display Type": "Retina HD LED-backlit LCD IPS Display",
+            "Display Size": "5.5-inch widescreen",
+            "Display Resolution": "1920x1080"
+        },
+        "Storage": {
+            "Capacity": "64, 128 or 256 GB"
+        },
+        "Camera": {
+            "Rear Camera": "2 - 12 MP",
+            "Front Camera": "1 - 7 MP"
+        },
+        "Battery": {
+            "Capacity": "2691 mAh"
+        }
+    }
+}

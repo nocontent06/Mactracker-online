@@ -1,0 +1,15 @@
+{
+    "Name": "iOS 13",
+    "Type": "iOS",
+    "image": "ios13.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2019",
+            "Supported Devices": "<br>iPhone SE<br> iPhone SE (2nd Gen)<br> iPhone 6s<br> iPhone 6s Plus<br> iPhone 7<br> iPhone 7 Plus<br> iPhone 8<br> iPhone 8 Plus<br> iPhone X<br> iPhone XR<br> iPhone XS<br> iPhone XS Max<br> iPhone 11<br> iPhone 11 Pro<br> iPhone 11 Pro Max<br> iPod touch (7th Gen)",
+            "Model Identifier": "iOS 13"
+        },
+        "Versions": {
+            "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>13.0</td><td>Sep 19, 2019</td></tr><tr><td>13.1</td><td>Sep 24, 2019</td></tr><tr><td>13.1.1</td><td>Sep 27, 2019</td></tr><tr><td>13.1.2</td><td>Oct 1, 2019</td></tr><tr><td>13.1.3</td><td>Oct 15, 2019</td></tr><tr><td>13.2</td><td>Oct 28, 2019</td></tr><tr><td>13.2.1</td><td>Oct 30, 2019</td></tr><tr><td>13.2.2</td><td>Nov 7, 2019</td></tr><tr><td>13.2.3</td><td>Nov 18, 2019</td></tr><tr><td>13.3</td><td>Dec 10, 2019</td></tr><tr><td>13.3.1</td><td>Jan 28, 2020</td></tr><tr><td>13.4</td><td>Mar 24, 2020</td></tr><tr><td>13.4.1</td><td>Apr 7, 2020</td></tr><tr><td>13.5</td><td>May 20, 2020</td></tr><tr><td>13.5.1</td><td>Jun 1, 2020</td></tr><tr><td>13.6</td><td>Jul 15, 2020</td></tr><tr><td>13.6.1</td><td>Aug 12, 2020</td></tr><tr><td>13.7</td><td>Sep 1, 2020</td></tr></tbody></table>"
+        }
+    }
+}

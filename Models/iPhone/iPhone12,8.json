@@ -1,0 +1,44 @@
+{
+    "Name": "iPhone SE (2nd Gen)",
+    "Type": "iPhone",
+    "image": "iphone_se2.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Apr 2020",
+            "Discontinued": "Mar 2022",
+            "Model Identifier": "iPhone12,8"
+        },
+        "Processor": {
+            "Processor Name": "Apple A13 Bionic",
+            "Processor Speed": "2.6 GHz",
+            "Benchmark (SC / MC)": "1330 / 3134",
+            "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+        },
+        "Software": {
+            "Original OS": "iOS 13.4",
+            "Maximum OS": "Latest release of iOS"
+        },
+        "Memory": {
+            "Built-in Memory": "3 GB LPDDR4X"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "Graphics Cores": "4"
+        },
+        "Display": {
+            "Display Type": "Retina HD LED-backlit LCD IPS Display",
+            "Display Size": "4.7-inch widescreen",
+            "Display Resolution": "1334x750"
+        },
+        "Storage": {
+            "Capacity": "64, 128 or 256 GB"
+        },
+        "Camera": {
+            "Rear Camera": "1 - 12 MP",
+            "Front Camera": "1 - 7 MP"
+        },
+        "Battery": {
+            "Capacity": "1821 mAh"
+        }
+    }
+}
