@@ -5,6 +5,8 @@ const modelType = params.get("type");
 // Add Model Name to the page title
 document.title = "Detailed View - " + modelIdentifier;
 
+document.querySelector('meta[property="og:title"]').setAttribute("content", document.title);
+
 fetch(`Models/${modelType}/${modelIdentifier}.json`).then(response => response.json())
     .then(data => {
         // Use the data to populate the detailed view container

@@ -50,6 +50,21 @@ log("Search: " + search)
 log("Year: " + year)
 log("Screen Size: " + screenSize)
 
+let og_title_element = document.head.querySelector('meta[property="og:title"][content]');
+log("og:title element: " + og_title_element.outerHTML);
+
+let title = document.getElementById("title");
+title.innerText = "Search Results for " + search;
+
+// Get the og:title element
+if (og_title_element) {
+    // Extract the content attribute
+    let og_title = document.querySelector('meta[property="og:title"]').setAttribute("content", title.innerText);
+    // Now you can use the og_title variable as needed
+    console.log("OG Title: " + og_title);   
+} else {
+    console.log("og:title element not found or missing content attribute.");
+}
 
 
 const filesMacMini = [
@@ -367,14 +382,10 @@ const processData = async () => {
 
     // if result is true, push to filtData
 
-
-
     data.filter(device => {
         let name = device.Name;
         let mid = device.Info.Overview["Model Identifier"];
 
-        let title = document.getElementById("title");
-        title.innerText = "Search Results for " + search;
 
         function includesString(s1, s2) {
         // Remove parentheses and spaces from both strings
