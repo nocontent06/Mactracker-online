@@ -20,6 +20,10 @@ Now :) You can access it at https://mactracker.online
 - https://apple.com (Apple Inc.)
 - https://everymac.com
 
+## Some Links
+
+- [Discord Server](https://discord.gg/hyTP8ynDAz)
+- Discord Username: appleguy06 (Old: AppleGuy#7469)
 
 ## Some Pics?
 
