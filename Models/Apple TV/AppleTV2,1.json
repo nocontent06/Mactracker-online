@@ -1,0 +1,34 @@
+{
+    "Name": "Apple TV (2nd Gen)",
+    "Type": "Apple TV",
+    "image": "apple_tv2.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2010",
+            "Discontinued": "Mar 2012",
+            "Model Identifier": "AppleTV2,1"
+        },
+        "Processor": {
+            "Processor Name": "Apple A4",
+            "Processor Speed": "1 GHz",
+            "Number of Cores": "1"
+        },
+        "Memory": {
+            "Built-in Memory": "256 MB"
+        },
+        "Software": {
+            "Original OS": "iOS 4.1 (Apple TV 4.0)",
+            "Maximum OS": "iOS 7.1.2 (Apple TV 6.2.1)"
+        },
+        "Media": {
+            "Video Output": "720p"
+        },
+        "Storage": {
+          "Capacity": "8 GB"
+      },
+        "Graphics": {
+            "Graphics Chip": "PowerVR SGX535"
+        }
+    }
+
+}

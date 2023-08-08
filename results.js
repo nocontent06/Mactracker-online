@@ -461,6 +461,17 @@ const filesMacBookPro = [
     "Mac14,6.json",
 ]
 
+const filesAppleTV = [
+    "AppleTV1,1.json",
+    "AppleTV2,1.json",
+    "AppleTV3,1.json",
+    "AppleTV3,2.json",
+    "AppleTV5,3.json",
+    "AppleTV6,2.json",
+    "AppleTV11,1.json",
+    "AppleTV14,1.json",
+]
+
 const fetchJSON = async (url) => {
     const response = await fetch(url)
     if (!response.ok) {
@@ -500,7 +511,8 @@ const processData = async () => {
         fetchAllJSON("Models/iPod", filesiPod),
         fetchAllJSON("Models/MacBook", filesMacBook),
         fetchAllJSON("Models/MacBook Air", filesMacBookAir),
-        fetchAllJSON("Models/MacBook Pro", filesMacBookPro)
+        fetchAllJSON("Models/MacBook Pro", filesMacBookPro),
+        fetchAllJSON("Models/Apple TV", filesAppleTV),
     ]);
     log("Data: " + data.length + " files")
 
