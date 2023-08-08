@@ -1,0 +1,36 @@
+{
+    "Name": "iPad 2 (WiFi + 3G GSM)",
+    "Type": "iPad",
+    "image": "iPad2.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Mar 2011",
+            "Discontinued": "Mar 2012 (32, 64) Mar 2014 (16)",
+            "Model Identifier": "iPad2,2"
+        },
+        "Processor": {
+            "Processor Name": "Apple A5",
+            "Processor Speed": "1 GHz",
+            "Number of Cores": "2",
+            "Architecture": "32-bit"
+        },
+        "Software": {
+            "Original OS": "iOS 4.3",
+            "Maximum OS": "iOS 9.3.5"
+        },
+        "Memory": {
+            "Built-in Memory": "512 MB LPDDR2"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR SGX543MP2",
+            "Graphics Cores": "2"
+        },
+        "Display": {
+            "Display Size": "9.7-inch widescreen",
+            "Display Resolution": "1024 x 768"
+        },
+        "Storage": {
+            "Capacity": "16, 32, or 64 GB"
+        }
+    }
+}

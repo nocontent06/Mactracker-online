@@ -36,8 +36,11 @@ fetch(`Models/${modelType}/${modelIdentifier}.json`).then(response => response.j
             item_container.innerHTML += `<h2 class="item_heading">${key}</h2>`;
 
             for (let detail in data.Info[key]) {
+                let infoKey = String(data.Info[key][detail]);
+                infoKey = infoKey.replace(/_/g, " ")
+                console.log("Info Key: " + infoKey)
                 item_container.innerHTML += `<p>
-                    <strong>${detail}:</strong> ${data.Info[key][detail]}
+                    <strong>${detail}:</strong> ${infoKey}
                 </p>`;
             }
             detailedView.appendChild(item_container);

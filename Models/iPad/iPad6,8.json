@@ -1,0 +1,47 @@
+{
+    "Name": "iPad Pro (12.9-inch)<br>(WiFi + Cellular)",
+    "Type": "iPad",
+    "image": "iPad_pro_12.9-inch.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Nov 2015",
+            "Discontinued": "Jun 2017",
+            "Model Identifier": "iPad6,7"
+        },
+        "Processor": {
+            "Processor Name": "Apple A9X",
+            "Processor Speed": "2.26 GHz",
+            "Number of Cores": "2",
+            "Architecture": "64-bit"
+        },
+        "Software": {
+            "Original OS": "iOS 9.1",
+            "Maximum OS": "Latest release of iPadOS 16"
+        },
+        "Memory": {
+            "Built-in Memory": "4 GB LPDDR4"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR Series 7XT",
+            "Graphics Cores": "12"
+        },
+        "Display": {
+            "Display Size": "12.9-inch widescreen",
+            "Display Resolution": "2732 x 2048"
+        },
+        "Storage": {
+            "Capacity": "128 or 256 GB"
+        },
+        "Camera": {
+            "Rear Camera": "1 - 8 MP",
+            "Front Camera": "1 - 1.2 MP"
+        },
+        "Battery": {
+            "Capacity": "10307 mAh"
+        },
+        "Features": {
+            "Apple Pencil Support": "1st Gen",
+            "Authentication": "Touch ID"
+        }
+    }
+}

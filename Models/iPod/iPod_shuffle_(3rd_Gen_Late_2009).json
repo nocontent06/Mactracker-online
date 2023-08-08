@@ -1,0 +1,22 @@
+{
+    "Name": "iPod shuffle (3rd Gen, Late 2009)",
+    "Type": "iPod",
+    "image": "ipod_shuffle_3g.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2009",
+            "Discontinued": "Sep 2010",
+            "Model Identifier": "iPod_shuffle_(3rd_Gen_Late_2009)"
+        },
+        "Processor": {
+            "Processor Name": "Samsung ARM-based SoC"
+        },
+        "Software": {
+            "Original OS": "--",
+            "Maximum OS": "1.1"
+        },
+        "Storage": {
+            "Capacity": "2 or 4 GB"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Name": "iPod shuffle (2nd Gen)",
+    "Type": "iPod",
+    "image": "ipod_shuffle_2g.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2006",
+            "Discontinued": "Sep 2007",
+            "Model Identifier": "iPod_shuffle_(2nd_Gen)"
+        },
+        "Processor": {
+            "Processor Name": "Samsung ARM-based SoC"
+        },
+        "Software": {
+            "Original OS": "--",
+            "Maximum OS": "1.0.4"
+        },
+        "Storage": {
+            "Capacity": "1 GB"
+        }
+    }
+}

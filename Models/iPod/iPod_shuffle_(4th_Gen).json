@@ -1,0 +1,22 @@
+{
+    "Name": "iPod shuffle (4th Gen)",
+    "Type": "iPod",
+    "image": "ipod_shuffle_4g.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2010",
+            "Discontinued": "Jul 2017",
+            "Model Identifier": "iPod_shuffle_(4th_Gen)"
+        },
+        "Processor": {
+            "Processor Name": "Samsung ARM-based SoC"
+        },
+        "Software": {
+            "Original OS": "--",
+            "Maximum OS": "--"
+        },
+        "Storage": {
+            "Capacity": "2 GB"
+        }
+    }
+}

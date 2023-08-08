@@ -5,7 +5,7 @@
     "Info": {
         "Overview": {
             "Introduced": "Jun 2007",
-            "Supported Devices": "<br><a href='./detailed.html?model=iPhone1,1&type=iPhone' class='deviceHover'> iPhone </a> <br> iPod Touch",
+            "Supported Devices": "<br><a href='detailed.html?model=iPhone1,1&type=iPhone' class='results-link'>iPhone</a> <br> iPod Touch",
             "Model Identifier": "iPhone OS"
         },
         "Versions": {

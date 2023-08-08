@@ -1,0 +1,24 @@
+{
+    "Name": "iPod shuffle",
+    "Type": "iPod",
+    "image": "ipod_shuffle.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jan 2005",
+            "Discontinued": "Sep 2006",
+            "Model Identifier": "iPod_shuffle"
+        },
+        "Processor": {
+            "Processor Name": "SigmaTel D-Major STMP3550",
+            "Processor Speed": "75 MHz",
+            "Architecture": "32-bit"
+        },
+        "Software": {
+            "Original OS": "--",
+            "Maximum OS": "1.1.5"
+        },
+        "Storage": {
+            "Capacity": "512 MB or 1 GB"
+        }
+    }
+}

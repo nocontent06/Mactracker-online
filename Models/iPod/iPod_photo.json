@@ -1,0 +1,29 @@
+{
+    "Name": "iPod photo",
+    "Type": "iPod",
+    "image": "ipod_photo.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Oct 2004 (40, 60) Feb 2005 (30)",
+            "Discontinued": "Feb 2005 (40) Jun 2005 (30, 60)",
+            "Model Identifier": "iPod_photo"
+        },
+        "Processor": {
+            "Processor Name": "PortalPlayer PP5020 (dual ARM 7TDMI)",
+            "Processor Speed": "Up to 80 MHz",
+            "Architecture": "32-bit"
+        },
+        "Software": {
+            "Original OS": "--",
+            "Maximum OS": "1.2.1"
+        },
+        "Display": {
+            "Display Type": "65.536-color LCD Display",
+            "Display Size": "2-inch",
+            "Display Resolution": "220 x 176"
+        },
+        "Storage": {
+            "Capacity": "30, 40 or 60 GB"
+        }
+    }
+}

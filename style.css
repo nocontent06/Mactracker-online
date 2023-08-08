@@ -239,24 +239,6 @@ form {
     margin-right: auto;
 }
 
-.deviceHover:link {
-    color: #fff;
-    text-decoration: none;
-}
-
-.deviceHover:hover {
-    color: #000;
-    text-decoration: underline;
-    font-size: larger;
-    font-weight: bolder;
-
-}
-
-.deviceHover:visited {
-    color: #fff;
-    text-decoration: none;
-}
-
 .linkNotFound:link {
     color: #fff;
     text-decoration: none;
@@ -394,4 +376,13 @@ html {
     100% {
         transform: rotate(360deg);
     }
+}
+
+.results-link {
+    color: white;
+    text-decoration: none;
+}
+
+.results-link:hover {
+    text-decoration: underline;
 }

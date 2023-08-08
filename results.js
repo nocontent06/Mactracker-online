@@ -201,7 +201,6 @@ const filesiPhone = [
     "iPhone10,3.json",
     "iPhone10,6.json",
     "iPhone11,2.json",
-    "iPhone11,4.json",
     "iPhone11,6.json",
     "iPhone11,8.json",
     "iPhone12,1.json",
@@ -222,6 +221,131 @@ const filesiPhone = [
     "iPhone15,3.json",
     "iPhone14,8.json",
     
+]
+
+const filesiPad = [
+    "iPad1,1.json",
+    "iPad2,1.json",
+    "iPad2,2.json",
+    "iPad2,3.json",
+    "iPad2,5.json",
+    "iPad2,6.json",
+    "iPad3,1.json",
+    "iPad1,1.json",
+    "iPad2,1.json",
+    "iPad2,2.json", 
+    "iPad2,3.json", 
+    "iPad2,5.json", 
+    "iPad2,6.json", 
+    "iPad3,1.json", 
+    "iPad3,3.json", 
+    "iPad3,4.json", 
+    "iPad3,5.json", 
+    "iPad4,1.json", 
+    "iPad4,2.json", 
+    "iPad4,4.json", 
+    "iPad4,5.json", 
+    "iPad4,7.json", 
+    "iPad4,8.json", 
+    "iPad5,1.json", 
+    "iPad5,2.json", 
+    "iPad5,3.json", 
+    "iPad5,4.json", 
+    "iPad6,3.json", 
+    "iPad6,4.json", 
+    "iPad6,7.json", 
+    "iPad6,8.json", 
+    "iPad6,11.json", 
+    "iPad6,12.json", 
+    "iPad7,1.json", 
+    "iPad7,2.json", 
+    "iPad7,3.json", 
+    "iPad7,4.json", 
+    "iPad7,5.json", 
+    "iPad7,6.json", 
+    "iPad7,11.json", 
+    "iPad7,12.json", 
+    "iPad8,1.json", 
+    "iPad8,2.json", 
+    "iPad8,3.json", 
+    "iPad8,4.json", 
+    "iPad8,5.json", 
+    "iPad8,6.json", 
+    "iPad8,7.json", 
+    "iPad8,8.json", 
+    "iPad8,9.json", 
+    "iPad8,10.json", 
+    "iPad8,11.json", 
+    "iPad8,12.json", 
+    "iPad11,1.json", 
+    "iPad11,2.json", 
+    "iPad11,3.json", 
+    "iPad11,4.json", 
+    "iPad11,6.json", 
+    "iPad11,7.json", 
+    "iPad12,1.json", 
+    "iPad12,2.json", 
+    "iPad13,1.json", 
+    "iPad13,2.json", 
+    "iPad13,4.json", 
+    "iPad13,5.json", 
+    "iPad13,6.json", 
+    "iPad13,7.json", 
+    "iPad13,8.json", 
+    "iPad13,9.json", 
+    "iPad13,10.json",
+    "iPad13,11.json", 
+    "iPad13,16.json", 
+    "iPad13,17.json", 
+    "iPad13,18.json", 
+    "iPad13,19.json", 
+    "iPad14,1.json", 
+    "iPad14,2.json", 
+    "iPad14,3.json", 
+    "iPad14,4.json", 
+    "iPad14,5.json", 
+    "iPad14,6.json"
+]
+
+const filesiPod = [
+    "iPod_with_scroll_wheel.json",
+    "iPod_with_touch_wheel.json",
+    "iPod_(Dock_Connector).json",
+    "iPod_mini.json",
+    "iPod_(Click_Wheel).json",
+    "iPod_U2_Special_Edition.json",
+    "iPod_photo.json",
+    "iPod_shuffle.json",
+    "iPod_mini_(2nd_Gen).json",
+    "iPod_color_display.json",
+    "iPod_U2_Special_Edition_(color_display).json",
+    "iPod_nano.json",
+    "iPod_(5th_Gen).json",
+    "iPod_(5th_Gen_U2).json",
+    "iPod_shuffle_(2nd_Gen).json",
+    "iPod_nano_(2nd_Gen).json",
+    "iPod_(5th_Gen_Late_2006).json",
+    "iPod_(5th_Gen_U2_Late_2006).json",
+    "iPod_shuffle_(2nd_Gen_Late_2007).json",
+    "iPod_nano_(3rd_Gen).json",
+    "iPod_classic.json",
+    "iPod1,1.json",
+    "iPod2,1.json",
+    "iPod_shuffle_(2nd_Gen_Late_2008).json",
+    "iPod_nano_(4th_Gen).json",
+    "iPod_classic_(120_GB).json",
+    "iPod_shuffle_(3rd_Gen).json",
+    "iPod_shuffle_(3rd_Gen_Late_2009).json",
+    "iPod_nano_(5th_Gen).json",
+    "iPod_classic_(160_GB)_(Late_2009).json",
+    "iPod3,1.json",
+    "iPod_shuffle_(4th_Gen).json",
+    "iPod_nano_(6th_Gen).json",
+    "iPod4,1.json",
+    "iPod_nano_(7th_Gen).json",
+    "iPod5,1.json",
+    "iPod7,1.json",
+    "iPod9,1.json",
 ]
 
 const filesMacBook = [
@@ -372,6 +496,8 @@ const processData = async () => {
         fetchAllJSON("Models/Mac Studio", filesMacStudio),
         fetchAllJSON("Models/iOS", filesiOS),
         fetchAllJSON("Models/iPhone", filesiPhone),
+        fetchAllJSON("Models/iPad", filesiPad),
+        fetchAllJSON("Models/iPod", filesiPod),
         fetchAllJSON("Models/MacBook", filesMacBook),
         fetchAllJSON("Models/MacBook Air", filesMacBookAir),
         fetchAllJSON("Models/MacBook Pro", filesMacBookPro)
@@ -472,7 +598,7 @@ const processData = async () => {
         let model = filtData[0]
             .Info
             .Overview["Model Identifier"]
-            .replace(" ", "")
+            .replace(/ /g, "")
             .replace("(", "")
             .replace(")", "");
         location.href = `detailed.html?model=${model}&type=${filtData[0].Type}`;
@@ -495,20 +621,15 @@ const processData = async () => {
             result.prepend(image);
 
             const text = document.createElement("div");
-            text
-                .classList
-                .add("result__text");
-            text.innerHTML = `<p class="mid_text_result">${item
-                .Name} </p>
-            <p id='mid_text_${item
-                .Info
-                .Overview["Model Identifier"]
+            let MId = item.Info.Overview["Model Identifier"];
+            MId = MId.replace(/_/g, " ")
+            text.classList.add("result__text");
+            text.innerHTML = `<p class="mid_text_result">${item.Name}</p>
+            <p id='mid_text_${item.Info.Overview["Model Identifier"]
                 .replace(",", "")
-                .replace(" ", "")
+                .replace(/ /g, "")
                 .replace("(", "")
-                .replace(")", "")}'>${item
-                .Info
-                .Overview["Model Identifier"]}  </p>`;
+                .replace(")", "")}'>${MId} </p>`;
             result.appendChild(text);
             searchResults.appendChild(result);
 
@@ -524,7 +645,7 @@ const processData = async () => {
                             `#mid_text_${item.Info.Overview["Model Identifier"].replace(",", "").replace(" ", "").replace("(", "").replace(")", "")}`
                         )
                         .innerText
-                        .replace(" ", "")
+                        .replace(/ /g, "_")
                         .replace("(", "")
                         .replace(")", "");
                     // Redirect the user to the detailed page

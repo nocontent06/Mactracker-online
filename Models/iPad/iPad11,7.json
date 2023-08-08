@@ -1,0 +1,47 @@
+{
+    "Name": "iPad (8th Gen)<br>(WiFi + Cellular)",
+    "Type": "iPad",
+    "image": "iPad_8th_gen.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2020",
+            "Discontinued": "Sep 2021",
+            "Model Identifier": "iPad11,7"
+        },
+        "Processor": {
+            "Processor Name": "Apple A12 Bionic",
+            "Processor Speed": "2.5 GHz",
+            "Number of Cores": "6",
+            "Architecture": "64-bit"
+        },
+        "Software": {
+            "Original OS": "iPadOS 14",
+            "Maximum OS": "Latest release of iPadOS"
+        },
+        "Memory": {
+            "Built-in Memory": "3 GB LPDDR4"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "Graphics Cores": "4"
+        },
+        "Display": {
+            "Display Size": "10.2-inch widescreen",
+            "Display Resolution": "2160 x 1620"
+        },
+        "Storage": {
+            "Capacity": "32 or 128 GB"
+        },
+        "Camera": {
+            "Rear Camera": "1 - 8 MP",
+            "Front Camera": "1 - 1.2 MP"
+        },
+        "Battery": {
+            "Capacity": "8827 mAh"
+        },
+        "Features": {
+            "Apple Pencil Support": "1st Gen",
+            "Authentication": "Touch ID"
+        }
+    }
+}

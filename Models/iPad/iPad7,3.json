@@ -1,0 +1,48 @@
+{
+    "Name": "iPad Pro (10.5-inch)<br>(WiFi)",
+    "Type": "iPad",
+    "image": "iPad_pro_10.5-inch.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jun 2017",
+            "Discontinued": "Mar 2019",
+            "Model Identifier": "iPad7,3"
+        },
+        "Processor": {
+            "Processor Name": "Apple A10X Fusion",
+            "Processor Speed": "2.3 GHz",
+            "Number of Cores": "6 (3 High Performance, 3 High Efficiency)",
+            "Architecture": "64-bit"
+        },
+        "Software": {
+            "Original OS": "iOS 10.3.3",
+            "Maximum OS": "Latest release of iPadOS"
+        },
+        "Memory": {
+            "Built-in Memory": "4 GB LPDDR4"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR Series",
+            "Graphics Cores": "12"
+        },
+        "Display": {
+            "Display Size": "10.5-inch widescreen",
+            "Display Resolution": "2224 x 1668",
+            "Refresh Rate": "24 - 120 Hz ProMotion"
+        },
+        "Storage": {
+            "Capacity": "64, 256 or 512 GB"
+        },
+        "Camera": {
+            "Rear Camera": "1 - 12 MP",
+            "Front Camera": "1 - 7 MP"
+        },
+        "Battery": {
+            "Capacity": "8134 mAh"
+        },
+        "Features": {
+            "Apple Pencil Support": "1st Gen",
+            "Authentication": "Touch ID"
+        }
+    }
+}

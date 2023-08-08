@@ -1,0 +1,48 @@
+{
+    "Name": "iPad Pro (12.9-inch)<br>(6th Gen)<br>(WiFi + Cellular)",
+    "Type": "iPad",
+    "image": "iPad_pro_12.9-inch_6g.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Oct 2022",
+            "Discontinued": "--",
+            "Model Identifier": "iPad14,6"
+        },
+        "Processor": {
+            "Processor Name": "Apple M2",
+            "Processor Speed": "3.5 GHz (High Performance)",
+            "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+            "Architecture": "64-bit"
+        },
+        "Software": {
+            "Original OS": "iPadOS 16.1",
+            "Maximum OS": "Latest release of iPadOS"
+        },
+        "Memory": {
+            "Built-in Memory": "8 GB (128 - 512) or 16 GB (1 - 2 TB) LPDDR5"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "Graphics Cores": "10"
+        },
+        "Display": {
+            "Display Size": "12.9-inch widescreen",
+            "Display Resolution": "2732 x 2048",
+            "Refresh Rate": "24 - 120 Hz ProMotion"
+        },
+        "Storage": {
+            "Capacity": "128, 256, 512 GB, 1 or 2 TB"
+        },
+        "Camera": {
+            "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+            "Front Camera": "1 - 12 MP"
+        },
+        "Battery": {
+            "Capacity": "10566 mAh"
+        },
+        "Features": {
+            "Apple Pencil Support": "2nd Gen",
+            "Authentication": "Face ID"
+        }
+    }
+}

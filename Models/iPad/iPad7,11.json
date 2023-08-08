@@ -1,0 +1,47 @@
+{
+    "Name": "iPad (7th Gen)<br>(WiFi)",
+    "Type": "iPad",
+    "image": "iPad_7th_gen.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2019",
+            "Discontinued": "Sep 2020",
+            "Model Identifier": "iPad7,11"
+        },
+        "Processor": {
+            "Processor Name": "Apple A10 Fusion",
+            "Processor Speed": "2.3 GHz",
+            "Number of Cores": "4 (2 active)",
+            "Architecture": "64-bit"
+        },
+        "Software": {
+            "Original OS": "iPadOS 13.1",
+            "Maximum OS": "Latest release of iPadOS"
+        },
+        "Memory": {
+            "Built-in Memory": "3 GB LPDDR4"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR Series 7XT Plus",
+            "Graphics Cores": "6"
+        },
+        "Display": {
+            "Display Size": "10.2-inch widescreen",
+            "Display Resolution": "2160 x 1620"
+        },
+        "Storage": {
+            "Capacity": "32, or 128 GB"
+        },
+        "Camera": {
+            "Rear Camera": "1 - 8 MP",
+            "Front Camera": "1 - 1.2 MP"
+        },
+        "Battery": {
+            "Capacity": "8827 mAh"
+        },
+        "Features": {
+            "Apple Pencil Support": "1st Gen",
+            "Authentication": "Touch ID"
+        }
+    }
+}

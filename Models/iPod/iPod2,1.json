@@ -1,0 +1,36 @@
+{
+    "Name": "iPod touch (2nd Gen)",
+    "Type": "iPod",
+    "image": "ipod_touch_2g.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2008",
+            "Discontinued": "Sep 2009 (16, 32), Sep 2010 (8)",
+            "Model Identifier": "iPod2,1"
+        },
+        "Processor": {
+            "Processor Name": "Samsung ARM 1176JZ(F)-S",
+            "Processor Speed": "620 MHz (running at 532 MHz)",
+            "Architecture": "32-bit",
+            "Number of cores": "1"
+        },
+        "Memory": {
+            "Built-in Memory": "128 MB LPDDR"
+        },
+        "Software": {
+            "Original OS": "iOS 2.1.1",
+            "Maximum OS": "iOS 4.2.1"
+        },
+        "Display": {
+            "Display Type": "Widescreen multi-touch display",
+            "Display Size": "3.5-inch",
+            "Display Resolution": "480 x 320"
+        },
+        "Storage": {
+            "Capacity": "8, 16 or 32"
+        },
+        "Battery": {
+            "Capacity": "739 mAh"
+        }
+    }
+}
