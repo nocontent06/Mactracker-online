@@ -499,26 +499,76 @@ const fetchAllJSON = async (directory, device) => {
 
 const processData = async () => {
 
+    function includesString(s1, s2) {
+        // Remove parentheses and spaces from both strings
+        const s1Cleaned = s1.replace(/\(|\)|\s/g, "");
+        const s2Cleaned = s2.replace(/\(|\)|\s/g, "");
 
-    await Promise.all([
-        fetchAllJSON("Models/Mac Mini", filesMacMini),
-        fetchAllJSON("Models/Mac Pro", filesMacPro),
-        fetchAllJSON("Models/iMac", filesiMac),
-        fetchAllJSON("Models/Mac Studio", filesMacStudio),
-        fetchAllJSON("Models/iOS", filesiOS),
-        fetchAllJSON("Models/iPhone", filesiPhone),
-        fetchAllJSON("Models/iPad", filesiPad),
-        fetchAllJSON("Models/iPod", filesiPod),
-        fetchAllJSON("Models/MacBook", filesMacBook),
-        fetchAllJSON("Models/MacBook Air", filesMacBookAir),
-        fetchAllJSON("Models/MacBook Pro", filesMacBookPro),
-        fetchAllJSON("Models/Apple TV", filesAppleTV),
-    ]);
+        log("s1Cleaned: " + s1Cleaned + " s2Cleaned: " + s2Cleaned)
+
+        // Check if s2Cleaned is a substring of s1Cleaned
+        return s1Cleaned.includes(s2Cleaned);
+    }
+
+    function checkConcatenatedString(arr, targetString) {
+        const targetArray = targetString.split(" ");
+        targetArray.forEach((item, index) => {
+            if (item.includes('"')) {
+                targetArray[index] = item.replace('"', "-inch");
+            }
+        });
+        console.log("Target Array: " + targetArray);
+        return targetArray.every(item => arr.includes(item));
+    }
+
+
+    const models = [
+        { keywords: ["Mac Mini", "MacMini"], path: "Models/Mac Mini", files: filesMacMini },
+        { keywords: ["Mac Pro", "MacPro"], path: "Models/Mac Pro", files: filesMacPro },
+        { keywords: ["iMac", "iMacPro"], path: "Models/iMac", files: filesiMac },
+        { keywords: ["Mac Studio", "MacStudio"], path: "Models/Mac Studio", files: filesMacStudio },
+        { keywords: ["iOS", "iPhoneOS"], path: "Models/iOS", files: filesiOS},
+        { keywords: ["iPhone"], path: "Models/iPhone", files: filesiPhone },
+        { keywords: ["iPad"], path: "Models/iPad", files: filesiPad },
+        { keywords: ["iPod"], path: "Models/iPod", files: filesiPod },
+        { keywords: ["MacBook", "MB"], path: "Models/MacBook", files: filesMacBook },
+        { keywords: ["MacBook", "Pro", "MBP", "MacBookPro"], path: "Models/MacBook Pro", files: filesMacBookPro },
+        { keywords: ["MacBook", "Air", "MBA", "MacBookAir"], path: "Models/MacBook Air", files: filesMacBookAir },
+        { keywords: ["AppleTV", "AppleTV"], path: "Models/Apple TV", files: filesAppleTV },
+
+    ];
+    
+    let found = false;
+    
+    for (const model of models) {
+        if (checkConcatenatedString(model.keywords, search)) {
+            await fetchAllJSON(model.path, model.files);
+            found = true;
+            break;
+        }
+    }
+    
+    if (!found) {
+        // Handle case when no match is found
+        await Promise.all([
+            fetchAllJSON("Models/Mac Mini", filesMacMini),
+            fetchAllJSON("Models/Mac Pro", filesMacPro),
+            fetchAllJSON("Models/iMac", filesiMac),
+            fetchAllJSON("Models/Mac Studio", filesMacStudio),
+            fetchAllJSON("Models/iOS", filesiOS),
+            fetchAllJSON("Models/iPhone", filesiPhone),
+            fetchAllJSON("Models/iPad", filesiPad),
+            fetchAllJSON("Models/iPod", filesiPod),
+            fetchAllJSON("Models/MacBook", filesMacBook),
+            fetchAllJSON("Models/MacBook Air", filesMacBookAir),
+            fetchAllJSON("Models/MacBook Pro", filesMacBookPro),
+            fetchAllJSON("Models/Apple TV", filesAppleTV),
+        ]);
+    }
+    
+
     log("Data: " + data.length + " files")
 
-    // check if device.Name includes RexExp (use result as variable)
-
-    // if result is true, push to filtData
 
     data.filter(device => {
         let name = device.Name;
@@ -529,6 +579,8 @@ const processData = async () => {
         // Remove parentheses and spaces from both strings
             const s1Cleaned = s1.replace(/\(|\)|\s/g, "");
             const s2Cleaned = s2.replace(/\(|\)|\s/g, "");
+
+            log("s1Cleaned: " + s1Cleaned + " s2Cleaned: " + s1Cleaned)
 
             // Check if s2Cleaned is a substring of s1Cleaned
             return s1Cleaned.includes(s2Cleaned);
@@ -542,6 +594,7 @@ const processData = async () => {
                 }
             });
             console.log("Target Array: " + targetArray);
+            log(targetArray.includes("MacBook") && targetArray.includes("Pro"))
             return targetArray.every(item => arr.includes(item));
         }
 
