@@ -499,7 +499,6 @@ const fetchAllJSON = async (directory, device) => {
 
 const processData = async () => {
 
-
     await Promise.all([
         fetchAllJSON("Models/Mac Mini", filesMacMini),
         fetchAllJSON("Models/Mac Pro", filesMacPro),
@@ -542,6 +541,7 @@ const processData = async () => {
                 }
             });
             console.log("Target Array: " + targetArray);
+            // log(targetArray.includes("MacBook") && targetArray.includes("Pro"))
             return targetArray.every(item => arr.includes(item));
         }
 
