@@ -1,0 +1,34 @@
+{
+    "Name": "MacBook Pro <br> (13-inch, M1, 2020)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_13_m1.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Nov 2020",
+            "Discontinued": "Jun 2022",
+            "Model Identifier": "MacBookPro17,1"
+        },
+        "Processor": {
+            "Chip Name": "Apple M1",
+            "Chip Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
+            "Number of Cores": "8 (4 high performance, 4 high efficiency)"
+        },
+        "Software": {
+            "Original OS": "macOS 11.0 (Big Sur)",
+            "Maximum OS": "Latest release of macOS (Ventura)"
+        },
+        "Memory": {
+            "Maximum Memory": "16 GB",
+            "Supported RAM": "4266 MT/s LPDDR4X"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple G13G",
+            "Graphics Cores": "8"
+        },
+        "Display": {
+            "Display Type": "13-inch LED-backlit display with IPS technology",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "2560 x 1600"
+        }
+    }
+}

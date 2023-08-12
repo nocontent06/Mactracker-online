@@ -1,0 +1,33 @@
+{
+    "Name": "MacBook Pro <br> (14-inch, 2023) <br> (M2 Pro)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_14_m2.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jan 2023",
+            "Discontinued": "---",
+            "Model Identifier": "Mac14,9"
+        },
+        "Processor": {
+            "Chip Name": "Apple M2 Pro",
+            "Chip Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
+            "Number of Cores": "10 (6 High Performance, 4 High Efficiency), 12 (8 High Performance, 4 High Efficiency)"
+        },
+        "Software": {
+            "Original OS": "macOS 13.0 (Ventura)",
+            "Maximum OS": "Latest release of macOS (Ventura)"
+        },
+        "Memory": {
+            "Maximum Memory": "32 GB",
+            "Supported RAM": "6400 MT/s LPDDR5"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "Graphics Cores": "16, 19"
+        },
+        "Display": {
+            "Display Type": "14.2-inch Liquid Retina XDR display",
+            "Native Resolution": "3024 x 1964"
+        }
+    }
+}

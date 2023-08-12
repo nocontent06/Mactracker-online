@@ -1,0 +1,27 @@
+{
+    "Name": "iPod classic (160 GB) (Late 2009)",
+    "Type": "iPod",
+    "image": "ipod_classic.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2009",
+            "Discontinued": "Sep 2014",
+            "Model Identifier": "iPod_classic_(160_GB)_(Late_2009)"
+        },
+        "Processor": {
+            "Processor Name": "Samsung ARM-based system-on-a-chip"
+        },
+        "Software": {
+            "Original OS": "--",
+            "Maximum OS": "2.0.5"
+        },
+        "Display": {
+            "Display Type": "LCD Display",
+            "Display Size": "2.5-inch",
+            "Display Resolution": "320 x 240"
+        },
+        "Storage": {
+            "Capacity": "160 GB"
+        }
+    }
+}

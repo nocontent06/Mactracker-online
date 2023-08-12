@@ -1,0 +1,36 @@
+{
+    "Name": "MacBook Pro <br> (17-inch, Mid 2010)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_17_unibody_2008_11.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Apr 2010",
+            "Discontinued": "Feb 2011",
+            "Model Identifier": "MacBookPro6,1"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core i5 or i7 (540M, 620M, 640M) ('Arrandale')",
+            "Processor Speed": "2.53, 2.66, 2.8 GHz",
+            "Number of Cores": "2",
+            "Number of Threads": "4"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.6.3 (Snow Leopard)",
+            "Later OS": "Mac OS X 10.6.4 (Snow Leopard)",
+            "Maximum OS": "macOS 10.13.6 (High Sierra)"
+        },
+        "Memory": {
+            "Maximum Memory": "8 GB",
+            "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+        },
+        "Graphics": {
+            "Graphics Chip": "NVIDIA GeForce GT 330M and Intel HD Graphics ",
+            "Graphics Memory": "512 MB GDDR3 (GT 330M) and 256 MB DDR3 (HD Graphics) (shared)"
+        },
+        "Display": {
+            "Display Type": "17-inch LED-backlit glossy widescreen display",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "1920 x 1200"
+        }
+    }
+}

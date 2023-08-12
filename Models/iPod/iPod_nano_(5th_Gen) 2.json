@@ -1,0 +1,27 @@
+{
+    "Name": "iPod nano (5th Gen)",
+    "Type": "iPod",
+    "image": "ipod_nano_5g.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2009",
+            "Discontinued": "Sep 2010",
+            "Model Identifier": "iPod_nano_(5th_Gen)"
+        },
+        "Processor": {
+            "Processor Name": "Samsung ARM-based system-on-a-chip"
+        },
+        "Software": {
+            "Original OS": "--",
+            "Maximum OS": "1.0.2"
+        },
+        "Display": {
+            "Display Type": "TFT Display",
+            "Display Size": "2.2-inch",
+            "Display Resolution": "240 x 376"
+        },
+        "Storage": {
+            "Capacity": "8 or 16 GB"
+        }
+    }
+}

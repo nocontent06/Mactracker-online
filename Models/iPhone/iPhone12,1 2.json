@@ -1,0 +1,44 @@
+{
+    "Name": "iPhone 11",
+    "Type": "iPhone",
+    "image": "iphone_11.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2019",
+            "Discontinued": "Sep 2022",
+            "Model Identifier": "iPhone12,1"
+        },
+        "Processor": {
+            "Processor Name": "Apple A13 Bionic",
+            "Processor Speed": "2.66 GHz",
+            "Benchmark (SC / MC)": "1327 / 3288",
+            "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+        },
+        "Software": {
+            "Original OS": "iOS 13.0",
+            "Maximum OS": "Latest release of iOS"
+        },
+        "Memory": {
+            "Built-in Memory": "4 GB LPDDR4X"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "Graphics Cores": "4"
+        },
+        "Display": {
+            "Display Type": "Liquid Retina HD LED-backlit LCD IPS display",
+            "Display Size": "6.1-inch widescreen",
+            "Display Resolution": "1792x828"
+        },
+        "Storage": {
+            "Capacity": "64, 128 or 256 GB"
+        },
+        "Camera": {
+            "Rear Camera": "2 - 12 MP",
+            "Front Camera": "1 - 12 MP"
+        },
+        "Battery": {
+            "Capacity": "3110 mAh"
+        }
+    }
+}

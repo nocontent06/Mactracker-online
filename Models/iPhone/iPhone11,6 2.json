@@ -1,0 +1,44 @@
+{
+    "Name": "iPhone XS Max",
+    "Type": "iPhone",
+    "image": "iphone_xs.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2018",
+            "Discontinued": "Sep 2019",
+            "Model Identifier": "iPhone11,6"
+        },
+        "Processor": {
+            "Processor Name": "Apple A12 Bionic",
+            "Processor Speed": "2.5 GHz",
+            "Benchmark (SC / MC)": "1107 / 2708",
+            "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+        },
+        "Software": {
+            "Original OS": "iOS 12.0",
+            "Maximum OS": "Latest release of iOS"
+        },
+        "Memory": {
+            "Built-in Memory": "4 GB LPDDR4X"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple G11P",
+            "Graphics Cores": "4"
+        },
+        "Display": {
+            "Display Type": "Super Retina HD OLED Display",
+            "Display Size": "6.5-inch widescreen",
+            "Display Resolution": "2688x1242"
+        },
+        "Storage": {
+            "Capacity": "64, 256 or 512 GB"
+        },
+        "Camera": {
+            "Rear Camera": "2 - 12 MP",
+            "Front Camera": "1 - 7 MP"
+        },
+        "Battery": {
+            "Capacity": "3174 mAh"
+        }
+    }
+}

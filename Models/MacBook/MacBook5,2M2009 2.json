@@ -1,0 +1,35 @@
+{
+    "Name": "MacBook <br> (13-inch, Mid 2009)",
+    "Type": "MacBook",
+    "image": "macbook_white.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jan 2009",
+            "Discontinued": "May 2009",
+            "Model Identifier": "MacBook5,2 (M2009)"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core 2 Duo (P7450) ('Penryn')",
+            "Processor Speed": "2.13 GHz",
+            "Number of Cores": "2"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.5.7 (Leopard)",
+            "Later OS": "Mac OS X 10.6 (Snow Leopard)",
+            "Maximum OS": "OS X 10.11.6 (El Capitan)"
+        },
+        "Memory": {
+            "Maximum Memory": "6 GB (Actual) 4 GB (Apple)",
+            "Supported RAM": "667 MHz DDR2 SO-DIMM"
+        },
+        "Graphics": {
+            "Graphics Chip": "NVIDIA GeForce 9400M",
+            "Graphics Memory": "256 MB (shared)"
+        },
+        "Display": {
+            "Display Type": "13.3-inch (diagonal) glossy widescreen",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "1280 x 800"
+        }
+    }
+}

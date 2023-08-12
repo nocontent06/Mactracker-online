@@ -1,0 +1,15 @@
+{
+    "Name": "iOS 14",
+    "Type": "iOS",
+    "image": "ios14.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2020",
+            "Supported Devices": "<br>iPhone SE<br> iPhone SE (2nd Gen)<br> iPhone 6s<br> iPhone 6s Plus<br> iPhone 7<br> iPhone 7 Plus<br> iPhone 8<br> iPhone 8 Plus<br> iPhone X<br> iPhone XR<br> iPhone XS<br> iPhone XS Max<br> iPhone 11<br> iPhone 11 Pro<br> iPhone 11 Pro Max<br> iPhone 12<br> iPhone 12 mini<br> iPhone 12 Pro<br> iPhone 12 Pro Max<br> iPod touch (7th Gen)",
+            "Model Identifier": "iOS 14"
+        },
+        "Versions": {
+            "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>iOS 14</td><td>Sep 16, 2020</td></tr><tr><td>iOS 14.0.1</td><td>Sep 24, 2020</td></tr><tr><td>iOS 14.1</td><td>Oct 20, 2020</td></tr><tr><td>iOS 14.2</td><td>Nov 5, 2020</td></tr><tr><td>iOS 14.2.1</td><td>Nov 19, 2020</td></tr><tr><td>iOS 14.3</td><td>Dec 14, 2020</td></tr><tr><td>iOS 14.4</td><td>Jan 26, 2021</td></tr><tr><td>iOS 14.4.1</td><td>Mar 8, 2021</td></tr><tr><td>iOS 14.4.2</td><td>Mar 26, 2021</td></tr><tr><td>iOS 14.5</td><td>Apr 26, 2021</td></tr><tr><td>iOS 14.5.1</td><td>May 3, 2021</td></tr><tr><td>iOS 14.6</td><td>May 24, 2021</td></tr><tr><td>iOS 14.7</td><td>Jul 19, 2021</td></tr><tr><td>iOS 14.7.1</td><td>Jul 26, 2021</td></tr><tr><td>iOS 14.8</td><td>Sep 13, 2021</td></tr><tr><td>iOS 14.8.1</td><td>Oct 26, 2021</td></tr></tbody></table>"
+        }
+    }
+}

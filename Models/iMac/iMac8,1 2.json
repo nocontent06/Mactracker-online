@@ -1,0 +1,36 @@
+{
+    "Name": "iMac Mid 2007 (20') & (24')",
+    "Type": "iMac",
+    "image": "imac_aluminium_24.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "April 2008",
+            "Discontinued": "March 2008",
+            "Model Identifier": "iMac8,1"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core 2 Duo (E8135, E8335) ('Penryn') (20') <br> Intel Core 2 Duo (E8235, E8435) (24')",
+            "Processor Speed": "2.4 GHz or 2.66 GHz (20') <br> 2.8 GHz or 3.06 GHz (24')",
+            "Number of Cores": "2"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.5.2 (Leopard)",
+            "Later OS": "Mac OS X 10.5.4 (Leopard)",
+            "Maximum OS": "Mac OS X 10.11.6 (El Capitan)"
+        },
+        "Memory": {
+            "Maximum Memory": "6 GB (Actual) <br> 4 GB (Apple)",
+            "Supported RAM": "800 MHz DDR2 SO-DIMM"
+        },
+        "Graphics": {
+            "Graphics Chip": "ATI Radeon HD 2400 XT or 2600 PRO (20') <br> ATI Radeon HD 2600 PRO or NVIDIA GeForce 8800 GS (24')",
+            "Graphics Memory": "128 MB (2400 XT) or 256 MB (2600 PRO) GDDR3 (20') <br> 256 MB (2600 PRO) or 512 MB (8800 GS) GDDR3 (24')"
+        },
+        "Display": {
+            "Display Type": "20' or 24' (viewable) glossy widescreen TFT LCD",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "1680 x 1050 (20') <br> 1920 x 1200 (24')"
+        }
+        
+    }
+}

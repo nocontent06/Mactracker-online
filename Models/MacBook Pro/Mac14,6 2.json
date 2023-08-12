@@ -1,0 +1,33 @@
+{
+    "Name": "MacBook Pro <br> (16-inch, 2023) <br> (M2 Max)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_16_m2.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jan 2023",
+            "Discontinued": "---",
+            "Model Identifier": "Mac14,6"
+        },
+        "Processor": {
+            "Chip Name": "Apple M2 Max",
+            "Chip Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
+            "Number of Cores": "12 (8 High Performance, 4 High Efficiency)"
+        },
+        "Software": {
+            "Original OS": "macOS 13.0 (Ventura)",
+            "Maximum OS": "Latest release of macOS (Ventura)"
+        },
+        "Memory": {
+            "Maximum Memory": "64 GB / 96 GB (with 38-Core GPU)",
+            "Supported RAM": "6400 MT/s LPDDR5"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "Graphics Cores": "30, 38"
+        },
+        "Display": {
+            "Display Type": "16.2-inch Liquid Retina XDR display",
+            "Native Resolution": "3456 x 2234"
+        }
+    }
+}

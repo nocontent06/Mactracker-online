@@ -1,0 +1,15 @@
+{
+    "Name": "iOS 7",
+    "Type": "iOS",
+    "image": "ios7.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2013",
+            "Supported Devices": "<br>iPhone 4<br> iPhone 4s<br> iPhone 5<br> iPhone 5c<br> iPhone 5s<br> iPod touch (5th generation)<br> iPad 2<br> iPad (3rd generation)<br> iPad (4th generation)<br> iPad Air<br> iPad mini<br> iPad mini 2<br> Apple TV (2nd generation)<br> Apple TV (3rd generation)",
+            "Model Identifier": "iOS 7"
+        },
+        "Versions": {
+            "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>7.0</td><td>Sep 18, 2013</td></tr><tr><td>7.0.1</td><td>Sep 18, 2013</td></tr><tr><td>7.0.2</td><td>Sep 26, 2013</td></tr><tr><td>7.0.3</td><td>Oct 22, 2013</td></tr><tr><td>7.0.4</td><td>Nov 14, 2013</td></tr><tr><td>7.0.5</td><td>Jan 29, 2014</td></tr><tr><td>7.0.6</td><td>Feb 21, 2014</td></tr><tr><td>7.1</td><td>Mar 10, 2014</td></tr><tr><td>7.1.1</td><td>Apr 22, 2014</td></tr><tr><td>7.1.2</td><td>Jun 30, 2014</td></tr></tbody></table>"
+        }
+    }
+}

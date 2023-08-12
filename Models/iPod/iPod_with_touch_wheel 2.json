@@ -1,0 +1,32 @@
+{
+    "Name": "iPod with touch wheel",
+    "Type": "iPod",
+    "image": "ipod_original.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jul 2002",
+            "Discontinued": "Apr 2003",
+            "Model Identifier": "iPod_with_touch_wheel"
+        },
+        "Processor": {
+            "Processor Name": "PortalPlayer PP5002 (dual ARM 7TDMI)",
+            "Processor Speed": "90 MHz",
+            "Architecture": "32-bit"
+        },
+        "Software": {
+            "Original OS": "--",
+            "Maximum OS": "1.5"
+        },
+        "Display": {
+            "Display Type": "LCD Display",
+            "Display Size": "2-inch",
+            "Display Resolution": "160 x 128"
+        },
+        "Storage": {
+            "Capacity": "10 or 20 GB"
+        },
+        "Battery": {
+            "Capacity": "1200 mAh"
+        }
+    }
+}

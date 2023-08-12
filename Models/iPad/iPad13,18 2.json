@@ -1,0 +1,47 @@
+{
+    "Name": "iPad (10th Gen)<br>(WiFi)",
+    "Type": "iPad",
+    "image": "iPad_10th_gen.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Oct 2022",
+            "Discontinued": "--",
+            "Model Identifier": "iPad13,18"
+        },
+        "Processor": {
+            "Processor Name": "Apple A14 Bionic",
+            "Processor Speed": "3 GHz",
+            "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+            "Architecture": "64-bit"
+        },
+        "Software": {
+            "Original OS": "iPadOS 16.1",
+            "Maximum OS": "Latest release of iPadOS"
+        },
+        "Memory": {
+            "Built-in Memory": "4 GB LPDDR4X"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "Graphics Cores": "4"
+        },
+        "Display": {
+            "Display Size": "10.9-inch widescreen",
+            "Display Resolution": "2360 x 1640"
+        },
+        "Storage": {
+            "Capacity": "64 or 256 GB"
+        },
+        "Camera": {
+            "Rear Camera": "1 - 12 MP",
+            "Front Camera": "1 - 12 MP"
+        },
+        "Battery": {
+            "Capacity": "7606 mAh"
+        },
+        "Features": {
+            "Apple Pencil Support": "1st Gen",
+            "Authentication": "Touch ID"
+        }
+    }
+}

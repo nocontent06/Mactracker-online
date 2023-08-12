@@ -1,0 +1,34 @@
+{
+    "Name": "MacBook Pro <br> (13-inch, M2, 2022)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_13_m2.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jun 2022",
+            "Discontinued": "Present",
+            "Model Identifier": "Mac14,7"
+        },
+        "Processor": {
+            "Chip Name": "Apple M2",
+            "Chip Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
+            "Number of Cores": "8 (4 high performance, 4 high efficiency)"
+        },
+        "Software": {
+            "Original OS": "macOS 12.4 (Monterey)",
+            "Maximum OS": "Latest release of macOS (Ventura)"
+        },
+        "Memory": {
+            "Maximum Memory": "24 GB",
+            "Supported RAM": "6400 MT/s LPDDR4X"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "Graphics Cores": "10"
+        },
+        "Display": {
+            "Display Type": "13-inch LED-backlit display with IPS technology",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "2560 x 1600"
+        }
+    }
+}

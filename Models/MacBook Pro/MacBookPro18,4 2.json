@@ -1,0 +1,33 @@
+{
+    "Name": "MacBook Pro <br> (14-inch, 2021)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_14_m1.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Oct 2021",
+            "Discontinued": "Jan 2023",
+            "Model Identifier": "MacBookPro18,4"
+        },
+        "Processor": {
+            "Chip Name": "Apple M1 Max",
+            "Chip Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
+            "Number of Cores": "10 (8 High Performance, 2 High Efficiency)"
+        },
+        "Software": {
+            "Original OS": "macOS 12.0 (Monterey)",
+            "Maximum OS": "Latest release of macOS (Ventura)"
+        },
+        "Memory": {
+            "Maximum Memory": "64 GB",
+            "Supported RAM": "6400 MT/s LPDDR5"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple G13X",
+            "Graphics Cores": "24, 32"
+        },
+        "Display": {
+            "Display Type": "14.2-inch Liquid Retina XDR display",
+            "Native Resolution": "3024 x 1964"
+        }
+    }
+}

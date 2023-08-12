@@ -1,0 +1,48 @@
+{
+    "Name": "iPad Pro (12.9-inch)<br>(4th Gen)<br>(WiFi + Cellular)",
+    "Type": "iPad",
+    "image": "iPad_pro_12.9-inch_4g.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Mar 2020",
+            "Discontinued": "Mar 2020",
+            "Model Identifier": "iPad8,11"
+        },
+        "Processor": {
+            "Processor Name": "Apple A12Z Bionic",
+            "Processor Speed": "2.5 GHz",
+            "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+            "Architecture": "64-bit"
+        },
+        "Software": {
+            "Original OS": "iPadOS 13.4.1",
+            "Maximum OS": "Latest release of iPadOS"
+        },
+        "Memory": {
+            "Built-in Memory": "6 GB LPDDR4X"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "Graphics Cores": "8"
+        },
+        "Display": {
+            "Display Size": "12.9-inch widescreen",
+            "Display Resolution": "2732 x 2048",
+            "Refresh Rate": "24 - 120 Hz ProMotion"
+        },
+        "Storage": {
+            "Capacity": "128, 256, 512 GB or 1 TB"
+        },
+        "Camera": {
+            "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+            "Front Camera": "1 - 7 MP"
+        },
+        "Battery": {
+            "Capacity": "9720 mAh"
+        },
+        "Features": {
+            "Apple Pencil Support": "2nd Gen",
+            "Authentication": "Face ID"
+        }
+    }
+}

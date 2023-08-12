@@ -1,0 +1,35 @@
+{
+    "Name": "MacBook Air <br> (11-inch, Mid 2012)",
+    "Type": "MacBook Air",
+    "image": "macbook_air_11_2012.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jun 2012",
+            "Discontinued": "Jun 2013",
+            "Model Identifier": "MacBookAir5,1"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core i5 or i7 (3317U, 3667U) ('Ivy Bridge')",
+            "Processor Speed": "1.7 or 2.0 GHz",
+            "Number of Cores": "2"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.7.4 (Lion)",
+            "Later OS": "Mac OS X 10.8 / .3 (Mountain Lion)",
+            "Maximum OS": "macOS 10.15.7 (Catalina)"
+        },
+        "Memory": {
+            "Maximum Memory": "8 GB",
+            "Supported RAM": "1600 MHz DDR3L SDRAM"
+        },
+        "Graphics": {
+            "Graphics Chip": "Intel HD Graphics 4000",
+            "Graphics Memory": "up to 1 GB (shared)"
+        },
+        "Display": {
+            "Display Type": "11.6-inch LED-backlit glossy widescreen",
+            "Aspect Ratio": "16:9",
+            "Native Resolution": "1366 x 768"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "iMac (Retina 5K, 27-inch) <br> (Late 2014)", 
+    "Type": "iMac", 
+    "image": "imac_unibody_27.png",
+    "Info": {
+          "Overview": {
+            "Introduced": "October 2014",
+            "Discontinued": "October 2015",
+            "Model Identifier": "iMac15,1"
+          } ,
+          "Processor": {
+            "Processor Name": "Intel Core i5 (4690) or Core i7 (4790K)",
+            "Processor Speed": "3.5 GHz or 4.0 GHz",
+            "Number of Cores": "4"
+          },
+          "Software": {
+            "Original OS": "OS X 10.10 (Yosemite)",
+            "Later OS": "OS X 10.10.2 (Yosemite)",
+            "Maximum OS": "Latest Release of macOS 11 (Big Sur)"
+          },
+          "Memory": {
+            "Maximum Memory": "32 GB",
+            "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+          },
+          "Graphics": {
+            "Graphics Chip": "AMD Radeon R9 M290X or M295X",
+            "Graphics Memory": "2 GB (M290X) or 4 GB GDDR5 (M295X)"
+          },
+          "Display": {
+            "Display Type": "27-inch (diagonal) Retina 5K display with IPS technology",
+            "Aspect Ratio": "16:9",
+            "Native Resolution": "5120 x 2880"
+          }
+    }
+  }

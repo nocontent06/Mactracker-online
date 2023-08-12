@@ -1,0 +1,35 @@
+{
+    "Name": "iMac (21.5-inch, Late 2015) <br> (1.6 GHz)", 
+    "Type": "iMac", 
+    "image": "imac_unibody_21.png",
+    "Info": {
+          "Overview": {
+            "Introduced": "October 2015",
+            "Discontinued": "June 2017",
+            "Model Identifier": "iMac16,1"
+          } ,
+          "Processor": {
+            "Processor Name": "Intel Core i5 (5250U) ('Broadwell')",
+            "Processor Speed": "1.6 GHz",
+            "Number of Cores": "2"
+          },
+          "Software": {
+            "Original OS": "OS X 10.11 (El Capitan)",
+            "Later OS": "OS X 10.11.1 (EL Capitan)",
+            "Maximum OS": "Latest release of macOS 12 (Monterey)"
+          },
+          "Memory": {
+            "Maximum Memory": "16 GB",
+            "Supported RAM": "1867 MHz LPDDR3 SDRAM"
+          },
+          "Graphics": {
+            "Graphics Chip": "Intel HD Graphics 6000",
+            "Graphics Memory": "1.5 GB (shared)"
+          },
+          "Display": {
+            "Display Type": "21.5-inch (diagonal) LED-backlit display with IPS technology",
+            "Aspect Ratio": "16:9",
+            "Native Resolution": "1920 x 1080"
+          }
+    }
+  }

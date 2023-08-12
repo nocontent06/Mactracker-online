@@ -1,0 +1,29 @@
+{
+    "Name": "iPod color display",
+    "Type": "iPod",
+    "image": "ipod_photo.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jun 2005",
+            "Discontinued": "Oct 2005",
+            "Model Identifier": "iPod_color_display"
+        },
+        "Processor": {
+            "Processor Name": "PortalPlayer PP5020 (dual ARM 7TDMI)",
+            "Processor Speed": "Up to 80 MHz",
+            "Architecture": "32-bit"
+        },
+        "Software": {
+            "Original OS": "--",
+            "Maximum OS": "1.2.1"
+        },
+        "Display": {
+            "Display Type": "65.536-color LCD Display",
+            "Display Size": "2-inch",
+            "Display Resolution": "220 x 176"
+        },
+        "Storage": {
+            "Capacity": "20 or 60 GB"
+        }
+    }
+}

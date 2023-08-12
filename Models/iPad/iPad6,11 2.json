@@ -1,0 +1,46 @@
+{
+    "Name": "iPad (5th Gen)<br>(WiFi)",
+    "Type": "iPad",
+    "image": "iPad_5th_gen.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Mar 2017",
+            "Discontinued": "Mar 2018",
+            "Model Identifier": "iPad6,11"
+        },
+        "Processor": {
+            "Processor Name": "Apple A9",
+            "Processor Speed": "1.85 GHz",
+            "Number of Cores": "2",
+            "Architecture": "64-bit"
+        },
+        "Software": {
+            "Original OS": "iOS 10.3",
+            "Maximum OS": "Latest release of iPadOS 16"
+        },
+        "Memory": {
+            "Built-in Memory": "2 GB LPDDR4"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR GT7600",
+            "Graphics Cores": "6"
+        },
+        "Display": {
+            "Display Size": "9.7-inch widescreen",
+            "Display Resolution": "2048 x 1536"
+        },
+        "Storage": {
+            "Capacity": "32, or 128 GB"
+        },
+        "Camera": {
+            "Rear Camera": "1 - 8 MP",
+            "Front Camera": "1 - 1.2 MP"
+        },
+        "Battery": {
+            "Capacity": "8827 mAh"
+        },
+        "Features": {
+            "Authentication": "Touch ID"
+        }
+    }
+}

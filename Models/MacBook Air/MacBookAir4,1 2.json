@@ -1,0 +1,35 @@
+{
+    "Name": "MacBook Air <br> (11-inch, Mid 2011)",
+    "Type": "MacBook Air",
+    "image": "macbook_air_11_2011.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jul 2011",
+            "Discontinued": "Jun 2012",
+            "Model Identifier": "MacBookAir4,1"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core i5 or i7 (2467M, 2677M) ('Sandy Bridge')",
+            "Processor Speed": "1.6 or 1.8 GHz",
+            "Number of Cores": "2"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.7 (Lion)",
+            "Later OS": "Mac OS X 10.7.2 / .3 (Lion)",
+            "Maximum OS": "macOS 10.13.6 (High Sierra)"
+        },
+        "Memory": {
+            "Maximum Memory": "4 GB",
+            "Supported RAM": "1333 MHz DDR3 SDRAM"
+        },
+        "Graphics": {
+            "Graphics Chip": "Intel HD Graphics 3000",
+            "Graphics Memory": "256 - 384 MB DDR3 (shared)"
+        },
+        "Display": {
+            "Display Type": "11.6-inch LED-backlit glossy widescreen",
+            "Aspect Ratio": "16:9",
+            "Native Resolution": "1366 x 768"
+        }
+    }
+}

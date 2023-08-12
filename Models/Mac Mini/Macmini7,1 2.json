@@ -1,0 +1,31 @@
+{
+    "Name": "Mac Mini (Late 2014)", 
+    "Type": "Mac Mini",
+    "image": "Macmini7,1.png",
+    "Info":{
+          "Overview": {
+              "Introduced": "October 2014",
+              "Discontinued": "October 2018",
+              "Model Identifier": "Macmini7,1" 
+          } ,
+          "Processor": {
+            "Processor Name": "Intel Core i5 or i7 (4260U, 4278U, 4308U, 4578U) ('Broadwell')",
+            "Processor Speed": "1.4, 2.6, 2.8, or 3.0 GHz",
+            "Number of Cores": "2"
+          },
+          "Software": {
+            "Original OS": "Mac OS X 10.10 (Yosemite)",
+            "Later OS": "Mac OS X 10.10.2 (Yosemite) or 10.11.1/2 (El Capitan)",
+            "Maximum OS": "Latest Release of macOS 12 (Monterey)"
+          },
+          "Memory": {
+            "Maximum Memory": "16 GB",
+            "Supported RAM": "not expandable (1600 MHz LPDDR3)"
+          },
+          "Graphics": {
+            "Graphics Chip": "Intel HD Graphics 5000 or Intel Iris Graphics 5100",
+            "Graphics Memory": "up to 1.5 GB (shared)"
+          }
+    }
+  
+  }

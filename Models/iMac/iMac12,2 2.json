@@ -1,0 +1,35 @@
+{
+    "Name": "iMac (27-inch, Late 2011)",
+    "Type": "iMac",
+    "image": "imac_unibody_27.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "May 2011",
+            "Discontinued": "October 2012",
+            "Model Identifier": "iMac12,2"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core i5 (2500S, 2400) or i7 (2600) ('Sandy Bridge')",
+            "Processor Speed": "2.7 GHz or 3.1 GHz (Core i5) 3.4 GHz (Core i7)",
+            "Number of Cores": "4"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.6.6 Snow Leopard",
+            "Later OS": "Mac OS X 10.6.7 Snow Leopard",
+            "Maximum OS": "macOS 10.13.6 High Sierra"
+        },
+        "Memory": {
+            "Maximum Memory": "32 GB (Actual) 16 GB (Apple)",
+            "Supported RAM": "1333 MHz DDR3 SO-DIMM"
+        },
+        "Graphics": {
+            "Graphics Chip": "AMD Radeon HD 6770M or 6970M",
+            "Graphics Memory": "512 MB GDDR5 (6770M) 1 or 2 GB GDDR5 (6970M)"
+        },
+        "Display": {
+            "Display Type": "27-inch (viewable) LED-backlit glossy widescreen TFT LCD",
+            "Aspect Ratio": "16:9",
+            "Native Resolution": "2560 x 1440"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "iMac (Retina 4K, 21.5-inch) <br> (Late 2015)", 
+    "Type": "iMac", 
+    "image": "imac_unibody_21.png",
+    "Info": {
+          "Overview": {
+            "Introduced": "October 2015",
+            "Discontinued": "June 2017",
+            "Model Identifier": "iMac16,2 (Retina)"
+          } ,
+          "Processor": {
+            "Processor Name": "Intel Core i5 (5675R) or Core i7 (5775R) ('Broadwell')",
+            "Processor Speed": "3.1 GHz or 3.3 GHz",
+            "Number of Cores": "4"
+          },
+          "Software": {
+            "Original OS": "OS X 10.11 (El Capitan)",
+            "Later OS": "OS X 10.11.1 (El Capitan)",
+            "Maximum OS": "Latest release of macOS 12 (Monterey)"
+          },
+          "Memory": {
+            "Maximum Memory": "16 GB",
+            "Supported RAM": "1867 MHz LPDDR3 SDRAM"
+          },
+          "Graphics": {
+            "Graphics Chip": "Intel Iris Pro Graphics 6200",
+            "Graphics Memory": "1.5 GB"
+          },
+          "Display": {
+            "Display Type": "21.5-inch (diagonal) LED-backlit display with IPS technology",
+            "Aspect Ratio": "16:9",
+            "Native Resolution": "4096 x 2304"
+          }
+    }
+  }

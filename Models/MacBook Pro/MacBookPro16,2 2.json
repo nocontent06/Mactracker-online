@@ -1,0 +1,35 @@
+{
+    "Name": "MacBook Pro <br> (13-inch, 2020, 4 TB 3 Ports)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_13_TB3_2020.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "May 2020",
+            "Discontinued": "Oct 2021",
+            "Model Identifier": "MacBookPro16,3"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core i5 or i7 (1038NG7, 1068NG7) ('Ice Lake')",
+            "Processor Speed": "2, 2.3 GHz",
+            "Number of Cores": "4",
+            "Number of Threads": "8"
+        },
+        "Software": {
+            "Original OS": "macOS 10.15.4 (Catalina)",
+            "Maximum OS": "Latest release of macOS (Ventura)"
+        },
+        "Memory": {
+            "Maximum Memory": "32 GB",
+            "Supported RAM": "3733 MHz LPDDR4X on-board Memory"
+        },
+        "Graphics": {
+            "Graphics Chip": "Intel Iris Plus Graphics",
+            "Graphics Memory": "Up to 1.5 GB (shared)"
+        },
+        "Display": {
+            "Display Type": "13.3-inch LED-backlit display with IPS technology",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "2560 x 1600"
+        }
+    }
+}

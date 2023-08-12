@@ -1,0 +1,35 @@
+{
+    "Name": "iMac (Retina 4K, 21.5-inch) <br> (2017)", 
+    "Type": "iMac", 
+    "image": "imac_unibody_21.png",
+    "Info": {
+          "Overview": {
+            "Introduced": "June 2017",
+            "Discontinued": "March 2019",
+            "Model Identifier": "iMac18,2"
+          } ,
+          "Processor": {
+            "Processor Name": "Intel Core i5 (7400, 7500) or Core i7 (7700)",
+            "Processor Speed": "3.0, 3.4, or 3.6 GHz",
+            "Number of Cores": "4"
+          },
+          "Software": {
+            "Original OS": "macOS 10.12.4 (Sierra)",
+            "Later OS": "macOS 10.12.5 (Sierra)",
+            "Maximum OS": "Latest release of macOS (13 - Ventura)"
+          },
+          "Memory": {
+            "Maximum Memory": "64 GB (Actual) 32 GB (Apple)",
+            "Supported RAM": "2400 MHz DDR4 SO-DIMM (non-user accessible)"
+          },
+          "Graphics": {
+            "Graphics Chip": "AMD Radeon Pro 555 or 560",
+            "Graphics Memory": "2 or 4 GB GDDR5"
+          },
+          "Display": {
+            "Display Type": "21.5-inch (diagonal) Retina 4K display with IPS technology",
+            "Aspect Ratio": "16:9",
+            "Native Resolution": "4096 x 2304"
+          }
+    }
+  }

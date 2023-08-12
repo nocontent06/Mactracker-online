@@ -1,0 +1,34 @@
+{
+    "Name": "MacBook Air <br> (Retina, 13-inch, 2020)",
+    "Type": "MacBook Air",
+    "image": "macbook_air_2018.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Mar 2020",
+            "Discontinued": "Nov 2020",
+            "Model Identifier": "MacBookAir9,1"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core i3, i5, i7 (1000NG4, 1030NG7, 1060NG7) ('Ice Lake')",
+            "Processor Speed": "1.1 (i3, i5) or 1.2 (i7) GHz",
+            "Number of Cores": "2 (i3) or 4 (i5, i7)"
+        },
+        "Software": {
+            "Original OS": "macOS 10.15.3 (Catalina)",
+            "Maximum OS": "Latest release of macOS (Ventura)"
+        },
+        "Memory": {
+            "Maximum Memory": "16 GB",
+            "Supported RAM": "3733 MHz LPDDR4X on-board"
+        },
+        "Graphics": {
+            "Graphics Chip": "Intel Iris Plus Graphics",
+            "Graphics Memory": "up to 1.5 GB (shared)"
+        },
+        "Display": {
+            "Display Type": "13.3-inch LED-backlit display with IPS technology",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "2560 x 1600"
+        }
+    }
+}

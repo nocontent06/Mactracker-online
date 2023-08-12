@@ -1,0 +1,35 @@
+{
+    "Name": "MacBook Pro <br> (15-inch, 2.53 GHz, Mid 2009)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_15_unibody_2008_11.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jun 2009",
+            "Discontinued": "Apr 2010",
+            "Model Identifier": "MacBookPro5,4"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core 2 Duo (P8700) ('Penryn')",
+            "Processor Speed": "2.53 GHz",
+            "Number of Cores": "2"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.5.7 (Leopard)",
+            "Later OS": "Mac OS X 10.6 (Snow Leopard)",
+            "Maximum OS": "OS X 10.11.6 (El Capitan)"
+        },
+        "Memory": {
+            "Maximum Memory": "8 GB",
+            "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+        },
+        "Graphics": {
+            "Graphics Chip": "NVIDIA  GeForce 9400M",
+            "Graphics Memory": "256 MB DDR3 (shared)"
+        },
+        "Display": {
+            "Display Type": "15.4-inch LED-backlit glossy widescreen display (Optional antiglare widescreen)",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "1440 x 900"
+        }
+    }
+}

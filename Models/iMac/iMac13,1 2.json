@@ -1,0 +1,34 @@
+{
+    "Name": "iMac (21.5-inch, Late 2012)", 
+    "Type": "iMac", 
+    "image": "imac_unibody_21.png",
+    "Info": {
+          "Overview": {
+              "Introduced": "October 2012",
+              "Discontinued": "September 2013",
+              "Model Identifier": "iMac13,1"
+          } ,
+          "Processor": {
+            "Processor Name": "Intel Core i5 (3330S, 3470S) or i7 (3770S) ('Ivy Bridge')",
+            "Processor Speed": "2.7 GHz, 2.9 GHz (i5), 3.1 GHz (i7)",
+            "Number of Cores": "4"
+          },
+          "Software": {
+            "Original OS": "OS X 10.8.2 (Mountain Lion)",
+            "Maximum OS": "macOS 10.15.7 (Catalina)"
+          },
+          "Memory": {
+            "Maximum Memory": "16 GB",
+            "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+          },
+          "Graphics": {
+            "Graphics Chip": "NVIDIA GeForce GT 640M or 650M",
+            "Graphics Memory": "512 MB GDDR5"
+          },
+          "Display": {
+            "Display Type": "21.5-inch LED-backlit IPS display",
+            "Aspect Ratio": "16:9",
+            "Native Resolution": "1920 x 1080"
+          }
+    }
+  }

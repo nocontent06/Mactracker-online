@@ -1,0 +1,44 @@
+{
+    "Name": "iPhone SE (1st Gen)",
+    "Type": "iPhone",
+    "image": "iphone_se1.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Mar 2016 (16, 64) <br> Mar 2017 (32, 128)",
+            "Discontinued": "Mar 2017 (16, 64) <br> Sep 2018 (32, 128)",
+            "Model Identifier": "iPhone8,4"
+        },
+        "Processor": {
+            "Processor Name": "Apple A9",
+            "Processor Speed": "1.85 GHz",
+            "Benchmark (SC / MC)": "546 / 1003",
+            "Number of Cores": "2"
+        },
+        "Software": {
+            "Original OS": "iOS 9.3",
+            "Maximum OS": "Latest release of iOS 15"
+        },
+        "Memory": {
+            "Built-in Memory": "2 GB LPDDR4"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR GT7600",
+            "Graphics Cores": "6"
+        },
+        "Display": {
+            "Display Type": "Retina HD LED-backlit LCD IPS Display",
+            "Display Size": "4-inch widescreen",
+            "Display Resolution": "1136x640"
+        },
+        "Storage": {
+            "Capacity": "16, 32, 64 or 128 GB"
+        },
+        "Camera": {
+            "Rear Camera": "1 - 12 MP",
+            "Front Camera": "1 - 1.2 MP"
+        },
+        "Battery": {
+            "Capacity": "1624 mAh"
+        }
+    }
+}

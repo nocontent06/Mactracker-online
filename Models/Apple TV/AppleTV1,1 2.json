@@ -1,0 +1,35 @@
+{
+    "Name": "Apple TV (1st Gen)", 
+    "Type": "Apple TV",
+    "image": "apple_tv.png",
+    "Info":{
+          "Overview": {
+              "Introduced": "Jan 2007",
+              "Discontinued": "Sep 2009 (40) Sep 2010 (160)",
+              "Model Identifier": "AppleTV1,1"
+          } ,
+          "Processor": {
+            "Processor Name": "Intel Pentium M",
+            "Processor Speed": "1 GHz",
+            "Number of Cores": "1"
+          },
+          "Memory": {
+            "Maximum Memory": "256 MB",
+            "Supported RAM": "400 MHz DDR2 SDRAM"
+          },
+          "Software": {
+            "Original OS": "Mac OS X 10.4.7 (Tiger) (Apple TV 1.0)",
+            "Maximum OS": "Apple TV 3.0.2"
+          },
+          "Media": {
+            "Video Output": "720p 50/60 Hz, 576p 50Hz, 480p 60Hz"
+          },
+          "Storage": {
+            "Capacity": "40 or 160 GB"
+        },
+          "Graphics": {
+            "Graphics Chip": "NVIDIA GeForce Go 7300"
+          }
+    }
+  
+  }

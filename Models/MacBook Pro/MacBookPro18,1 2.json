@@ -1,0 +1,33 @@
+{
+    "Name": "MacBook Pro <br> (16-inch, 2021)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_16_m1.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Oct 2021",
+            "Discontinued": "Jan 2023",
+            "Model Identifier": "MacBookPro18,1"
+        },
+        "Processor": {
+            "Chip Name": "Apple M1 Pro",
+            "Chip Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
+            "Number of Cores": "10 (8 High Performance, 2 High Efficiency)"
+        },
+        "Software": {
+            "Original OS": "macOS 12.0 (Monterey)",
+            "Maximum OS": "Latest release of macOS (Ventura)"
+        },
+        "Memory": {
+            "Maximum Memory": "32 GB",
+            "Supported RAM": "6400 MT/s LPDDR5"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple G13X",
+            "Graphics Cores": "16"
+        },
+        "Display": {
+            "Display Type": "16.2-inch Liquid Retina XDR display",
+            "Native Resolution": "3456 x 2234"
+        }
+    }
+}

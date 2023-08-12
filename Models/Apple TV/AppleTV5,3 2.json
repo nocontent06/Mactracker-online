@@ -1,0 +1,35 @@
+{
+    "Name": "Apple TV HD",
+    "Type": "Apple TV",
+    "image": "apple_tv4.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2015",
+            "Discontinued": "Oct 2022",
+            "Model Identifier": "AppleTV5,3"
+        },
+        "Processor": {
+            "Processor Name": "Apple A8",
+            "Processor Speed": "1.4 GHz",
+            "Number of Cores": "2"
+        },
+        "Memory": {
+            "Built-in Memory": "2 GB LPDDR3" 
+        },
+        "Software": {
+            "Original OS": "tvOS 9.0",
+            "Maximum OS": "Latest release of tvOS 16"
+        },
+        "Media": {
+            "Video Output": "1080p"
+        },
+        "Storage": {
+            "Capacity": "32 or 64 GB"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR 6XT GX6450",
+            "Graphics Cores": "4"
+        }
+    }
+
+}

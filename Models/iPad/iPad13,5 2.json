@@ -1,0 +1,48 @@
+{
+    "Name": "iPad Pro (11-inch)<br>(3rd Gen)<br>(TB)<br>(WiFi)",
+    "Type": "iPad",
+    "image": "iPad_pro_11-inch_3g.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "May 2021",
+            "Discontinued": "Oct 2022",
+            "Model Identifier": "iPad13,5"
+        },
+        "Processor": {
+            "Processor Name": "Apple M1",
+            "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
+            "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+            "Architecture": "64-bit"
+        },
+        "Software": {
+            "Original OS": "iPadOS 14.5",
+            "Maximum OS": "Latest release of iPadOS"
+        },
+        "Memory": {
+            "Built-in Memory": "16 GB LPDDR4X"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "Graphics Cores": "8"
+        },
+        "Display": {
+            "Display Size": "11-inch widescreen",
+            "Display Resolution": "2388 x 1668",
+            "Refresh Rate": "24 - 120 Hz ProMotion"
+        },
+        "Storage": {
+            "Capacity": "1 or 2 TB"
+        },
+        "Camera": {
+            "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+            "Front Camera": "1 - 12 MP"
+        },
+        "Battery": {
+            "Capacity": "7540 mAh"
+        },
+        "Features": {
+            "Apple Pencil Support": "2nd Gen",
+            "Authentication": "Face ID"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Name": "iPod touch (5th Gen)",
+    "Type": "iPod",
+    "image": "ipod_touch_5g.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Sep 2012 (32, 64) Jun 2014 (16)",
+            "Discontinued": "Jul 2015",
+            "Model Identifier": "iPod5,1"
+        },
+        "Processor": {
+            "Processor Name": "Apple A5",
+            "Processor Speed": "1 GHz (running at 800 MHz)",
+            "Architecture": "32-bit",
+            "Number of cores": "2"
+        },
+        "Memory": {
+            "Built-in Memory": "512 MB LPDDR2"
+        },
+        "Software": {
+            "Original OS": "iOS 6",
+            "Maximum OS": "iOS 9.3.5"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR SGX543MP2",
+            "Graphics Cores": "2"
+        },
+        "Display": {
+            "Display Type": "Widescreen multi-touch IPS display",
+            "Display Size": "4-inch",
+            "Display Resolution": "1136 x 640"
+        },
+        "Storage": {
+            "Capacity": "16, 32 or 64 GB"
+        },
+        "Battery": {
+            "Capacity": "1030 mAh"
+        }
+    }
+}

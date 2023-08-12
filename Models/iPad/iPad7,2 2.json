@@ -1,0 +1,48 @@
+{
+    "Name": "iPad Pro (12.9-inch)<br>(2nd Gen)<br>(WiFi + Cellular)",
+    "Type": "iPad",
+    "image": "iPad_pro_12.9-inch.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jun 2017",
+            "Discontinued": "Oct 2018",
+            "Model Identifier": "iPad7,2"
+        },
+        "Processor": {
+            "Processor Name": "Apple A10X Fusion",
+            "Processor Speed": "2.3 GHz",
+            "Number of Cores": "6 (3 High Performance, 3 High Efficiency)",
+            "Architecture": "64-bit"
+        },
+        "Software": {
+            "Original OS": "iOS 10.3.3",
+            "Maximum OS": "Latest release of iPadOS"
+        },
+        "Memory": {
+            "Built-in Memory": "4 GB LPDDR4"
+        },
+        "Graphics": {
+            "Graphics Chip": "PowerVR Series",
+            "Graphics Cores": "12"
+        },
+        "Display": {
+            "Display Size": "12.9-inch widescreen",
+            "Display Resolution": "2732 x 2048",
+            "Refresh Rate": "24 - 120 Hz ProMotion"
+        },
+        "Storage": {
+            "Capacity": "64, 256 or 512 GB"
+        },
+        "Camera": {
+            "Rear Camera": "1 - 12 MP",
+            "Front Camera": "1 - 7 MP"
+        },
+        "Battery": {
+            "Capacity": "10875 mAh"
+        },
+        "Features": {
+            "Apple Pencil Support": "1st Gen",
+            "Authentication": "Touch ID"
+        }
+    }
+}

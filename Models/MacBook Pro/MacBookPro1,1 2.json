@@ -1,0 +1,35 @@
+{
+    "Name": "MacBook Pro",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_15_2006-8.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "Jan 2006",
+            "Discontinued": "May 2006",
+            "Model Identifier": "MacBookPro1,1"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core Duo (T2400, T2500, T2600) ('Yonah') <br> <span style=\"font-size: 0.7em;\">Glossy display without Intel Core Duo T2400</span>",
+            "Processor Speed": "1.83, 2.0, 2.16 GHz",
+            "Number of Cores": "2"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 10.4.5 (Tiger)",
+            "Later OS": "Mac OS X 10.4.6 (Tiger)",
+            "Maximum OS": "Mac OS X 10.6.8 (Snow Leopard)"
+        },
+        "Memory": {
+            "Maximum Memory": "2 GB",
+            "Supported RAM": "667 MHz DDR2 SO-DIMM"
+        },
+        "Graphics": {
+            "Graphics Chip": "ATI Mobility Radeon X1600",
+            "Graphics Memory": "128 or 256 MB GDDR3"
+        },
+        "Display": {
+            "Display Type": "15.4-inch TFT (Optional glossy display)",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "1440 x 900"
+        }
+    }
+}

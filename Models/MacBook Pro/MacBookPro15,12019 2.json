@@ -1,0 +1,35 @@
+{
+    "Name": "MacBook Pro <br> (15-inch, 2019)",
+    "Type": "MacBook Pro",
+    "image": "macbook_pro_15_2018-19.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "May 2019",
+            "Discontinued": "Nov 2019",
+            "Model Identifier": "MacBookPro15,1 (2019)"
+        },
+        "Processor": {
+            "Processor Name": "Intel Core i7 or i9 (9750H, 9850H, 9980HK) ('Coffee Lake')",
+            "Processor Speed": "2.6, 2.3, 2.4 GHz",
+            "Number of Cores": "6 (i7), 8 (i9)",
+            "Number of Threads": "12 (i7), 16 (i9)"
+        },
+        "Software": {
+            "Original OS": "macOS 10.14.5 (Mojave)",
+            "Maximum OS": "Latest release of macOS (Ventura)"
+        },
+        "Memory": {
+            "Maximum Memory": "32 GB",
+            "Supported RAM": "2400 MHz DDR4 on-board Memory"
+        },
+        "Graphics": {
+            "Graphics Chip": "AMD Radeon Pro 555X, 560X and Intel UHD Graphics 630",
+            "Graphics Memory": "4 GB GDDR5 (Radeon Pro 555X, 560X), Up to 1.5 GB DDR3 (shared) (UHD 630)"
+        },
+        "Display": {
+            "Display Type": "15.4-inch LED-backlit display with IPS technology",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "2880 x 1800"
+        }
+    }
+}
