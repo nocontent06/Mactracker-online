@@ -499,17 +499,6 @@ const fetchAllJSON = async (directory, device) => {
 
 const processData = async () => {
 
-    function includesString(s1, s2) {
-        // Remove parentheses and spaces from both strings
-        const s1Cleaned = s1.replace(/\(|\)|\s/g, "");
-        const s2Cleaned = s2.replace(/\(|\)|\s/g, "");
-
-        log("s1Cleaned: " + s1Cleaned + " s2Cleaned: " + s2Cleaned)
-
-        // Check if s2Cleaned is a substring of s1Cleaned
-        return s1Cleaned.includes(s2Cleaned);
-    }
-
     function checkConcatenatedString(arr, targetString) {
         const targetArray = targetString.split(" ");
         targetArray.forEach((item, index) => {
@@ -594,7 +583,7 @@ const processData = async () => {
                 }
             });
             console.log("Target Array: " + targetArray);
-            log(targetArray.includes("MacBook") && targetArray.includes("Pro"))
+            // log(targetArray.includes("MacBook") && targetArray.includes("Pro"))
             return targetArray.every(item => arr.includes(item));
         }
 
