@@ -1,0 +1,582 @@
+[
+    {
+        "Name": "Mac Mini",
+        "Type": "MacMini",
+        "image": "Powermac10,1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "January 2005",
+                "Discontinued": "February 2006",
+                "Model Identifier": "PowerMac10,1"
+            },
+            "Processor": {
+                "Processor Name": "PowerPC 7447A (G4)",
+                "Processor Speed": "1.25 or 1.42 GHz",
+                "Number of Cores": "1",
+                "Manufacturing Process": "130 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.3.7 (Panther)",
+                "Later OS": "Mac OS X 10.4 (Tiger)",
+                "Maximum OS": "Mac OS X 10.5.8 (Leopard)"
+            },
+            "Memory": {
+                "Maximum Memory": "1 GB",
+                "Supported RAM": "333 MHz DDR SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon 9200",
+                "Graphics Memory": "32 MB"
+            }
+        }
+    }, {
+        "Name": "Mac Mini (Late 2005)",
+        "Type": "MacMini",
+        "image": "Powermac10,1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "January 2005",
+                "Discontinued": "February 2006",
+                "Model Identifier": "PowerMac10,2"
+            },
+            "Processor": {
+                "Processor Name": "PowerPC 7447A (G4)",
+                "Processor Speed": "1.33 or 1.5 GHz",
+                "Number of Cores": "1",
+                "Manufacturing Process": "130 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.3.7 (Panther)",
+                "Later OS": "Mac OS X 10.4 (Tiger)",
+                "Maximum OS": "Mac OS X 10.5.8 (Leopard)"
+            },
+            "Memory": {
+                "Maximum Memory": "1 GB",
+                "Supported RAM": "333 MHz DDR SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon 9200",
+                "Graphics Memory": "32 MB"
+            }
+        }
+    }, {
+        "Name": "Mac Mini (Early 2006)",
+        "Type": "MacMini",
+        "image": "Macmini1,1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "February 2006",
+                "Discontinued": "September 2006",
+                "Model Identifier": "Macmini1,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core Solo or Duo (T1200, T2300) ('Yonah')",
+                "Processor Speed": "1.5 or 1.66 GHz",
+                "Number of Cores": "1 (Solo) or 2 (Duo)",
+                "Manufacturing Process": "65 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.5 (Tiger)",
+                "Later OS": "Mac OS X 10.4.6 (Tiger)",
+                "Maximum OS": "Mac OS X 10.5.8 (Leopard)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel GMA 950",
+                "Graphics Memory": "64 MB (shared)"
+            }
+        }
+    }, {
+        "Name": "Mac Mini (Late 2006)",
+        "Type": "MacMini",
+        "image": "Macmini1,1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2006",
+                "Discontinued": "Aug 2007",
+                "Model Identifier": "Macmini1,1 (L)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core Duo (T2300, T2400) ('Yonah')",
+                "Processor Speed": "1.66 or 1.83 GHz",
+                "Number of Cores": "2",
+                "Manufacturing Process": "65 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.7 (Tiger)",
+                "Later OS": "Mac OS X 10.4.8 (Tiger)",
+                "Maximum OS": "Mac OS X 10.6.8 (Snow Leopard)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel GMA 950",
+                "Graphics Memory": "64 MB (shared)"
+            }
+        }
+    }, {
+        "Name": "Mac Mini (Mid 2007)",
+        "Type": "MacMini",
+        "image": "Macmini2,1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "August 2007",
+                "Discontinued": "March 2009",
+                "Model Identifier": "Macmini2,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T5600, T7200) ('Merom')",
+                "Processor Speed": "1.83 or 2.0 GHz",
+                "Number of Cores": "2",
+                "Manufacturing Process": "65 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.10 (Tiger)",
+                "Later OS": "Mac OS X 10.5(.2) (Leopard)",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "4 GB (Actual) 2 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel GMA 950",
+                "Graphics Memory": "64 MB (shared)"
+            }
+        }
+    }, {
+        "Name": "Mac Mini (Early 2009)",
+        "Type": "MacMini",
+        "image": "Macmini3,1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "March 2009",
+                "Discontinued": "October 2009",
+                "Model Identifier": "Macmini3,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P7350, P8400) ('Penryn')",
+                "Processor Speed": "2.0 or 2.26 GHz",
+                "Number of Cores": "2",
+                "Manufacturing Process": "45 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.6 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9400M",
+                "Graphics Memory": "up to 256 MB"
+            }
+        }
+    }, {
+        "Name": "Mac Mini (Late 2009)",
+        "Type": "MacMini",
+        "image": "Macmini3,1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2009",
+                "Discontinued": "Jun 2010",
+                "Model Identifier": "Macmini3,1 (L)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P7550, P8700, P8800) ('Penryn')",
+                "Processor Speed": "2.26, 2.53 or 2.66 GHz",
+                "Number of Cores": "2",
+                "Manufacturing Process": "45 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6 (Leopard)",
+                "Later OS": "Mac OS X 10.6.2 (Snow Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9400M",
+                "Graphics Memory": "up to 256 MB"
+            }
+        }
+    }, {
+        "Name": "Mac Mini (Mid 2010)",
+        "Type": "MacMini",
+        "image": "Macmini4,1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "June 2010",
+                "Discontinued": "July 2011",
+                "Model Identifier": "Macmini4,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P8600, P8800) ('Penryn')",
+                "Processor Speed": "2.4 or 2.66 GHz",
+                "Number of Cores": "2",
+                "Manufacturing Process": "45 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.3 (Snow Leopard)",
+                "Later OS": "Mac OS X 10.6.4 (Snow Leopard)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 320M",
+                "Graphics Memory": "up to 256 MB"
+            }
+        }
+    }, {
+        "Name": "Mac Mini (Mid 2011)",
+        "Type": "MacMini",
+        "image": "Macmini5,1 or 5,2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "July 2011",
+                "Discontinued": "October 2012",
+                "Model Identifier": "Macmini5,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (2415M) ('Sandy Bridge')",
+                "Processor Speed": "2.3 GHz",
+                "Number of Cores": "2",
+                "Manufacturing Process": "32 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7 (Lion)",
+                "Later OS": "Mac OS X 10.7.2/3 (Lion) or 10.8 (Mountain Lion)",
+                "Maximum OS": "Mac OS X 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1067/1333/1600 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 3000 or AMD Radeon HD 6630M",
+                "Graphics Memory": "from 288 MB (HD 3000) (shared) or 256 MB (HD 6630M)"
+            }
+        }
+    }, {
+        "Name": "Mac Mini (Mid 2011)",
+        "Type": "MacMini",
+        "image": "Macmini5,1 or 5,2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "July 2011",
+                "Discontinued": "October 2012",
+                "Model Identifier": "Macmini5,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (2520M, 2620M) ('Sandy Bridge')",
+                "Processor Speed": "2.5, or 2.7 GHz",
+                "Number of Cores": "2",
+                "Manufacturing Process": "32 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7 (Lion)",
+                "Later OS": "Mac OS X 10.7.2/3 (Lion) or 10.8 (Mountain Lion)",
+                "Maximum OS": "Mac OS X 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1067/1333/1600 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 3000 or AMD Radeon HD 6630M",
+                "Graphics Memory": "from 288 MB (HD 3000) (shared) or 256 MB (HD 6630M)"
+            }
+        }
+
+    }, {
+        "Name": "Mac Mini Server <br> (Mid 2011)",
+        "Type": "MacMini",
+        "image": "Macmini5,1 or 5,2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "July 2011",
+                "Discontinued": "October 2012",
+                "Model Identifier": "Macmini5,3"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (2635QM) ('Sandy Bridge')",
+                "Processor Speed": "2.0 GHz",
+                "Number of Cores": "4",
+                "Manufacturing Process": "32 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7 (Lion)",
+                "Later OS": "Mac OS X 10.7.2/3 (Lion) or 10.8 (Mountain Lion)",
+                "Maximum OS": "Mac OS X 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1067/1333/1600 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 3000",
+                "Graphics Memory": "from 288 MB (HD 3000) (shared)"
+            }
+        }
+
+    }, {
+        "Name": "Mac Mini (Late 2012)",
+        "Type": "MacMini",
+        "image": "Macmini6,1 or 6,2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2012",
+                "Discontinued": "October 2014",
+                "Model Identifier": "Macmini6,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (3210M) ('Ivy Bridge')",
+                "Processor Speed": "2.5 GHz",
+                "Number of Cores": "2",
+                "Manufacturing Process": "32 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.8.1 (Mountain Lion)",
+                "Later OS": "Mac OS X 10.8.2/3 (Mountain Lion) or 10.9(.2) (Mavericks)",
+                "Maximum OS": "Mac OS X 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 4000",
+                "Graphics Memory": "up to 1 GB (shared)"
+            }
+        }
+
+    }, {
+        "Name": "Mac Mini (Late 2012)",
+        "Type": "MacMini",
+        "image": "Macmini6,1 or 6,2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2012",
+                "Discontinued": "October 2014",
+                "Model Identifier": "Macmini6,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (3615QM, 3720QM) ('Ivy Bridge')",
+                "Processor Speed": "2.3, or 2.6 GHz",
+                "Number of Cores": "4",
+                "Manufacturing Process": "22 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.8.1 (Mountain Lion)",
+                "Later OS": "Mac OS X 10.8.2/3 (Mountain Lion) or 10.9(.2) (Mavericks)",
+                "Maximum OS": "Mac OS X 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 4000",
+                "Graphics Memory": "up to 1 GB (shared)"
+            }
+        }
+
+    }, {
+        "Name": "Mac Mini Server <br> (Late 2012)",
+        "Type": "MacMini",
+        "image": "Macmini6,1 or 6,2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2012",
+                "Discontinued": "October 2014",
+                "Model Identifier": "Macmini6,2 (Server)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (3615QM, 3720QM) ('Ivy Bridge')",
+                "Processor Speed": "2.3, or 2.6 GHz",
+                "Number of Cores": "4",
+                "Manufacturing Process": "22 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.8.1 (Mountain Lion)",
+                "Later OS": "Mac OS X 10.8.2/3 (Mountain Lion) or 10.9(.2) (Mavericks)",
+                "Maximum OS": "Mac OS X 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 4000",
+                "Graphics Memory": "up to 1 GB (shared)"
+            }
+        }
+
+    }, {
+        "Name": "Mac Mini (Late 2014)",
+        "Type": "MacMini",
+        "image": "Macmini7,1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2014",
+                "Discontinued": "October 2018",
+                "Model Identifier": "Macmini7,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (4260U, 4278U, 4308U, 4578U) ('Broadwell')",
+                "Processor Speed": "1.4, 2.6, 2.8, or 3.0 GHz",
+                "Number of Cores": "2",
+                "Manufacturing Process": "22 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.10 (Yosemite)",
+                "Later OS": "Mac OS X 10.10.2 (Yosemite) or 10.11.1/2 (El Capitan)",
+                "Maximum OS": "Latest Release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "not expandable (1600 MHz LPDDR3)"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 5000 or Intel Iris Graphics 5100",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            }
+        }
+
+    }, {
+        "Name": "Mac Mini (Late 2018)",
+        "Type": "MacMini",
+        "image": "Macmini8,1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2018",
+                "Discontinued": "Present",
+                "Model Identifier": "Macmini8,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i3, i5, or i7 (8100B, 8500B, 8700B) ('Coffee Lake')",
+                "Processor Speed": "3.6, 3.0, or 3.2 GHz",
+                "Number of Cores": "4 (i3), 6 (i5 and i7)",
+                "Manufacturing Process": "14 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 10.14 (Mojave)",
+                "Later OS": "none",
+                "Maximum OS": "Latest Release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "64 GB",
+                "Supported RAM": "2666 MHz DDR4 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel UHD Graphics 630",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            }
+        }
+
+    }, {
+        "Name": "Mac Mini (M1, 2020)",
+        "Type": "MacMini",
+        "image": "Macmini_2020-23.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "November 2020",
+                "Discontinued": "Jan 2023",
+                "Model Identifier": "Macmini9,1"
+            },
+            "Processor": {
+                "Chip Name": "Apple M1",
+                "Chip Speed": "3.2 GHz (high-performance) or 2.1 GHz (high-efficiency)",
+                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "Manufacturing Process": "5 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 11.0 (Big Sur)",
+                "Maximum OS": "Latest Release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "4266 MT/s LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G13G",
+                "Graphics Memory": "Shared through UMA (Unified Memory Architecture)",
+                "Graphics Cores": "8 (high-performance) or 4 (high-efficiency)"
+            }
+        }
+
+    }, {
+        "Name": "Mac Mini (2023)",
+        "Type": "MacMini",
+        "image": "Macmini_2020-23.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2023",
+                "Discontinued": "---",
+                "Model Identifier": "Mac14,3"
+            },
+            "Processor": {
+                "Processor Name": "Apple M2",
+                "Processor Speed": "3.5 GHz (high-performance) or 2.4 GHz (high-efficiency)",
+                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "Manufacturing Process": "5 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 13.0 (Ventura)",
+                "Maximum OS": "Latest Release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "24 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "10",
+                "Graphics Memory": "Shared through UMA (Unified Memory Architecture)"
+            }
+        }
+
+    }, {
+        "Name": "Mac Mini (2023)",
+        "Type": "MacMini",
+        "image": "Macmini_2020-23.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2023",
+                "Discontinued": "---",
+                "Model Identifier": "Mac14,12"
+            },
+            "Processor": {
+                "Processor Name": "Apple M2 Pro",
+                "Processor Speed": "3.5 GHz (high-performance) or 2.4 GHz (high-efficiency)",
+                "Number of Cores": "10 (6 high-performance, 4 high-efficiency), 12 (8 high-performance, 4 high-efficiency) or 16 (12 high-performance, 4 high-efficiency)",
+                "Manufacturing Process": "5 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 13.0 (Ventura)",
+                "Maximum OS": "Latest Release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "16, 19",
+                "Graphics Memory": "Shared through UMA (Unified Memory Architecture)"
+            }
+        }
+
+    }
+]

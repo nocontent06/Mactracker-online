@@ -1,0 +1,117 @@
+[
+    {
+        "Name": "Mac Studio (2022) <br> (M1 Max)",
+        "Type": "Mac Studio",
+        "image": "mac_studio_2022-23.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "March 2022",
+                "Discontinued": "Jun 2023",
+                "Model Identifier": "Mac13,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple M1 Max",
+                "Processor Speed": "3.2 (high-performance), 2.1 GHz (high-efficiency)",
+                "Number of Cores": "10 (8 high-performance, 2 high-efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 12.3 (Monterey)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "64 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G13X",
+                "Graphics Cores": "24, 32"
+            }
+        }
+    }, {
+        "Name": "Mac Studio (2022) <br> (M1 Ultra)",
+        "Type": "Mac Studio",
+        "image": "mac_studio_2022-23.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "March 2022",
+                "Discontinued": "Present",
+                "Model Identifier": "Mac13,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple M1 Ultra",
+                "Processor Speed": "3.2 (high-performance), 2.1 GHz (high-efficiency)",
+                "Number of Cores": "20 (16 - high performance, 4 - high efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 12.3 (Monterey)",
+                "Maximum OS": "Latest release of macOS (13 - Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "128 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G13X",
+                "Graphics Memory": "Shared with system through UMA"
+            }
+        }
+    },
+    {
+        "Name": "Mac Studio (2023) <br> (M2 Max)",
+        "Type": "Mac Studio",
+        "image": "mac_studio_2022-23.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2023",
+                "Discontinued": "---",
+                "Model Identifier": "Mac14,13"
+            },
+            "Processor": {
+                "Processor Name": "Apple M2 Max",
+                "Processor Speed": "3.5 (high-performance), 2.4 GHz (high-efficiency)",
+                "Number of Cores": "12 (8 high-performance, 4 high-efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 13.4 (Ventura)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "64 GB / 96 GB (with 38-Core GPU)",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "30, 38"
+            }
+        }
+    },
+    {
+        "Name": "Mac Studio (2023) <br> (M2 Ultra)",
+        "Type": "Mac Studio",
+        "image": "mac_studio_2022-23.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2023",
+                "Discontinued": "---",
+                "Model Identifier": "Mac14,14"
+            },
+            "Processor": {
+                "Processor Name": "Apple M2 Ultra",
+                "Processor Speed": "3.5 (high-performance), 2.4 GHz (high-efficiency)",
+                "Number of Cores": "24 (16 high-performance, 8 high-efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 13.4 (Ventura)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "192 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "60, 76"
+            }
+        }
+    }
+]

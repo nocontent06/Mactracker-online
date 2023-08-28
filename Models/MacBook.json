@@ -1,0 +1,471 @@
+[
+    {
+        "Name": "MacBook (13-inch)",
+        "Type": "MacBook",
+        "image": "macbook_white.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2006",
+                "Discontinued": "Nov 2006",
+                "Model Identifier": "MacBook1,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core Duo (T2400, T2500) ('Yonah')",
+                "Processor Speed": "1.83 GHz, 2.0 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.6 (Tiger)",
+                "Maximum OS": "Mac OS X 10.6.8 (Snow Leopard)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel GMA 950",
+                "Graphics Memory": "64 MB DDR2 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook (13-inch, Late 2006)",
+        "Type": "MacBook",
+        "image": "macbook_white.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2006",
+                "Discontinued": "May 2007",
+                "Model Identifier": "MacBook2,1 (2006)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T5600, T7200) ('Merom')",
+                "Processor Speed": "1.83 GHz, 2.0 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.8 (Tiger)",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "3 GB (Actual) 2 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel GMA 950",
+                "Graphics Memory": "64 MB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch (diagonal) glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook <br> (13-inch, Mid 2007)",
+        "Type": "MacBook",
+        "image": "macbook_white.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2007",
+                "Discontinued": "Nov 2007",
+                "Model Identifier": "MacBook2,1 (2007)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T7200, T7400) ('Merom')",
+                "Processor Speed": "2.0 GHz, 2.16 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.9 (Tiger)",
+                "Later OS": "Mac OS X 10.4.10 (Tiger)",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "3 GB (Actual) 2 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel GMA 950",
+                "Graphics Memory": "64 MB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch (diagonal) glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook <br> (13-inch, Late 2007)",
+        "Type": "MacBook",
+        "image": "macbook_white.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2007",
+                "Discontinued": "Feb 2008",
+                "Model Identifier": "MacBook3,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T7300, T7500) ('Merom')",
+                "Processor Speed": "2.0 GHz, 2.2 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5 (Leopard)",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "6 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel GMA X3100",
+                "Graphics Memory": "144 MB (standard), 160 MB (ext. Disp.) (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch (diagonal) glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook <br> (13-inch, Early 2008)",
+        "Type": "MacBook",
+        "image": "macbook_white.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Feb 2008",
+                "Discontinued": "Oct 2008",
+                "Model Identifier": "MacBook4,1 (E2008)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T8100, T8300) ('Penryn')",
+                "Processor Speed": "2.1 GHz, 2.4 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.2 (Leopard)",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "6 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel GMA X3100",
+                "Graphics Memory": "144 MB (standard), 160 MB (ext. Disp.) (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch (diagonal) glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook <br> (13-inch, Late 2008)",
+        "Type": "MacBook",
+        "image": "macbook_white.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2008",
+                "Discontinued": "Jan 2009",
+                "Model Identifier": "MacBook4,1 (L2008)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T8100) ('Penryn')",
+                "Processor Speed": "2.1 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.4 (Leopard)",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "6 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel GMA X3100",
+                "Graphics Memory": "144 MB (standard), 160 MB (ext. Disp.) (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch (diagonal) glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook <br> (13-inch, Alum., Late 2008)",
+        "Type": "MacBook",
+        "image": "macbook_alu.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2008",
+                "Discontinued": "Jun 2009",
+                "Model Identifier": "MacBook5,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P7350, P8600) ('Penryn')",
+                "Processor Speed": "2.0, 2.4 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.5 (Leopard)",
+                "Later OS": "Mac OS X 10.5.6 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9400M",
+                "Graphics Memory": "256 MB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch (diagonal) LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook <br> (13-inch, Early 2009)",
+        "Type": "MacBook",
+        "image": "macbook_white.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2009",
+                "Discontinued": "May 2009",
+                "Model Identifier": "MacBook5,2 (E2009)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P7350) ('Penryn')",
+                "Processor Speed": "2.0 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.6 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "6 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9400M",
+                "Graphics Memory": "256 MB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch (diagonal) glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook <br> (13-inch, Mid 2009)",
+        "Type": "MacBook",
+        "image": "macbook_white.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2009",
+                "Discontinued": "May 2009",
+                "Model Identifier": "MacBook5,2 (M2009)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P7450) ('Penryn')",
+                "Processor Speed": "2.13 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.7 (Leopard)",
+                "Later OS": "Mac OS X 10.6 (Snow Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "6 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9400M",
+                "Graphics Memory": "256 MB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch (diagonal) glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook <br> (13-inch, Late 2009)",
+        "Type": "MacBook",
+        "image": "macbook_white.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2009",
+                "Discontinued": "May 2010",
+                "Model Identifier": "MacBook6,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P7550) ('Penryn')",
+                "Processor Speed": "2.26 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.1 (Snow Leopard)",
+                "Later OS": "Mac OS X 10.6.1 (Snow Leopard)",
+                "Maximum OS": "OS X 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9400M",
+                "Graphics Memory": "256 MB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch (diagonal) LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook <br> (13-inch, Mid 2010)",
+        "Type": "MacBook",
+        "image": "macbook_white.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2010",
+                "Discontinued": "Jul 2011",
+                "Model Identifier": "MacBook7,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P8600) ('Penryn')",
+                "Processor Speed": "2.4 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.3 (Snow Leopard)",
+                "Later OS": "Mac OS X 10.6.4 (Snow Leopard), 10.7.2 (Lion)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 320M",
+                "Graphics Memory": "256 MB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch (diagonal) LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook <br> (Retina, 12-inch, Early 2015)",
+        "Type": "MacBook",
+        "image": "macbook_retina.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Apr 2015",
+                "Discontinued": "Apr 2016",
+                "Model Identifier": "MacBook8,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core M (M-5Y31, M-5Y51, M-5Y71) ('Broadwell')",
+                "Processor Speed": "1.1, 1.2, 1.3 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "OS X 10.10.2 (Yosemite)",
+                "Later OS": "OS X 10.11, 10.11.1, 10.11.2 (El Capitan)",
+                "Maximum OS": "Latest release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1600 MHz LPDDR3"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 5300",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "12-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2304 x 1440"
+            }
+        }
+    }, {
+        "Name": "MacBook <br> (Retina, 12-inch, Early 2016)",
+        "Type": "MacBook",
+        "image": "macbook_retina.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Apr 2016",
+                "Discontinued": "Jun 2017",
+                "Model Identifier": "MacBook9,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core m3, m5, m7 (6Y30, 6Y54, 6Y75) ('Skylake')",
+                "Processor Speed": "1.1, 1.2, 1.3 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "OS X 10.11.4 (El Capitan)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1866 MHz LPDDR3"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 515",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "12-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2304 x 1440"
+            }
+        }
+    }, {
+        "Name": "MacBook <br> (Retina, 12-inch, 2017)",
+        "Type": "MacBook",
+        "image": "macbook_retina_sierra.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2017",
+                "Discontinued": "Jul 2019",
+                "Model Identifier": "MacBook10,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core m3, i5, i7 (7Y32, 7Y54, 7Y75) ('Kaby Lake')",
+                "Processor Speed": "1.2, 1.3, 1.4 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "OS X 10.12.5 (Sierra)",
+                "Maximum OS": "Latest release of macOS 13 (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1866 MHz LPDDR3"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 615",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "12-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2304 x 1440"
+            }
+        }
+    }
+]

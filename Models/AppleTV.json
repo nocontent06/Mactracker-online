@@ -1,0 +1,281 @@
+[
+    {
+        "Name": "Apple TV (1st Gen)",
+        "Type": "AppleTV",
+        "image": "apple_tv.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2007",
+                "Discontinued": "Sep 2009 (40) Sep 2010 (160)",
+                "Model Identifier": "AppleTV1,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Pentium M",
+                "Processor Speed": "1 GHz",
+                "Number of Cores": "1"
+            },
+            "Memory": {
+                "Maximum Memory": "256 MB",
+                "Supported RAM": "400 MHz DDR2 SDRAM"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.7 (Tiger) (Apple TV 1.0)",
+                "Maximum OS": "Apple TV 3.0.2"
+            },
+            "Media": {
+                "Video Output": "720p 50/60 Hz, 576p 50Hz, 480p 60Hz"
+            },
+            "Storage": {
+                "Capacity": "40 or 160 GB"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce Go 7300"
+            }
+        }
+
+    },
+    {
+        "Name": "Apple TV (2nd Gen)",
+        "Type": "AppleTV",
+        "image": "apple_tv2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2010",
+                "Discontinued": "Mar 2012",
+                "Model Identifier": "AppleTV2,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A4",
+                "Processor Speed": "1 GHz",
+                "Number of Cores": "1"
+            },
+            "Memory": {
+                "Built-in Memory": "256 MB"
+            },
+            "Software": {
+                "Original OS": "iOS 4.1 (Apple TV 4.0)",
+                "Maximum OS": "iOS 7.1.2 (Apple TV 6.2.1)"
+            },
+            "Media": {
+                "Video Output": "720p"
+            },
+            "Storage": {
+              "Capacity": "8 GB"
+          },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX535"
+            }
+        }
+    
+    },
+    {
+        "Name": "Apple TV (3rd Gen)<br>(Early 2012)",
+        "Type": "AppleTV",
+        "image": "apple_tv2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2012",
+                "Discontinued": "Oct 2016",
+                "Model Identifier": "AppleTV3,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A5",
+                "Processor Speed": "1 GHz",
+                "Number of Cores": "1"
+            },
+            "Memory": {
+                "Built-in Memory": "512 MB LPDDR2" 
+            },
+            "Software": {
+                "Original OS": "iOS 5.1 (Apple TV 5.0)",
+                "Maximum OS": "iOS 8.4.4 (Apple TV 7.9)"
+            },
+            "Media": {
+                "Video Output": "1080p"
+            },
+            "Storage": {
+                "Capacity": "8 GB"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX543MP2",
+                "Graphics Cores": "2"
+            }
+        }
+    
+    },
+    {
+        "Name": "Apple TV (3rd Gen)<br>(Early 2013)",
+        "Type": "AppleTV",
+        "image": "apple_tv2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2013",
+                "Discontinued": "Oct 2016",
+                "Model Identifier": "AppleTV3,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A5",
+                "Processor Speed": "1 GHz",
+                "Number of Cores": "1"
+            },
+            "Memory": {
+                "Built-in Memory": "512 MB LPDDR2" 
+            },
+            "Software": {
+                "Original OS": "iOS 6.1 (Apple TV 6.0)",
+                "Maximum OS": "iOS 8.4.4 (Apple TV 7.9)"
+            },
+            "Media": {
+                "Video Output": "1080p"
+            },
+            "Storage": {
+                "Capacity": "8 GB"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX543MP2",
+                "Graphics Cores": "2"
+            }
+        }
+    
+    },
+    {
+        "Name": "Apple TV HD",
+        "Type": "AppleTV",
+        "image": "apple_tv4.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2015",
+                "Discontinued": "Oct 2022",
+                "Model Identifier": "AppleTV5,3"
+            },
+            "Processor": {
+                "Processor Name": "Apple A8",
+                "Processor Speed": "1.4 GHz",
+                "Number of Cores": "2"
+            },
+            "Memory": {
+                "Built-in Memory": "2 GB LPDDR3" 
+            },
+            "Software": {
+                "Original OS": "tvOS 9.0",
+                "Maximum OS": "Latest release of tvOS 16"
+            },
+            "Media": {
+                "Video Output": "1080p"
+            },
+            "Storage": {
+                "Capacity": "32 or 64 GB"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR 6XT GX6450",
+                "Graphics Cores": "4"
+            }
+        }
+    
+    },
+    {
+        "Name": "Apple TV 4K (1st Gen)",
+        "Type": "AppleTV",
+        "image": "apple_tv4k.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2017",
+                "Discontinued": "Apr 2021",
+                "Model Identifier": "AppleTV6,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A10X Fusion",
+                "Processor Speed": "2.3 GHz",
+                "Number of Cores": "6 (3 high performance, 3 high efficiency)"
+            },
+            "Memory": {
+                "Built-in Memory": "3 GB LPDDR4" 
+            },
+            "Software": {
+                "Original OS": "tvOS 11.0",
+                "Maximum OS": "Latest release of tvOS"
+            },
+            "Media": {
+                "Video Output": "4K (2160p), Dolby Vision and HDR10"
+            },
+            "Storage": {
+                "Capacity": "32 or 64 GB"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR Series",
+                "Graphics Cores": "12"
+            }
+        }
+    
+    },
+    {
+        "Name": "Apple TV 4K (2nd Gen)",
+        "Type": "AppleTV",
+        "image": "apple_tv4k_2g.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2021",
+                "Discontinued": "Oct 2022",
+                "Model Identifier": "AppleTV11,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A12 Bionic",
+                "Processor Speed": "2.5 GHz",
+                "Number of Cores": "6 (2 high performance, 4 high efficiency)"
+            },
+            "Memory": {
+                "Built-in Memory": "3 GB LPDDR4" 
+            },
+            "Software": {
+                "Original OS": "tvOS 14.5",
+                "Maximum OS": "Latest release of tvOS"
+            },
+            "Media": {
+                "Video Output": "4K (2160p), Dolby Vision and HDR10"
+            },
+            "Storage": {
+                "Capacity": "32 or 64 GB"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G11P",
+                "Graphics Cores": "4"
+            }
+        }
+    
+    },
+    {
+        "Name": "Apple TV 4K (3rd Gen)",
+        "Type": "AppleTV",
+        "image": "apple_tv4k_3g.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2022",
+                "Discontinued": "--",
+                "Model Identifier": "AppleTV14,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A15 Bionic",
+                "Processor Speed": "3.2 GHz",
+                "Number of Cores": "5 (2 high performance, 3 high efficiency)"
+            },
+            "Memory": {
+                "Built-in Memory": "4 GB LPDDR4" 
+            },
+            "Software": {
+                "Original OS": "tvOS 16.1",
+                "Maximum OS": "Latest release of tvOS"
+            },
+            "Media": {
+                "Video Output": "4K (2160p), Dolby Vision and HDR10"
+            },
+            "Storage": {
+                "Capacity": "64 (Wi-Fi) or 128 GB (Wi-Fi + Ethernet)"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            }
+        }
+    
+    }
+]

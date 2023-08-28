@@ -1,0 +1,2032 @@
+[
+    {
+        "Name": "iPhone",
+        "Type": "iPhone",
+        "image": "iphone_3g.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2007",
+                "Discontinued": "Sep 2007 (4 GB) Jun (8 & 16 GB)",
+                "Model Identifier": "iPhone1,1"
+            },
+            "Processor": {
+                "Processor Name": "Samsung ARM 1176JZ(F)-S",
+                "Processor Speed": "620 MHz (running at 412 MHz)",
+                "Number of Cores": "1"
+            },
+            "Software": {
+                "Original OS": "<a class='results-link' href='detailed.html?model=iPhoneOS&type=iOS'>iPhoneOS 1.0</a>",
+                "Maximum OS": "iPhoneOS 3.1.3"
+            },
+            "Memory": {
+                "Built-in Memory": "128 MB LPDDR"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR MBX Lite",
+                "Graphics Cores": "1"
+            },
+            "Display": {
+                "Display Type": "LCD Display",
+                "Display Size": "3.5-inch widescreen",
+                "Display Resolution": "320 by 480"
+            },
+            "Storage": {
+                "Capacity": "4, 8, or 16 GB"
+            }
+        }
+    }, {
+        "Name": "iPhone 3G",
+        "Type": "iPhone",
+        "image": "iphone_3g.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2008",
+                "Discontinued": "Jun 2010",
+                "Model Identifier": "iPhone1,2"
+            },
+            "Processor": {
+                "Processor Name": "Samsung ARM 1176JZ(F)-S",
+                "Processor Speed": "620 MHz (running at 412 MHz)",
+                "Number of Cores": "1"
+            },
+            "Software": {
+                "Original OS": "iPhoneOS 2.0",
+                "Maximum OS": "iOS 4.2.1"
+            },
+            "Memory": {
+                "Built-in Memory": "128 MB LPDDR"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR MBX Lite",
+                "Graphics Cores": "1"
+            },
+            "Display": {
+                "Display Type": "LCD Display",
+                "Display Size": "3.5-inch widescreen",
+                "Display Resolution": "320 by 480"
+            },
+            "Storage": {
+                "Capacity": "8 or 16 GB"
+            }
+        }
+    }, {
+        "Name": "iPhone 3GS",
+        "Type": "iPhone",
+        "image": "iphone_3gs.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2009 (16, 32) Jun 2010 (8)",
+                "Discontinued": "Jun 2010 (16, 32) Sep (8)",
+                "Model Identifier": "iPhone2,1"
+            },
+            "Processor": {
+                "Processor Name": "Samsung ARM Cortex-A8",
+                "Processor Speed": "833 MHz (running at 600 MHz)",
+                "Number of Cores": "1"
+            },
+            "Software": {
+                "Original OS": "iPhoneOS 3.0",
+                "Maximum OS": "iOS 6.1.6"
+            },
+            "Memory": {
+                "Built-in Memory": "256 MB LPDDR"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX535",
+                "Graphics Cores": "1"
+            },
+            "Display": {
+                "Display Type": "LCD Display",
+                "Display Size": "3.5-inch widescreen",
+                "Display Resolution": "320 by 480"
+            },
+            "Storage": {
+                "Capacity": "8, 16 or 32 GB"
+            }
+        }
+    }, {
+        "Name": "iPhone 4 (GSM)",
+        "Type": "iPhone",
+        "image": "iphone_4.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2010 (16, 32 Black) <br> Apr 2011 (16, 32 White)",
+                "Discontinued": "Oct 2011 (16, 32)",
+                "Model Identifier": "iPhone3,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A4",
+                "Processor Speed": "1 GHz (running at 800 MHz)",
+                "Number of Cores": "1"
+            },
+            "Software": {
+                "Original OS": "iOS 4.0",
+                "Maximum OS": "iOS 7.1.2"
+            },
+            "Memory": {
+                "Built-in Memory": "512 MB LPDDR"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX535",
+                "Graphics Cores": "1"
+            },
+            "Display": {
+                "Display Type": "Retina LED-backlit LCD IPS Display",
+                "Display Size": "3.5-inch widescreen",
+                "Display Resolution": "960 by 640 pixels"
+            },
+            "Storage": {
+                "Capacity": "16 or 32 GB"
+            }
+        }
+    }, {
+        "Name": "iPhone 4 (GSM) (8 GB)",
+        "Type": "iPhone",
+        "image": "iphone_4.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2011",
+                "Discontinued": "Sep 2013",
+                "Model Identifier": "iPhone3,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A4",
+                "Processor Speed": "1 GHz (running at 800 MHz)",
+                "Number of Cores": "1"
+            },
+            "Software": {
+                "Original OS": "iOS 4.0",
+                "Maximum OS": "iOS 7.1.2"
+            },
+            "Memory": {
+                "Built-in Memory": "512 MB LPDDR"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX535",
+                "Graphics Cores": "1"
+            },
+            "Display": {
+                "Display Type": "Retina LED-backlit LCD IPS Display",
+                "Display Size": "3.5-inch widescreen",
+                "Display Resolution": "960 by 640 pixels"
+            },
+            "Storage": {
+                "Capacity": "8 GB"
+            }
+        }
+    }, {
+        "Name": "iPhone 4 (CDMA)",
+        "Type": "iPhone",
+        "image": "iphone_4.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2011 (16, 32 Black) <br> Apr 2011 (16, 32 White) <br> Oct 2011 (8)",
+                "Discontinued": "Oct 2011 (16, 32) Sep 2013 (8)",
+                "Model Identifier": "iPhone3,3"
+            },
+            "Processor": {
+                "Processor Name": "Apple A4",
+                "Processor Speed": "1 GHz (running at 800 MHz)",
+                "Number of Cores": "1"
+            },
+            "Software": {
+                "Original OS": "iOS 4.2.5",
+                "Maximum OS": "iOS 7.1.2"
+            },
+            "Memory": {
+                "Built-in Memory": "512 MB LPDDR"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX535",
+                "Graphics Cores": "1"
+            },
+            "Display": {
+                "Display Type": "Retina LED-backlit LCD IPS Display",
+                "Display Size": "3.5-inch widescreen",
+                "Display Resolution": "960 by 640 pixels"
+            },
+            "Storage": {
+                "Capacity": "8, 16 or 32 GB"
+            }
+        }
+    }, {
+        "Name": "iPhone 4s",
+        "Type": "iPhone",
+        "image": "iphone_4S.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2011 (16, 32, 64) <br> Sep 2013 (8)",
+                "Discontinued": "Sep 2012 (32, 64) Sep 2013 (16), Sep 2014 (8)",
+                "Model Identifier": "iPhone4,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A5",
+                "Processor Speed": "1 GHz (running at 800 MHz)",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "iOS 5.0",
+                "Maximum OS": "iOS 9.3.6"
+            },
+            "Memory": {
+                "Built-in Memory": "512 MB LPDDR2"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX543MP2",
+                "Graphics Cores": "2"
+            },
+            "Display": {
+                "Display Type": "Retina LED-backlit LCD IPS Display",
+                "Display Size": "3.5-inch widescreen",
+                "Display Resolution": "960 by 640 pixels"
+            },
+            "Storage": {
+                "Capacity": "8, 16, 32, 64 GB"
+            }
+        }
+    }, {
+        "Name": "iPhone 5 (GSM)",
+        "Type": "iPhone",
+        "image": "iphone_5.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2012",
+                "Discontinued": "Sep 2013",
+                "Model Identifier": "iPhone5,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A6",
+                "Processor Speed": "1.3 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "iOS 6.0",
+                "Maximum OS": "iOS 10.3.4"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR2"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX543MP3",
+                "Graphics Cores": "3"
+            },
+            "Display": {
+                "Display Type": "Retina LED-backlit LCD IPS Display",
+                "Display Size": "4-inch widescreen",
+                "Display Resolution": "1136 by 640 pixels"
+            },
+            "Storage": {
+                "Capacity": "16, 32 or 64 GB"
+            }
+        }
+    }, {
+        "Name": "iPhone 5 (GSM and CDMA)",
+        "Type": "iPhone",
+        "image": "iphone_5.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2012",
+                "Discontinued": "Sep 2013",
+                "Model Identifier": "iPhone5,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A6",
+                "Processor Speed": "1.3 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "iOS 6.0",
+                "Maximum OS": "iOS 10.3.4"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR2"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX543MP3",
+                "Graphics Cores": "3"
+            },
+            "Display": {
+                "Display Type": "Retina LED-backlit LCD IPS Display",
+                "Display Size": "4-inch widescreen",
+                "Display Resolution": "1136 by 640 pixels"
+            },
+            "Storage": {
+                "Capacity": "16, 32 or 64 GB"
+            }
+        }
+    }, {
+        "Name": "iPhone 5 (China)",
+        "Type": "iPhone",
+        "image": "iphone_5.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Dec 2012",
+                "Discontinued": "Sep 2013",
+                "Model Identifier": "iPhone5,2 (China)"
+            },
+            "Processor": {
+                "Processor Name": "Apple A6",
+                "Processor Speed": "1.3 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "iOS 6.0",
+                "Maximum OS": "iOS 10.3.4"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR2"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX543MP3",
+                "Graphics Cores": "3"
+            },
+            "Display": {
+                "Display Type": "Retina LED-backlit LCD IPS Display",
+                "Display Size": "4-inch widescreen",
+                "Display Resolution": "1136 by 640 pixels"
+            },
+            "Storage": {
+                "Capacity": "16, 32 or 64 GB"
+            }
+        }
+    }, {
+        "Name": "iPhone 5c (GSM & CDMA)",
+        "Type": "iPhone",
+        "image": "iphone_5c.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2013 (16, 32), Mar 2014 (8)",
+                "Discontinued": "Sep 2014 (16, 32), Sep 2015 (8)",
+                "Model Identifier": "iPhone5,3"
+            },
+            "Processor": {
+                "Processor Name": "Apple A6",
+                "Processor Speed": "1.3 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "iOS 7.0",
+                "Maximum OS": "iOS 10.3.3"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR2"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX543MP3",
+                "Graphics Cores": "3"
+            },
+            "Display": {
+                "Display Type": "Retina LED-backlit LCD IPS Display",
+                "Display Size": "4-inch widescreen",
+                "Display Resolution": "1136 by 640 pixels"
+            },
+            "Storage": {
+                "Capacity": "16, 32 or 64 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 8 MP",
+                "Front Camera": "1 - 1.2 MP"
+            },
+            "Battery": {
+                "Capacity": "1510 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 5c (CDMA)",
+        "Type": "iPhone",
+        "image": "iphone_5c.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2013 (16, 32), Mar 2014 (8)",
+                "Discontinued": "Sep 2014 (16, 32), Sep 2015 (8)",
+                "Model Identifier": "iPhone5,4"
+            },
+            "Processor": {
+                "Processor Name": "Apple A6",
+                "Processor Speed": "1.3 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "iOS 7.0",
+                "Maximum OS": "iOS 10.3.3"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR2"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX543MP3",
+                "Graphics Cores": "3"
+            },
+            "Display": {
+                "Display Type": "Retina LED-backlit LCD IPS Display",
+                "Display Size": "4-inch widescreen",
+                "Display Resolution": "1136 by 640 pixels"
+            },
+            "Storage": {
+                "Capacity": "16, 32 or 64 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 8 MP",
+                "Front Camera": "1 - 1.2 MP"
+            },
+            "Battery": {
+                "Capacity": "1510 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 5s (GSM)",
+        "Type": "iPhone",
+        "image": "iphone_5s.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2013",
+                "Discontinued": "Mar 2016",
+                "Model Identifier": "iPhone6,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A7",
+                "Processor Speed": "1.3 GHz",
+                "Benchmark (SC / MC)": "259 / 477",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "iOS 7.0",
+                "Maximum OS": "iOS 12.5.6"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR3"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR G6430",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Retina LED-backlit LCD IPS Display",
+                "Display Size": "4-inch widescreen",
+                "Display Resolution": "1136 by 640 pixels"
+            },
+            "Storage": {
+                "Capacity": "16, 32 or 64 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 8 MP",
+                "Front Camera": "1 - 1.2 MP"
+            },
+            "Battery": {
+                "Capacity": "1560 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 5s (GSM and CDMA)",
+        "Type": "iPhone",
+        "image": "iphone_5s.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2013",
+                "Discontinued": "Mar 2016",
+                "Model Identifier": "iPhone6,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A7",
+                "Processor Speed": "1.3 GHz",
+                "Benchmark (SC / MC)": "259 / 477",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "iOS 7.0",
+                "Maximum OS": "iOS 12.5.6"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR3"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR G6430",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Retina LED-backlit LCD IPS Display",
+                "Display Size": "4-inch widescreen",
+                "Display Resolution": "1136 by 640 pixels"
+            },
+            "Storage": {
+                "Capacity": "16, 32 or 64 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 8 MP",
+                "Front Camera": "1 - 1.2 MP"
+            },
+            "Battery": {
+                "Capacity": "1560 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 6",
+        "Type": "iPhone",
+        "image": "iphone_6.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2014",
+                "Discontinued": "Sep 2016",
+                "Model Identifier": "iPhone7,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A8",
+                "Processor Speed": "1.4 GHz",
+                "Benchmark (SC / MC)": "308 / 569",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "iOS 8.0",
+                "Maximum OS": "iOS 12.5.6"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR3"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR G6450",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "4.7-inch widescreen",
+                "Display Resolution": "1334 by 750 pixels"
+            },
+            "Storage": {
+                "Capacity": "16, 32, 64 or 128 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 8 MP",
+                "Front Camera": "1 - 1.2 MP"
+            },
+            "Battery": {
+                "Capacity": "1810 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 6 Plus",
+        "Type": "iPhone",
+        "image": "iphone_6_plus.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2014",
+                "Discontinued": "Sep 2016",
+                "Model Identifier": "iPhone7,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A8",
+                "Processor Speed": "1.4 GHz",
+                "Benchmark (SC / MC)": "308 / 569",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "iOS 8.0",
+                "Maximum OS": "iOS 12.5.6"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR3"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR G6450",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "5.5-inch widescreen",
+                "Display Resolution": "1920 by 1080 pixels"
+            },
+            "Storage": {
+                "Capacity": "16, 64 or 128 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 8 MP",
+                "Front Camera": "1 - 1.2 MP"
+            },
+            "Battery": {
+                "Capacity": "1810 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 6s",
+        "Type": "iPhone",
+        "image": "iphone_6s.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2015 (16, 64, 128) <br> Sep 2016 (32 GB)",
+                "Discontinued": "Sep 2016 (16, 64) <br> Sep 2018 (32, 128)",
+                "Model Identifier": "iPhone8,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A9",
+                "Processor Speed": "1.85 GHz",
+                "Benchmark (SC / MC)": "541 / 991",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "iOS 9.0",
+                "Maximum OS": "Latest release of iOS 15"
+            },
+            "Memory": {
+                "Built-in Memory": "2 GB LPDDR4"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR GT7600",
+                "Graphics Cores": "6"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "4.7-inch widescreen",
+                "Display Resolution": "1334 by 750 pixels"
+            },
+            "Storage": {
+                "Capacity": "16, 32, 64 or 128 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 12 MP",
+                "Front Camera": "1 - 5 MP"
+            },
+            "Battery": {
+                "Capacity": "1715 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 6s Plus",
+        "Type": "iPhone",
+        "image": "iphone_6s_plus.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2015 (16, 64, 128) <br> Sep 2016 (32 GB)",
+                "Discontinued": "Sep 2016 (16, 64) <br> Sep 2018 (32, 128)",
+                "Model Identifier": "iPhone8,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A9",
+                "Processor Speed": "1.85 GHz",
+                "Benchmark (SC / MC)": "541 / 991",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "iOS 9.0",
+                "Maximum OS": "Latest release of iOS 15"
+            },
+            "Memory": {
+                "Built-in Memory": "2 GB LPDDR4"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR GT7600",
+                "Graphics Cores": "6"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "5.5-inch widescreen",
+                "Display Resolution": "1920x1080"
+            },
+            "Storage": {
+                "Capacity": "16, 32, 64 or 128 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 12 MP",
+                "Front Camera": "1 - 5 MP"
+            },
+            "Battery": {
+                "Capacity": "2750 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone SE (1st Gen)",
+        "Type": "iPhone",
+        "image": "iphone_se1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2016 (16, 64) <br> Mar 2017 (32, 128)",
+                "Discontinued": "Mar 2017 (16, 64) <br> Sep 2018 (32, 128)",
+                "Model Identifier": "iPhone8,4"
+            },
+            "Processor": {
+                "Processor Name": "Apple A9",
+                "Processor Speed": "1.85 GHz",
+                "Benchmark (SC / MC)": "546 / 1003",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "iOS 9.3",
+                "Maximum OS": "Latest release of iOS 15"
+            },
+            "Memory": {
+                "Built-in Memory": "2 GB LPDDR4"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR GT7600",
+                "Graphics Cores": "6"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "4-inch widescreen",
+                "Display Resolution": "1136x640"
+            },
+            "Storage": {
+                "Capacity": "16, 32, 64 or 128 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 12 MP",
+                "Front Camera": "1 - 1.2 MP"
+            },
+            "Battery": {
+                "Capacity": "1624 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 7 (China)",
+        "Type": "iPhone",
+        "image": "iphone_7.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2016",
+                "Discontinued": "Sep 2019",
+                "Model Identifier": "iPhone9,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A10 Fusion",
+                "Processor Speed": "2.3 GHz",
+                "Benchmark (SC / MC)": "742 / 1317",
+                "Number of Cores": "4 (2 High Performance, 2 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 10.0",
+                "Maximum OS": "Latest release of iOS 15"
+            },
+            "Memory": {
+                "Built-in Memory": "2 GB LPDDR4"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR GT7600",
+                "Graphics Cores": "6"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "4.7-inch widescreen",
+                "Display Resolution": "1334x750"
+            },
+            "Storage": {
+                "Capacity": "32, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "1960 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 7 (Global)",
+        "Type": "iPhone",
+        "image": "iphone_7.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2016",
+                "Discontinued": "Sep 2019",
+                "Model Identifier": "iPhone9,3"
+            },
+            "Processor": {
+                "Processor Name": "Apple A10 Fusion",
+                "Processor Speed": "2.3 GHz",
+                "Benchmark (SC / MC)": "742 / 1317",
+                "Number of Cores": "4 (2 High Performance, 2 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 10.0",
+                "Maximum OS": "Latest release of iOS 15"
+            },
+            "Memory": {
+                "Built-in Memory": "2 GB LPDDR4"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR GT7600",
+                "Graphics Cores": "6"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "4.7-inch widescreen",
+                "Display Resolution": "1334x750"
+            },
+            "Storage": {
+                "Capacity": "32, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "1960 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 7 Plus (China)",
+        "Type": "iPhone",
+        "image": "iphone_7_plus.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2016",
+                "Discontinued": "Sep 2019",
+                "Model Identifier": "iPhone9,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A10 Fusion",
+                "Processor Speed": "2.3 GHz",
+                "Benchmark (SC / MC)": "742 / 1317",
+                "Number of Cores": "4 (2 High Performance, 2 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 10.0",
+                "Maximum OS": "Latest release of iOS 15"
+            },
+            "Memory": {
+                "Built-in Memory": "3 GB LPDDR4"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR GT7600",
+                "Graphics Cores": "6"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "5.5-inch widescreen",
+                "Display Resolution": "1920x1080"
+            },
+            "Storage": {
+                "Capacity": "32, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "2900 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 7 Plus (Global)",
+        "Type": "iPhone",
+        "image": "iphone_7_plus.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2016",
+                "Discontinued": "Sep 2019",
+                "Model Identifier": "iPhone9,4"
+            },
+            "Processor": {
+                "Processor Name": "Apple A10 Fusion",
+                "Processor Speed": "2.3 GHz",
+                "Benchmark (SC / MC)": "742 / 1317",
+                "Number of Cores": "4 (2 High Performance, 2 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 10.0",
+                "Maximum OS": "Latest release of iOS 15"
+            },
+            "Memory": {
+                "Built-in Memory": "3 GB LPDDR4"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR GT7600",
+                "Graphics Cores": "6"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "5.5-inch widescreen",
+                "Display Resolution": "1920x1080"
+            },
+            "Storage": {
+                "Capacity": "32, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "2900 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 8 (China)",
+        "Type": "iPhone",
+        "image": "iphone_8.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2017 (64, 256) <br> Sep 2019 (128)",
+                "Discontinued": "Sep 2019 (256) <br> Apr 2020 (64, 128)",
+                "Model Identifier": "iPhone10,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A11 Bionic",
+                "Processor Speed": "2.4 GHz",
+                "Benchmark (SC / MC)": "921 / 2241",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 11.0",
+                "Maximum OS": "Latest release of iOS 16"
+            },
+            "Memory": {
+                "Built-in Memory": "2 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "3"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "4.7-inch widescreen",
+                "Display Resolution": "1334x750"
+            },
+            "Storage": {
+                "Capacity": "64, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "1821 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 8 (Global)",
+        "Type": "iPhone",
+        "image": "iphone_8.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2017 (64, 256) <br> Sep 2019 (128)",
+                "Discontinued": "Sep 2019 (256) <br> Apr 2020 (64, 128)",
+                "Model Identifier": "iPhone10,4"
+            },
+            "Processor": {
+                "Processor Name": "Apple A11 Bionic",
+                "Processor Speed": "2.4 GHz",
+                "Benchmark (SC / MC)": "921 / 2241",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 11.0",
+                "Maximum OS": "Latest release of iOS 16"
+            },
+            "Memory": {
+                "Built-in Memory": "2 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "3"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "4.7-inch widescreen",
+                "Display Resolution": "1334x750"
+            },
+            "Storage": {
+                "Capacity": "64, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "1821 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 8 Plus (China)",
+        "Type": "iPhone",
+        "image": "iphone_8_plus.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2017 (64, 256) <br> Sep 2019 (128)",
+                "Discontinued": "Sep 2019 (256) <br> Apr 2020 (64, 128)",
+                "Model Identifier": "iPhone10,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A11 Bionic",
+                "Processor Speed": "2.4 GHz",
+                "Benchmark (SC / MC)": "921 / 2331",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 11.0",
+                "Maximum OS": "Latest release of iOS 16"
+            },
+            "Memory": {
+                "Built-in Memory": "3 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "3"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "5.5-inch widescreen",
+                "Display Resolution": "1920x1080"
+            },
+            "Storage": {
+                "Capacity": "64, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "2691 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 8 Plus (Global)",
+        "Type": "iPhone",
+        "image": "iphone_8_plus.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2017 (64, 256) <br> Sep 2019 (128)",
+                "Discontinued": "Sep 2019 (256) <br> Apr 2020 (64, 128)",
+                "Model Identifier": "iPhone10,5"
+            },
+            "Processor": {
+                "Processor Name": "Apple A11 Bionic",
+                "Processor Speed": "2.4 GHz",
+                "Benchmark (SC / MC)": "921 / 2331",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 11.0",
+                "Maximum OS": "Latest release of iOS 16"
+            },
+            "Memory": {
+                "Built-in Memory": "3 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "3"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "5.5-inch widescreen",
+                "Display Resolution": "1920x1080"
+            },
+            "Storage": {
+                "Capacity": "64, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "2691 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone X (China)",
+        "Type": "iPhone",
+        "image": "iphone_x.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2017",
+                "Discontinued": "Sep 2018",
+                "Model Identifier": "iPhone10,3"
+            },
+            "Processor": {
+                "Processor Name": "Apple A11 Bionic",
+                "Processor Speed": "2.4 GHz",
+                "Benchmark (SC / MC)": "921 / 2331",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 11.0.1",
+                "Maximum OS": "Latest release of iOS 16"
+            },
+            "Memory": {
+                "Built-in Memory": "3 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "3"
+            },
+            "Display": {
+                "Display Type": "Super Retina HD OLED Display",
+                "Display Size": "5.8-inch widescreen",
+                "Display Resolution": "2436x1125"
+            },
+            "Storage": {
+                "Capacity": "64, 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "2716 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone X (Global)",
+        "Type": "iPhone",
+        "image": "iphone_x.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2017",
+                "Discontinued": "Sep 2018",
+                "Model Identifier": "iPhone10,6"
+            },
+            "Processor": {
+                "Processor Name": "Apple A11 Bionic",
+                "Processor Speed": "2.4 GHz",
+                "Benchmark (SC / MC)": "921 / 2331",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 11.0.1",
+                "Maximum OS": "Latest release of iOS 16"
+            },
+            "Memory": {
+                "Built-in Memory": "3 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "3"
+            },
+            "Display": {
+                "Display Type": "Super Retina HD OLED Display",
+                "Display Size": "5.8-inch widescreen",
+                "Display Resolution": "2436x1125"
+            },
+            "Storage": {
+                "Capacity": "64, 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "2716 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone XS",
+        "Type": "iPhone",
+        "image": "iphone_xs.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2018",
+                "Discontinued": "Sep 2019",
+                "Model Identifier": "iPhone11,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A12 Bionic",
+                "Processor Speed": "2.5 GHz",
+                "Benchmark (SC / MC)": "1107 / 2708",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 12.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "4 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G11P",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Super Retina HD OLED Display",
+                "Display Size": "5.8-inch widescreen",
+                "Display Resolution": "2436x1125"
+            },
+            "Storage": {
+                "Capacity": "64, 256 or 512 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "2658 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone XS Max",
+        "Type": "iPhone",
+        "image": "iphone_xs.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2018",
+                "Discontinued": "Sep 2019",
+                "Model Identifier": "iPhone11,6"
+            },
+            "Processor": {
+                "Processor Name": "Apple A12 Bionic",
+                "Processor Speed": "2.5 GHz",
+                "Benchmark (SC / MC)": "1107 / 2708",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 12.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "4 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G11P",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Super Retina HD OLED Display",
+                "Display Size": "6.5-inch widescreen",
+                "Display Resolution": "2688x1242"
+            },
+            "Storage": {
+                "Capacity": "64, 256 or 512 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "3174 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone XR",
+        "Type": "iPhone",
+        "image": "iphone_xr.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2018",
+                "Discontinued": "Sep 2021",
+                "Model Identifier": "iPhone11,8"
+            },
+            "Processor": {
+                "Processor Name": "Apple A12 Bionic",
+                "Processor Speed": "2.5 GHz",
+                "Benchmark (SC / MC)": "1107 / 2708",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 12.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "3 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G11P",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Liquid Retina HD LED-backlit LCD IPS display",
+                "Display Size": "6.1-inch widescreen",
+                "Display Resolution": "1792x828"
+            },
+            "Storage": {
+                "Capacity": "64, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "2942 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 11",
+        "Type": "iPhone",
+        "image": "iphone_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2019",
+                "Discontinued": "Sep 2022",
+                "Model Identifier": "iPhone12,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A13 Bionic",
+                "Processor Speed": "2.66 GHz",
+                "Benchmark (SC / MC)": "1327 / 3288",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 13.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "4 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Liquid Retina HD LED-backlit LCD IPS display",
+                "Display Size": "6.1-inch widescreen",
+                "Display Resolution": "1792x828"
+            },
+            "Storage": {
+                "Capacity": "64, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "3110 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 11 Pro",
+        "Type": "iPhone",
+        "image": "iphone_11_pro.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2019",
+                "Discontinued": "Oct 2020",
+                "Model Identifier": "iPhone12,3"
+            },
+            "Processor": {
+                "Processor Name": "Apple A13 Bionic",
+                "Processor Speed": "2.66 GHz",
+                "Benchmark (SC / MC)": "1327 / 3414",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 13.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "4 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Super Retina HD OLED display",
+                "Display Size": "5.8-inch widescreen",
+                "Display Resolution": "2436x1125"
+            },
+            "Storage": {
+                "Capacity": "64, 256 or 512 GB"
+            },
+            "Camera": {
+                "Rear Camera": "3 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "3046 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 11 Pro Max",
+        "Type": "iPhone",
+        "image": "iphone_11_pro_max.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2019",
+                "Discontinued": "Oct 2020",
+                "Model Identifier": "iPhone12,5"
+            },
+            "Processor": {
+                "Processor Name": "Apple A13 Bionic",
+                "Processor Speed": "2.66 GHz",
+                "Benchmark (SC / MC)": "1327 / 3414",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 13.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "4 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Super Retina HD OLED display",
+                "Display Size": "6.5-inch widescreen",
+                "Display Resolution": "2688x1242"
+            },
+            "Storage": {
+                "Capacity": "64, 256 or 512 GB"
+            },
+            "Camera": {
+                "Rear Camera": "3 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "3969 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone SE (2nd Gen)",
+        "Type": "iPhone",
+        "image": "iphone_se2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Apr 2020",
+                "Discontinued": "Mar 2022",
+                "Model Identifier": "iPhone12,8"
+            },
+            "Processor": {
+                "Processor Name": "Apple A13 Bionic",
+                "Processor Speed": "2.6 GHz",
+                "Benchmark (SC / MC)": "1330 / 3134",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 13.4",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "3 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "4.7-inch widescreen",
+                "Display Resolution": "1334x750"
+            },
+            "Storage": {
+                "Capacity": "64, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "1821 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 12",
+        "Type": "iPhone",
+        "image": "iphone_12.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2020",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone13,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A14 Bionic",
+                "Processor Speed": "3 GHz",
+                "Benchmark (SC / MC)": "1583 / 3891",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 14.1",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "4 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.1-inch widescreen",
+                "Display Resolution": "2532x1170"
+            },
+            "Storage": {
+                "Capacity": "64, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "2815 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 12 Pro",
+        "Type": "iPhone",
+        "image": "iphone_12_pro.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2020",
+                "Discontinued": "Sep 2021",
+                "Model Identifier": "iPhone13,3"
+            },
+            "Processor": {
+                "Processor Name": "Apple A14 Bionic",
+                "Processor Speed": "3 GHz",
+                "Benchmark (SC / MC)": "1583 / 3891",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 14.1",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "6 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.1-inch widescreen",
+                "Display Resolution": "2532x1170"
+            },
+            "Storage": {
+                "Capacity": "128, 256 or 512 GB"
+            },
+            "Camera": {
+                "Rear Camera": "3 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "2815 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 12 Mini",
+        "Type": "iPhone",
+        "image": "iphone_12_mini.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2020",
+                "Discontinued": "Sep 2022",
+                "Model Identifier": "iPhone13,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A14 Bionic",
+                "Processor Speed": "3 GHz",
+                "Benchmark (SC / MC)": "1583 / 3891",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 14.1",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "6 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "5.4-inch widescreen",
+                "Display Resolution": "2340x1080"
+            },
+            "Storage": {
+                "Capacity": "64, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "2227 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 12 Pro Max",
+        "Type": "iPhone",
+        "image": "iphone_12_pro_max.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2020",
+                "Discontinued": "Sep 2021",
+                "Model Identifier": "iPhone13,4"
+            },
+            "Processor": {
+                "Processor Name": "Apple A14 Bionic",
+                "Processor Speed": "2.66 GHz",
+                "Benchmark (SC / MC)": "1581 / 3822",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 14.1",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "6 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED display",
+                "Display Size": "6.7-inch widescreen",
+                "Display Resolution": "2778x1284"
+            },
+            "Storage": {
+                "Capacity": "128, 256 or 512 GB"
+            },
+            "Camera": {
+                "Rear Camera": "3 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "3687 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 13",
+        "Type": "iPhone",
+        "image": "iphone_13.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2021",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone14,5"
+            },
+            "Processor": {
+                "Processor Name": "Apple A15 Bionic",
+                "Processor Speed": "3.2 GHz",
+                "Benchmark (SC / MC)": "1639 / 4420",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 15.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "4 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.1-inch widescreen",
+                "Display Resolution": "2532x1170"
+            },
+            "Storage": {
+                "Capacity": "128, 256 or 512 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "3227 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 13 mini",
+        "Type": "iPhone",
+        "image": "iphone_13_mini.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2021",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone14,4"
+            },
+            "Processor": {
+                "Processor Name": "Apple A15 Bionic",
+                "Processor Speed": "3.2 GHz",
+                "Benchmark (SC / MC)": "1639 / 4420",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 15.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "4 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "5.4-inch widescreen",
+                "Display Resolution": "2340 x 1080"
+            },
+            "Storage": {
+                "Capacity": "128, 256 or 512 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "2406 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 13 Pro",
+        "Type": "iPhone",
+        "image": "iphone_13_pro.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2021",
+                "Discontinued": "Sep 2022",
+                "Model Identifier": "iPhone14,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A15 Bionic",
+                "Processor Speed": "3.2 GHz",
+                "Benchmark (SC / MC)": "1639 / 4420",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 15.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "6 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.1-inch widescreen",
+                "Display Resolution": "2532x1170",
+                "Display Refresh Rate": "10 - 120 Hz ProMotion"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Camera": {
+                "Rear Camera": "3 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "3095 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 13 Pro Max",
+        "Type": "iPhone",
+        "image": "iphone_13_pro_max.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2021",
+                "Discontinued": "Sep 2022",
+                "Model Identifier": "iPhone14,3"
+            },
+            "Processor": {
+                "Processor Name": "Apple A15 Bionic",
+                "Processor Speed": "3.2 GHz",
+                "Benchmark (SC / MC)": "1675 / 4614",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 15.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "6 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.7-inch widescreen",
+                "Display Resolution": "2778 x 1284",
+                "Display Refresh Rate": "10 - 120 Hz ProMotion"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Camera": {
+                "Rear Camera": "3 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "4352 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone SE (3rd Gen)",
+        "Type": "iPhone",
+        "image": "iphone_se3.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2022",
+                "Discontinued": "--",
+                "Model Identifier": "iPhone14,6"
+            },
+            "Processor": {
+                "Processor Name": "Apple A15 Bionic",
+                "Processor Speed": "3.2 GHz",
+                "Benchmark (SC / MC)": "1722 / 4547",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 13.4",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "4 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Retina HD LED-backlit LCD IPS Display",
+                "Display Size": "4.7-inch widescreen",
+                "Display Resolution": "1334x750"
+            },
+            "Storage": {
+                "Capacity": "64, 128 or 256 GB"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 12 MP",
+                "Front Camera": "1 - 7 MP"
+            },
+            "Battery": {
+                "Capacity": "2018 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 14",
+        "Type": "iPhone",
+        "image": "iphone_14.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2022",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone14,7"
+            },
+            "Processor": {
+                "Processor Name": "Apple A15 Bionic",
+                "Processor Speed": "3.2 GHz",
+                "Benchmark (SC / MC)": "1728 / 4604",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 16.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "6 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.1-inch widescreen",
+                "Display Resolution": "2532x1170"
+            },
+            "Storage": {
+                "Capacity": "128, 256 or 512 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "3279 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 14 Plus",
+        "Type": "iPhone",
+        "image": "iphone_14_plus.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2022",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone14,8"
+            },
+            "Processor": {
+                "Processor Name": "Apple A15 Bionic",
+                "Processor Speed": "3.2 GHz",
+                "Benchmark (SC / MC)": "1728 / 4604",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 16.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "6 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.7-inch widescreen",
+                "Display Resolution": "2778 x 1284"
+            },
+            "Storage": {
+                "Capacity": "128, 256 or 512 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "4325 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 14 Pro",
+        "Type": "iPhone",
+        "image": "iphone_14_pro.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2022",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone15,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A16 Bionic",
+                "Processor Speed": "3.5 GHz",
+                "Benchmark (SC / MC)": "1874 / 5364",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 16.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "6 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.1-inch widescreen",
+                "Display Resolution": "2556x1179",
+                "Display Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Camera": {
+                "Rear Camera": "3 - 48 / 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "3200 mAh"
+            }
+        }
+    }, {
+        "Name": "iPhone 14 Pro Max",
+        "Type": "iPhone",
+        "image": "iphone_14_pro_max.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2022",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone15,3"
+            },
+            "Processor": {
+                "Processor Name": "Apple A16 Bionic",
+                "Processor Speed": "3.5 GHz",
+                "Benchmark (SC / MC)": "1874 / 5364",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "iOS 16.0",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "6 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.7-inch widescreen",
+                "Display Resolution": "2796 x 1920",
+                "Display Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Camera": {
+                "Rear Camera": "3 - 48 / 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "4323 mAh"
+            }
+        }
+    }
+]

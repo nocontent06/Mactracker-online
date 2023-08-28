@@ -1,0 +1,2238 @@
+[
+    {
+        "Name": "MacBook Pro",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_2006-8.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2006",
+                "Discontinued": "May 2006",
+                "Model Identifier": "MacBookPro1,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core Duo (T2400, T2500, T2600) ('Yonah') <br> <span style=\"font-size: 0.7em;\">Glossy display without Intel Core Duo T2400</span>",
+                "Processor Speed": "1.83, 2.0, 2.16 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.5 (Tiger)",
+                "Later OS": "Mac OS X 10.4.6 (Tiger)",
+                "Maximum OS": "Mac OS X 10.6.8 (Snow Leopard)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Mobility Radeon X1600",
+                "Graphics Memory": "128 or 256 MB GDDR3"
+            },
+            "Display": {
+                "Display Type": "15.4-inch TFT (Optional glossy display)",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro (17-inch)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_17_2006-8.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Apr 2006",
+                "Discontinued": "Oct 2006",
+                "Model Identifier": "MacBookPro1,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core Duo (T2600) ('Yonah')",
+                "Processor Speed": "2.16 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.6 (Tiger)",
+                "Maximum OS": "Mac OS X 10.6.8 (Snow Leopard)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Mobility Radeon X1600",
+                "Graphics Memory": "128 or 256 MB GDDR3"
+            },
+            "Display": {
+                "Display Type": "17-inch TFT (Optional glossy display)",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1680x1050"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, Core 2 Duo)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_2006-8.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2006",
+                "Discontinued": "June 2007",
+                "Model Identifier": "MacBookPro2,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T7400, T7600) ('Merom')",
+                "Processor Speed": "2.16, 2.33 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.8 (Tiger)",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "3 GB (4 GB can be installed, but only 3 GB will be addressed)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Mobility Radeon X1600",
+                "Graphics Memory": "128 (2.16 GHz) or 256 MB (2.33) GDDR3"
+            },
+            "Display": {
+                "Display Type": "15.4-inch TFT, (Optional glossy display)",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (17-inch, Core 2 Duo)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_17_2006-8.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2006",
+                "Discontinued": "June 2007",
+                "Model Identifier": "MacBookPro2,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T7600) ('Merom')",
+                "Processor Speed": "2.33 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.8 (Tiger)",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "3 GB (4 GB can be installed, but only 3 GB will be addressed)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Mobility Radeon X1600",
+                "Graphics Memory": "256 MB GDDR3"
+            },
+            "Display": {
+                "Display Type": "17-inch TFT, (Optional glossy display)",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1680 x 1050"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, Mid 2007)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_2006-8.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2007",
+                "Discontinued": "Feb 2008",
+                "Model Identifier": "MacBookPro3,1 (15-inch)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T7500, T7700, T7800) ('Merom')",
+                "Processor Speed": "2.2, 2.4, 2.6 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.9 (Tiger)",
+                "Later OS": "Mac OS X 10.4.10 (Tiger), 10.5 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "6 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 8600M GT",
+                "Graphics Memory": "128 (2.2 GHz) 256 MB (2.4, 2.6 GHz) GDDR3"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit TFT, (Optional glossy display)",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (17-inch, Mid 2007)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_17_2006-8.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2007",
+                "Discontinued": "Feb 2008",
+                "Model Identifier": "MacBookPro3,1 (17-inch)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T7700, T7800) ('Merom')",
+                "Processor Speed": "2.4, 2.6 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.9 (Tiger)",
+                "Later OS": "Mac OS X 10.4.10 (Tiger), 10.5 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "6 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 8600M GT",
+                "Graphics Memory": "256 MB GDDR3"
+            },
+            "Display": {
+                "Display Type": "17-inch CCFL-backlit TFT, (Optional glossy display)",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, Early 2008)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_2006-8.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Feb 2008",
+                "Discontinued": "Oct 2008",
+                "Model Identifier": "MacBookPro4,1 (15-inch)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T8300, T9300, T9500) ('Penryn')",
+                "Processor Speed": "2.4, 2.5, 2.6 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.2 (Leopard)",
+                "Later OS": "Mac OS X 10.5.4 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "6 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 8600M GT",
+                "Graphics Memory": "256 (2.4 GHz) 512 MB (2.5, 2.6 GHz) GDDR3"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit TFT, (Optional glossy display)",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (17-inch, Early 2008)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_17_2006-8.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Feb 2008",
+                "Discontinued": "Oct 2008",
+                "Model Identifier": "MacBookPro4,1 (17-inch)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T9300, T9500) ('Penryn')",
+                "Processor Speed": "2.5, 2.6 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.2 (Leopard)",
+                "Later OS": "Mac OS X 10.5.4 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "6 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 8600M GT",
+                "Graphics Memory": "512 MB GDDR3"
+            },
+            "Display": {
+                "Display Type": "17-inch CCFL or LED-backlit TFT, (Optional glossy display)",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1680 x 1050"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, Late 2008)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2008",
+                "Discontinued": "Jun 2008",
+                "Model Identifier": "MacBookPro5,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P8600, T9400, T9550, T9600, T9800) ('Penryn')",
+                "Processor Speed": "2.4, 2.53, 2.66, 2.8, 2.93 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.5 (Leopard)",
+                "Later OS": "Mac OS X 10.5.6 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "1067 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9600M GT and GeForce 9400M",
+                "Graphics Memory": "256 or 512 MB (9600M GT) GDDR3 or 256 MB (9400M) DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (17-inch, Late 2008)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_17_2006-8.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2008",
+                "Discontinued": "Jan 2009",
+                "Model Identifier": "MacBookPro4,1 (L2008)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T9300, T9500) ('Penryn')",
+                "Processor Speed": "2.5, 2.6 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.4 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "6 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 8600M GT",
+                "Graphics Memory": "512 MB GDDR3"
+            },
+            "Display": {
+                "Display Type": "17-inch LED-backlit glossy (Optional antiglare)",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1920 x 1200"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (17-inch, Early 2009)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_17_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2009",
+                "Discontinued": "Jun 2009",
+                "Model Identifier": "MacBookPro5,2 (E)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T9550, T9800) ('Penryn')",
+                "Processor Speed": "2.66, 2.93 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.7 (Leopard)",
+                "Later OS": "Mac OS X 10.6 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1067 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9600M GT and GeForce 9400M",
+                "Graphics Memory": "256 or 512 MB (9600M GT) GDDR3 or 256 MB (9400M) DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "17-inch LED-backlit glossy widescreen display (Optional antiglare)",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1920 x 1200"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, Mid 2009)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2009",
+                "Discontinued": "Apr 2010",
+                "Model Identifier": "MacBookPro5,5"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P7550, P8400, P8700) ('Penryn')",
+                "Processor Speed": "2.26, 2.53 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.7 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB (Actual) 4 GB (Apple)",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA  GeForce 9400M",
+                "Graphics Memory": "256 MB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, 2.53 GHz, Mid 2009)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2009",
+                "Discontinued": "Apr 2010",
+                "Model Identifier": "MacBookPro5,4"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P8700) ('Penryn')",
+                "Processor Speed": "2.53 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.7 (Leopard)",
+                "Later OS": "Mac OS X 10.6 (Snow Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA  GeForce 9400M",
+                "Graphics Memory": "256 MB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit glossy widescreen display (Optional antiglare widescreen)",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, Mid 2009)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2009",
+                "Discontinued": "Apr 2010",
+                "Model Identifier": "MacBookPro5,3"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P7550, T9600, T9900) ('Penryn')",
+                "Processor Speed": "2.66, 2.8, 3.06 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.7 (Leopard)",
+                "Later OS": "Mac OS X 10.6 (Snow Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9600M GT and GeForce 9400M",
+                "Graphics Memory": "256 or 512 MB GDDR3 (9600M GT) or 256 MB DDR3 (9400M) (shared)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (17-inch, Mid 2009)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_17_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2009",
+                "Discontinued": "Apr 2010",
+                "Model Identifier": "MacBookPro5,2 (M)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T9600, T9900) ('Penryn')",
+                "Processor Speed": "2.8, 3.06 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.7 (Leopard)",
+                "Later OS": "Mac OS X 10.6 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1067 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9600M GT and GeForce 9400M",
+                "Graphics Memory": "512 MB (9600M GT) GDDR3 or 256 MB (9400M) DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "17-inch LED-backlit glossy widescreen display (Optional antiglare)",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1920 x 1200"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, Mid 2010)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Apr 2010",
+                "Discontinued": "Feb 2011",
+                "Model Identifier": "MacBookPro7,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P8600, P8800) ('Penryn')",
+                "Processor Speed": "2.4, 2.66 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.3 (Snow Leopard)",
+                "Later OS": "Mac OS X 10.6.4 (Snow Leopard)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 320M",
+                "Graphics Memory": "256 MB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, Mid 2010)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Apr 2010",
+                "Discontinued": "Feb 2011",
+                "Model Identifier": "MacBookPro6,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (520M, 540M, 620M, 640M) ('Arrandale')",
+                "Processor Speed": "2.4, 2.53, 2.66, 2.8 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.3 (Snow Leopard)",
+                "Later OS": "Mac OS X 10.6.4 (Snow Leopard)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce GT 330M and Intel HD Graphics ",
+                "Graphics Memory": "256 or 512 MB GDDR3 (GT 330M) and 256 MB DDR3 (HD Graphics) (shared)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1680 x 1050"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (17-inch, Mid 2010)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_17_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Apr 2010",
+                "Discontinued": "Feb 2011",
+                "Model Identifier": "MacBookPro6,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (540M, 620M, 640M) ('Arrandale')",
+                "Processor Speed": "2.53, 2.66, 2.8 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.3 (Snow Leopard)",
+                "Later OS": "Mac OS X 10.6.4 (Snow Leopard)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce GT 330M and Intel HD Graphics ",
+                "Graphics Memory": "512 MB GDDR3 (GT 330M) and 256 MB DDR3 (HD Graphics) (shared)"
+            },
+            "Display": {
+                "Display Type": "17-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1920 x 1200"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, Early 2011)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Feb 2011",
+                "Discontinued": "Oct 2011",
+                "Model Identifier": "MacBookPro8,1 (E)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (2415M, 2620M) ('Sandy Bridge')",
+                "Processor Speed": "2.3, 2.7 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.6 (Snow Leopard)",
+                "Later OS": "Mac OS X 10.6.7 (Snow Leopard)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1333 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 3000",
+                "Graphics Memory": "384 MB DDR3 (shared) (up to 512 MB)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, Early 2011)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Feb 2011",
+                "Discontinued": "Oct 2011",
+                "Model Identifier": "MacBookPro8,2 (E)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (2635QM, 2720QM, 2820QM) ('Sandy Bridge')",
+                "Processor Speed": "2.0, 2.2, 2.3 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.6 (Snow Leopard)",
+                "Later OS": "Mac OS X 10.6.7 (Snow Leopard)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1333 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon HD 6490M or 6750M and Intel HD Graphics 3000",
+                "Graphics Memory": "256 MB GDDR5 (6490M), 1 GB GDDR5 (6750M), 384 MB DDR3 (HD Graphics) (shared) (up to 512 MB)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1680 x 1050"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (17-inch, Early 2011)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_17_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Feb 2011",
+                "Discontinued": "Oct 2011",
+                "Model Identifier": "MacBookPro8,3 (E)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (2720QM, 2820QM) ('Sandy Bridge')",
+                "Processor Speed": "2.2, 2.3 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.6 (Snow Leopard)",
+                "Later OS": "Mac OS X 10.6.7 (Snow Leopard)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1333 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon HD 6750M and Intel HD Graphics 3000",
+                "Graphics Memory": "1 GB GDDR5 (6750M), 384 MB DDR3 (HD Graphics) (shared) (up to 512 MB)"
+            },
+            "Display": {
+                "Display Type": "17-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, Late 2011)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_unibody_2011_12.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2011",
+                "Discontinued": "Jun 2012",
+                "Model Identifier": "MacBookPro8,1 (L)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (2435M, 2640M) ('Sandy Bridge')",
+                "Processor Speed": "2.4, 2.8 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7.2 (Lion)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1333 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 3000",
+                "Graphics Memory": "384 MB DDR3 (shared) (up to 512 MB)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, Late 2011)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_unibody_2011_12.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2011",
+                "Discontinued": "Jun 2012",
+                "Model Identifier": "MacBookPro8,2 (L)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (2675QM, 2760QM, 2860QM) ('Sandy Bridge')",
+                "Processor Speed": "2.2, 2.4, 2.5 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7.2 (Lion)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1333 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon HD 6750M or 6770M and Intel HD Graphics 3000",
+                "Graphics Memory": "512 MB GDDR5 (6750M), 1 GB GDDR5 (6770M), 384 MB DDR3 (HD Graphics) (shared) (up to 512 MB)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1680 x 1050"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (17-inch, Late 2011)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_17_unibody_2011_12.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2011",
+                "Discontinued": "Jun 2012",
+                "Model Identifier": "MacBookPro8,3 (L)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (2760QM, 2860QM) ('Sandy Bridge')",
+                "Processor Speed": "2.4, 2.5 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7.2 (Lion)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1333 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon HD 6770M and Intel HD Graphics 3000",
+                "Graphics Memory": "1 GB GDDR5 (6770M), 384 MB DDR3 (HD Graphics) (shared) (up to 512 MB)"
+            },
+            "Display": {
+                "Display Type": "17-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, Mid 2012)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2012",
+                "Discontinued": "Oct 2016",
+                "Model Identifier": "MacBookPro9,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (3210M, 3520M) ('Ivy Bridge')",
+                "Processor Speed": "2.5, 2.9 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7.4 (Lion)",
+                "Maximum OS": "macOS 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 4000",
+                "Graphics Memory": "Up to 1 GB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, Mid 2012)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_unibody_2008_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2012",
+                "Discontinued": "Oct 2013",
+                "Model Identifier": "MacBookPro9,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (3615QM, 3720QM, 3820QM) ('Ivy Bridge')",
+                "Processor Speed": "2.3, 2.6, 2.7 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7.4 (Lion)",
+                "Maximum OS": "macOS 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce GT 650M and Intel HD Graphics 4000",
+                "Graphics Memory": "512 MB GDDR5 (2.3) (GT 650M), 1GB GDDR5 (2.6, 2.7) (GT 650M), Up to 1 GB DDR3 (shared) (HD Graphics)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit glossy widescreen display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1680 x 1050"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (Retina, 15-inch, Mid 2012)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_retina_2012-13.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2012",
+                "Discontinued": "Feb 2013",
+                "Model Identifier": "MacBookPro10,1 (2012)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (3615QM, 3720QM, 3820QM) ('Ivy Bridge')",
+                "Processor Speed": "2.3, 2.6, 2.7 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7.4 (Lion)",
+                "Later OS": "OS X 10.8 (Mountain Lion)",
+                "Maximum OS": "macOS 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3L on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce GT 650M and Intel HD Graphics 4000",
+                "Graphics Memory": "1GB GDDR5 (GT 650M), Up to 1 GB DDR3 (shared) (HD Graphics)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (Retina, 13-inch, Late 2012)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_retina_2012-13.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2012",
+                "Discontinued": "Oct 2013",
+                "Model Identifier": "MacBookPro10,2 (2012)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (3210M, 3520M) ('Ivy Bridge')",
+                "Processor Speed": "2.5, 2.9 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.8.1 (Mountain Lion)",
+                "Later OS": "OS X 10.8.2 (Mountain Lion)",
+                "Maximum OS": "macOS 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1600 MHz DDR3L on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 4000",
+                "Graphics Memory": "Up to 1 GB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (Retina, 13-inch, Early 2013)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_retina_2012-13.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Feb 2013",
+                "Discontinued": "Oct 2013",
+                "Model Identifier": "MacBookPro10,2 (2013)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (3230M, 3540M) ('Ivy Bridge')",
+                "Processor Speed": "2.6, 3 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.8.2 (Mountain Lion)",
+                "Later OS": "OS X 10.8.3 (Mountain Lion)",
+                "Maximum OS": "macOS 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1600 MHz DDR3L on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 4000",
+                "Graphics Memory": "Up to 1 GB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (Retina, 15-inch, Early 2013)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_retina_2012-13.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Feb 2013",
+                "Discontinued": "Oct 2013",
+                "Model Identifier": "MacBookPro10,1 (2013)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (3635QM, 3740QM, 3840QM) ('Ivy Bridge')",
+                "Processor Speed": "2.4, 2.7, 2.8 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "OS X 10.8.2 (Mountain Lion)",
+                "Later OS": "OS X 10.8.3 (Mountain Lion)",
+                "Maximum OS": "macOS 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3L on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce GT 650M and Intel HD Graphics 4000",
+                "Graphics Memory": "1GB GDDR5 (GT 650M), Up to 1 GB DDR3 (shared) (HD Graphics)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (Retina, 13-inch, Late 2013)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_retina_2013-15.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2013",
+                "Discontinued": "Jul 2014",
+                "Model Identifier": "MacBookPro11,1 (2013)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (4258U, 4288U, 4558U) ('Haswell')",
+                "Processor Speed": "2.4, 2.6, 2.8 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.9 (Mavericks)",
+                "Later OS": "OS X 10.9.2 (Mavericks)",
+                "Maximum OS": "Latest release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3L on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris 5100",
+                "Graphics Memory": "Up to 1.5 GB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (Retina, 15-inch, Late 2013)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_retina_2013-15.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2013",
+                "Discontinued": "Jul 2014",
+                "Model Identifier": "MacBookPro11,2 (2013)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (4750HQ) ('Haswell')",
+                "Processor Speed": "2 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "OS X 10.9 (Mavericks)",
+                "Later OS": "OS X 10.9.2 (Mavericks)",
+                "Maximum OS": "Latest release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3L on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Pro 5200",
+                "Graphics Memory": "Up to 1.5 GB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (Retina, 15-inch, Late 2013)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_retina_2013-15.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2013",
+                "Discontinued": "Jul 2014",
+                "Model Identifier": "MacBookPro11,3 (2013)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (4850HQ, 4960HQ) ('Haswell')",
+                "Processor Speed": "2.3, 2.6 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "OS X 10.9 (Mavericks)",
+                "Later OS": "OS X 10.9.2 (Mavericks)",
+                "Maximum OS": "Latest release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3L on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce GT 750M and Intel Iris Pro 5200",
+                "Graphics Memory": "2 GB GDDR5 (GT 750M), Up to 1.5 GB DDR3 (shared) (Iris Pro)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (Retina, 13-inch, Mid 2014)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_retina_2013-15.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2014",
+                "Discontinued": "Mar 2015",
+                "Model Identifier": "MacBookPro11,1 (2014)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (4278U, 4308U, 4578U) ('Haswell')",
+                "Processor Speed": "2.6, 2.8, 3 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.9.4 (Mavericks)",
+                "Maximum OS": "Latest release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3L on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris 5100",
+                "Graphics Memory": "Up to 1.5 GB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (Retina, 15-inch, Mid 2014)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_retina_2013-15.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2014",
+                "Discontinued": "Mar 2015",
+                "Model Identifier": "MacBookPro11,2 (2014)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (4770HQ) ('Haswell')",
+                "Processor Speed": "2.2 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "OS X 10.9.4 (Mavericks)",
+                "Maximum OS": "Latest release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3L on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Pro 5200",
+                "Graphics Memory": "Up to 1.5 GB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (Retina, 15-inch, Mid 2014)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_retina_2013-15.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2014",
+                "Discontinued": "Mar 2015",
+                "Model Identifier": "MacBookPro11,3 (2014)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (4870HQ, 4980HQ) ('Haswell')",
+                "Processor Speed": "2.5, 2.8 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "OS X 10.9.4 (Mavericks)",
+                "Maximum OS": "Latest release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3L on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce GT 750M and Intel Iris Pro 5200",
+                "Graphics Memory": "2 GB GDDR5 (GT 750M), Up to 1.5 GB DDR3 (shared) (Iris Pro)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (Retina, 13-inch, Early 2015)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_retina_2013-15.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2015",
+                "Discontinued": "June 2017",
+                "Model Identifier": "MacBookPro12,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (5257U, 5287U, 5557U) ('Broadwell')",
+                "Processor Speed": "2.7, 2.9, 3.1 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.10 (Yosemite)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1866 MHz DDR3L on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Graphics 6100",
+                "Graphics Memory": "Up to 1.5 GB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (Retina, 15-inch, Mid 2015)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_retina_15.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2015",
+                "Discontinued": "Jul 2018",
+                "Model Identifier": "MacBookPro11,4"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (4770HQ) ('Haswell')",
+                "Processor Speed": "2.2 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "OS X 10.10.3 (Yosemite)",
+                "Later OS": "OS X 10.11 (.1/2) (El Capitan)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3L on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Pro 5200",
+                "Graphics Memory": "Up to 1.5 GB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (Retina, 15-inch, Mid 2015)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_retina_15.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2015",
+                "Discontinued": "Jul 2018",
+                "Model Identifier": "MacBookPro11,5"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (4870HQ, 4980HQ) ('Haswell')",
+                "Processor Speed": "2.5, 2.8 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "OS X 10.10.3 (Yosemite)",
+                "Later OS": "OS X 10.11 (.1/2) (El Capitan)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3L on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon R9 M370X and Intel Iris Pro 5200",
+                "Graphics Memory": "2 GB GDDR5 (R9 M370X), Up to 1.5 GB DDR3 (shared) (Iris Pro)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, 2016, 2 TB 3 Ports)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_2TB3_2016-17.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2016",
+                "Discontinued": "Jun 2017",
+                "Model Identifier": "MacBookPro13,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (6360U, 6660U) ('Skylake')",
+                "Processor Speed": "2, 2.4 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "macOS 10.12 (Sierra)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1866 MHz LPDDR3 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Graphics 540",
+                "Graphics Memory": "Up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, 2016, 4 TB 3 Ports)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_4TB3_2016-17.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2016",
+                "Discontinued": "Jun 2017",
+                "Model Identifier": "MacBookPro13,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (6267U, 6287U, 6567U) ('Skylake')",
+                "Processor Speed": "2.9, 3.1, 3.3 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "macOS 10.12.1 (Sierra)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "2133 MHz LPDDR3 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Graphics 550",
+                "Graphics Memory": "Up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, 2016)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_2016-17.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2016",
+                "Discontinued": "Jun 2017",
+                "Model Identifier": "MacBookPro13,3"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (6700HQ, 6820HQ, 6920HQ) ('Skylake')",
+                "Processor Speed": "2.6, 2.7, 2.9 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "macOS 10.12.1 (Sierra)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "2133 MHz LPDDR3 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro 450, 455, 460 and Intel HD Graphics 530",
+                "Graphics Memory": "2 GB GDDR5 (Radeon Pro 450, 455), 4 GB GDDR5 (Radeon Pro 460), Up to 1.5 GB DDR3 (shared) (HD 530)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, 2017, 2 TB 3 Ports)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_2TB3_2016-17.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2017",
+                "Discontinued": "Jul 2019",
+                "Model Identifier": "MacBookPro14,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (7360U, 7660U) ('Kaby Lake')",
+                "Processor Speed": "2.3, 2.5 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "macOS 10.12.5 (Sierra)",
+                "Maximum OS": "Latest release of macOS 13 (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "2133 MHz LPDDR3 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Plus Graphics 640",
+                "Graphics Memory": "Up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, 2017, 4 TB 3 Ports)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_4TB3_2016-17.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2017",
+                "Discontinued": "Jul 2018",
+                "Model Identifier": "MacBookPro14,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (7267U, 7287U, 7567U) ('Kaby Lake')",
+                "Processor Speed": "3.1, 3.3, 3.5 GHz",
+                "Number of Cores": "2",
+                "Number of Threads": "4"
+            },
+            "Software": {
+                "Original OS": "macOS 10.12.5 (Sierra)",
+                "Maximum OS": "Latest release of macOS 13 (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "2133 MHz LPDDR3 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Plus Graphics 650",
+                "Graphics Memory": "Up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, 2017)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_2016-17.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2017",
+                "Discontinued": "Jul 2018",
+                "Model Identifier": "MacBookPro14,3"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 (7700HQ, 7820HQ, 7920HQ) ('Kaby Lake')",
+                "Processor Speed": "2.8, 2.9, 3.1 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "macOS 10.12.5 (Sierra)",
+                "Maximum OS": "Latest release of macOS 13 (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "2133 MHz LPDDR3 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro 555, 560 and Intel HD Graphics 630",
+                "Graphics Memory": "2 GB GDDR5 (Radeon Pro 555), 4 GB GDDR5 (Radeon Pro 460), Up to 1.5 GB DDR3 (shared) (HD 630)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, 2018, 4 TB 3 Ports)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_TB3_2018-19.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2018",
+                "Discontinued": "May 2019",
+                "Model Identifier": "MacBookPro15,2 (2018)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (8259U, 8559U) ('Coffee Lake')",
+                "Processor Speed": "2.3, 2.7 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "macOS 10.13.6 (High Sierra)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "2133 MHz LPDDR3 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Plus Graphics 655",
+                "Graphics Memory": "Up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, 2018)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_2018-19.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2018",
+                "Discontinued": "May 2019",
+                "Model Identifier": "MacBookPro15,1 (2018)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 or i9 (8750H, 8850H, 8950HK) ('Coffee Lake')",
+                "Processor Speed": "2.2, 2.6, 2.9 GHz",
+                "Number of Cores": "6",
+                "Number of Threads": "12"
+            },
+            "Software": {
+                "Original OS": "macOS 10.13.6 (High Sierra)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "2400 MHz DDR4 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro 555X, 560X and Intel UHD Graphics 630",
+                "Graphics Memory": "4 GB GDDR5 (Radeon Pro 555X, 560X), Up to 1.5 GB DDR3 (shared) (UHD 630)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, 2018)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_2018-19.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2018",
+                "Discontinued": "May 2019",
+                "Model Identifier": "MacBookPro15,3 (2018)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 or i9 (8750H, 8850H, 8950HK) ('Coffee Lake')",
+                "Processor Speed": "2.2, 2.6, 2.9 GHz",
+                "Number of Cores": "6",
+                "Number of Threads": "12"
+            },
+            "Software": {
+                "Original OS": "macOS 10.13.6 (High Sierra)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "2400 MHz DDR4 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro Vega 16, Vega 20 and Intel UHD Graphics 630",
+                "Graphics Memory": "4 GB HBM2 (Radeon Pro Vega 16, Vega 20), Up to 1.5 GB DDR3 (shared) (UHD 630)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, 2019, 4 TB 3 Ports)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_TB3_2018-19.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2019",
+                "Discontinued": "May 2020",
+                "Model Identifier": "MacBookPro15,2 (2019)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (8279U, 8579U) ('Coffee Lake')",
+                "Processor Speed": "2.4, 2.8 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "macOS 10.14.5 (Mojave)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "2133 MHz LPDDR3 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Plus Graphics 655",
+                "Graphics Memory": "Up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, 2019)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_2018-19.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2019",
+                "Discontinued": "Nov 2019",
+                "Model Identifier": "MacBookPro15,1 (2019)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 or i9 (9750H, 9850H, 9980HK) ('Coffee Lake')",
+                "Processor Speed": "2.6, 2.3, 2.4 GHz",
+                "Number of Cores": "6 (i7), 8 (i9)",
+                "Number of Threads": "12 (i7), 16 (i9)"
+            },
+            "Software": {
+                "Original OS": "macOS 10.14.5 (Mojave)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "2400 MHz DDR4 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro 555X, 560X and Intel UHD Graphics 630",
+                "Graphics Memory": "4 GB GDDR5 (Radeon Pro 555X, 560X), Up to 1.5 GB DDR3 (shared) (UHD 630)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (15-inch, 2019)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_2018-19.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2019",
+                "Discontinued": "Nov 2019",
+                "Model Identifier": "MacBookPro15,3 (2019)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 or i9 (9750H, 9850H, 9980HK) ('Coffee Lake')",
+                "Processor Speed": "2.6, 2.3, 2.4 GHz",
+                "Number of Cores": "6 (i7), 8 (i9)",
+                "Number of Threads": "12 (i7), 16 (i9)"
+            },
+            "Software": {
+                "Original OS": "macOS 10.14.5 (Mojave)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "2400 MHz DDR4 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro Vega 16, Vega 20 and Intel UHD Graphics 630",
+                "Graphics Memory": "4 GB HBM2 (Radeon Pro Vega 16, Vega 20), Up to 1.5 GB DDR3 (shared) (UHD 630)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, 2019, 2 TB 3 Ports)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_TB3_2018-19.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2019",
+                "Discontinued": "May 2020",
+                "Model Identifier": "MacBookPro15,4"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (8257U, 8557U) ('Coffee Lake')",
+                "Processor Speed": "1.4, 1.7 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "macOS 10.14.5 (Mojave)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "2133 MHz LPDDR3 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Plus Graphics 645",
+                "Graphics Memory": "Up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (16-inch, 2019)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_16_2019.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2019",
+                "Discontinued": "Oct 2021",
+                "Model Identifier": "MacBookPro16,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 or i9 (9750H, 9850H, 9980HK) ('Coffee Lake')",
+                "Processor Speed": "2.6, 2.3, 2.4 GHz",
+                "Number of Cores": "6 (i7), 8 (i9)",
+                "Number of Threads": "12 (i7), 16 (i9)"
+            },
+            "Software": {
+                "Original OS": "macOS 10.15.1 (Catalina)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "64 GB",
+                "Supported RAM": "2666 MHz DDR4 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro 5300M, 5500M and Intel UHD Graphics 630",
+                "Graphics Memory": "4 GB GDDR6 (Radeon Pro 5300M), 4 or 8 GB GDDR6 (Radeon Pro 5500M), Up to 1.5 GB DDR3 (shared) (UHD 630)"
+            },
+            "Display": {
+                "Display Type": "16-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "3072 x 1920"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (16-inch, 2019)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_16_2019.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2019",
+                "Discontinued": "Oct 2021",
+                "Model Identifier": "MacBookPro16,4"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i7 or i9 (9750H, 9850H, 9980HK) ('Coffee Lake')",
+                "Processor Speed": "2.6, 2.3, 2.4 GHz",
+                "Number of Cores": "6 (i7), 8 (i9)",
+                "Number of Threads": "12 (i7), 16 (i9)"
+            },
+            "Software": {
+                "Original OS": "macOS 10.15.1 (Catalina)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "64 GB",
+                "Supported RAM": "2666 MHz DDR4 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro 5600M and Intel UHD Graphics 630",
+                "Graphics Memory": "8 GB HBM2 (Radeon Pro 5600M), Up to 1.5 GB DDR3 (shared) (UHD 630)"
+            },
+            "Display": {
+                "Display Type": "16-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "3072 x 1920"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, 2020, 2 TB 3 Ports)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_TB3_2020.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2020",
+                "Discontinued": "Nov 2020",
+                "Model Identifier": "MacBookPro16,3"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (8257U, 8557U) ('Coffee Lake')",
+                "Processor Speed": "1.4, 1.7 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "macOS 10.15.4 (Catalina)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "2133 MHz LPDDR3 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Plus Graphics 645",
+                "Graphics Memory": "Up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, 2020, 4 TB 3 Ports)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_TB3_2020.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2020",
+                "Discontinued": "Oct 2021",
+                "Model Identifier": "MacBookPro16,3"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (1038NG7, 1068NG7) ('Ice Lake')",
+                "Processor Speed": "2, 2.3 GHz",
+                "Number of Cores": "4",
+                "Number of Threads": "8"
+            },
+            "Software": {
+                "Original OS": "macOS 10.15.4 (Catalina)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "3733 MHz LPDDR4X on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Plus Graphics",
+                "Graphics Memory": "Up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, M1, 2020)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_m1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2020",
+                "Discontinued": "Jun 2022",
+                "Model Identifier": "MacBookPro17,1"
+            },
+            "Processor": {
+                "Chip Name": "Apple M1",
+                "Chip Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "Number of Cores": "8 (4 high performance, 4 high efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 11.0 (Big Sur)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "4266 MT/s LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G13G",
+                "Graphics Cores": "8"
+            },
+            "Display": {
+                "Display Type": "13-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (14-inch, 2021)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_14_m1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2021",
+                "Discontinued": "Jan 2023",
+                "Model Identifier": "MacBookPro18,3"
+            },
+            "Processor": {
+                "Chip Name": "Apple M1 Pro",
+                "Chip Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "Number of Cores": "8 (6 High Performance, 2 High Efficiency), 10 (8 High Performance, 2 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 12.0 (Monterey)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G13X",
+                "Graphics Cores": "14, 16"
+            },
+            "Display": {
+                "Display Type": "14.2-inch Liquid Retina XDR display",
+                "Native Resolution": "3024 x 1964"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (14-inch, 2021)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_14_m1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2021",
+                "Discontinued": "Jan 2023",
+                "Model Identifier": "MacBookPro18,4"
+            },
+            "Processor": {
+                "Chip Name": "Apple M1 Max",
+                "Chip Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "Number of Cores": "10 (8 High Performance, 2 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 12.0 (Monterey)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "64 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G13X",
+                "Graphics Cores": "24, 32"
+            },
+            "Display": {
+                "Display Type": "14.2-inch Liquid Retina XDR display",
+                "Native Resolution": "3024 x 1964"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (16-inch, 2021)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_16_m1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2021",
+                "Discontinued": "Jan 2023",
+                "Model Identifier": "MacBookPro18,1"
+            },
+            "Processor": {
+                "Chip Name": "Apple M1 Pro",
+                "Chip Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "Number of Cores": "10 (8 High Performance, 2 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 12.0 (Monterey)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G13X",
+                "Graphics Cores": "16"
+            },
+            "Display": {
+                "Display Type": "16.2-inch Liquid Retina XDR display",
+                "Native Resolution": "3456 x 2234"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (16-inch, 2021)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_16_m1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2021",
+                "Discontinued": "Jan 2023",
+                "Model Identifier": "MacBookPro18,2"
+            },
+            "Processor": {
+                "Chip Name": "Apple M1 Max",
+                "Chip Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "Number of Cores": "10 (8 High Performance, 2 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 12.0 (Monterey)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "64 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G13X",
+                "Graphics Cores": "24, 32"
+            },
+            "Display": {
+                "Display Type": "16.2-inch Liquid Retina XDR display",
+                "Native Resolution": "3456 x 2234"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (13-inch, M2, 2022)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_m2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2022",
+                "Discontinued": "Present",
+                "Model Identifier": "Mac14,7"
+            },
+            "Processor": {
+                "Chip Name": "Apple M2",
+                "Chip Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
+                "Number of Cores": "8 (4 high performance, 4 high efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 12.4 (Monterey)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "24 GB",
+                "Supported RAM": "6400 MT/s LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Type": "13-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (14-inch, 2023) <br> (M2 Pro)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_14_m2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2023",
+                "Discontinued": "---",
+                "Model Identifier": "Mac14,9"
+            },
+            "Processor": {
+                "Chip Name": "Apple M2 Pro",
+                "Chip Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
+                "Number of Cores": "10 (6 High Performance, 4 High Efficiency), 12 (8 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 13.0 (Ventura)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "16, 19"
+            },
+            "Display": {
+                "Display Type": "14.2-inch Liquid Retina XDR display",
+                "Native Resolution": "3024 x 1964"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (14-inch, 2023) <br> (M2 Max)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_14_m2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2023",
+                "Discontinued": "---",
+                "Model Identifier": "Mac14,5"
+            },
+            "Processor": {
+                "Chip Name": "Apple M2 Max",
+                "Chip Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
+                "Number of Cores": "12 (8 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 13.0 (Ventura)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "64 GB / 96 GB (with 38-Core GPU)",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "30, 38"
+            },
+            "Display": {
+                "Display Type": "14.2-inch Liquid Retina XDR display",
+                "Native Resolution": "3024 x 1964"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (16-inch, 2023) <br> (M2 Pro)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_16_m2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2023",
+                "Discontinued": "---",
+                "Model Identifier": "Mac14,10"
+            },
+            "Processor": {
+                "Chip Name": "Apple M2 Pro",
+                "Chip Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
+                "Number of Cores": "12 (8 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 13.0 (Ventura)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "16, 19"
+            },
+            "Display": {
+                "Display Type": "16.2-inch Liquid Retina XDR display",
+                "Native Resolution": "3456 x 2234"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro <br> (16-inch, 2023) <br> (M2 Max)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_16_m2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2023",
+                "Discontinued": "---",
+                "Model Identifier": "Mac14,6"
+            },
+            "Processor": {
+                "Chip Name": "Apple M2 Max",
+                "Chip Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
+                "Number of Cores": "12 (8 High Performance, 4 High Efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 13.0 (Ventura)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "64 GB / 96 GB (with 38-Core GPU)",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "30, 38"
+            },
+            "Display": {
+                "Display Type": "16.2-inch Liquid Retina XDR display",
+                "Native Resolution": "3456 x 2234"
+            }
+        }
+    }
+]

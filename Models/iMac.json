@@ -1,0 +1,1415 @@
+[
+    {
+        "Name": "iMac G5 (17') & (20')",
+        "Type": "iMac",
+        "image": "imac_g5.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "August 2004",
+                "Discontinued": "May 2005",
+                "Model Identifier": "PowerMac8,1"
+            },
+            "Processor": {
+                "Processor Name": "PowerPC 970FX (G5)",
+                "Processor Speed (17')": "1.6 or 1.8 GHz",
+                "Processor Speed (20')": "1.8 GHz",
+                "Number of Cores": "1"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.3.5 (Panther)",
+                "Later OS": "none",
+                "Maximum OS": "Mac OS X 10.5.8 (Leopard)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "400 MHz DDR SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip (17')": "NVIDIA GeForce4 MX or GeForce FX 5200 Ultra",
+                "Graphics Chip (20')": "NVIDIA GeForce FX 5200 Ultra",
+                "Graphics Memory (17')": "32 MB (MX) or 64 MB (FX 5200) DDR",
+                "Graphics Memory (20')": "64 MB (FX 5200 Ultra) DDR (20')"
+            }
+        }
+    }, {
+        "Name": "iMac G5 (17') & (20') (ALS)",
+        "Type": "iMac",
+        "image": "imac_g5.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2005",
+                "Discontinued": "October 2005",
+                "Model Identifier": "PowerMac8,2"
+            },
+            "Processor": {
+                "Processor Name": "PowerPC 970FX (G5)",
+                "Processor Speed": "1.8 GHz or 2.0 GHz (17') <br> 2.0 GHz (20')",
+                "Number of Cores": "1"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4 (Tiger)",
+                "Later OS": "none",
+                "Maximum OS": "Mac OS X 10.5.8 (Leopard)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "400 MHz DDR SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon 9600",
+                "Graphics Memory": "128 MB DDR"
+            }
+        }
+    }, {
+        "Name": "iMac G5 (17') & (20') iSight",
+        "Type": "iMac",
+        "image": "imac_isight.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2005",
+                "Discontinued": "January 2006 (17') <br> March 2006 (20')",
+                "Model Identifier": "PowerMac12,1"
+            },
+            "Processor": {
+                "Processor Name": "PowerPC 970FX (G5)",
+                "Processor Speed": "1.9 GHz (17') <br> 2.1 GHz (20')",
+                "Number of Cores": "1"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.2 (Tiger)",
+                "Later OS": "none",
+                "Maximum OS": "Mac OS X 10.5.8 (Leopard)"
+            },
+            "Memory": {
+                "Maximum Memory": "2.5 GB",
+                "Supported RAM": "533 MHz DDR2 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon X600 Pro (17') <br> ATI Radeon X600 XT (20')",
+                "Graphics Memory": "128 MB DDR"
+            }
+        }
+    },
+    {
+        "Name": "iMac Early 2006 (17') & (20')",
+        "Type": "iMac",
+        "image": "imac_isight.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "January 2006",
+                "Discontinued": "September 2006",
+                "Model Identifier": "iMac4,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core Duo (T2400) (17') <br> Intel Core Duo (T2500) (20') ('Yonah')",
+                "Processor Speed": "1.83 GHz or 2.0 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.4 (Tiger)",
+                "Later OS": "Mac OS X 10.4.6 (Tiger)",
+                "Maximum OS": "Mac OS X 10.6.8 (Snow Leopard)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon X1600",
+                "Graphics Memory": "128 MB DDR3 (17') <br> 128 MB or 256 MB DDR3 (20')"
+            },
+            "Display": {
+                "Display Type": "17' or 20' (viewable) TFT LCD",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900 (17') <br> 1680 x 1050 (20')"
+            }
+
+        }
+    }, {
+        "Name": "iMac Mid 2006",
+        "Type": "iMac",
+        "image": "imac_isight.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "July 2006",
+                "Discontinued": "September 2006",
+                "Model Identifier": "iMac4,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core Duo (T2400) ('Yonah')",
+                "Processor Speed": "1.83 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.6 (Tiger)",
+                "Later OS": "none",
+                "Maximum OS": "Mac OS X 10.6.8 (Snow Leopard)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Graphics Media Accelerator (GMA) 950",
+                "Graphics Memory": "64 MB DDR2"
+            },
+
+            "Display": {
+                "Display Type": "17-inch (viewable) TFT LCD",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900"
+            }
+
+        }
+    }, {
+        "Name": "iMac Late 2006 (17') & (20')",
+        "Type": "iMac",
+        "image": "imac_isight.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "September 2006",
+                "Discontinued": "August 2007",
+                "Model Identifier": "iMac5,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T7200, T7400) ('Merom') (17') <br> Intel Core 2 Duo (T7400, T7600) ('Merom') (20')",
+                "Processor Speed": "2.0 GHz or 2.16 GHz (17') <br> 2.16 GHz or 2.33 GHz (20')",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.7 (Tiger)",
+                "Later OS": "Mac OS X 10.4.8 (Tiger)",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "3 GB; 4 GB can be installed, only 3 GB will be addressed",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon X1600",
+                "Graphics Memory": "128 MB GDDR3 (17') <br> 128 MB or 256 MB GDDR3 (20')"
+            },
+            "Display": {
+                "Display Type": "17' or 20' (viewable) TFT LCD",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900 (17') <br> 1680 x 1050 (20')"
+            }
+
+        }
+    }, {
+        "Name": "iMac (17') Late 2006 CD",
+        "Type": "iMac",
+        "image": "imac_isight.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "September 2006",
+                "Discontinued": "August 2007",
+                "Model Identifier": "iMac5,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T5600) ('Merom')",
+                "Processor Speed": "1.83 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.7 (Tiger)",
+                "Later OS": "Mac OS X 10.4.8 (Tiger)",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Graphics Media Accelerator (GMA) 950",
+                "Graphics Memory": "64 MB DDR2"
+            },
+            "Display": {
+                "Display Type": "17-inch (viewable) TFT LCD",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "iMac (24')",
+        "Type": "iMac",
+        "image": "imac_isight.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "September 2006",
+                "Discontinued": "August 2007",
+                "Model Identifier": "iMac6,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T7400, T7600) ('Merom')",
+                "Processor Speed": "2.16 GHz or 2.33 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.7 (Tiger)",
+                "Later OS": "Mac OS X 10.4.8 (Tiger)",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "3 GB; 4 GB can be installed, only 3 GB will be addressed",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 7300 GT or 7600 GT",
+                "Graphics Memory": "128 (7300 GT) or 256 MB (7600 GT) GDDR3"
+            },
+            "Display": {
+                "Display Type": "24' (viewable) TFT LCD",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1920 x 1200"
+            }
+        }
+    }, {
+        "Name": "iMac Mid 2007 (20') & (24')",
+        "Type": "iMac",
+        "image": "imac_aluminium_24.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "August 2007",
+                "Discontinued": "April 2008",
+                "Model Identifier": "iMac7,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T7300, T7700) ('Merom') (20') <br> Intel Core 2 Duo (T7700) or Core 2 Extreme (X7900) ('Merom') (24')",
+                "Processor Speed": "2.0 GHz or 2.4 GHz (20') <br> 2.4 GHz or 2.8 GHz (24')",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.10 (Tiger)",
+                "Later OS": "Mac OS X 10.5(.2) (Leopard)",
+                "Maximum OS": "Mac OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "6 GB (Actual) <br> 4 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon HD 2400 XT or 2600 PRO (20') <br> ATI Radeon HD 2600 PRO (24')",
+                "Graphics Memory": "128 MB (2400 XT) or 256 MB (2600 PRO) GDDR3 (20') <br> 256 MB GDDR3 (24')"
+            },
+            "Display": {
+                "Display Type": "20' or 24' (viewable) glossy widescreen TFT LCD",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1680 x 1050 (20') <br> 1920 x 1200 (24')"
+            }
+
+        }
+    }, {
+        "Name": "iMac Mid 2007 (20') & (24')",
+        "Type": "iMac",
+        "image": "imac_aluminium_24.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "April 2008",
+                "Discontinued": "March 2008",
+                "Model Identifier": "iMac8,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (E8135, E8335) ('Penryn') (20') <br> Intel Core 2 Duo (E8235, E8435) (24')",
+                "Processor Speed": "2.4 GHz or 2.66 GHz (20') <br> 2.8 GHz or 3.06 GHz (24')",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.2 (Leopard)",
+                "Later OS": "Mac OS X 10.5.4 (Leopard)",
+                "Maximum OS": "Mac OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "6 GB (Actual) <br> 4 GB (Apple)",
+                "Supported RAM": "800 MHz DDR2 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon HD 2400 XT or 2600 PRO (20') <br> ATI Radeon HD 2600 PRO or NVIDIA GeForce 8800 GS (24')",
+                "Graphics Memory": "128 MB (2400 XT) or 256 MB (2600 PRO) GDDR3 (20') <br> 256 MB (2600 PRO) or 512 MB (8800 GS) GDDR3 (24')"
+            },
+            "Display": {
+                "Display Type": "20' or 24' (viewable) glossy widescreen TFT LCD",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1680 x 1050 (20') <br> 1920 x 1200 (24')"
+            }
+
+        }
+    }, {
+        "Name": "iMac Mid 2009 (20')",
+        "Type": "iMac",
+        "image": "imac_aluminium_20.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "April 2009",
+                "Discontinued": "August 2011",
+                "Model Identifier": "iMac9,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P7350, P7550) ('Penryn')",
+                "Processor Speed": "2.0 or 2.26 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.6 (Leopard)",
+                "Later OS": "Mac OS X 10.6 (Snow Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9400M (20')",
+                "Graphics Memory": "256 MB"
+            },
+            "Display": {
+                "Display Type": "20' (viewable) glossy widescreen TFT LCD",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1680 x 1050"
+            }
+        }
+    }, {
+        "Name": "iMac Early 2009 (20') & (24')",
+        "Type": "iMac",
+        "image": "imac_aluminium_24.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "March 2009",
+                "Discontinued": "October 2009",
+                "Model Identifier": "iMac9,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (E8135) ('Penryn') (20') <br> Intel Core 2 Duo (E8135, E8335, E8435) ('Penryn') (24')",
+                "Processor Speed": "2.66 GHz (20') <br> 2.66 GHz, 2.93 GHz or 3.06 GHz(24')",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.6 (Leopard)",
+                "Later OS": "none",
+                "Maximum OS": "Mac OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9400M (20') <br> NVIDIA GeForce 9400M, GT 120, GT 130 or ATI Radeon HD 4850 (24')",
+                "Graphics Memory": "256 MB (9400M, GT 120), 512 MB (GT 130, Radeon HD 4850)"
+            },
+            "Display": {
+                "Display Type": "20' or 24' (viewable) glossy widescreen TFT LCD",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1680 x 1050 (20') <br> 1920 x 1200 (24')"
+            }
+        }
+    }, {
+        "Name": "iMac (27-inch, Late 2009)",
+        "Type": "iMac",
+        "image": "imac_unibody_27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2009",
+                "Discontinued": "July 2010",
+                "Model Identifier": "iMac10,1 or iMac11,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (E7600, E8600) ('Wolfdale'), i5-750 or i7-860 ('Lynnfield')",
+                "Processor Speed": "3.06 or 3.33 GHz (Core 2 Duo), 2.66 GHz (i5), 2.8 GHz (i7)",
+                "Number of Cores": "2 (Core 2 Duo), 4 (i5, i7)"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.1/.2 Snow Leopard",
+                "Maximum OS": "macOS 10.13 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Apple), 32 GB (Core i5 or i7 Actual)",
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon HD 4670 or Radeon HD 4850",
+                "Graphics Memory": "256 MB (Radeon HD 4670), 512 MB (Radeon HD 4850)"
+            },
+            "Display": {
+                "Display Type": "27-inch (diagonal) LED-backlit glossy widescreen TFT LCD with IPS",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "2560 x 1440"
+            }
+        }
+    }, {
+        "Name": "iMac (21.5', Late 2009)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2009",
+                "Discontinued": "July 2010",
+                "Model Identifier": "iMac10,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (E7600, E8600) ('Wolfdale')",
+                "Processor Speed": "3.06 or 3.33 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.1 (Snow Leopard)",
+                "Later OS": "Mac OS X 10.6.2 (Snow Leopard)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "DDR3 1066 MHz",
+                "RAM Slots": "4"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9400M or ATI Radeon HD 4670",
+                "Graphics Memory": "256 MB"
+            },
+            "Display": {
+                "Display Type": "21.5 inch (viewable) LED-backlit glossy widescreen TFT LCD with IPS",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "iMac (21.5 inch, Mid 2010)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "July 2010",
+                "Discontinued": "May 2011",
+                "Model Identifier": "iMac11,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i3 (540, 550) or Core i5 (680) ('Clarkdale')",
+                "Processor Speed": "3.06 or 3.2 GHz (i3), 3.6 GHz (i5)",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.3 Snow Leopard",
+                "Later OS": "Mac OS X 10.6.4 Snow Leopard",
+                "Maximum OS": "macOS 10.13 High Sierra"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1333 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon HD 4670 or 5670",
+                "Graphics Memory": "256 MB or 512 MB"
+            },
+            "Display": {
+                "Display Type": "21.5-inch (viewable) LED-backlit glossy widescreen TFT LCD with IPS",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "iMac (27-inch, Mid 2010)",
+        "Type": "iMac",
+        "image": "imac_unibody_27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "July 2010",
+                "Discontinued": "May 2011",
+                "Model Identifier": "iMac11,3"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i3 (550), Core i5 (680, 760) or Core i7 (870) ('Clarkdale', 'Lynnfield')",
+                "Processor Speed": "3.2 GHz (i3), 3.6 or 2.8 GHz (i5), 2.93 GHz (i7)",
+                "Number of Cores": "2 or 4"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.3 Snow Leopard",
+                "Later OS": "Mac OS X 10.6.4 Snow Leopard",
+                "Maximum OS": "macOS 10.13 High Sierra"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB (Core i5 or i7 Actual) 16 GB (Apple)",
+                "Supported RAM": "1333 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon HD 5670 or 5750",
+                "Graphics Memory": "512 MB (Radeon HD 5670), 1 GB (Radeon HD 5750)"
+            },
+            "Display": {
+                "Display Type": "27-inch (viewable) LED-backlit glossy widescreen TFT LCD with IPS",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "2560 x 1440"
+            }
+        }
+    }, {
+        "Name": "iMac (21.5-inch, Late 2011)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "August 2011",
+                "Discontinued": "March 2013",
+                "Model Identifier": "iMac12,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i3 (2100) ('Sandy Bridge')",
+                "Processor Speed": "3.1 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7 Lion",
+                "Maximum OS": "macOS 10.13.6 High Sierra"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
+                "Supported RAM": "1333 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon HD 6750M",
+                "Graphics Memory": "256 MB GDDR5"
+            },
+            "Display": {
+                "Display Type": "21.5-inch (viewable) LED-backlit glossy widescreen TFT LCD",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "iMac (21.5-inch, Mid 2011)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2011",
+                "Discontinued": "October 2012",
+                "Model Identifier": "iMac12,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (2400S, 2500S) or i7 (2600S) ('Sandy Bridge')",
+                "Processor Speed": "2.5 GHz or 2.7 GHz (Core i5) 2.8 GHz (Core i7)",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.6 Snow Leopard",
+                "Later OS": "Mac OS X 10.6.7 Snow Leopard",
+                "Maximum OS": "macOS 10.13.6 High Sierra"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB (Actual) 16 GB (Apple)",
+                "Supported RAM": "1333 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon HD 6750M or 6770M",
+                "Graphics Memory": "512 MB GDDR5"
+            },
+            "Display": {
+                "Display Type": "21.5-inch (viewable) LED-backlit glossy widescreen TFT LCD",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "iMac (27-inch, Late 2011)",
+        "Type": "iMac",
+        "image": "imac_unibody_27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2011",
+                "Discontinued": "October 2012",
+                "Model Identifier": "iMac12,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (2500S, 2400) or i7 (2600) ('Sandy Bridge')",
+                "Processor Speed": "2.7 GHz or 3.1 GHz (Core i5) 3.4 GHz (Core i7)",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.6 Snow Leopard",
+                "Later OS": "Mac OS X 10.6.7 Snow Leopard",
+                "Maximum OS": "macOS 10.13.6 High Sierra"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB (Actual) 16 GB (Apple)",
+                "Supported RAM": "1333 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon HD 6770M or 6970M",
+                "Graphics Memory": "512 MB GDDR5 (6770M) 1 or 2 GB GDDR5 (6970M)"
+            },
+            "Display": {
+                "Display Type": "27-inch (viewable) LED-backlit glossy widescreen TFT LCD",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "2560 x 1440"
+            }
+        }
+    }, {
+        "Name": "iMac (21.5-inch, Late 2012)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2012",
+                "Discontinued": "September 2013",
+                "Model Identifier": "iMac13,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (3330S, 3470S) or i7 (3770S) ('Ivy Bridge')",
+                "Processor Speed": "2.7 GHz, 2.9 GHz (i5), 3.1 GHz (i7)",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.8.2 (Mountain Lion)",
+                "Maximum OS": "macOS 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce GT 640M or 650M",
+                "Graphics Memory": "512 MB GDDR5"
+            },
+            "Display": {
+                "Display Type": "21.5-inch LED-backlit IPS display",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "iMac (27-inch, Late 2012)",
+        "Type": "iMac",
+        "image": "imac_unibody_27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2012",
+                "Discontinued": "September 2013",
+                "Model Identifier": "iMac13,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (3470S, 3470) or i7 (3770) ('Ivy Bridge')",
+                "Processor Speed": "2.9 GHz, 3.2 GHz, 3.4 GHz",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.8.2 (Mountain Lion)",
+                "Maximum OS": "macOS 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce GTX 660M, 675MX or 680MX",
+                "Graphics Memory": "512 MB (660M), 1 GB (675MX), 2 GB (680MX)"
+            },
+            "Display": {
+                "Display Type": "27-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "2560 x 1440"
+            }
+        }
+    }, {
+        "Name": "iMac (21.5-inch, Early 2013)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "March 2013",
+                "Discontinued": "June 2014",
+                "Model Identifier": "iMac13,1 (2013)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i3 (3225) ('Ivy Bridge')",
+                "Processor Speed": "3.3 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "OS X 10.8.2 (Mountain Lion)",
+                "Maximum OS": "macOS 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM (non User-Accessible)"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 4000",
+                "Graphics Memory": "512 MB"
+            },
+            "Display": {
+                "Display Type": "21.5-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "iMac (21.5-inch, Late 2013) <br> (i5)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "September 2013",
+                "Discontinued": "October 2015",
+                "Model Identifier": "iMac14,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (4570R) ('Haswell')",
+                "Processor Speed": "2.7 GHz",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.8.4 (Mountain Lion)",
+                "Later OS": "OS X 10.9(.2) (Mavericks)",
+                "Maximum OS": "macOS 10.15 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM (Non-user Accessible)"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Pro 5200",
+                "Graphics Memory": "Up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "21.5-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "iMac (27-inch, Late 2013)",
+        "Type": "iMac",
+        "image": "imac_unibody_27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "September 2013",
+                "Discontinued": "October 2015",
+                "Model Identifier": "iMac14,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (4570, 4670) or i7 (4771) ('Haswell')",
+                "Processor Speed": "3.2 or 3.4 GHz (i5), 3.5 GHz (i7)",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.8.4 (Mountain Lion)",
+                "Later OS": "OS X 10.9(.2) (Mavericks)",
+                "Maximum OS": "macOS 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce GT 755M, GTX 775M, or GTX 780M",
+                "Graphics Memory": "1 GB (GT 755M), 2 GB (GTX 775M), or 4 GB (GTX 780M)"
+            },
+            "Display": {
+                "Display Type": "27-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "2560 x 1440"
+            }
+        }
+    }, {
+        "Name": "iMac (21.5-inch, Late 2013) <br> (i5 & i7)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "September 2013",
+                "Discontinued": "October 2015",
+                "Model Identifier": "iMac14,3"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (4570S) or i7 (4770S)",
+                "Processor Speed": "2.9 GHz or 3.1 GHz",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.8.4 (Mountain Lion)",
+                "Later OS": "OS X 10.9(.2) (Mavericks)",
+                "Maximum OS": "macOS 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM (Non-user accessible)"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce GT 750M",
+                "Graphics Memory": "1 GB GDDR5"
+            },
+            "Display": {
+                "Display Type": "21.5-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "iMac (21.5-inch, Mid 2014)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "June 2014",
+                "Discontinued": "October 2015",
+                "Model Identifier": "iMac14,4"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (4260U) ('Haswell')",
+                "Processor Speed": "1.4 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "OS X 10.9.3 (Mavericks)",
+                "Maximum OS": "Latest Release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1600 MHz LPDDR3 on-board Memory"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 5000",
+                "Graphics Memory": "1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "21.5-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "iMac (Retina 5K, 27-inch) <br> (Late 2014)",
+        "Type": "iMac",
+        "image": "imac_unibody_27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2014",
+                "Discontinued": "October 2015",
+                "Model Identifier": "iMac15,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (4690) or Core i7 (4790K)",
+                "Processor Speed": "3.5 GHz or 4.0 GHz",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.10 (Yosemite)",
+                "Later OS": "OS X 10.10.2 (Yosemite)",
+                "Maximum OS": "Latest Release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon R9 M290X or M295X",
+                "Graphics Memory": "2 GB (M290X) or 4 GB GDDR5 (M295X)"
+            },
+            "Display": {
+                "Display Type": "27-inch (diagonal) Retina 5K display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "5120 x 2880"
+            }
+        }
+    }, {
+        "Name": "iMac (Retina 5K, 27-inch) <br> (Mid 2015)",
+        "Type": "iMac",
+        "image": "imac_unibody_27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2015",
+                "Discontinued": "October 2015",
+                "Model Identifier": "iMac15,1 (2015)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (4590) ('Haswell')",
+                "Processor Speed": "3.3 GHz",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.10.2 (Yosemite)",
+                "Maximum OS": "Latest Release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon R9 M290",
+                "Graphics Memory": "2GB GDDR5"
+            },
+            "Display": {
+                "Display Type": "27-inch (diagonal) Retina 5K display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "5120 x 2880"
+            }
+        }
+    }, {
+        "Name": "iMac (21.5-inch, Late 2015) <br> (1.6 GHz)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2015",
+                "Discontinued": "June 2017",
+                "Model Identifier": "iMac16,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (5250U) ('Broadwell')",
+                "Processor Speed": "1.6 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "OS X 10.11 (El Capitan)",
+                "Later OS": "OS X 10.11.1 (EL Capitan)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1867 MHz LPDDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 6000",
+                "Graphics Memory": "1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "21.5-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "iMac (21.5-inch, Late 2015)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2015",
+                "Discontinued": "June 2017",
+                "Model Identifier": "iMac16,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (5575R) ('Broadwell')",
+                "Processor Speed": "2.8 GHz",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.11 (El Capitan)",
+                "Later OS": "OS X 10.11.1 (El Capitan)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1867 MHz LPDDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Pro 6200",
+                "Graphics Memory": "1.5 GB"
+            },
+            "Display": {
+                "Display Type": "21.5-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "iMac (Retina 4K, 21.5-inch) <br> (Late 2015)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2015",
+                "Discontinued": "June 2017",
+                "Model Identifier": "iMac16,2 (Retina)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (5675R) or Core i7 (5775R) ('Broadwell')",
+                "Processor Speed": "3.1 GHz or 3.3 GHz",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.11 (El Capitan)",
+                "Later OS": "OS X 10.11.1 (El Capitan)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "1867 MHz LPDDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Pro Graphics 6200",
+                "Graphics Memory": "1.5 GB"
+            },
+            "Display": {
+                "Display Type": "21.5-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "4096 x 2304"
+            }
+        }
+    }, {
+        "Name": "iMac (Retina 5K, 27-inch) <br> (Late 2015)",
+        "Type": "iMac",
+        "image": "imac_unibody_27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "October 2015",
+                "Discontinued": "June",
+                "Model Identifier": "iMac17,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (6500, 6600) or i7 (6700K)",
+                "Processor Speed": "3.2, 3.3, or 4.0 GHz",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "OS X 10.11 (El Capitan)",
+                "Later OS": "OS X 10.11.1 (El Capitan)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "64 GB (Actual) 32 GB (Apple)",
+                "Supported RAM": "1867 MHz DDR3 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon R9 M380, M390, M395, or M395X",
+                "Graphics Memory": "2 GB (M380, M390, M395) or 4 GB (M395X)"
+            },
+            "Display": {
+                "Display Type": "27-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "5120 x 2880"
+            }
+        }
+    }, {
+        "Name": "iMac (21.5-inch, 2017)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "June 2017",
+                "Discontinued": "October 2021",
+                "Model Identifier": "iMac18,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (7360U) ('Kaby Lake')",
+                "Processor Speed": "2.3 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "macOS 10.12.4 (Sierra)",
+                "Later OS": "macOS 10.12.5 (Sierra)",
+                "Maximum OS": "Latest release of macOS (13 - Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB (Actual) 16 GB (Apple)",
+                "Supported RAM": "2133 MHz DDR4 SO-DIMM (non-user accessible)"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Plus Graphics 640",
+                "Graphics Memory": "Up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "21.5-inch (diagonal) LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1920 x 1080"
+            }
+        }
+    }, {
+        "Name": "iMac (Retina 4K, 21.5-inch) <br> (2017)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "June 2017",
+                "Discontinued": "March 2019",
+                "Model Identifier": "iMac18,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (7400, 7500) or Core i7 (7700)",
+                "Processor Speed": "3.0, 3.4, or 3.6 GHz",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "macOS 10.12.4 (Sierra)",
+                "Later OS": "macOS 10.12.5 (Sierra)",
+                "Maximum OS": "Latest release of macOS (13 - Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "64 GB (Actual) 32 GB (Apple)",
+                "Supported RAM": "2400 MHz DDR4 SO-DIMM (non-user accessible)"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro 555 or 560",
+                "Graphics Memory": "2 or 4 GB GDDR5"
+            },
+            "Display": {
+                "Display Type": "21.5-inch (diagonal) Retina 4K display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "4096 x 2304"
+            }
+        }
+    }, {
+        "Name": "iMac (Retina 5K, 27-inch) <br> (2017)",
+        "Type": "iMac",
+        "image": "imac_unibody_27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "June 2017",
+                "Discontinued": "March 2019",
+                "Model Identifier": "iMac18,3"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (7500, 7600, 7600K) or Core i7 (7700K)",
+                "Processor Speed": "3.4, 3.5, 3.8, or 4.2 GHz",
+                "Number of Cores": "4"
+            },
+            "Software": {
+                "Original OS": "macOS 10.12.4 (Sierra)",
+                "Later OS": "macOS 10.12.5 (Sierra)",
+                "Maximum OS": "Latest release of macOS (13 - Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "64 GB",
+                "Supported RAM": "2400 MHz DDR4 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro 570, 575, or 580",
+                "Graphics Memory": "4 GB (Radeon Pro 570, 575) or 8GB (Radeon Pro 580) GDDR5"
+            },
+            "Display": {
+                "Display Type": "27-inch (diagonal) Retina 5K display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "5120 x 2880"
+            }
+        }
+    }, {
+        "Name": "iMac (Retina 5K, 27-inch) <br> (2019)",
+        "Type": "iMac",
+        "image": "imac_unibody_27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "March 2019",
+                "Discontinued": "August 2020",
+                "Model Identifier": "iMac19,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (8500, 8600, 9600K) or Core i9 (9900K)",
+                "Processor Speed": "3.0, 3.1, 3.7 or 3.6 GHz",
+                "Number of Cores": "6 or 8"
+            },
+            "Software": {
+                "Original OS": "macOS 10.14.4 (Mojave)",
+                "Maximum OS": "Latest release of macOS (13 - Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "128 GB (Actual) 64 GB (Apple)",
+                "Supported RAM": "2666 MHz DDR4 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro 570X, 575X, 580X, or Vega 48",
+                "Graphics Memory": "4 GB (Radeon Pro 570X, 575X) or 8 GB (580X) GDDR5, 8 GB (Vega 48) HBM2"
+            },
+            "Display": {
+                "Display Type": "27-inch (diagonal) Retina 5K display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "5120 x 2880"
+            }
+        }
+    }, {
+        "Name": "iMac (Retina 4K, 21.5-inch) <br> (2019)",
+        "Type": "iMac",
+        "image": "imac_unibody_21.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "March 2019",
+                "Discontinued": "April 2021",
+                "Model Identifier": "iMac19,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i3 (8100), Core i5 (8500), or Core i7 (8700)",
+                "Processor Speed": "3.6, 3.0, or 3.2 GHz",
+                "Number of Cores": "4 (i3), 6 (i5, i7)"
+            },
+            "Software": {
+                "Original OS": "macOS 10.14.4 (Mojave)",
+                "Maximum OS": "Latest release of macOS (13 - Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "64 GB (Actual) 32 GB (Apple)",
+                "Supported RAM": "2400 (i3) 2666 (i5/i7) MHz DDR4 SO-DIMM (Non-user accessible)"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro 555X, 560X or Vega 20",
+                "Graphics Memory": "2 GB (555X), 4 GB (560X, Vega 20) GDDR5"
+            },
+            "Display": {
+                "Display Type": "21.5-inch (diagonal) Retina 4K display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "4096 x 2304"
+            }
+        }
+    }, {
+        "Name": "iMac (Retina 5K, 27-inch) <br> (2020) <br> (5300, 5500 XT)",
+        "Type": "iMac",
+        "image": "imac_unibody_27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "August 2020",
+                "Discontinued": "March 2022",
+                "Model Identifier": "iMac20,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (10500, 10600), Core i7 (10700K) or Core i9 (10910) ('Comet Lake')",
+                "Processor Speed": "3.1, 3.3 (i5), 3.8 (i7), 3.6 GHz (i9)",
+                "Number of Cores": "6 (i5), 8 (i7), 10 (i9)"
+            },
+            "Software": {
+                "Original OS": "macOS 10.15.6 (Catalina)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "128 GB",
+                "Supported RAM": "2666 MHz DDR4 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro 5300, 5500 XT",
+                "Graphics Memory": "4 GB (Radeon Pro 5300) or 8 GB (5500 XT) GDDR6"
+            },
+            "Display": {
+                "Display Type": "27-inch (diagonal) Retina 5K display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "5120 x 2880"
+            }
+        }
+    }, {
+        "Name": "iMac (Retina 5K, 27-inch) <br> (2020) <br> (5700 / XT)",
+        "Type": "iMac",
+        "image": "imac_unibody_27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "August 2020",
+                "Discontinued": "March 2022",
+                "Model Identifier": "iMac20,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (10500, 10600), Core i7 (10700K) or Core i9 (10910) ('Comet Lake')",
+                "Processor Speed": "3.1, 3.3 (i5), 3.8 (i7), 3.6 GHz (i9)",
+                "Number of Cores": "6 (i5), 8 (i7), 10 (i9)"
+            },
+            "Software": {
+                "Original OS": "macOS 10.15.6 (Catalina)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "128 GB",
+                "Supported RAM": "2666 MHz DDR4 SO-DIMM"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro 5700 or 5700 XT",
+                "Graphics Memory": "8 GB (Radeon Pro 5700) or 16 GB (5700 XT) GDDR6"
+            },
+            "Display": {
+                "Display Type": "27-inch (diagonal) Retina 5K display with IPS technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "5120 x 2880"
+            }
+        }
+    }, {
+        "Name": "iMac (24-inch, M1, 2021)",
+        "Type": "iMac",
+        "image": "imac_24inch.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2021",
+                "Discontinued": "Present",
+                "Model Identifier": "iMac21,1",
+                "# of USB-C-Ports": "4"
+            },
+            "Processor": {
+                "Processor Name": "Apple M1 (APL1102)",
+                "Processor Speed": "3.2 GHz (high performance) and 2.1 GHz (high efficiency)",
+                "Number of Cores": "8 (4 high performance and 4 high efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 11.3 (Big Sur)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "4266 MT/s LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G13G",
+                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
+            },
+            "Display": {
+                "Display Type": "24-inch (diagonal) Retina 4.5K display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "4480 x 2520"
+            }
+        }
+    }, {
+        "Name": "iMac (24-inch, M1, 2021)",
+        "Type": "iMac",
+        "image": "imac_24inch.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2021",
+                "Discontinued": "Present",
+                "Model Identifier": "iMac21,2",
+                "# of USB-C-Ports": "2"
+            },
+            "Processor": {
+                "Processor Name": "Apple M1 (APL1102)",
+                "Processor Speed": "3.2 GHz (high performance) and 2.1 GHz (high efficiency)",
+                "Number of Cores": "8 (4 high performance and 4 high efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 11.3 (Big Sur)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "4266 MT/s LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G13G",
+                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
+            },
+            "Display": {
+                "Display Type": "24-inch (diagonal) Retina 4.5K display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "4480 x 2520"
+            }
+        }
+    }, {
+        "Name": "iMac Pro (2017)",
+        "Type": "iMac",
+        "image": "imac_pro.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "December 2017",
+                "Discontinued": "March 2021",
+                "Model Identifier": "iMacPro1,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Xeon W (W-2140B, W-2150B, W-2170B, W-2190B)",
+                "Processor Speed": "3.2, 3.0, 2.5, or 2.3 GHz",
+                "Number of Cores": "8, 10, 14, or 18"
+            },
+            "Software": {
+                "Original OS": "macOS 10.13.2 (High Sierra)",
+                "Maximum OS": "Latest release of macOS (13 - Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "512 GB (Actual) 256 GB (Apple)",
+                "Supported RAM": "2666 MHz DDR4 ECC DIMM (Non-user accessible)"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro Vega 56, Vega 64 or Vega 64X",
+                "Graphics Memory": "8 GB (Vega 56), or 16 GB (Vega 64, Vega 64X) HBM2"
+            },
+            "Display": {
+                "Display Type": "27-inch Retina 5K Display with IPS Technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "5120 x 2880"
+            }
+        }
+    }
+]

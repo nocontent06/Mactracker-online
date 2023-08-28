@@ -1,0 +1,738 @@
+[
+    {
+        "Name": "MacBook Air",
+        "Type": "MacBook Air",
+        "image": "macbook_air.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2008",
+                "Discontinued": "Oct 2008",
+                "Model Identifier": "MacBookAir1,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (P7500, P7700) ('Merom')",
+                "Processor Speed": "1.6 or 1.8 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.1 (Leopard)",
+                "Later OS": "Mac OS X 10.5.2 / .4 (Leopard)",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "667 MHz DDR2 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel GMA X3100",
+                "Graphics Memory": "144 - 160 MB DDR2 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook Air (Late 2008)",
+        "Type": "MacBook Air",
+        "image": "macbook_air.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2008",
+                "Discontinued": "Jun 2009",
+                "Model Identifier": "MacBookAir2,1 (2008)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (L9300, L9400) ('Penryn')",
+                "Processor Speed": "1.6 or 1.86 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.5 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "1066 MHz DDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9400M",
+                "Graphics Memory": "256 MB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook Air (Mid 2008)",
+        "Type": "MacBook Air",
+        "image": "macbook_air.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2008",
+                "Discontinued": "Jun 2009",
+                "Model Identifier": "MacBookAir2,1 (2009)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (L9400, L9600) ('Penryn')",
+                "Processor Speed": "1.86 or 2.13 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.5.6 (Leopard)",
+                "Later OS": "Mac OS X 10.6 (Snow Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "1066 MHz DDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 9400M",
+                "Graphics Memory": "256 MB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1280 x 800"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (11-inch, Late 2010)",
+        "Type": "MacBook Air",
+        "image": "macbook_air.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2010",
+                "Discontinued": "Jul 2011",
+                "Model Identifier": "MacBookAir3,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (U9400, U9600) ('Penryn')",
+                "Processor Speed": "1.4 or 1.6 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.4 (Snow Leopard)",
+                "Later OS": "Mac OS X 10.6.5 (Snow Leopard)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "4 GB",
+                "Supported RAM": "1066 MHz DDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 320M",
+                "Graphics Memory": "256 MB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "11.6-inch LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1366 x 768"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (13-inch, Late 2010)",
+        "Type": "MacBook Air",
+        "image": "macbook_air.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2010",
+                "Discontinued": "Jul 2011",
+                "Model Identifier": "MacBookAir3,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (L9400, L9600) ('Penryn')",
+                "Processor Speed": "1.86 or 2.13 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.6.4 (Snow Leopard)",
+                "Later OS": "Mac OS X 10.6.5 (Snow Leopard)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "4 GB",
+                "Supported RAM": "1066 MHz DDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce 320M",
+                "Graphics Memory": "256 MB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (11-inch, Mid 2011)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_11_2011.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2011",
+                "Discontinued": "Jun 2012",
+                "Model Identifier": "MacBookAir4,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (2467M, 2677M) ('Sandy Bridge')",
+                "Processor Speed": "1.6 or 1.8 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7 (Lion)",
+                "Later OS": "Mac OS X 10.7.2 / .3 (Lion)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "4 GB",
+                "Supported RAM": "1333 MHz DDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 3000",
+                "Graphics Memory": "256 - 384 MB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "11.6-inch LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1366 x 768"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (13-inch, Mid 2011)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_2011.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2011",
+                "Discontinued": "Jun 2012",
+                "Model Identifier": "MacBookAir4,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (2557M, 2677M) ('Sandy Bridge')",
+                "Processor Speed": "1.7 or 1.8 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7 (Lion)",
+                "Later OS": "Mac OS X 10.7 / .3 (Lion)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
+            },
+            "Memory": {
+                "Maximum Memory": "4 GB",
+                "Supported RAM": "1333 MHz DDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 3000",
+                "Graphics Memory": "384 MB DDR3 (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (11-inch, Mid 2012)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_11_2012.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2012",
+                "Discontinued": "Jun 2013",
+                "Model Identifier": "MacBookAir5,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (3317U, 3667U) ('Ivy Bridge')",
+                "Processor Speed": "1.7 or 2.0 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7.4 (Lion)",
+                "Later OS": "Mac OS X 10.8 / .3 (Mountain Lion)",
+                "Maximum OS": "macOS 10.15.7 (Catalina)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1600 MHz DDR3L SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 4000",
+                "Graphics Memory": "up to 1 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "11.6-inch LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1366 x 768"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (13-inch, Mid 2012)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_2012.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2012",
+                "Discontinued": "Jun 2013",
+                "Model Identifier": "MacBookAir5,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (3427U, 3667U) ('Ivy Bridge')",
+                "Processor Speed": "1.8 or 2.0 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.7.4 (Lion)",
+                "Later OS": "OS X 10.9 / .2 (Mavericks)",
+                "Maximum OS": "Latest release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 4000",
+                "Graphics Memory": "up to 1 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (11-inch, Mid 2013)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_2012.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2013",
+                "Discontinued": "Apr 2014",
+                "Model Identifier": "MacBookAir6,1 (2013)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (4250U, 4650U) ('Haswell')",
+                "Processor Speed": "1.3 or 1.7 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "OS X 10.8.4 (Mountain Lion)",
+                "Later OS": "OS X 10.9 / .2 (Mavericks)",
+                "Maximum OS": "Latest release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 5000",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "11.6-inch LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1366 x 768"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (13-inch, Mid 2013)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_2012.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2013",
+                "Discontinued": "Apr 2014",
+                "Model Identifier": "MacBookAir6,2 (2013)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (4250U, 4650U) ('Haswell')",
+                "Processor Speed": "1.3 or 1.7 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "OS X 10.8.4 (Mountain Lion)",
+                "Later OS": "OS X 10.9 / .2 (Mavericks)",
+                "Maximum OS": "Latest release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 5000",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (11-inch, Early 2014)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_11_2014.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Apr 2014",
+                "Discontinued": "Mar 2015",
+                "Model Identifier": "MacBookAir6,1 (2014)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (4260U, 4650U) ('Haswell')",
+                "Processor Speed": "1.4 or 1.7 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "OS X 10.9.2 (Mavericks)",
+                "Maximum OS": "Latest release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 5000",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "11.6-inch LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1366 x 768"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (13-inch, Early 2014)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_2014.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Apr 2014",
+                "Discontinued": "Mar 2015",
+                "Model Identifier": "MacBookAir6,2 (2014)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (4260U, 4650U) ('Haswell')",
+                "Processor Speed": "1.4 or 1.7 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "OS X 10.9.2 (Mavericks)",
+                "Maximum OS": "Latest release of macOS 11 (Big Sur)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 5000",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (11-inch, Early 2015)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_11_2014.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2015",
+                "Discontinued": "Oct 2016",
+                "Model Identifier": "MacBookAir7,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (5250U, 5650U) ('Broadwell')",
+                "Processor Speed": "1.6 or 2.2 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "OS X 10.10.2 (Yosemite)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 6000",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "11.6-inch LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1366 x 768"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (13-inch, Early 2015)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_2014.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Apr 2014",
+                "Discontinued": "Mar 2015",
+                "Model Identifier": "MacBookAir7,2 (2015)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (5250U, 5650U) ('Broadwell')",
+                "Processor Speed": "1.6 or 2.2 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "OS X 10.10.2 (Yosemite)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 6000",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (13-inch, 2017)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_2018.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2017",
+                "Discontinued": "Jul 2019",
+                "Model Identifier": "MacBookAir7,2 (2017)"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 or i7 (5350U, 5650U) ('Broadwell')",
+                "Processor Speed": "1.8 or 2.2 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "macOS 10.12.4 (Sierra)",
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel HD Graphics 6000",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit glossy widescreen",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "1440 x 900"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (Retina, 13-inch, 2018)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_2018.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2018",
+                "Discontinued": "Jul 2019",
+                "Model Identifier": "MacBookAir8,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (8210Y) ('Amber Lake')",
+                "Processor Speed": "1.6 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "macOS 10.14.1 (Mojave)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "2133 MHz LPDDR3 on-board"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel UHD Graphics 617",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (Retina, 13-inch, 2019)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_2018.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2019",
+                "Discontinued": "Mar 2020",
+                "Model Identifier": "MacBookAir8,2"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i5 (8210Y) ('Amber Lake')",
+                "Processor Speed": "1.6 GHz",
+                "Number of Cores": "2"
+            },
+            "Software": {
+                "Original OS": "macOS 10.14.5 (Mojave)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "2133 MHz LPDDR3 on-board"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel UHD Graphics 617",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (Retina, 13-inch, 2020)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_2018.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2020",
+                "Discontinued": "Nov 2020",
+                "Model Identifier": "MacBookAir9,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core i3, i5, i7 (1000NG4, 1030NG7, 1060NG7) ('Ice Lake')",
+                "Processor Speed": "1.1 (i3, i5) or 1.2 (i7) GHz",
+                "Number of Cores": "2 (i3) or 4 (i5, i7)"
+            },
+            "Software": {
+                "Original OS": "macOS 10.15.3 (Catalina)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "3733 MHz LPDDR4X on-board"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Iris Plus Graphics",
+                "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (M1, 2020)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_m1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2020",
+                "Discontinued": "--",
+                "Model Identifier": "MacBookAir10,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple M1 (APL1102)",
+                "Processor Speed": "3.2 GHz (high-performance), 2.1 GHz (high-efficiency)",
+                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 11.0 (Big Sur)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "4266 MT/s LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G13G",
+                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (M2, 2022)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_m2_2022.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2022",
+                "Discontinued": "--",
+                "Model Identifier": "Mac14,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple M2 (APL1109)",
+                "Processor Speed": "3.5 GHz (high-performance), 2.4 GHz (high-efficiency)",
+                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 12.4 (Monterey)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "24 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
+            },
+            "Display": {
+                "Display Type": "13.6-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1664"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (15-inch, M2, 2023)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_15_m2_2023.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2023",
+                "Discontinued": "---",
+                "Model Identifier": "Mac14,15"
+            },
+            "Processor": {
+                "Processor Name": "Apple M2 (APL1109)",
+                "Processor Speed": "3.5 GHz (high-performance), 2.4 GHz (high-efficiency)",
+                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)"
+            },
+            "Software": {
+                "Original OS": "macOS 13.4 (Ventura)",
+                "Maximum OS": "Latest release of macOS (Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "24 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Type": "15.3-inch LED-backlit display with IPS technology",
+                "Native Resolution": "2880 x 1864"
+            }
+        }
+    }
+]
