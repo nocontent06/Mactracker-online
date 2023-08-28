@@ -2,7 +2,7 @@
     {
         "Name": "iPad (WiFi)<br>(WiFi + 3G)",
         "Type": "iPad",
-        "image": "iPad_wifi.png",
+        "image": "ipad_wifi.png",
         "Info": {
             "Overview": {
                 "Introduced": "Jan 2010",
@@ -38,7 +38,7 @@
     {
         "Name": "iPad 2 (WiFi)",
         "Type": "iPad",
-        "image": "iPad2.png",
+        "image": "ipad2.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2011",
@@ -74,7 +74,7 @@
     {
         "Name": "iPad 2 (WiFi + 3G GSM)",
         "Type": "iPad",
-        "image": "iPad2.png",
+        "image": "ipad2.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2011",
@@ -110,7 +110,7 @@
     {
         "Name": "iPad 2 (WiFi + 3G CDMA)",
         "Type": "iPad",
-        "image": "iPad2.png",
+        "image": "ipad2.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2011",
@@ -146,7 +146,7 @@
     {
         "Name": "iPad (3rd Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad3g.png",
+        "image": "ipad3g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2012",
@@ -189,7 +189,7 @@
     {
         "Name": "iPad (3rd Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad3g.png",
+        "image": "ipad3g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2012",
@@ -232,7 +232,7 @@
     {
         "Name": "iPad (4th Gen) (WiFi)",
         "Type": "iPad",
-        "image": "iPad3g.png",
+        "image": "ipad3g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2012 (16, 32, 64) Feb 2013 (128) Mar 2014 (16)",
@@ -275,7 +275,7 @@
     {
         "Name": "iPad (4th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad3g.png",
+        "image": "ipad3g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2012 (16, 32, 64) Feb 2013 (128) Mar 2014 (16)",
@@ -318,7 +318,7 @@
     {
         "Name": "iPad Mini (WiFi)",
         "Type": "iPad",
-        "image": "iPad_mini.png",
+        "image": "ipad_mini.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2012",
@@ -361,7 +361,7 @@
     {
         "Name": "iPad Mini (WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_mini.png",
+        "image": "ipad_mini.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2012",
@@ -404,7 +404,7 @@
     {
         "Name": "iPad Air (WiFi)",
         "Type": "iPad",
-        "image": "iPad_air.png",
+        "image": "ipad_air.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2013",
@@ -447,7 +447,7 @@
     {
         "Name": "iPad Air (WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_air.png",
+        "image": "ipad_air.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2013",
@@ -490,7 +490,7 @@
     {
         "Name": "iPad Mini 2 (WiFi)",
         "Type": "iPad",
-        "image": "iPad_mini_2G.png",
+        "image": "ipad_mini_2G.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2013",
@@ -533,7 +533,7 @@
     {
         "Name": "iPad Mini 2 (WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_mini_2G.png",
+        "image": "ipad_mini_2G.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2013",
@@ -576,7 +576,7 @@
     {
         "Name": "iPad Air 2 (WiFi)",
         "Type": "iPad",
-        "image": "iPad_air2.png",
+        "image": "ipad_air2.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2014 (16, 64, 128) Sep 2016 (32)",
@@ -619,7 +619,7 @@
     {
         "Name": "iPad Air 2 (WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_air2.png",
+        "image": "ipad_air2.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2014 (16, 64, 128) Sep 2016 (32)",
@@ -662,7 +662,7 @@
     {
         "Name": "iPad Mini 3 (WiFi)",
         "Type": "iPad",
-        "image": "iPad_mini_3.png",
+        "image": "ipad_mini_3.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2014",
@@ -705,7 +705,7 @@
     {
         "Name": "iPad Mini 3 (WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_mini_3.png",
+        "image": "ipad_mini_3.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2014",
@@ -748,7 +748,7 @@
     {
         "Name": "iPad Mini 4 (WiFi)",
         "Type": "iPad",
-        "image": "iPad_mini_4.png",
+        "image": "ipad_mini_4.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2015 (16, 64, 128) Sep 2016 (32)",
@@ -791,7 +791,7 @@
     {
         "Name": "iPad Mini 4 (WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_mini_4.png",
+        "image": "ipad_mini_4.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2015 (16, 64, 128) Sep 2016 (32)",
@@ -834,7 +834,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch.png",
+        "image": "ipad_pro_12.9-inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "Nov 2015",
@@ -881,7 +881,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch.png",
+        "image": "ipad_pro_12.9-inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "Nov 2015",
@@ -928,7 +928,7 @@
     {
         "Name": "iPad Pro (9.7-inch)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_9.7-inch.png",
+        "image": "ipad_pro_9.7-inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2016",
@@ -975,7 +975,7 @@
     {
         "Name": "iPad Pro (9.7-inch)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_9.7-inch.png",
+        "image": "ipad_pro_9.7-inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2016",
@@ -1022,7 +1022,7 @@
     {
         "Name": "iPad (5th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_5th_gen.png",
+        "image": "ipad_5th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2017",
@@ -1068,7 +1068,7 @@
     {
         "Name": "iPad (5th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_5th_gen.png",
+        "image": "ipad_5th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2017",
@@ -1114,7 +1114,7 @@
     {
         "Name": "iPad Pro (10.5-inch)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_10.5-inch.png",
+        "image": "ipad_pro_10.5-inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "Jun 2017",
@@ -1162,7 +1162,7 @@
     {
         "Name": "iPad Pro (10.5-inch)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_10.5-inch.png",
+        "image": "ipad_pro_10.5-inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "Jun 2017",
@@ -1210,7 +1210,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(2nd Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch.png",
+        "image": "ipad_pro_12.9-inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "Jun 2017",
@@ -1258,7 +1258,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(2nd Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch.png",
+        "image": "ipad_pro_12.9-inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "Jun 2017",
@@ -1306,7 +1306,7 @@
     {
         "Name": "iPad (6th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_5th_gen.png",
+        "image": "ipad_5th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2018",
@@ -1353,7 +1353,7 @@
     {
         "Name": "iPad (6th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_5th_gen.png",
+        "image": "ipad_5th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2018",
@@ -1400,7 +1400,7 @@
     {
         "Name": "iPad Pro (11-inch)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_11-inch.png",
+        "image": "ipad_pro_11-inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2018",
@@ -1448,7 +1448,7 @@
     {
         "Name": "iPad Pro (11-inch)<br>(1TB)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_11-inch.png",
+        "image": "ipad_pro_11-inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2018",
@@ -1496,7 +1496,7 @@
     {
         "Name": "iPad Pro (11-inch)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_11-inch.png",
+        "image": "ipad_pro_11-inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2018",
@@ -1544,7 +1544,7 @@
     {
         "Name": "iPad Pro (11-inch)<br>(1TB)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_11-inch.png",
+        "image": "ipad_pro_11-inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2018",
@@ -1592,7 +1592,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(3rd Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch_3g.png",
+        "image": "ipad_pro_12.9-inch_3g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2018",
@@ -1640,7 +1640,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(3rd Gen)<br>(1TB)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch_3g.png",
+        "image": "ipad_pro_12.9-inch_3g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2018",
@@ -1688,7 +1688,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(3rd Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch_3g.png",
+        "image": "ipad_pro_12.9-inch_3g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2018",
@@ -1736,7 +1736,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(3rd Gen)<br>(1TB)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch_3g.png",
+        "image": "ipad_pro_12.9-inch_3g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2018",
@@ -1784,7 +1784,7 @@
     {
         "Name": "iPad Air (3rd Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_air_3rd_gen.png",
+        "image": "ipad_air_3rd_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2019",
@@ -1831,7 +1831,7 @@
     {
         "Name": "iPad Air (3rd Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_air_3rd_gen.png",
+        "image": "ipad_air_3rd_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2019",
@@ -1878,7 +1878,7 @@
     {
         "Name": "iPad Mini (5th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_mini_5.png",
+        "image": "ipad_mini_5.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2019",
@@ -1921,7 +1921,7 @@
     {
         "Name": "iPad Mini (5th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_mini_5.png",
+        "image": "ipad_mini_5.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2019",
@@ -1964,7 +1964,7 @@
     {
         "Name": "iPad (7th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_7th_gen.png",
+        "image": "ipad_7th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2019",
@@ -2011,7 +2011,7 @@
     {
         "Name": "iPad (7th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_7th_gen.png",
+        "image": "ipad_7th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2019",
@@ -2058,7 +2058,7 @@
     {
         "Name": "iPad Pro (11-inch)<br>(2nd Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_11-inch_2g.png",
+        "image": "ipad_pro_11-inch_2g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2020",
@@ -2106,7 +2106,7 @@
     {
         "Name": "iPad Pro (11-inch)<br>(2nd Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_11-inch_2g.png",
+        "image": "ipad_pro_11-inch_2g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2020",
@@ -2154,7 +2154,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(4th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch_4g.png",
+        "image": "ipad_pro_12.9-inch_4g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2020",
@@ -2202,7 +2202,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(4th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch_4g.png",
+        "image": "ipad_pro_12.9-inch_4g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2020",
@@ -2250,7 +2250,7 @@
     {
         "Name": "iPad (8th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_8th_gen.png",
+        "image": "ipad_8th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2020",
@@ -2297,7 +2297,7 @@
     {
         "Name": "iPad (8th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_8th_gen.png",
+        "image": "ipad_8th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2020",
@@ -2344,7 +2344,7 @@
     {
         "Name": "iPad Air (4th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_air_4th_gen.png",
+        "image": "ipad_air_4th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2020",
@@ -2388,7 +2388,7 @@
     {
         "Name": "iPad Air (4th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_air_4th_gen.png",
+        "image": "ipad_air_4th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2020",
@@ -2432,7 +2432,7 @@
     {
         "Name": "iPad Pro (11-inch)<br>(3rd Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_11-inch_3g.png",
+        "image": "ipad_pro_11-inch_3g.png",
         "Info": {
             "Overview": {
                 "Introduced": "May 2021",
@@ -2480,7 +2480,7 @@
     {
         "Name": "iPad Pro (11-inch)<br>(3rd Gen)<br>(TB)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_11-inch_3g.png",
+        "image": "ipad_pro_11-inch_3g.png",
         "Info": {
             "Overview": {
                 "Introduced": "May 2021",
@@ -2528,7 +2528,7 @@
     {
         "Name": "iPad Pro (11-inch)<br>(3rd Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_11-inch_3g.png",
+        "image": "ipad_pro_11-inch_3g.png",
         "Info": {
             "Overview": {
                 "Introduced": "May 2021",
@@ -2576,7 +2576,7 @@
     {
         "Name": "iPad Pro (11-inch)<br>(3rd Gen)<br>(TB)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_11-inch_3g.png",
+        "image": "ipad_pro_11-inch_3g.png",
         "Info": {
             "Overview": {
                 "Introduced": "May 2021",
@@ -2624,7 +2624,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(5th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch_5g.png",
+        "image": "ipad_pro_12.9-inch_5g.png",
         "Info": {
             "Overview": {
                 "Introduced": "May 2021",
@@ -2672,7 +2672,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(5th Gen)<br>(TB)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch_5g.png",
+        "image": "ipad_pro_12.9-inch_5g.png",
         "Info": {
             "Overview": {
                 "Introduced": "May 2021",
@@ -2720,7 +2720,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(5th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch_5g.png",
+        "image": "ipad_pro_12.9-inch_5g.png",
         "Info": {
             "Overview": {
                 "Introduced": "May 2021",
@@ -2768,7 +2768,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(5th Gen)<br>(TB)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch_5g.png",
+        "image": "ipad_pro_12.9-inch_5g.png",
         "Info": {
             "Overview": {
                 "Introduced": "May 2021",
@@ -2816,7 +2816,7 @@
     {
         "Name": "iPad (9th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_9th_gen.png",
+        "image": "ipad_9th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2021",
@@ -2863,7 +2863,7 @@
     {
         "Name": "iPad (9th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_9th_gen.png",
+        "image": "ipad_9th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2021",
@@ -2910,7 +2910,7 @@
     {
         "Name": "iPad Mini (6th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_mini_6.png",
+        "image": "ipad_mini_6.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2021",
@@ -2957,7 +2957,7 @@
     {
         "Name": "iPad Mini (6th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_mini_6.png",
+        "image": "ipad_mini_6.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2021",
@@ -3004,7 +3004,7 @@
     {
         "Name": "iPad Air (5th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_air_5th_gen.png",
+        "image": "ipad_air_5th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2022",
@@ -3048,7 +3048,7 @@
     {
         "Name": "iPad Air (5th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_air_5th_gen.png",
+        "image": "ipad_air_5th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2022",
@@ -3092,7 +3092,7 @@
     {
         "Name": "iPad (10th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_10th_gen.png",
+        "image": "ipad_10th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2022",
@@ -3139,7 +3139,7 @@
     {
         "Name": "iPad (10th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_10th_gen.png",
+        "image": "ipad_10th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2022",
@@ -3186,7 +3186,7 @@
     {
         "Name": "iPad Pro (11-inch)<br>(4th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_11-inch_4g.png",
+        "image": "ipad_pro_11-inch_4g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2022",
@@ -3234,7 +3234,7 @@
     {
         "Name": "iPad Pro (11-inch)<br>(4th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_11-inch_4g.png",
+        "image": "ipad_pro_11-inch_4g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2022",
@@ -3282,7 +3282,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(6th Gen)<br>(WiFi)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch_6g.png",
+        "image": "ipad_pro_12.9-inch_6g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2022",
@@ -3330,7 +3330,7 @@
     {
         "Name": "iPad Pro (12.9-inch)<br>(6th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
-        "image": "iPad_pro_12.9-inch_6g.png",
+        "image": "ipad_pro_12.9-inch_6g.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2022",
