@@ -1938,6 +1938,11 @@
             },
             "Battery": {
                 "Capacity": "4325 mAh"
+            },
+            "Features": {
+                "Specials": "Dynamic Country (? Idk what that's called... notch?)",
+                "Authentication": "Face ID",
+                "Connector": "Lightning"
             }
         }
     }, {
@@ -1982,6 +1987,11 @@
             },
             "Battery": {
                 "Capacity": "3200 mAh"
+            },
+            "Features": {
+                "Specials": "Dynamic Island",
+                "Authentication": "Face ID",
+                "Connector": "Lightning"
             }
         }
     }, {
@@ -2026,6 +2036,216 @@
             },
             "Battery": {
                 "Capacity": "4323 mAh"
+            },
+            "Features": {
+                "Specials": "Dynamic Island",
+                "Authentication": "Face ID",
+                "Connector": "Lightning"
+            }
+        }
+    },
+    {
+        "Name": "iPhone 15",
+        "Type": "iPhone",
+        "image": "iphone_15.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2023",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone15,4"
+            },
+            "Processor": {
+                "Processor Name": "Apple A16 Bionic",
+                "Processor Speed": "3.5 GHz",
+                "Benchmark (SC / MC)": "1874 / 5364",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "Manufacturing Process": "5 nm"
+
+            },
+            "Software": {
+                "Original OS": "iOS 17.0.2",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "6 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.1-inch widescreen",
+                "Display Resolution": "2556 x 1179",
+                "Display Refresh Rate": "60 Hz"
+            },
+            "Storage": {
+                "Capacity": "128, 256 or 512 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 48 / 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "3349 mAh"
+            },
+            "Features": {
+                "Specials": "Dynamic Island",
+                "Authentication": "Face ID",
+                "Connector": "USB-C (2.0)"
+            }
+        }
+    },
+    {
+        "Name": "iPhone 15 Plus",
+        "Type": "iPhone",
+        "image": "iphone_15_plus.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2023",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone15,5"
+            },
+            "Processor": {
+                "Processor Name": "Apple A16 Bionic",
+                "Processor Speed": "3.5 GHz",
+                "Benchmark (SC / MC)": "1874 / 5364",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "Manufacturing Process": "5 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 17.0.2",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "6 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.7-inch widescreen",
+                "Display Resolution": "2796 x 1290",
+                "Display Refresh Rate": "60 Hz"
+            },
+            "Storage": {
+                "Capacity": "128, 256 or 512 GB"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 48 / 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "4383 mAh"
+            },
+            "Features": {
+                "Specials": "Dynamic Island",
+                "Authentication": "Face ID",
+                "Connector": "USB-C (2.0)"
+            }
+        }
+    },
+    {
+        "Name": "iPhone 15 Pro",
+        "Type": "iPhone",
+        "image": "iphone_15_pro.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2023",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone16,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A17 Pro",
+                "Processor Speed": "3.78 GHz",
+                "Benchmark (SC / MC)": "2136 / 5997",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 17.0.2",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.1-inch widescreen",
+                "Display Resolution": "2556 x 1179",
+                "Display Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Camera": {
+                "Rear Camera": "3 - 48 / 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "3274 mAh"
+            },
+            "Features": {
+                "Specials": "Dynamic Island",
+                "Authentication": "Face ID",
+                "Connector": "USB-C (3)"
+            }
+        }
+    },
+    {
+        "Name": "iPhone 15 Pro Max",
+        "Type": "iPhone",
+        "image": "iphone_15_pro_max.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2023",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone16,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A17 Pro",
+                "Processor Speed": "3.78 GHz",
+                "Benchmark (SC / MC)": "2140 / 5825",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 17.0.2",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.7-inch widescreen",
+                "Display Resolution": "2796 x 1290",
+                "Display Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB or 1 TB"
+            },
+            "Camera": {
+                "Rear Camera": "3 - 48 / 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "4422 mAh"
+            },
+            "Features": {
+                "Specials": "Dynamic Island",
+                "Authentication": "Face ID",
+                "Connector": "USB-C (3)"
             }
         }
     }
