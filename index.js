@@ -46,8 +46,8 @@ footer_index.innerHTML += '<br> \
     <i class="fa-brands fa-discord" style="font-size: 3vh"></i>\
     </a><br>\
     <p style="color: gray">Data provided by \
-    <li>Me, myself and I with all my Macs</li>\
-    <li><a href="https://apple.com" target="_blank" style="color: gray">Apple Inc.</a></li>\
-    <li><a href="https://everymac.com" target="_blank" style="color: gray">EveryMac.com</a></li>'
+    <li class="no-style-type">Me, myself and I with all my Macs</li>\
+    <li class="no-style-type"><a href="https://apple.com" target="_blank" style="color: gray">Apple Inc.</a></li>\
+    <li class="no-style-type"><a href="https://everymac.com" target="_blank" style="color: gray">EveryMac.com</a></li>'
 
 searchForm.appendChild(footer_index);

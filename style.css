@@ -386,3 +386,7 @@ html {
 .results-link:hover {
     text-decoration: underline;
 }
+
+.no-style-type {
+    list-style-type: none;
+}
