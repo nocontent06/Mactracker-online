@@ -60,7 +60,8 @@ const processData = async () => {
         "MacBook Air.json",
         "MacBook Pro.json",
         "MacMini.json",
-        "Mac Pro.json"
+        "Mac Pro.json",
+        "Watch.json"
         // Add other device JSON file names here
     ];
 
@@ -118,6 +119,7 @@ const processData = async () => {
         { keywords: ["MacBook", "Pro", "MacBook Pro", "MBP", "MacBookPro"], device: "MacBook Pro" },
         { keywords: ["MacBook", "Air", "MacBook Air", "MBA", "MacBookAir"], device: "MacBook Air" },
         { keywords: ["Apple", "TV", "Apple TV", "AppleTV"], device: "AppleTV" },
+        { keywords: ["Apple", "Watch", "AppleWatch", "AW"], device: "Watch"}
     ];
     
     let found = false;
