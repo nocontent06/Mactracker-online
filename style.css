@@ -9,7 +9,7 @@ form {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -10%);
 }
 
 .form-group {
@@ -20,14 +20,7 @@ form {
     margin-left: auto;
 }
 
-#search-results div {
-    border-radius: 10px;
-    background-color: rgb(75, 85, 99);
-    padding: 0 0 1em;
-    color: white;
-}
-
-#search-results div::before {
+.result::before {
     content: "";
     width: 50px;
     height: 50px;
@@ -45,17 +38,22 @@ form {
     margin-right: 1em;
 }
 
-#search-results {
+.resultContainer {
     display: flex;
     width: 100%;
     flex-wrap: wrap;
     justify-content: center;
 }
+
 .result {
     margin: 1%;
     align-items: center;
     justify-content: center;
     min-width: 200px;
+    border-radius: 10px;
+    background-color: rgb(75, 85, 99);
+    padding: 0 0 1em;
+    color: white;
     /*! flex-basis: 10%; */
 }
 
@@ -65,10 +63,21 @@ form {
     border-radius: 10px;
 }
 
-.result img {
-    display: block;
+.result_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 7.5em;
     margin: 4em;
+
+}
+
+.featured_img {
+    display: flex;
+    margin: 2em 4em;
+    width: 5em;
+    /* justify-content: center; */
+    /* align-items: center; */
 }
 
 .result__text {
@@ -91,12 +100,6 @@ form {
 }
 
 .form-group {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.result_img {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -389,4 +392,8 @@ html {
 
 .no-style-type {
     list-style-type: none;
+}
+
+.featuredHeading {
+    text-align: center;
 }
