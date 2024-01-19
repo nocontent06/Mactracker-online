@@ -11,7 +11,7 @@ Nah, jk. Under "Releases" you can find an executable app for Mac, and Windows
 - 1.) It's accessible on *every* OS with a Browser installed. Not just macOS and iOS.
 - 2.) It has a better looking UI, is OpenSource, etc.
 
-## So When ETA?
+## So Wen ETA?
 Now :) You can access it at https://mactracker.online
 
 ## Data Source (Credits)
