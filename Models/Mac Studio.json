@@ -16,7 +16,7 @@
             },
             "Software": {
                 "Original OS": "macOS 12.3 (Monterey)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "64 GB",
@@ -44,7 +44,7 @@
             },
             "Software": {
                 "Original OS": "macOS 12.3 (Monterey)",
-                "Maximum OS": "Latest release of macOS (13 - Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "128 GB",
@@ -73,7 +73,7 @@
             },
             "Software": {
                 "Original OS": "macOS 13.4 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "64 GB / 96 GB (with 38-Core GPU)",
@@ -102,7 +102,7 @@
             },
             "Software": {
                 "Original OS": "macOS 13.4 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "192 GB",

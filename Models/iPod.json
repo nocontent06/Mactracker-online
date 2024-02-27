@@ -120,8 +120,7 @@
                 "Capacity": "4 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod (Click Wheel)",
         "Type": "iPod",
         "image": "ipod_4g.png",
@@ -149,8 +148,7 @@
                 "Capacity": "20 or 40 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod U2 Special Edition",
         "Type": "iPod",
         "image": "ipod_u2.png",
@@ -178,8 +176,7 @@
                 "Capacity": "20 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod photo",
         "Type": "iPod",
         "image": "ipod_photo.png",
@@ -207,8 +204,7 @@
                 "Capacity": "30, 40 or 60 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod shuffle",
         "Type": "iPod",
         "image": "ipod_shuffle.png",
@@ -231,8 +227,7 @@
                 "Capacity": "512 MB or 1 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod mini (2nd Gen)",
         "Type": "iPod",
         "image": "ipod_mini_g2.png",
@@ -260,8 +255,7 @@
                 "Capacity": "4 or 6 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod color display",
         "Type": "iPod",
         "image": "ipod_photo.png",
@@ -289,8 +283,7 @@
                 "Capacity": "20 or 60 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod U2 Special Edition (color display)",
         "Type": "iPod",
         "image": "ipod_u2.png",
@@ -318,8 +311,7 @@
                 "Capacity": "20 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod nano",
         "Type": "iPod",
         "image": "ipod_nano.png",
@@ -347,8 +339,7 @@
                 "Capacity": "1, 2 or 4 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod (5th Gen)",
         "Type": "iPod",
         "image": "ipod_5g.png",
@@ -376,8 +367,7 @@
                 "Capacity": "30 or 60 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod (5th Gen U2)",
         "Type": "iPod",
         "image": "ipod_u2_5g.png",
@@ -405,8 +395,7 @@
                 "Capacity": "30 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod shuffle (2nd Gen)",
         "Type": "iPod",
         "image": "ipod_shuffle_2g.png",
@@ -427,8 +416,7 @@
                 "Capacity": "1 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod nano (2nd Gen)",
         "Type": "iPod",
         "image": "ipod_nano_2g.png",
@@ -454,8 +442,7 @@
                 "Capacity": "2, 4 or 8 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod (5th Gen Late 2006)",
         "Type": "iPod",
         "image": "ipod_5g.png",
@@ -483,8 +470,7 @@
                 "Capacity": "30 or 80 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod (5th Gen U2)",
         "Type": "iPod",
         "image": "ipod_u2_5g.png",
@@ -512,8 +498,7 @@
                 "Capacity": "30 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod shuffle (2nd Gen, Late 2007)",
         "Type": "iPod",
         "image": "ipod_shuffle_2g.png",
@@ -534,8 +519,7 @@
                 "Capacity": "1 or 2 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod nano (3rd Gen)",
         "Type": "iPod",
         "image": "ipod_nano_3g.png",
@@ -561,8 +545,7 @@
                 "Capacity": "4 or 8 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod classic",
         "Type": "iPod",
         "image": "ipod_classic.png",
@@ -588,8 +571,7 @@
                 "Capacity": "80 or 160 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod touch",
         "Type": "iPod",
         "image": "ipod_touch.png",
@@ -606,8 +588,8 @@
                 "Number of cores": "1"
             },
             "Software": {
-                "Original OS": "iOS 1.1",
-                "Maximum OS": "iOS 1.1.5 (Free), iOS 3.1.3 (Paid)"
+                "Original OS": "iPhoneOS 1.1",
+                "Maximum OS": "iPhoneOS 1.1.5 (Free), iPhoneOS 3.1.3 (Paid)"
             },
             "Memory": {
                 "Built-in Memory": "128 MB LPDDR"
@@ -624,8 +606,7 @@
                 "Capacity": "580 mAh"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod touch (2nd Gen)",
         "Type": "iPod",
         "image": "ipod_touch_2g.png",
@@ -645,7 +626,7 @@
                 "Built-in Memory": "128 MB LPDDR"
             },
             "Software": {
-                "Original OS": "iOS 2.1.1",
+                "Original OS": "iPhoneOS 2.1.1",
                 "Maximum OS": "iOS 4.2.1"
             },
             "Display": {
@@ -660,8 +641,7 @@
                 "Capacity": "739 mAh"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod shuffle (2nd Gen, Late 2008)",
         "Type": "iPod",
         "image": "ipod_shuffle_2g.png",
@@ -682,8 +662,7 @@
                 "Capacity": "1 or 2 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod nano (4th Gen)",
         "Type": "iPod",
         "image": "ipod_nano_4g.png",
@@ -709,8 +688,7 @@
                 "Capacity": "4 (limited), 8 or 16 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod classic (120 GB)",
         "Type": "iPod",
         "image": "ipod_classic.png",
@@ -736,8 +714,7 @@
                 "Capacity": "120 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod shuffle (3rd Gen)",
         "Type": "iPod",
         "image": "ipod_shuffle_3g.png",
@@ -758,8 +735,7 @@
                 "Capacity": "4 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod shuffle (3rd Gen, Late 2009)",
         "Type": "iPod",
         "image": "ipod_shuffle_3g.png",
@@ -780,8 +756,7 @@
                 "Capacity": "2 or 4 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod nano (5th Gen)",
         "Type": "iPod",
         "image": "ipod_nano_5g.png",
@@ -807,8 +782,7 @@
                 "Capacity": "8 or 16 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod classic (160 GB) (Late 2009)",
         "Type": "iPod",
         "image": "ipod_classic.png",
@@ -834,8 +808,7 @@
                 "Capacity": "160 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod touch (3rd Gen)",
         "Type": "iPod",
         "image": "ipod_touch_2g.png",
@@ -855,8 +828,8 @@
                 "Built-in Memory": "256 MB LPDDR"
             },
             "Software": {
-                "Original OS": "iOS 3.1",
-                "Maximum OS": "iOS 5.1.1"
+                "Original OS": "iPhoneOS 3.1",
+                "Maximum OS": "Latest release of iOS 5"
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX535",
@@ -874,8 +847,7 @@
                 "Capacity": "789 mAh"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod shuffle (4th Gen)",
         "Type": "iPod",
         "image": "ipod_shuffle_4g.png",
@@ -896,8 +868,7 @@
                 "Capacity": "2 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod nano (6th Gen)",
         "Type": "iPod",
         "image": "ipod_nano_6g.png",
@@ -945,7 +916,7 @@
             },
             "Software": {
                 "Original OS": "iOS 4.1",
-                "Maximum OS": "iOS 6.1.6"
+                "Maximum OS": "Latest release of iOS 6"
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX535",
@@ -963,8 +934,7 @@
                 "Capacity": "930 mAh"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod nano (7th Gen)",
         "Type": "iPod",
         "image": "ipod_nano_7g.png",
@@ -990,8 +960,7 @@
                 "Capacity": "16 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod touch (5th Gen)",
         "Type": "iPod",
         "image": "ipod_touch_5g.png",
@@ -1012,7 +981,7 @@
             },
             "Software": {
                 "Original OS": "iOS 6",
-                "Maximum OS": "iOS 9.3.5"
+                "Maximum OS": "Latest release of iOS 9"
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX543MP2",
@@ -1052,7 +1021,7 @@
             },
             "Software": {
                 "Original OS": "iOS 8.4",
-                "Maximum OS": "iOS 12.5.7"
+                "Maximum OS": "Latest release of iOS 12"
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR Series 6XT GX6450",
@@ -1092,7 +1061,7 @@
             },
             "Software": {
                 "Original OS": "iOS 12.3.1",
-                "Maximum OS": "iOS 15.7.8"
+                "Maximum OS": "Latest release of iOS 15"
             },
             "Graphics": {
                 "Graphics Chip": "Custom PowerVR GT7600",

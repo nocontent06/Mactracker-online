@@ -227,7 +227,7 @@
               },
               "Software": {
                 "Original OS": "macOS 10.15.2 (Catalina)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
               },
               "Memory": {
                 "Maximum Memory": "1.5 TB",
@@ -256,7 +256,7 @@
               },
               "Software": {
                 "Original OS": "macOS 13.4 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
               },
               "Memory": {
                 "Maximum Memory": "192 GB",

@@ -10,7 +10,7 @@
                 "Model Identifier": "MacBookPro1,1"
             },
             "Processor": {
-                "Processor Name": "Intel Core Duo (T2400, T2500, T2600) ('Yonah') <br> <span style=\"font-size: 0.7em;\">Glossy display without Intel Core Duo T2400</span>",
+                "Processor Name": "Intel Core Duo (T2400, T2500, T2600) ('Yonah')<br><span style=\"font-size: 0.7em;\">Glossy display without Intel Core Duo T2400</span>",
                 "Processor Speed": "1.83, 2.0, 2.16 GHz",
                 "Number of Cores": "2"
             },
@@ -67,7 +67,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, Core 2 Duo)",
+        "Name": "MacBook Pro<br>(15-inch, Core 2 Duo)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_2006-8.png",
         "Info": {
@@ -100,7 +100,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (17-inch, Core 2 Duo)",
+        "Name": "MacBook Pro<br>(17-inch, Core 2 Duo)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_17_2006-8.png",
         "Info": {
@@ -133,7 +133,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, Mid 2007)",
+        "Name": "MacBook Pro<br>(15-inch, Mid 2007)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_2006-8.png",
         "Info": {
@@ -167,7 +167,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (17-inch, Mid 2007)",
+        "Name": "MacBook Pro<br>(17-inch, Mid 2007)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_17_2006-8.png",
         "Info": {
@@ -201,7 +201,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, Early 2008)",
+        "Name": "MacBook Pro<br>(15-inch, Early 2008)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_2006-8.png",
         "Info": {
@@ -235,7 +235,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (17-inch, Early 2008)",
+        "Name": "MacBook Pro<br>(17-inch, Early 2008)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_17_2006-8.png",
         "Info": {
@@ -269,7 +269,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, Late 2008)",
+        "Name": "MacBook Pro<br>(15-inch, Late 2008)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_unibody_2008_11.png",
         "Info": {
@@ -303,7 +303,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (17-inch, Late 2008)",
+        "Name": "MacBook Pro<br>(17-inch, Late 2008)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_17_2006-8.png",
         "Info": {
@@ -336,7 +336,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (17-inch, Early 2009)",
+        "Name": "MacBook Pro<br>(17-inch, Early 2009)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_17_unibody_2008_11.png",
         "Info": {
@@ -370,7 +370,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, Mid 2009)",
+        "Name": "MacBook Pro<br>(13-inch, Mid 2009)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_unibody_2008_11.png",
         "Info": {
@@ -403,7 +403,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, 2.53 GHz, Mid 2009)",
+        "Name": "MacBook Pro<br>(15-inch, 2.53 GHz, Mid 2009)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_unibody_2008_11.png",
         "Info": {
@@ -437,7 +437,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, Mid 2009)",
+        "Name": "MacBook Pro<br>(15-inch, Mid 2009)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_unibody_2008_11.png",
         "Info": {
@@ -471,7 +471,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (17-inch, Mid 2009)",
+        "Name": "MacBook Pro<br>(17-inch, Mid 2009)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_17_unibody_2008_11.png",
         "Info": {
@@ -505,7 +505,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, Mid 2010)",
+        "Name": "MacBook Pro<br>(13-inch, Mid 2010)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_unibody_2008_11.png",
         "Info": {
@@ -539,7 +539,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, Mid 2010)",
+        "Name": "MacBook Pro<br>(15-inch, Mid 2010)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_unibody_2008_11.png",
         "Info": {
@@ -574,7 +574,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (17-inch, Mid 2010)",
+        "Name": "MacBook Pro<br>(17-inch, Mid 2010)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_17_unibody_2008_11.png",
         "Info": {
@@ -609,7 +609,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, Early 2011)",
+        "Name": "MacBook Pro<br>(13-inch, Early 2011)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_unibody_2008_11.png",
         "Info": {
@@ -644,7 +644,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, Early 2011)",
+        "Name": "MacBook Pro<br>(15-inch, Early 2011)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_unibody_2008_11.png",
         "Info": {
@@ -679,7 +679,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (17-inch, Early 2011)",
+        "Name": "MacBook Pro<br>(17-inch, Early 2011)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_17_unibody_2008_11.png",
         "Info": {
@@ -714,7 +714,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, Late 2011)",
+        "Name": "MacBook Pro<br>(13-inch, Late 2011)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_unibody_2011_12.png",
         "Info": {
@@ -748,7 +748,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, Late 2011)",
+        "Name": "MacBook Pro<br>(15-inch, Late 2011)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_unibody_2011_12.png",
         "Info": {
@@ -782,7 +782,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (17-inch, Late 2011)",
+        "Name": "MacBook Pro<br>(17-inch, Late 2011)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_17_unibody_2011_12.png",
         "Info": {
@@ -816,7 +816,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, Mid 2012)",
+        "Name": "MacBook Pro<br>(13-inch, Mid 2012)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_unibody_2008_11.png",
         "Info": {
@@ -850,7 +850,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, Mid 2012)",
+        "Name": "MacBook Pro<br>(15-inch, Mid 2012)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_unibody_2008_11.png",
         "Info": {
@@ -884,7 +884,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (Retina, 15-inch, Mid 2012)",
+        "Name": "MacBook Pro<br>(Retina, 15-inch, Mid 2012)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_retina_2012-13.png",
         "Info": {
@@ -919,7 +919,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (Retina, 13-inch, Late 2012)",
+        "Name": "MacBook Pro<br>(Retina, 13-inch, Late 2012)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_retina_2012-13.png",
         "Info": {
@@ -954,7 +954,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (Retina, 13-inch, Early 2013)",
+        "Name": "MacBook Pro<br>(Retina, 13-inch, Early 2013)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_retina_2012-13.png",
         "Info": {
@@ -989,7 +989,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (Retina, 15-inch, Early 2013)",
+        "Name": "MacBook Pro<br>(Retina, 15-inch, Early 2013)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_retina_2012-13.png",
         "Info": {
@@ -1024,7 +1024,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (Retina, 13-inch, Late 2013)",
+        "Name": "MacBook Pro<br>(Retina, 13-inch, Late 2013)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_retina_2013-15.png",
         "Info": {
@@ -1059,7 +1059,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (Retina, 15-inch, Late 2013)",
+        "Name": "MacBook Pro<br>(Retina, 15-inch, Late 2013)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_retina_2013-15.png",
         "Info": {
@@ -1094,7 +1094,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (Retina, 15-inch, Late 2013)",
+        "Name": "MacBook Pro<br>(Retina, 15-inch, Late 2013)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_retina_2013-15.png",
         "Info": {
@@ -1129,7 +1129,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (Retina, 13-inch, Mid 2014)",
+        "Name": "MacBook Pro<br>(Retina, 13-inch, Mid 2014)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_retina_2013-15.png",
         "Info": {
@@ -1163,7 +1163,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (Retina, 15-inch, Mid 2014)",
+        "Name": "MacBook Pro<br>(Retina, 15-inch, Mid 2014)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_retina_2013-15.png",
         "Info": {
@@ -1197,7 +1197,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (Retina, 15-inch, Mid 2014)",
+        "Name": "MacBook Pro<br>(Retina, 15-inch, Mid 2014)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_retina_2013-15.png",
         "Info": {
@@ -1231,7 +1231,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (Retina, 13-inch, Early 2015)",
+        "Name": "MacBook Pro<br>(Retina, 13-inch, Early 2015)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_retina_2013-15.png",
         "Info": {
@@ -1265,7 +1265,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (Retina, 15-inch, Mid 2015)",
+        "Name": "MacBook Pro<br>(Retina, 15-inch, Mid 2015)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_retina_15.png",
         "Info": {
@@ -1300,7 +1300,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (Retina, 15-inch, Mid 2015)",
+        "Name": "MacBook Pro<br>(Retina, 15-inch, Mid 2015)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_retina_15.png",
         "Info": {
@@ -1335,7 +1335,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, 2016, 2 TB 3 Ports)",
+        "Name": "MacBook Pro<br>(13-inch, 2016, 2 TB 3 Ports)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_2TB3_2016-17.png",
         "Info": {
@@ -1369,7 +1369,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, 2016, 4 TB 3 Ports)",
+        "Name": "MacBook Pro<br>(13-inch, 2016, 4 TB 3 Ports)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_4TB3_2016-17.png",
         "Info": {
@@ -1403,7 +1403,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, 2016)",
+        "Name": "MacBook Pro<br>(15-inch, 2016)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_2016-17.png",
         "Info": {
@@ -1437,7 +1437,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, 2017, 2 TB 3 Ports)",
+        "Name": "MacBook Pro<br>(13-inch, 2017, 2 TB 3 Ports)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_2TB3_2016-17.png",
         "Info": {
@@ -1471,7 +1471,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, 2017, 4 TB 3 Ports)",
+        "Name": "MacBook Pro<br>(13-inch, 2017, 4 TB 3 Ports)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_4TB3_2016-17.png",
         "Info": {
@@ -1505,7 +1505,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, 2017)",
+        "Name": "MacBook Pro<br>(15-inch, 2017)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_2016-17.png",
         "Info": {
@@ -1539,7 +1539,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, 2018, 4 TB 3 Ports)",
+        "Name": "MacBook Pro<br>(13-inch, 2018, 4 TB 3 Ports)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_TB3_2018-19.png",
         "Info": {
@@ -1556,7 +1556,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.13.6 (High Sierra)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "16 GB",
@@ -1573,7 +1573,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, 2018)",
+        "Name": "MacBook Pro<br>(15-inch, 2018)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_2018-19.png",
         "Info": {
@@ -1590,7 +1590,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.13.6 (High Sierra)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "32 GB",
@@ -1607,7 +1607,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, 2018)",
+        "Name": "MacBook Pro<br>(15-inch, 2018)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_2018-19.png",
         "Info": {
@@ -1624,7 +1624,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.13.6 (High Sierra)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "32 GB",
@@ -1641,7 +1641,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, 2019, 4 TB 3 Ports)",
+        "Name": "MacBook Pro<br>(13-inch, 2019, 4 TB 3 Ports)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_TB3_2018-19.png",
         "Info": {
@@ -1658,7 +1658,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.14.5 (Mojave)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "16 GB",
@@ -1675,7 +1675,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, 2019)",
+        "Name": "MacBook Pro<br>(15-inch, 2019)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_2018-19.png",
         "Info": {
@@ -1692,7 +1692,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.14.5 (Mojave)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "32 GB",
@@ -1709,7 +1709,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (15-inch, 2019)",
+        "Name": "MacBook Pro<br>(15-inch, 2019)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_15_2018-19.png",
         "Info": {
@@ -1726,7 +1726,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.14.5 (Mojave)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "32 GB",
@@ -1743,7 +1743,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, 2019, 2 TB 3 Ports)",
+        "Name": "MacBook Pro<br>(13-inch, 2019, 2 TB 3 Ports)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_TB3_2018-19.png",
         "Info": {
@@ -1760,7 +1760,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.14.5 (Mojave)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "16 GB",
@@ -1777,7 +1777,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (16-inch, 2019)",
+        "Name": "MacBook Pro<br>(16-inch, 2019)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_16_2019.png",
         "Info": {
@@ -1794,7 +1794,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.15.1 (Catalina)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "64 GB",
@@ -1811,7 +1811,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (16-inch, 2019)",
+        "Name": "MacBook Pro<br>(16-inch, 2019)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_16_2019.png",
         "Info": {
@@ -1828,7 +1828,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.15.1 (Catalina)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "64 GB",
@@ -1845,7 +1845,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, 2020, 2 TB 3 Ports)",
+        "Name": "MacBook Pro<br>(13-inch, 2020, 2 TB 3 Ports)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_TB3_2020.png",
         "Info": {
@@ -1862,7 +1862,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.15.4 (Catalina)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "16 GB",
@@ -1879,7 +1879,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, 2020, 4 TB 3 Ports)",
+        "Name": "MacBook Pro<br>(13-inch, 2020, 4 TB 3 Ports)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_TB3_2020.png",
         "Info": {
@@ -1896,7 +1896,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.15.4 (Catalina)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "32 GB",
@@ -1913,7 +1913,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, M1, 2020)",
+        "Name": "MacBook Pro<br>(13-inch, M1, 2020)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_m1.png",
         "Info": {
@@ -1929,7 +1929,7 @@
             },
             "Software": {
                 "Original OS": "macOS 11.0 (Big Sur)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "16 GB",
@@ -1946,7 +1946,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (14-inch, 2021)",
+        "Name": "MacBook Pro<br>(14-inch, 2021)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_14_m1.png",
         "Info": {
@@ -1962,7 +1962,7 @@
             },
             "Software": {
                 "Original OS": "macOS 12.0 (Monterey)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "32 GB",
@@ -1978,7 +1978,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (14-inch, 2021)",
+        "Name": "MacBook Pro<br>(14-inch, 2021)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_14_m1.png",
         "Info": {
@@ -1994,7 +1994,7 @@
             },
             "Software": {
                 "Original OS": "macOS 12.0 (Monterey)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "64 GB",
@@ -2010,7 +2010,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (16-inch, 2021)",
+        "Name": "MacBook Pro<br>(16-inch, 2021)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_16_m1.png",
         "Info": {
@@ -2026,7 +2026,7 @@
             },
             "Software": {
                 "Original OS": "macOS 12.0 (Monterey)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "32 GB",
@@ -2042,7 +2042,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (16-inch, 2021)",
+        "Name": "MacBook Pro<br>(16-inch, 2021)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_16_m1.png",
         "Info": {
@@ -2058,7 +2058,7 @@
             },
             "Software": {
                 "Original OS": "macOS 12.0 (Monterey)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "64 GB",
@@ -2074,7 +2074,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (13-inch, M2, 2022)",
+        "Name": "MacBook Pro<br>(13-inch, M2, 2022)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_13_m2.png",
         "Info": {
@@ -2090,7 +2090,7 @@
             },
             "Software": {
                 "Original OS": "macOS 12.4 (Monterey)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "24 GB",
@@ -2107,7 +2107,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (14-inch, 2023) <br> (M2 Pro)",
+        "Name": "MacBook Pro<br>(14-inch, 2023)<br>(M2 Pro)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_14_m2.png",
         "Info": {
@@ -2123,7 +2123,7 @@
             },
             "Software": {
                 "Original OS": "macOS 13.0 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "32 GB",
@@ -2139,7 +2139,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (14-inch, 2023) <br> (M2 Max)",
+        "Name": "MacBook Pro<br>(14-inch, 2023)<br>(M2 Max)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_14_m2.png",
         "Info": {
@@ -2155,7 +2155,7 @@
             },
             "Software": {
                 "Original OS": "macOS 13.0 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "64 GB / 96 GB (with 38-Core GPU)",
@@ -2171,7 +2171,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (16-inch, 2023) <br> (M2 Pro)",
+        "Name": "MacBook Pro<br>(16-inch, 2023)<br>(M2 Pro)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_16_m2.png",
         "Info": {
@@ -2187,7 +2187,7 @@
             },
             "Software": {
                 "Original OS": "macOS 13.0 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "32 GB",
@@ -2203,7 +2203,7 @@
             }
         }
     }, {
-        "Name": "MacBook Pro <br> (16-inch, 2023) <br> (M2 Max)",
+        "Name": "MacBook Pro<br>(16-inch, 2023)<br>(M2 Max)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_16_m2.png",
         "Info": {
@@ -2219,7 +2219,7 @@
             },
             "Software": {
                 "Original OS": "macOS 13.0 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS 13 (Ventura)"
             },
             "Memory": {
                 "Maximum Memory": "64 GB / 96 GB (with 38-Core GPU)",
@@ -2233,6 +2233,117 @@
                 "Display Type": "16.2-inch Liquid Retina XDR display",
                 "Native Resolution": "3456 x 2234"
             }
+        }
+    }, {
+        "Name": "MacBook Pro<br>(14-inch, M3, Nov 2023)",
+        "Type": "MacBook Pro",
+        "image": "mbp_14_m3.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2023",
+                "Discontinued": "---",
+                "Model Identifier": "Mac15,3"
+            },
+            "Processor": {
+                "Chip Name": "Apple M3",
+                "Chip Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
+                "Number of Cores": "8 (4 high performance, 4 high efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 13.5 (Ventura)",
+                "Maximum OS": "Latest release of macOS (Sonoma)"
+            },
+            "Memory": {
+                "Built-in Memory": "8, 16 or 24",
+                "Maximum Memory": "24 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Type": "14.2-inch Liquid Retina XDR display",
+                "Native Resolution": "3024 x 1964",
+                "Refresh Rate": "Up to 120 Hz ProMotion"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro<br>(14-inch, Nov 2023)<br>(M3 Pro)",
+        "Type": "MacBook Pro",
+        "image": "mbp_14_m3.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2023",
+                "Discontinued": "---",
+                "Model Identifier": "Mac15,6"
+            },
+            "Processor": {
+                "Chip Name": "Apple M3 Pro ",
+                "Chip Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
+                "Number of Cores": "11 (5 high performance, 6 high efficiency), 12 (6 high performance, 6 high efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 14.1 (Sonoma)",
+                "Maximum OS": "Latest release of macOS (Sonoma)"
+            },
+            "Memory": {
+                "Built-in Memory": "18, 36",
+                "Maximum Memory": "36 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "14, 18"
+            },
+            "Display": {
+                "Display Type": "14.2-inch Liquid Retina XDR display",
+                "Native Resolution": "3024 x 1964",
+                "Refresh Rate": "Up to 120 Hz ProMotion"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro<br>(14-inch, Nov 2023)<br>(M3 Max 14-Core)",
+        "Type": "MacBook Pro",
+        "image": "mbp_14_m3.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2023",
+                "Discontinued": "---",
+                "Model Identifier": "Mac15,10"
+            },
+            "Processor": {
+                "Chip Name": "Apple M3 Max",
+                "Chip Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
+                "Number of Cores": "14 (10 high performance, 4 high efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 14.1 (Sonoma)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Built-in Memory": "36, 96",
+                "Maximum Memory": "96 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "30, 40"
+            },
+            "Display": {
+                "Display Type": "14.2-inch Liquid Retina XDR display",
+                "Native Resolution": "3024 x 1964",
+                "Refresh Rate": "Up to 120 Hz ProMotion"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax 6E",
+                "Bluetooth": "5.3",
+                "Thunderbolt": "3"
+            }
+            
         }
     }
 ]

@@ -1,39 +1,34 @@
-const searchForm = document.querySelector("#search-form");
+const searchFormIndex = document.getElementById("search-form-index");
+const searchInputIndex = document.getElementById("search-input-index"); // search input
 const searchWrapper = document.querySelector(".form-group"); // div -> search form
-const searchInput = document.getElementById("search-input"); // search input
 let inputBox = document.querySelector("input"); // input
-let linkTag = document.querySelector("a"); // link
+let linkTag = document.getElementById("a-index"); // link
 
-inputBox.onkeyup = (e) => {
-    console.log(e.target.value);
-    let userData = e.target.value; //user entered data
-    let emptyArray = [];
-    if (userData) {
 
-        searchForm.addEventListener("submit", function (event) {
-            console.log(searchInput.value);
-            event.preventDefault();
-            let webLink = `results.html?search=${searchInput.value}`;
-            linkTag.setAttribute("href", webLink);
-            linkTag.click();
-        });
-
-    } else {
-        searchInput
-            .classList
-            .remove("active"); //hide autocomplete box
+searchFormIndex.addEventListener("keypress", function (event) {
+    if (event.key === "Enter") {
+        event.preventDefault();
+        let webLink = `results.html?search=${searchInputIndex.value}`;
+        linkTag.setAttribute("href", webLink);
+        linkTag.click();
     }
-}
+});
 
-function select(element) {
-    let selectData = element.textContent;
-    searchInput.value = selectData;
-    searchInput
-        .classList
-        .remove("active");
-}
 
-searchInput.setAttribute("required", true)
+const searchFormNav = document.getElementById("search-form-nav");
+const searchInputNav = document.getElementById("search-input-nav"); // search input
+let linkTagNav = document.getElementById("a-bt"); // link
+
+searchFormNav.addEventListener("keypress", function (event) {
+    if (event.key === "Enter") {
+        event.preventDefault();
+        let webLink = `results.html?search=${searchInputNav.value}`;
+        linkTagNav.setAttribute("href", webLink);
+        linkTagNav.click();
+    }
+});
+
+// searchInput.setAttribute("required", true)
 
 let footer_index = document.createElement("footer");
 footer_index.setAttribute("class", "footer");
@@ -59,7 +54,7 @@ footer_index.innerHTML += '<br> \
     <li class="no-style-type"><a href="https://everymac.com" t' +
         'arget="_blank" style="color: gray">EveryMac.com</a></li>'
 
-searchForm.appendChild(footer_index);
+searchFormIndex.appendChild(footer_index);
 
 const fetchJSON = async (url) => {
     const response = await fetch(url);

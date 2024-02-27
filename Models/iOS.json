@@ -7,7 +7,7 @@
             "Overview": {
                 "Introduced": "Jun 2010",
                 "Supported Devices": "<br>iPhone 3G<br> iPhone 3GS<br> iPhone 4<br> iPod touch (2nd generation)<br> iPod touch (3rd generation)<br> iPod touch (4th generation)<br> iPad<br> iPad 2<br> Apple TV (2nd generation)",
-                "Model Identifier": "iOS 4"
+                "Model Identifier": "iOS4"
             },
             "Versions": {
                 "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>4.0</td><td>Jun 21, 2010</td></tr><tr><td>4.0.1</td><td>Jul 15, 2010</td></tr><tr><td>4.0.2</td><td>Aug 11, 2010</td></tr><tr><td>4.1</td><td>Sep 8, 2010</td></tr><tr><td>4.2.1</td><td>Nov 22, 2010</td></tr><tr><td>4.2.5</td><td>Feb 7, 2011</td></tr><tr><td>4.2.6</td><td>Feb 10, 2011</td></tr><tr><td>4.2.7</td><td>Apr 14, 2011</td></tr><tr><td>4.2.8</td><td>May 4, 2011</td></tr><tr><td>4.2.9</td><td>Jul 15, 2011</td></tr><tr><td>4.2.10</td><td>Jul 25, 2011</td></tr><tr><td>4.3</td><td>Mar 9, 2011</td></tr><tr><td>4.3.1</td><td>Mar 25, 2011</td></tr><tr><td>4.3.2</td><td>Apr 14, 2011</td></tr><tr><td>4.3.3</td><td>May 4, 2011</td></tr><tr><td>4.3.4</td><td>Jul 15, 2011</td></tr><tr><td>4.3.5</td><td>Jul 25, 2011</td></tr></tbody></table>"
@@ -22,7 +22,7 @@
             "Overview": {
                 "Introduced": "Oct 2011",
                 "Supported Devices": "<br>iPhone 3GS<br> iPhone 4<br> iPhone 4s<br> iPod touch (3rd generation)<br> iPod touch (4th generation)<br> iPad<br> iPad 2<br> iPad (3rd generation)<br> Apple TV (2nd generation)<br> Apple TV (3rd generation)",
-                "Model Identifier": "iOS 5"
+                "Model Identifier": "iOS5"
             },
             "Versions": {
                 "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>5.0</td><td>Oct 12, 2011</td></tr><tr><td>5.0.1</td><td>Nov 10, 2011</td></tr><tr><td>5.1</td><td>Mar 7, 2012</td></tr><tr><td>5.1.1</td><td>May 7, 2012</td></tr></tbody></table>"
@@ -37,7 +37,7 @@
             "Overview": {
                 "Introduced": "Sep 2012",
                 "Supported Devices": "<br>iPhone 3GS<br> iPhone 4<br> iPhone 4s<br> iPhone 5<br> iPod touch (4th generation)<br> iPod touch (5th generation)<br> iPad 2<br> iPad (3rd generation)<br> iPad (4th generation)<br> iPad mini<br> Apple TV (2nd generation)<br> Apple TV (3rd generation)",
-                "Model Identifier": "iOS 6"
+                "Model Identifier": "iOS6"
             },
             "Versions": {
                 "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>6.0</td><td>Sep 19, 2012</td></tr><tr><td>6.0.1</td><td>Nov 1, 2012</td></tr><tr><td>6.0.2</td><td>Dec 18, 2012</td></tr><tr><td>6.1</td><td>Jan 28, 2013</td></tr><tr><td>6.1.1</td><td>Feb 11, 2013</td></tr><tr><td>6.1.2</td><td>Feb 19, 2013</td></tr><tr><td>6.1.3</td><td>Mar 19, 2013</td></tr><tr><td>6.1.4</td><td>May 2, 2013</td></tr><tr><td>6.1.5</td><td>Nov 14, 2013</td></tr><tr><td>6.1.6</td><td>Feb 21, 2014</td></tr></tbody></table>"
@@ -52,7 +52,7 @@
             "Overview": {
                 "Introduced": "Sep 2013",
                 "Supported Devices": "<br>iPhone 4<br> iPhone 4s<br> iPhone 5<br> iPhone 5c<br> iPhone 5s<br> iPod touch (5th generation)<br> iPad 2<br> iPad (3rd generation)<br> iPad (4th generation)<br> iPad Air<br> iPad mini<br> iPad mini 2<br> Apple TV (2nd generation)<br> Apple TV (3rd generation)",
-                "Model Identifier": "iOS 7"
+                "Model Identifier": "iOS7"
             },
             "Versions": {
                 "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>7.0</td><td>Sep 18, 2013</td></tr><tr><td>7.0.1</td><td>Sep 18, 2013</td></tr><tr><td>7.0.2</td><td>Sep 26, 2013</td></tr><tr><td>7.0.3</td><td>Oct 22, 2013</td></tr><tr><td>7.0.4</td><td>Nov 14, 2013</td></tr><tr><td>7.0.5</td><td>Jan 29, 2014</td></tr><tr><td>7.0.6</td><td>Feb 21, 2014</td></tr><tr><td>7.1</td><td>Mar 10, 2014</td></tr><tr><td>7.1.1</td><td>Apr 22, 2014</td></tr><tr><td>7.1.2</td><td>Jun 30, 2014</td></tr></tbody></table>"
@@ -67,7 +67,7 @@
             "Overview": {
                 "Introduced": "Sep 2014",
                 "Supported Devices": "<br>iPhone 4s<br> iPhone 5<br> iPhone 5c<br> iPhone 5s<br> iPhone 6<br> iPhone 6 Plus<br> iPod touch (5th Gen)<br> iPod touch (6th Gen)<br> iPad 2<br> iPad (3rd Gen)<br> iPad (4th Gen)<br> iPad Air<br> iPad Air 2<br> iPad mini<br> iPad mini 2<br> iPad mini 3<br> Apple TV (3rd Gen)",
-                "Model Identifier": "iOS 8"
+                "Model Identifier": "iOS8"
             },
             "Versions": {
                 "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>8.0</td><td>Sep 17, 2014</td></tr><tr><td>8.0.1</td><td>Sep 24, 2014</td></tr><tr><td>8.0.2</td><td>Sep 25, 2014</td></tr><tr><td>8.1</td><td>Oct 20, 2014</td></tr><tr><td>8.1.1</td><td>Nov 17, 2014</td></tr><tr><td>8.1.2</td><td>Dec 9, 2014</td></tr><tr><td>8.1.3</td><td>Jan 27, 2015</td></tr><tr><td>8.2</td><td>Mar 9, 2015</td></tr><tr><td>8.3</td><td>Apr 8, 2015</td></tr><tr><td>8.4</td><td>Jun 30, 2015</td></tr><tr><td>8.4.1</td><td>Aug 13, 2015</td></tr></tbody></table>"
@@ -82,7 +82,7 @@
             "Overview": {
                 "Introduced": "Sep 2015",
                 "Supported Devices": "<br>iPhone 4s<br> iPhone 5<br> iPhone 5c<br> iPhone 5s<br> iPhone 6<br> iPhone 6 Plus<br> iPhone 6s<br> iPhone 6s Plus<br> iPhone SE<br> iPod touch (5th Gen)<br> iPod touch (6th Gen)<br> iPad 2<br> iPad (3rd Gen)<br> iPad (4th Gen)<br> iPad Air<br> iPad Air 2<br> iPad Pro<br> iPad mini<br> iPad mini 2<br> iPad mini 3<br> iPad mini 4",
-                "Model Identifier": "iOS 9"
+                "Model Identifier": "iOS9"
             },
             "Versions": {
                 "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>9.0</td><td>Sep 16, 2015</td></tr><tr><td>9.0.1</td><td>Sep 23, 2015</td></tr><tr><td>9.0.2</td><td>Sep 30, 2015</td></tr><tr><td>9.1</td><td>Oct 21, 2015</td></tr><tr><td>9.2</td><td>Dec 8, 2015</td></tr><tr><td>9.2.1</td><td>Jan 19, 2016</td></tr><tr><td>9.3</td><td>Mar 21, 2016</td></tr><tr><td>9.3.1</td><td>Mar 31, 2016</td></tr><tr><td>9.3.2</td><td>May 16, 2016</td></tr><tr><td>9.3.3</td><td>Jul 18, 2016</td></tr><tr><td>9.3.4</td><td>Aug 4, 2016</td></tr><tr><td>9.3.5</td><td>Aug 25, 2016</td></tr><tr><td>9.3.6</td><td>Jul 22, 2019</td></tr></tbody></table>"
@@ -97,7 +97,7 @@
             "Overview": {
                 "Introduced": "Sep 2016",
                 "Supported Devices": "<br>iPhone 5<br> iPhone 5c<br> iPhone 5s<br> iPhone 6<br> iPhone 6 Plus<br> iPhone 6s<br> iPhone 6s Plus<br> iPhone SE<br> iPhone 7<br> iPhone 7 Plus<br> iPod touch (6th Gen)<br> iPad (4th Gen)<br> iPad Air<br> iPad Air 2<br> iPad Pro<br> iPad (5th Gen)<br> iPad mini 2<br> iPad mini 3<br> iPad mini 4",
-                "Model Identifier": "iOS 10"
+                "Model Identifier": "iOS10"
             },
             "Versions": {
                 "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>10.0.1</td><td>Sep 13, 2016</td></tr><tr><td>10.0.2</td><td>Sep 23, 2016</td></tr><tr><td>10.0.3</td><td>Oct 17, 2016</td></tr><tr><td>10.1</td><td>Oct 24, 2016</td></tr><tr><td>10.1.1</td><td>Oct 31, 2016</td></tr><tr><td>10.2</td><td>Dec 12, 2016</td></tr><tr><td>10.2.1</td><td>Jan 23, 2017</td></tr><tr><td>10.3</td><td>Mar 27, 2017</td></tr><tr><td>10.3.1</td><td>Apr 3, 2017</td></tr><tr><td>10.3.2</td><td>May 15, 2017</td></tr><tr><td>10.3.3</td><td>Jul 19, 2017</td></tr><tr><td>10.3.4</td><td>Jul 22, 2019</td></tr></tbody></table>"
@@ -112,7 +112,7 @@
             "Overview": {
                 "Introduced": "Sep 2017",
                 "Supported Devices": "<br>iPhone 5s<br> iPhone 6<br> iPhone 6 Plus<br> iPhone 6s<br> iPhone 6s Plus<br> iPhone SE<br> iPhone 7<br> iPhone 7 Plus<br> iPhone 8<br> iPhone 8 Plus<br> iPhone X<br> iPod touch (6th Gen)<br> iPad Air<br> iPad Air 2<br> iPad Pro<br> iPad (5th Gen)<br> iPad (6th Gen)<br> iPad mini 2<br> iPad mini 3<br> iPad mini 4",
-                "Model Identifier": "iOS 11"
+                "Model Identifier": "iOS11"
             },
             "Versions": {
                 "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>11.0</td><td>Sep 19, 2017</td></tr><tr><td>11.0.1</td><td>Sep 26, 2017</td></tr><tr><td>11.0.2</td><td>Oct 3, 2017</td></tr><tr><td>11.0.3</td><td>Oct 11, 2017</td></tr><tr><td>11.1</td><td>Oct 31, 2017</td></tr><tr><td>11.1.1</td><td>Nov 9, 2017</td></tr><tr><td>11.1.2</td><td>Nov 16, 2017</td></tr><tr><td>11.2</td><td>Dec 2, 2017</td></tr><tr><td>11.2.1</td><td>Dec 13, 2017</td></tr><tr><td>11.2.2</td><td>Jan 8, 2018</td></tr><tr><td>11.2.5</td><td>Jan 23, 2018</td></tr><tr><td>11.2.6</td><td>Feb 19, 2018</td></tr><tr><td>11.3</td><td>Mar 29, 2018</td></tr><tr><td>11.3.1</td><td>Apr 24, 2018</td></tr><tr><td>11.4</td><td>May 29, 2018</td></tr><tr><td>11.4.1</td><td>Jul 9, 2018</td></tr></tbody></table>"
@@ -127,7 +127,7 @@
             "Overview": {
                 "Introduced": "Sep 2018",
                 "Supported Devices": "<br>iPhone 5s<br> iPhone 6<br> iPhone 6 Plus<br> iPhone 6s<br> iPhone 6s Plus<br> iPhone SE<br> iPhone 7<br> iPhone 7 Plus<br> iPhone 8<br> iPhone 8 Plus<br> iPhone X<br> iPod touch (6th Gen)<br> iPad Air<br> iPad Air 2<br> iPad Pro<br> iPad (5th Gen)<br> iPad (6th Gen)<br> iPad mini 2<br> iPad mini 3<br> iPad mini 4",
-                "Model Identifier": "iOS 12"
+                "Model Identifier": "iOS12"
             },
             "Versions": {
                 "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>12.0</td><td>Sep 17, 2018</td></tr><tr><td>12.0.1</td><td>Oct 8, 2018</td></tr><tr><td>12.1</td><td>Oct 30, 2018</td></tr><tr><td>12.1.1</td><td>Dec 5, 2018</td></tr><tr><td>12.1.2</td><td>Dec 17, 2018</td></tr><tr><td>12.1.3</td><td>Jan 22, 2019</td></tr><tr><td>12.1.4</td><td>Feb 7, 2019</td></tr><tr><td>12.2</td><td>Mar 25, 2019</td></tr><tr><td>12.3</td><td>May 13, 2019</td></tr><tr><td>12.3.1</td><td>May 24, 2019</td></tr><tr><td>12.3.2</td><td>Jun 10, 2019</td></tr><tr><td>12.4</td><td>Jul 22, 2019</td></tr><tr><td>12.4.1</td><td>Aug 26, 2019</td></tr><tr><td>12.4.2</td><td>Sep 26, 2019</td></tr><tr><td>12.4.3</td><td>Oct 28, 2019</td></tr><tr><td>12.4.4</td><td>Dec 10, 2019</td></tr><tr><td>12.4.5</td><td>Jan 28, 2020</td></tr><tr><td>12.4.6</td><td>Mar 24, 2020</td></tr><tr><td>12.4.7</td><td>May 20, 2020</td></tr><tr><td>12.4.8</td><td>Jul 15, 2020</td></tr><tr><td>12.4.9</td><td>Nov 5, 2020</td></tr><tr><td>12.5</td><td>Dec 14, 2020</td></tr><tr><td>12.5.1</td><td>Jan 11, 2021</td></tr><tr><td>12.5.2</td><td>Mar 26, 2021</td></tr><tr><td>12.5.3</td><td>May 3, 2021</td></tr><tr><td>12.5.4</td><td>Jun 14, 2021</td></tr><tr><td>12.5.5</td><td>Sep 23, 2021</td></tr><tr><td>12.5.6</td><td>Aug 31, 2022</td></tr><tr><td>12.5.7</td><td>Jan 23, 2023</td></tr></tbody></table>"
@@ -142,7 +142,7 @@
             "Overview": {
                 "Introduced": "Sep 2019",
                 "Supported Devices": "<br>iPhone SE<br> iPhone SE (2nd Gen)<br> iPhone 6s<br> iPhone 6s Plus<br> iPhone 7<br> iPhone 7 Plus<br> iPhone 8<br> iPhone 8 Plus<br> iPhone X<br> iPhone XR<br> iPhone XS<br> iPhone XS Max<br> iPhone 11<br> iPhone 11 Pro<br> iPhone 11 Pro Max<br> iPod touch (7th Gen)",
-                "Model Identifier": "iOS 13"
+                "Model Identifier": "iOS13"
             },
             "Versions": {
                 "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>13.0</td><td>Sep 19, 2019</td></tr><tr><td>13.1</td><td>Sep 24, 2019</td></tr><tr><td>13.1.1</td><td>Sep 27, 2019</td></tr><tr><td>13.1.2</td><td>Oct 1, 2019</td></tr><tr><td>13.1.3</td><td>Oct 15, 2019</td></tr><tr><td>13.2</td><td>Oct 28, 2019</td></tr><tr><td>13.2.1</td><td>Oct 30, 2019</td></tr><tr><td>13.2.2</td><td>Nov 7, 2019</td></tr><tr><td>13.2.3</td><td>Nov 18, 2019</td></tr><tr><td>13.3</td><td>Dec 10, 2019</td></tr><tr><td>13.3.1</td><td>Jan 28, 2020</td></tr><tr><td>13.4</td><td>Mar 24, 2020</td></tr><tr><td>13.4.1</td><td>Apr 7, 2020</td></tr><tr><td>13.5</td><td>May 20, 2020</td></tr><tr><td>13.5.1</td><td>Jun 1, 2020</td></tr><tr><td>13.6</td><td>Jul 15, 2020</td></tr><tr><td>13.6.1</td><td>Aug 12, 2020</td></tr><tr><td>13.7</td><td>Sep 1, 2020</td></tr></tbody></table>"
@@ -157,7 +157,7 @@
             "Overview": {
                 "Introduced": "Sep 2020",
                 "Supported Devices": "<br>iPhone SE<br> iPhone SE (2nd Gen)<br> iPhone 6s<br> iPhone 6s Plus<br> iPhone 7<br> iPhone 7 Plus<br> iPhone 8<br> iPhone 8 Plus<br> iPhone X<br> iPhone XR<br> iPhone XS<br> iPhone XS Max<br> iPhone 11<br> iPhone 11 Pro<br> iPhone 11 Pro Max<br> iPhone 12<br> iPhone 12 mini<br> iPhone 12 Pro<br> iPhone 12 Pro Max<br> iPod touch (7th Gen)",
-                "Model Identifier": "iOS 14"
+                "Model Identifier": "iOS14"
             },
             "Versions": {
                 "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>iOS 14</td><td>Sep 16, 2020</td></tr><tr><td>iOS 14.0.1</td><td>Sep 24, 2020</td></tr><tr><td>iOS 14.1</td><td>Oct 20, 2020</td></tr><tr><td>iOS 14.2</td><td>Nov 5, 2020</td></tr><tr><td>iOS 14.2.1</td><td>Nov 19, 2020</td></tr><tr><td>iOS 14.3</td><td>Dec 14, 2020</td></tr><tr><td>iOS 14.4</td><td>Jan 26, 2021</td></tr><tr><td>iOS 14.4.1</td><td>Mar 8, 2021</td></tr><tr><td>iOS 14.4.2</td><td>Mar 26, 2021</td></tr><tr><td>iOS 14.5</td><td>Apr 26, 2021</td></tr><tr><td>iOS 14.5.1</td><td>May 3, 2021</td></tr><tr><td>iOS 14.6</td><td>May 24, 2021</td></tr><tr><td>iOS 14.7</td><td>Jul 19, 2021</td></tr><tr><td>iOS 14.7.1</td><td>Jul 26, 2021</td></tr><tr><td>iOS 14.8</td><td>Sep 13, 2021</td></tr><tr><td>iOS 14.8.1</td><td>Oct 26, 2021</td></tr></tbody></table>"
@@ -172,7 +172,7 @@
             "Overview": {
                 "Introduced": "Sep 2021",
                 "Supported Devices": "<br>iPhone 14<br>iPhone 14 Plus<br>iPhone 14 Pro<br>iPhone 14 Pro Max<br>iPhone 13<br>iPhone 13 mini<br>iPhone 13 Pro<br>iPhone 13 Pro Max<br>iPhone 12<br>iPhone 12 mini<br>iPhone 12 Pro<br>iPhone 12 Pro Max<br>iPhone 11<br>iPhone 11 Pro<br>iPhone 11 Pro Max<br>iPhone XS<br>iPhone XS Max<br>iPhone XR<br>iPhone X<br>iPhone 8<br>iPhone 8 Plus<br>iPhone SE (3rd Gen)<br>iPhone SE (2nd Gen)",
-                "Model Identifier": "iOS 15"
+                "Model Identifier": "iOS15"
             },
             "Versions": {
                 "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>iOS 15.0</td><td>Sep 20, 2021</td></tr><tr><td>iOS 15.0.1</td><td>Oct 1, 2021</td></tr><tr><td>iOS 15.0.2</td><td>Oct 11, 2021</td></tr><tr><td>iOS 15.1</td><td>Oct 25, 2021</td></tr><tr><td>iOS 15.1.1</td><td>Nov 17, 2021</td></tr><tr><td>iOS 15.2</td><td>Dec 13, 2021</td></tr><tr><td>iOS 15.2.1</td><td>Jan 12, 2022</td></tr><tr><td>iOS 15.3</td><td>Jan 26, 2022</td></tr><tr><td>iOS 15.3.1</td><td>Feb 10, 2022</td></tr><tr><td>iOS 15.4</td><td>Mar 14, 2022</td></tr><tr><td>iOS 15.4.1</td><td>Mar 28, 2022</td></tr><tr><td>iOS 15.5</td><td>May 16, 2022</td></tr><tr><td>iOS 15.6</td><td>Jul 20, 2022</td></tr><tr><td>iOS 15.6.1</td><td>Aug 17, 2022</td></tr><tr><td>iOS 15.7</td><td>Sep 12, 2022</td></tr><tr><td>iOS 15.7.1</td><td>Oct 27, 2022</td></tr><tr><td>iOS 15.7.2</td><td>Dec 13, 2022</td></tr><tr><td>iOS 15.7.3</td><td>Jan 23, 2023</td></tr><tr><td>iOS 15.7.4</td><td>Mar 27, 2023</td></tr><tr><td>iOS 15.7.5</td><td>Apr 10, 2023</td></tr><tr><td>iOS 15.7.6</td><td>May 18, 2023</td></tr><tr><td>iOS 15.7.7</td><td>Jun 21, 2023</td></tr><tr><td>iOS 15.7.8</td><td>Jul 24, 2023</td></tr></tbody></table>"
@@ -187,10 +187,24 @@
             "Overview": {
                 "Introduced": "Sep 2022",
                 "Supported Devices": "<br>iPhone 14<br>iPhone 14 Plus<br>iPhone 14 Pro<br>iPhone 14 Pro Max<br>iPhone 13<br>iPhone 13 mini<br>iPhone 13 Pro<br>iPhone 13 Pro Max<br>iPhone 12<br>iPhone 12 mini<br>iPhone 12 Pro<br>iPhone 12 Pro Max<br>iPhone 11<br>iPhone 11 Pro<br>iPhone 11 Pro Max<br>iPhone XS<br>iPhone XS Max<br>iPhone XR<br>iPhone X<br>iPhone 8<br>iPhone 8 Plus<br>iPhone SE (3rd Gen)<br>iPhone SE (2nd Gen)",
-                "Model Identifier": "iOS 16"
+                "Model Identifier": "iOS16"
             },
             "Versions": {
-                "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>iOS 16.0</td><td>Sep 12, 2022</td></tr><tr><td>iOS 16.0.1</td><td>Sep 14, 2022</td></tr><tr><td>iOS 16.0.2</td><td>Sep 22, 2022</td></tr><tr><td>iOS 16.0.3</td><td>Oct 10, 2022</td></tr><tr><td>iOS 16.1</td><td>Oct 24, 2022</td></tr><tr><td>iOS 16.1.1</td><td>Nov 9, 2022</td></tr><tr><td>iOS 16.1.2</td><td>Nov 30, 2022</td></tr><tr><td>iOS 16.2</td><td>Dec 13, 2022</td></tr><tr><td>iOS 16.3</td><td>Jan 23, 2023</td></tr><tr><td>iOS 16.3.1</td><td>Feb 13, 2023</td></tr><tr><td>iOS 16.4</td><td>Mar 27, 2023</td></tr><tr><td>iOS 16.4.1</td><td>Apr 7, 2023</td></tr><tr><td>iOS 16.5</td><td>May 18, 2023</td></tr><tr><td>iOS 16.5.1</td><td>Jun 21, 2023</td></tr><tr><td>iOS 16.6</td><td>Jul 24, 2023</td></tr></tbody></table>"
+                "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>iOS 16.0</td><td>Sep 12, 2022</td></tr><tr><td>iOS 16.0.1</td><td>Sep 14, 2022</td></tr><tr><td>iOS 16.0.2</td><td>Sep 22, 2022</td></tr><tr><td>iOS 16.0.3</td><td>Oct 10, 2022</td></tr><tr><td>iOS 16.1</td><td>Oct 24, 2022</td></tr><tr><td>iOS 16.1.1</td><td>Nov 9, 2022</td></tr><tr><td>iOS 16.1.2</td><td>Nov 30, 2022</td></tr><tr><td>iOS 16.2</td><td>Dec 13, 2022</td></tr><tr><td>iOS 16.3</td><td>Jan 23, 2023</td></tr><tr><td>iOS 16.3.1</td><td>Feb 13, 2023</td></tr><tr><td>iOS 16.4</td><td>Mar 27, 2023</td></tr><tr><td>iOS 16.4.1</td><td>Apr 7, 2023</td></tr><tr><td>iOS 16.5</td><td>May 18, 2023</td></tr><tr><td>iOS 16.5.1</td><td>Jun 21, 2023</td></tr><tr><td>iOS 16.6</td><td>Jul 24, 2023</td></tr><tr><td>iOS 16.6.1</td><td>Sep 7, 2023</td></tr><tr><td>iOS 16.7</td><td>Sep 21, 2023</td></tr><tr><td>iOS 16.7.1</td><td>Oct 10, 2023</td></tr><tr><td>iOS 16.7.2</td><td>Oct 25, 2023</td></tr><tr><td>iOS 16.7.3</td><td>Dec 11, 2023</td></tr><tr><td>iOS 16.7.4</td><td>Dec 19, 2023</td></tr><tr><td>iOS 16.7.5</td><td>Jan 22, 2024</td></tr></tbody></table>"
+            }
+        }
+    }, {
+        "Name": "iOS 17",
+        "Type": "iOS",
+        "image": "ios17.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2022",
+                "Supported Devices": "<br>iPhone 15<br>iPhone 15 Plus<br>iPhone 15 Pro<br>iPhone 15 Pro Max<br>iPhone 14<br>iPhone 14 Plus<br>iPhone 14 Pro<br>iPhone 14 Pro Max<br>iPhone 13<br>iPhone 13 mini<br>iPhone 13 Pro<br>iPhone 13 Pro Max<br>iPhone 12<br>iPhone 12 mini<br>iPhone 12 Pro<br>iPhone 12 Pro Max<br>iPhone 11<br>iPhone 11 Pro<br>iPhone 11 Pro Max<br>iPhone XS<br>iPhone XS Max<br>iPhone XR<br>iPhone SE (3rd Gen)<br>iPhone SE (2nd Gen)",
+                "Model Identifier": "iOS17"
+            },
+            "Versions": {
+                "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>iOS 17.0</td><td>Sep 18, 2023</td></tr><tr><td>iOS 17.0.1</td><td>Sep 21, 2023</td></tr><tr><td>iOS 17.0.2</td><td>Sep 21, 2023</td></tr><tr><td>iOS 17.0.3</td><td>Oct 4, 2022</td></tr><tr><td>iOS 17.1</td><td>Oct 25, 2023</td></tr><tr><td>iOS 17.1.1</td><td>Nov 7, 2023</td></tr><tr><td>iOS 17.1.2</td><td>Nov 30, 2023</td></tr><tr><td>iOS 17.2</td><td>Dec 11, 2023</td></tr><tr><td>iOS 17.2.1</td><td>Dec 19, 2023</td></tr><tr><td>iOS 17.3</td><td>Jan 22, 2024</td></tr><tr><td>iOS 17.3.1</td><td>Feb 8, 2023</td></tr></tbody></table>"
             }
         }
     }

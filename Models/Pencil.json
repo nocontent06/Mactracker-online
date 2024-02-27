@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "Apple Pencil (1st Gen)",
+        "Type": "Pencil",
+        "image": "pencil_1st_Gen.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2015",
+                "Discontinued": "--",
+                "Model Number": "A1603",
+                "Model Identifier": "Pencil_1st_Gen"
+            },
+            "Compatibility": {
+                "Requirements": "<br>iPad Pro (9.7-inch)<br>iPad Pro (10.5-inch)<br>iPad Pro (12.9-inch)<br>iPad Pro (12.9-inch) (2nd Gen)<br><br>iPad (6th Gen)<br>iPad (7th Gen)<br>iPad (8th Gen)<br>iPad (9th Gen)<br>iPad (10th Gen)<br><br>iPad Air (3rd Gen)<br><br>iPad Mini (5th Gen)"
+            },
+            "Connections": {
+                "Connection": "Bluetooth, Lightning Connector"
+            }
+        }
+    }, {
+        "Name": "Apple Pencil (2nd Gen)",
+        "Type": "Pencil",
+        "image": "pencil_2nd_Gen.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2018",
+                "Discontinued": "--",
+                "Model Number": "A2051",
+                "Model Identifier": "Pencil_2nd_Gen"
+            },
+            "Compatibility": {
+                "Requirements": "<br>iPad Pro (11-inch) and later<br>iPad Pro (12.9-inch) (3rd Gen) and later<br><br>iPad Air (4th Gen) and later<br><br>iPad Mini (6th Gen) and later"
+            },
+            "Connections": {
+                "Connection": "Bluetooth"
+            }
+        }
+    }, {
+        "Name": "Apple Pencil (USB-C)",
+        "Type": "Pencil",
+        "image": "pencil_usb-c.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2023",
+                "Discontinued": "--",
+                "Model Number": "A3085",
+                "Model Identifier": "Pencil_USB-C"
+            },
+            "Compatibility": {
+                "Requirements": "<br>iPad Pro (11-inch) and later<br>iPad Pro (12.9-inch) (3rd Gen) and later<br><br>iPad Air (4th Gen) and later<br><br>iPad Mini (6th Gen) and later<br><br>iPad (10th Gen) and later"
+            },
+            "Connections": {
+                "Connection": "Bluetooth, USB-C connector"
+            }
+        }
+    }
+]

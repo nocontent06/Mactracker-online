@@ -1179,6 +1179,39 @@
             }
         }
     }, {
+        "Name": "iMac Pro (2017)",
+        "Type": "iMac",
+        "image": "imac_pro.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "December 2017",
+                "Discontinued": "March 2021",
+                "Model Identifier": "iMacPro1,1"
+            },
+            "Processor": {
+                "Processor Name": "Intel Xeon W (W-2140B, W-2150B, W-2170B, W-2190B)",
+                "Processor Speed": "3.2, 3.0, 2.5, or 2.3 GHz",
+                "Number of Cores": "8, 10, 14, or 18"
+            },
+            "Software": {
+                "Original OS": "macOS 10.13.2 (High Sierra)",
+                "Maximum OS": "Latest release of macOS (13 - Ventura)"
+            },
+            "Memory": {
+                "Maximum Memory": "512 GB (Actual) 256 GB (Apple)",
+                "Supported RAM": "2666 MHz DDR4 ECC DIMM (Non-user accessible)"
+            },
+            "Graphics": {
+                "Graphics Chip": "AMD Radeon Pro Vega 56, Vega 64 or Vega 64X",
+                "Graphics Memory": "8 GB (Vega 56), or 16 GB (Vega 64, Vega 64X) HBM2"
+            },
+            "Display": {
+                "Display Type": "27-inch Retina 5K Display with IPS Technology",
+                "Aspect Ratio": "16:9",
+                "Native Resolution": "5120 x 2880"
+            }
+        }
+    }, {
         "Name": "iMac (Retina 5K, 27-inch) <br> (2019)",
         "Type": "iMac",
         "image": "imac_unibody_27.png",
@@ -1311,13 +1344,13 @@
             }
         }
     }, {
-        "Name": "iMac (24-inch, M1, 2021)",
+        "Name": "iMac (24-inch, M1, 2021)<br>(4-Ports)",
         "Type": "iMac",
         "image": "imac_24inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "May 2021",
-                "Discontinued": "Present",
+                "Discontinued": "Oct 2023",
                 "Model Identifier": "iMac21,1",
                 "# of USB-C-Ports": "4"
             },
@@ -1345,13 +1378,13 @@
             }
         }
     }, {
-        "Name": "iMac (24-inch, M1, 2021)",
+        "Name": "iMac (24-inch, M1, 2021)<br>(2-Ports)",
         "Type": "iMac",
         "image": "imac_24inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "May 2021",
-                "Discontinued": "Present",
+                "Discontinued": "Oct 2023",
                 "Model Identifier": "iMac21,2",
                 "# of USB-C-Ports": "2"
             },
@@ -1379,36 +1412,87 @@
             }
         }
     }, {
-        "Name": "iMac Pro (2017)",
+        "Name": "iMac (24-inch, M3, 2023)<br>(2-Ports)",
         "Type": "iMac",
-        "image": "imac_pro.png",
+        "image": "imac_24inch.png",
         "Info": {
             "Overview": {
-                "Introduced": "December 2017",
-                "Discontinued": "March 2021",
-                "Model Identifier": "iMacPro1,1"
+                "Introduced": "Nov 2023",
+                "Discontinued": "Present",
+                "Model Identifier": "Mac15,4",
+                "# of USB-C-Ports": "2"
             },
             "Processor": {
-                "Processor Name": "Intel Xeon W (W-2140B, W-2150B, W-2170B, W-2190B)",
-                "Processor Speed": "3.2, 3.0, 2.5, or 2.3 GHz",
-                "Number of Cores": "8, 10, 14, or 18"
+                "Name": "Apple M3",
+                "Speed": "4.1 GHz (high performance) and 2.8 GHz (high efficiency)",
+                "# of Cores": "8 (4 high performance and 4 high efficiency)",
+                "Manufacturing Process": "3 nm"
             },
             "Software": {
-                "Original OS": "macOS 10.13.2 (High Sierra)",
-                "Maximum OS": "Latest release of macOS (13 - Ventura)"
+                "Original OS": "macOS 13.5 (Ventura)",
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Maximum Memory": "512 GB (Actual) 256 GB (Apple)",
-                "Supported RAM": "2666 MHz DDR4 ECC DIMM (Non-user accessible)"
+                "Configurations": "8, 16, 24 GB",
+                "Maximum": "24 GB",
+                "Supported": "6400 MT/s LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro Vega 56, Vega 64 or Vega 64X",
-                "Graphics Memory": "8 GB (Vega 56), or 16 GB (Vega 64, Vega 64X) HBM2"
+                "Chip": "Apple GPU",
+                "Memory": "shared through UMA (Unified Memory Architecture)",
+                "# of Cores": "8"
             },
             "Display": {
-                "Display Type": "27-inch Retina 5K Display with IPS Technology",
-                "Aspect Ratio": "16:9",
-                "Native Resolution": "5120 x 2880"
+                "Type": "24-inch (diagonal) Retina 4.5K display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "4480 x 2520"
+            },
+            "Connectivity": {
+                "Wi-Fi": "802.11ax (6E)",
+                "Bluetooth": "5.3",
+                "Ethernet": "Optional"
+            }
+        }
+    }, {
+        "Name": "iMac (24-inch, M3, 2023)<br>(4-Ports)",
+        "Type": "iMac",
+        "image": "imac_24inch.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2023",
+                "Discontinued": "Present",
+                "Model Identifier": "Mac15,5",
+                "# of USB-C-Ports": "4"
+            },
+            "Processor": {
+                "Name": "Apple M3",
+                "Speed": "4.1 GHz (high performance) and 2.8 GHz (high efficiency)",
+                "# of Cores": "8 (4 high performance and 4 high efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 13.5 (Ventura)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Configurations": "8, 16, 24 GB",
+                "Maximum": "24 GB",
+                "Supported": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "Memory": "shared through UMA (Unified Memory Architecture)",
+                "# of Cores": "10"
+            },
+            "Display": {
+                "Type": "24-inch (diagonal) Retina 4.5K display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "4480 x 2520"
+            },
+            "Connectivity": {
+                "Wi-Fi": "802.11ax (6E)",
+                "Bluetooth": "5.3",
+                "Ethernet": "1 - RJ45 on Power Adapter"
             }
         }
     }

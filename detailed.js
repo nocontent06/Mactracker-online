@@ -28,6 +28,21 @@ try {
     console.error(error);
 }
 
+let imgDetail = document.querySelector(".img-detail");
+
+const searchFormNav = document.getElementById("search-form-nav");
+const searchInputNav = document.getElementById("search-input-nav"); // search input
+let linkTagNav = document.getElementById("a-bt"); // link
+
+searchFormNav.addEventListener("keypress", function (event) {
+    if (event.key === "Enter") {
+        event.preventDefault();
+        let webLink = `results.html?search=${searchInputNav.value}`;
+        linkTagNav.setAttribute("href", webLink);
+        linkTagNav.click();
+    }
+});
+
 
 
 fetch(`Models/${type}.json`)
@@ -61,7 +76,7 @@ fetch(`Models/${type}.json`)
         }
 
         detailed_heading.classList.add("detailed_heading");
-        document.body.prepend(detailed_heading);
+        document.body.insertBefore(detailed_heading, detailedViewContainer);
 
         // Create image element
         let image = document.createElement("img");
@@ -87,7 +102,7 @@ fetch(`Models/${type}.json`)
     
                 for (let detail in data[midIndex].Info[key]) {
                     let infoKey = String(data[midIndex].Info[key][detail]);
-                    infoKey = infoKey.replace(/_/g, " ")
+                    infoKey = infoKey.replace(/_/g, " ") 
                     item_container.innerHTML += `<p>
                         <strong>${detail}:</strong> ${infoKey}
                     </p>`;
@@ -103,15 +118,14 @@ fetch(`Models/${type}.json`)
     
                 for (let detail in data[paramIndex].Info[key]) {
                     let infoKey = String(data[paramIndex].Info[key][detail]);
-                    infoKey = infoKey.replace(/_/g, " ")
+                    infoKey = infoKey.replace(/_/g, " ");
                     item_container.innerHTML += `<p>
-                        <strong>${detail}:</strong> ${infoKey}
+                    <strong>${detail}:</strong> ${infoKey}
                     </p>`;
                 }
                 detailedView.appendChild(item_container);
             }
         }
-
 
         let footer_detailed = document.createElement("footer");
         footer_detailed.setAttribute("class", "footer");
@@ -121,3 +135,25 @@ fetch(`Models/${type}.json`)
         
         detailedViewContainer.appendChild(detailedView);
     });
+
+
+
+
+
+    window.onscroll = function () {
+        scrollFunction2();
+    };
+    
+    // Make Navbar sticky
+    
+    let navbar = document.getElementById("bt-nav");
+    let sticky = navbar.offsetHeight;
+    
+    function scrollFunction2() {
+        if (window.pageYOffset >= sticky) {
+            navbar.classList.add("sticky")
+        } else {
+            navbar.classList.remove("sticky");
+        }
+    }
+    

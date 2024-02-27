@@ -554,7 +554,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.14.1 (Mojave)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "16 GB",
@@ -587,7 +587,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.14.5 (Mojave)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "16 GB",
@@ -620,7 +620,7 @@
             },
             "Software": {
                 "Original OS": "macOS 10.15.3 (Catalina)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "16 GB",
@@ -653,7 +653,7 @@
             },
             "Software": {
                 "Original OS": "macOS 11.0 (Big Sur)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "16 GB",
@@ -686,7 +686,7 @@
             },
             "Software": {
                 "Original OS": "macOS 12.4 (Monterey)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "24 GB",
@@ -719,7 +719,7 @@
             },
             "Software": {
                 "Original OS": "macOS 13.4 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Ventura)"
+                "Maximum OS": "Latest release of macOS (Sonoma)"
             },
             "Memory": {
                 "Maximum Memory": "24 GB",

@@ -1,11 +1,3 @@
-// Function to hide the loading screen after 1.5 seconds
-function hideLoadingScreen() {
-    const loadingScreen = document.querySelector('.loading-screen');
-    loadingScreen.style.display = 'none';
-}
-
-// Wait for 1.5 seconds before hiding the loading screen
-setTimeout(hideLoadingScreen, 1500);
 
 // Retrieve the search results data from the URL
 const params = new URLSearchParams(window.location.search);
@@ -46,6 +38,39 @@ const fetchJSON = async (url) => {
     return await response.json();
 };
 
+const searchFormNav = document.getElementById("search-form-nav");
+const searchInputNav = document.getElementById("search-input-nav"); // search input
+let linkTagNav = document.getElementById("a-bt"); // link
+
+searchFormNav.addEventListener("keypress", function (event) {
+    if (event.key === "Enter") {
+        event.preventDefault();
+        let webLink = `results.html?search=${searchInputNav.value}`;
+        linkTagNav.setAttribute("href", webLink);
+        linkTagNav.click();
+    }
+});
+
+window.onscroll = function () {
+    scrollFunction();
+};
+
+// Make Navbar sticky
+
+let navbar = document.getElementById("bt-nav");
+let sticky = navbar.offsetHeight;
+
+
+
+
+function scrollFunction() {
+    if (window.scrollY >= sticky) {
+        navbar.classList.add("sticky")
+    } else {
+        navbar.classList.remove("sticky");
+    }
+}
+
 const processData = async () => {
     const deviceFiles = [
         "AppleTV.json",
@@ -62,7 +87,8 @@ const processData = async () => {
         "MacBook Pro.json",
         "MacMini.json",
         "Mac Pro.json",
-        "Watch.json"
+        "Watch.json",
+        "Pencil.json"
         // Add other device JSON file names here
     ];
 
@@ -120,7 +146,8 @@ const processData = async () => {
         { keywords: ["MacBook", "Pro", "MacBook Pro", "MBP", "MacBookPro"], device: "MacBook Pro" },
         { keywords: ["MacBook", "Air", "MacBook Air", "MBA", "MacBookAir"], device: "MacBook Air" },
         { keywords: ["Apple", "TV", "Apple TV", "AppleTV"], device: "AppleTV" },
-        { keywords: ["Apple", "Watch", "AppleWatch", "AW"], device: "Watch"}
+        { keywords: ["Apple", "Watch", "AppleWatch", "AW"], device: "Watch"},
+        { keywords: ["Pencil", "Apple Pencil"], device: "Pencil"}
     ];
     
     let found = false;
@@ -167,27 +194,24 @@ const processData = async () => {
 
             
             for (let j = 0; j < deviceInfo.length; j++) {
-                console.log("Device Info Len: ", deviceInfo);
                 let name = deviceInfo[j].Name;
                 let mid = deviceInfo[j].Info.Overview["Model Identifier"];
-            
-                // const name = deviceInfo[i].Name;
+                let intrDate = deviceInfo[j].Info.Overview["Introduced"]
     
-                console.log("Name: ", name);
     
                 const resultTest = includesString(name, search);
-                // console.log("Device Info: ", deviceInfo[j]);
-
         
                 if (pattern.test(name)) {
                     filtData.push(deviceInfo[j]);
                 } else if (pattern.test(mid)) {
                     filtData.push(deviceInfo[j]);
+                } else if (pattern.test(intrDate)) {
+                    filtData.push(deviceInfo[j]);
                 } else if (resultTest) {
                     filtData.push(deviceInfo[j]);
                 } else if (checkConcatenatedString(name, search)) {
                     filtData.push(deviceInfo[j]);
-                }
+                } 
             }
         }
     }
@@ -295,9 +319,7 @@ const processData = async () => {
         searchResults.appendChild(footer);
     }
     searchResults_heading.style.textAlign = "center";
-    document
-        .body
-        .insertBefore(searchResults_heading, searchResultsContainer);
+    document.body.insertBefore(searchResults_heading, searchResultsContainer);
 };
 
 processData().catch((error) => {
