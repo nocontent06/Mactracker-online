@@ -734,5 +734,83 @@
                 "Native Resolution": "2880 x 1864"
             }
         }
+    }, {
+        "Name": "MacBook Air <br> (13-inch, M3, 2024)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_m3.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2024",
+                "Discontinued": "--",
+                "Model Identifier": "Mac15,12",
+                "Initial Price": "$1,099 / €1,299"
+            },
+            "Processor": {
+                "Processor Name": "Apple M3",
+                "Processor Speed": "4.05 GHz (high-performance), 2.8 GHz (high-efficiency)",
+                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 14.4 (Sonoma)",
+                "Maximum OS": "Latest release of macOS (Sonoma)"
+            },
+            "Memory": {
+                "Maximum Memory": "24 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "8, 10"
+            },
+            "Display": {
+                "Display Type": "13.6-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1664"
+            }, 
+            "Storage": {
+                "Storage Type": "Soldered-on SSD",
+                "Storage Capacity": "256, 512 GB, 1 TB, 2 TB"
+            }
+        }
+    }, {
+        "Name": "MacBook Air <br> (15-inch, M3, 2024)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_m3.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2024",
+                "Discontinued": "--",
+                "Model Identifier": "Mac15,13",
+                "Initial Price": "$1,299 / €1,599"
+            },
+            "Processor": {
+                "Processor Name": "Apple M3",
+                "Processor Speed": "4.05 GHz (high-performance), 2.8 GHz (high-efficiency)",
+                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 14.4 (Sonoma)",
+                "Maximum OS": "Latest release of macOS (Sonoma)"
+            },
+            "Memory": {
+                "Maximum Memory": "24 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Type": "15.3-inch LED-backlit display with IPS technology",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1864"
+            }, 
+            "Storage": {
+                "Storage Type": "Soldered-on SSD",
+                "Storage Capacity": "256, 512 GB, 1 TB, 2 TB"
+            }
+        }
     }
 ]

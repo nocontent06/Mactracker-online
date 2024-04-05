@@ -194,32 +194,36 @@ const processData = async () => {
 
             
             for (let j = 0; j < deviceInfo.length; j++) {
+                console.log("Device Info Len: ", deviceInfo);
                 let name = deviceInfo[j].Name;
                 let mid = deviceInfo[j].Info.Overview["Model Identifier"];
-                let intrDate = deviceInfo[j].Info.Overview["Introduced"]
+            
+                // const name = deviceInfo[i].Name;
     
+                console.log("Name: ", name);
     
                 const resultTest = includesString(name, search);
+                // console.log("Device Info: ", deviceInfo[j]);
+
         
                 if (pattern.test(name)) {
                     filtData.push(deviceInfo[j]);
                 } else if (pattern.test(mid)) {
                     filtData.push(deviceInfo[j]);
-                } else if (pattern.test(intrDate)) {
-                    filtData.push(deviceInfo[j]);
                 } else if (resultTest) {
                     filtData.push(deviceInfo[j]);
                 } else if (checkConcatenatedString(name, search)) {
                     filtData.push(deviceInfo[j]);
-                } 
+                }
             }
         }
     }
 
 
     console.log("Filtered Data: ", filtData);
-    
+    console.log("Filtered Data Length: ", filtData.length);
 
+    searchResults_heading.innerText = filtData.length + " Results for " + search;
 
     let footer = document.createElement("footer");
     footer.setAttribute("class", "footer");
@@ -319,7 +323,9 @@ const processData = async () => {
         searchResults.appendChild(footer);
     }
     searchResults_heading.style.textAlign = "center";
-    document.body.insertBefore(searchResults_heading, searchResultsContainer);
+    document
+        .body
+        .insertBefore(searchResults_heading, searchResultsContainer);
 };
 
 processData().catch((error) => {
