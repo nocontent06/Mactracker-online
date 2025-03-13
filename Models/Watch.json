@@ -1,1619 +1,538 @@
 [
     {
-        "Name": "Apple Watch (1st Gen) <br> (38mm)",
+        "Name": "Apple Watch (1st Gen)",
         "Type": "Watch",
         "image": "watch1.png",
         "Info": {
             "Overview": {
                 "Introduced": "Apr 2015",
                 "Discontinued": "Sep 2016",
-                "Model Identifier": "Watch1,1"
+                "Model Identifier": "<li>Watch1,1 (38mm)<br><li>Watch1,2 (42mm)",
+                "Model Number": "A1553 or A1554",
+                "EMC": "2870 or 2871",
+                "Color": "<li>Stainless steel or Black Stainless steel (Apple Watch)<br><li>Silver, Space Gray, Gold or Rose Gold (Apple Watch Sport)<br><li>Yellow Gold or Rose Gold (Apple Watch Edition)",
+                "Weight/Dimensions": "<li>25 - 55 g (case), 3.86 H x 3.33 W x 1.05 cm (38mm)<br><li>0.88 - 1.9 oz (case), 1.52 H x 1.31 W x 0.41 D inch (38mm)<br><br><li>30 - 69 g (case), 4.2 H x 3.59 W x 1.05 cm (42mm)<br><li>1.06 - 2.4 oz (case), 1.65 H x 1.41 W x 0.41 D inch (42mm)"
             },
             "Processor": {
-                "Processor Name": "Apple S1",
-                "Processor Speed": "520 MHz",
-                "Number of Cores": "1",
+                "Name": "Apple S1",
+                "Speed": "520 MHz",
+                "# of Cores": "1",
                 "Architecture": "32-bit"
             },
             "Memory": {
-                "Maximum Memory": "512 MB"
+                "Built-in Memory": "512 MB"
             },
             "Software": {
                 "Original OS": "watchOS 1.0",
                 "Maximum OS": "Latest release of watchOS 4"
             },
             "Display": {
-                "Display Type": "Ion-X glass (Sport) \n Sapphire crystal (Normal)",
-                "Display Size": "563mm<sup>2</sup>",
-                "Display Resolution": "272 x 340",
-                "Brightness": "450 cd/m<sup>2</sup>"
+                "Type": "<li>Ion-X glass (Apple Watch Sport) Sapphire crystal (Apple Watch, Apple Watch Edition) OLED Retina display",
+                "Size": "563 mm<sup>2</sup> (38mm) or 740 mm<sup>2</sup> (42mm)",
+                "Resolution": "272 x 340 (38mm) or 312 x 390 (42mm)",
+                "Brightness": "450 nits"
             },
             "Storage": {
                 "Capacity": "8 GB"
             },
             "Battery": {
-                "Capacity": "205 mAh"
+                "Capacity": "205 mAh (38mm) or 246 mAh (42mm)",
+                "Life": "Up to 18 Hours"
             },
             "Connections": {
                 "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
                 "Bluetooth": "4.0"
             }
         }
-    },
-    {
-        "Name": "Apple Watch (1st Gen) <br> (42mm)",
-        "Type": "Watch",
-        "image": "watch1.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Apr 2015",
-                "Discontinued": "Sep 2016",
-                "Model Identifier": "Watch1,2"
-            },
-            "Processor": {
-                "Processor Name": "Apple S1",
-                "Processor Speed": "520 MHz",
-                "Number of Cores": "1",
-                "Architecture": "32-bit"
-            },
-            "Memory": {
-                "Maximum Memory": "512 MB"
-            },
-            "Software": {
-                "Original OS": "watchOS 1.0",
-                "Maximum OS": "Latest release of watchOS 4"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (Sport) \n Sapphire crystal (Normal) OLED Retina display",
-                "Display Size": "740mm<sup>2</sup>",
-                "Display Resolution": "312 x 390",
-                "Brightness": "450 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "8 GB"
-            },
-            "Battery": {
-                "Capacity": "246 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "4.0"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 1 <br> (38mm)",
+    }, {
+        "Name": "Apple Watch Series 1",
         "Type": "Watch",
         "image": "watchS1.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2016",
                 "Discontinued": "Sep 2018",
-                "Model Identifier": "Watch2,6"
+                "Model Identifier": "<li>Watch2,6 (38mm)<br><li>Watch2,7 (42mm)",
+                "Model Number": "A1802 or A1803",
+                "EMC": "3102 or 3103",
+                "Color": "<li>Silver<br><li>Space Gray<br><li>Gold<br><li>Rose Gold",
+                "Weight/Dimensions": "<li>25 g (case), 3.86 H x 3.33 W x 1.05 D cm<br><li>0.88 oz, 1.52 H x 1.31 W x 0.41 D inch<br><br><li>30 g (case), 4.2 H x 3.59 W x 1.05 D cm<br><li>1.06 oz, 1.65 H x 1.41 W x 0.41 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple S1P",
-                "Processor Speed": "520 MHz",
-                "Number of Cores": "2",
+                "Name": "Apple S1P",
+                "Speed": "520 MHz",
+                "# of Cores": "2",
                 "Architecture": "32-bit"
             },
             "Memory": {
-                "Maximum Memory": "512 MB"
+                "Built-in": "512 MB"
             },
             "Software": {
                 "Original OS": "watchOS 3.0",
                 "Maximum OS": "Latest release of watchOS 6"
             },
             "Display": {
-                "Display Type": "Ion-X glass OLED Retina display",
-                "Display Size": "563mm<sup>2</sup>",
-                "Display Resolution": "272 x 340",
-                "Brightness": "450 cd/m<sup>2</sup>"
+                "Type": "Ion-X glass OLED Retina display",
+                "Size": "563mm<sup>2</sup> (38mm) or 740mm<sup>2</sup> (42mm)",
+                "Resolution": "272 x 340 (38mm) or 312 x 390 (42mm)",
+                "Brightness": "450 nits"
             },
             "Storage": {
                 "Capacity": "8 GB"
             },
             "Battery": {
-                "Capacity": "205 mAh"
+                "Capacity": "205 mAh (38mm) or 246 mAh (42mm)",
+                "Life": "Up to 18 Hours"
             },
             "Connections": {
                 "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
                 "Bluetooth": "4.0"
             }
         }
-    },
-    {
-        "Name": "Apple Watch Series 1 <br> (42mm)",
-        "Type": "Watch",
-        "image": "watchS1.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2016",
-                "Discontinued": "Sep 2018",
-                "Model Identifier": "Watch2,7"
-            },
-            "Processor": {
-                "Processor Name": "Apple S1P",
-                "Processor Speed": "520 MHz",
-                "Number of Cores": "2",
-                "Architecture": "32-bit"
-            },
-            "Memory": {
-                "Maximum Memory": "512 MB"
-            },
-            "Software": {
-                "Original OS": "watchOS 3.0",
-                "Maximum OS": "Latest release of watchOS 6"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass OLED Retina display",
-                "Display Size": "740mm<sup>2</sup>",
-                "Display Resolution": "312 x 390",
-                "Brightness": "450 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "8 GB"
-            },
-            "Battery": {
-                "Capacity": "246 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "4.0"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 2 <br> (38mm)",
+    }, {
+        "Name": "Apple Watch Series 2",
         "Type": "Watch",
         "image": "watchS2.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2016",
                 "Discontinued": "Sep 2017",
-                "Model Identifier": "Watch2,3"
+                "Model Identifier": "<li>Watch2,3 (38mm)<br><li>Watch2,4 (42mm)",
+                "Model Number": "A1757 or A1816 (38mm)",
+                "Other Model Numbers": "A1758 or A1817 (42mm)",
+                "EMC": "3104, 3109 (38mm), 3105, 3110 (42mm)",
+                "Color": "<li>Silver, Space Gray, Gold or Rose Gold (Aluminium)<br><li>Stainless Steel or space black stainless steel (Stainless Steel)<br><li>White (Ceramic)",
+                "Weight/Dimensions": "<li>28.2 - 41.9 g (case), 3.86 - 3.92 H x 3.33 - 3.4 W x 1.14 - 1.18 D cm (38mm)<br><li>0.99 - 1.48 oz (case), 1.52 - 1.54 H x 1.31 - 1.34 W x 0.45 - 0.46 D inch (38mm)<br><br><li>34.2 - 52.4 g (case), 4.25 - 4.26 H x 3.64 - 3.65 W x 1.14 D cm (42mm)<br><li>1.21 - 1.85 oz (case), 1.67 - 1.68 H x 1.43 - 1.44 W x 0.45 D inch (42mm)" 
             },
             "Processor": {
-                "Processor Name": "Apple S2",
-                "Processor Speed": "780 MHz",
-                "Number of Cores": "2",
+                "Name": "Apple S2",
+                "Speed": "780 MHz",
+                "# of Cores": "2",
                 "Architecture": "32-bit"
             },
             "Memory": {
-                "Maximum Memory": "512 MB"
+                "Built-in": "512 MB"
             },
             "Software": {
                 "Original OS": "watchOS 3.0",
                 "Maximum OS": "Latest release of watchOS 6"
             },
             "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel & ceramic) OLED Retina display",
-                "Display Size": "563mm<sup>2</sup>",
-                "Display Resolution": "272 x 340",
-                "Brightness": "1000 cd/m<sup>2</sup>"
+                "Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel & ceramic) OLED Retina display",
+                "Size": "563mm<sup>2</sup> (38mm) or 740mm<sup>2</sup> (42mm)",
+                "Resolution": "272 x 340 (38mm) or 312 x 390 (42mm)",
+                "Brightness": "1000 nits"
             },
             "Storage": {
                 "Capacity": "8 GB"
             },
             "Battery": {
-                "Capacity": "273 mAh"
+                "Capacity": "273 mAh (38mm) or 334 mAh (42mm)",
+                "Life": "Up to 18 Hours"
             },
             "Connections": {
                 "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
                 "Bluetooth": "4.0"
             }
         }
-    },
-    {
-        "Name": "Apple Watch Series 2 <br> (42mm)",
-        "Type": "Watch",
-        "image": "watchS2.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2016",
-                "Discontinued": "Sep 2017",
-                "Model Identifier": "Watch2,4"
-            },
-            "Processor": {
-                "Processor Name": "Apple S2",
-                "Processor Speed": "780 MHz",
-                "Number of Cores": "2",
-                "Architecture": "32-bit"
-            },
-            "Memory": {
-                "Maximum Memory": "512 MB"
-            },
-            "Software": {
-                "Original OS": "watchOS 3.0",
-                "Maximum OS": "Latest release of watchOS 6"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel & ceramic) OLED Retina display",
-                "Display Size": "740mm<sup>2</sup>",
-                "Display Resolution": "312 x 390",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "8 GB"
-            },
-            "Battery": {
-                "Capacity": "334 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "4.0"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 3 <br> (38mm GPS)",
+    }, {
+        "Name": "Apple Watch Series 3",
         "Type": "Watch",
         "image": "watchS3.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2017",
                 "Discontinued": "Sep 2022",
-                "Model Identifier": "Watch3,3"
+                "Model Identifier": "<li>Watch3,1 (38mm GPS + Cellular)<li>Watch3,2 (42mm GPS + Cellular)<li>Watch3,3 (38mm GPS)<li>Watch3,4 (42mm GPS)",
+                "Model Number": "A1858 (38mm GPS)",
+                "Other Model Numbers": "<li>A1859 (42mm GPS)<li>A1860, A1889, A1890 (38mm GPS + Cellular)<li>A1861, A1891, A1892 (42mm GPS + Cellular)",
+                "EMC": "<li>3165 (38mm GPS)<li>3166 (42mm GPS)<li>3169, 3170 (38mm GPS + Cellular)<li>3167, 3168 (42mm GPS + Cellular)",
+                "Color": "<li>Silver, Space Gray or Gold (aluminium)<li>Stainless Steel or space black stainless steel (stainless steel)<li>White or Gray (ceramic)",
+                "Weight/Dimensions": "<li>26.7 - 42.4g (case), 3.86 - 3.92 H x 3.33 - 3.4 W x 1.14 - 1.18 D (38mm)<li>0.94 - 1.49 oz (case), 1.52 - 1.54 H x 1.31 - 1.34 W x 0.45 - 0.46 D inch (38mm)<br><br><li>32.3 - 52.8 g (case), 4.25 - 4.26 H x 3.64 - 3.65 W x 1.14 D (42mm)<li>1.14 - 1.86 oz (case), 1.67 - 1.68 H x 1.43 - 1.44 W x 0.45 D inch (42mm)"
             },
             "Processor": {
-                "Processor Name": "Apple S3 & Apple W2",
-                "Number of Cores": "2",
-                "Architecture": "32-bit"
+                "Name": "Apple S3",
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Coprocessor": "Apple W2"
             },
             "Memory": {
-                "Maximum Memory": "768 MB"
+                "Built-in": "768 MB"
             },
             "Software": {
                 "Original OS": "watchOS 4.0",
                 "Maximum OS": "Latest release of watchOS 8"
             },
             "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel & ceramic) OLED Retina display",
-                "Display Size": "563mm<sup>2</sup>",
-                "Display Resolution": "272 x 340",
-                "Brightness": "1000 cd/m<sup>2</sup>"
+                "Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel & ceramic) OLED Retina display",
+                "Size": "563 mm<sup>2</sup> (38mm) or 740 mm<sup>2</sup> (42mm)",
+                "Resolution": "272 x 340 (38mm) or 312 x 390 (42mm)",
+                "Brightness": "1000 nits"
             },
             "Storage": {
-                "Capacity": "8 GB"
+                "Capacity": "8 GB (GPS) or 16 GB (GPS + Cellular)"
             },
             "Battery": {
-                "Capacity": "279 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "4.2"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 3 <br> (38mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchS3.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2017",
-                "Discontinued": "Sep 2022",
-                "Model Identifier": "Watch3,1"
-            },
-            "Processor": {
-                "Processor Name": "Apple S3 & Apple W2",
-                "Number of Cores": "2",
-                "Architecture": "32-bit"
-            },
-            "Memory": {
-                "Maximum Memory": "768 MB"
-            },
-            "Software": {
-                "Original OS": "watchOS 4.0",
-                "Maximum OS": "Latest release of watchOS 8"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel & ceramic) OLED Retina display",
-                "Display Size": "563 mm<sup>2</sup>",
-                "Display Resolution": "272 x 340",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "16 GB"
-            },
-            "Battery": {
-                "Capacity": "352 mAh"
+                "Capacity": "<li>279 mAh (38mm GPS)<li>352 mAh (42mm GPS)",
+                "Life": "Up to 18 Hours"
             },
             "Connections": {
                 "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
                 "Bluetooth": "4.2",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
+                "Networks": "LTE & UMTS (GPS + Cellular only)",
+                "SIM Slot": "Built-in Apple eSIM (GPS + Cellular only)"
             }
         }
-    },
-    {
-        "Name": "Apple Watch Series 3 <br> (42mm GPS)",
-        "Type": "Watch",
-        "image": "watchS3.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2017",
-                "Discontinued": "Sep 2022",
-                "Model Identifier": "Watch3,4"
-            },
-            "Processor": {
-                "Processor Name": "Apple S3 & Apple W2",
-                "Number of Cores": "2",
-                "Architecture": "32-bit"
-            },
-            "Memory": {
-                "Maximum Memory": "768 MB"
-            },
-            "Software": {
-                "Original OS": "watchOS 4.0",
-                "Maximum OS": "Latest release of watchOS 8"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel & ceramic) OLED Retina display",
-                "Display Size": "740 mm<sup>2</sup>",
-                "Display Resolution": "312 x 390",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "8 GB"
-            },
-            "Battery": {
-                "Capacity": "352 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "4.2"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 3 <br> (42mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchS3.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2017",
-                "Discontinued": "Sep 2022",
-                "Model Identifier": "Watch3,2"
-            },
-            "Processor": {
-                "Processor Name": "Apple S3 & Apple W2",
-                "Number of Cores": "2",
-                "Architecture": "32-bit"
-            },
-            "Memory": {
-                "Maximum Memory": "768 MB"
-            },
-            "Software": {
-                "Original OS": "watchOS 4.0",
-                "Maximum OS": "Latest release of watchOS 8"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel & ceramic) OLED Retina display",
-                "Display Size": "740 mm<sup>2</sup>",
-                "Display Resolution": "312 x 390",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "16 GB"
-            },
-            "Battery": {
-                "Capacity": "352 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "4.2",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 4 <br> (40mm GPS)",
+    }, {
+        "Name": "Apple Watch Series 4",
         "Type": "Watch",
         "image": "watchS4.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2018",
                 "Discontinued": "Sep 2019",
-                "Model Identifier": "Watch4,1"
+                "Model Identifier": "<li>Watch4,1 (40mm GPS)<li>Watch4,2 (44mm GPS)<li>Watch4,3 (40mm GPS + Cellular)<li>Watch4,4 (44mm GPS + Cellular)",
+                "Model Number": "A1977 (40mm GPS)",
+                "Other Model Numbers": "<li>A1978 (44mm GPS)<li>A1975, A2007 (40mm GPS + Cellular)<li>A1976, A2008 (44mm GPS + Cellular)",
+                "EMC": "<li>3225 (40mm GPS)<li>3229 (44mm GPS)<li>3227 (40mm GPS + Cellular)<li>3228 (44mm GPS + Cellular)",
+                "Color": "<li>Silver, Space Gray or Gold (aluminium)<li>Silver, Space Black or Gold (stainless steel)",
+                "Weight/Dimensions": "<li>30.1 - 39.8 g (case), 4 H x 3.4 W x 1.07 D cm (40mm)<li>36.7 - 47.9 g (case), 4.4 H x 3.8 W x 1.07 D cm (44mm)"
             },
             "Processor": {
-                "Processor Name": "Apple S4 & Apple W3",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2",
+                "Name": "Apple S4",
+                "Speed": "1.6 GHz",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Memory": {
-                "Maximum Memory": "1 GB"
+                "Built-in": "1 GB"
             },
             "Software": {
                 "Original OS": "watchOS 5.0",
-                "Maximum OS": "Latest release of watchOS (10)"
+                "Maximum OS": "Latest release of watchOS 10"
             },
             "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel) LTPO OLED Retina display",
-                "Display Size": "759 mm<sup>2</sup>",
-                "Display Resolution": "324 x 394",
-                "Brightness": "1000 cd/m<sup>2</sup>"
+                "Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel) LTPO OLED Retina display",
+                "Display Size": "759 mm<sup>2</sup> (40mm) or 977 mm<sup>2</sup> (44mm)",
+                "Display Resolution": "324 x 394 (40mm) or 368 x 448 (44mm)",
+                "Brightness": "1000 nits"
             },
             "Storage": {
                 "Capacity": "16 GB"
             },
             "Battery": {
-                "Capacity": "224.9 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "5.0"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 4 <br> (40mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchS4.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2018",
-                "Discontinued": "Sep 2019",
-                "Model Identifier": "Watch4,3"
-            },
-            "Processor": {
-                "Processor Name": "Apple S4 & Apple W3",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 5.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel) LTPO OLED Retina display",
-                "Display Size": "759 mm<sup>2</sup>",
-                "Display Resolution": "324 x 394",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "16 GB"
-            },
-            "Battery": {
-                "Capacity": "224.9 mAh"
+                "Capacity": "224.9 mAh (40mm) or 291.8 mAh (44mm)",
+                "Life": "Up to 18 Hours"
             },
             "Connections": {
                 "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
                 "Bluetooth": "5.0",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
+                "Networks": "LTE & UMTS (Cellular variants only)",
+                "SIM Slot": "Built-in Apple eSIM (Cellular variants only)"
             }
         }
-    },
-    {
-        "Name": "Apple Watch Series 4 <br> (44mm GPS)",
-        "Type": "Watch",
-        "image": "watchS4.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2018",
-                "Discontinued": "Sep 2019",
-                "Model Identifier": "Watch4,2"
-            },
-            "Processor": {
-                "Processor Name": "Apple S4 & Apple W3",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 5.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel) LTPO OLED Retina display",
-                "Display Size": "977 mm<sup>2</sup>",
-                "Display Resolution": "368 x 448",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "16 GB"
-            },
-            "Battery": {
-                "Capacity": "291.8 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "5.0"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 4 <br> (44mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchS4.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2018",
-                "Discontinued": "Sep 2019",
-                "Model Identifier": "Watch4,4"
-            },
-            "Processor": {
-                "Processor Name": "Apple S4 & Apple W3",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 5.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel) LTPO OLED Retina display",
-                "Display Size": "977 mm<sup>2</sup>",
-                "Display Resolution": "368 x 448",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "16 GB"
-            },
-            "Battery": {
-                "Capacity": "291.8 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "5.0",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 5 <br> (40mm GPS)",
+    }, {
+        "Name": "Apple Watch Series 5",
         "Type": "Watch",
         "image": "watchS5.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2019",
                 "Discontinued": "Sep 2020",
-                "Model Identifier": "Watch5,1"
+                "Model Identifier": "<li>Watch5,1 (40mm GPS)<li>Watch5,2 (44mm GPS)<li>Watch5,3 (40mm GPS + Cellular)<li>Watch5,4 (44mm GPS + Cellular)",
+                "Model Number": "A2092 (40mm GPS)",
+                "Other Model Numbers": "<li>A2093 (44mm GPS)<li>A2094, A2156 (40mm GPS + Cellular)<li>A2095, A2157 (44mm GPS + Cellular)",
+                "EMC": "<li>3317 (40mm GPS)<li>3318 (44mm GPS)<li>3319 (40mm GPS + Cellular)<li>3320 (44mm GPS + Cellular)",
+                "Color": "<li>Silver, Space Gray or Gold (aluminium)<li>Silver, Space Black or Gold (stainless steel), Titanium or Space Black (titanium), White (ceramic)",
+                "Weight/Dimensions": "<li>30.8 - 39.7 g (case), 4 H x 3.4 W x 1.07 D cm (40mm)<li>36.5 - 46.7 g (case), 4.4 H x 3.8 W x 1.07 D cm (44mm)"
             },
             "Processor": {
-                "Processor Name": "Apple S5 & Apple W3",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2",
+                "Name": "Apple S5",
+                "Speed": "1.6 GHz",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Memory": {
-                "Maximum Memory": "1 GB"
+                "Built-in": "1 GB"
             },
             "Software": {
                 "Original OS": "watchOS 6.0",
-                "Maximum OS": "Latest release of watchOS (10)"
+                "Maximum OS": "Latest release of watchOS 10"
             },
             "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium, ceramic) LTPO OLED Always-On Retina display",
-                "Display Size": "759 mm<sup>2</sup>",
-                "Display Resolution": "324 x 394",
-                "Brightness": "1000 cd/m<sup>2</sup>"
+                "Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium, ceramic) LTPO OLED Always-On Retina display",
+                "Size": "759 mm<sup>2</sup> (40mm) or 977 mm<sup>2</sup> (44mm)",
+                "Resolution": "324 x 394 (40mm) or 368 x 448 (44mm)",
+                "Brightness": "1000 nits"
             },
             "Storage": {
                 "Capacity": "32 GB"
             },
             "Battery": {
-                "Capacity": "245 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "5.0"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 5 <br> (40mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchS5.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2019",
-                "Discontinued": "Sep 2020",
-                "Model Identifier": "Watch5,3"
-            },
-            "Processor": {
-                "Processor Name": "Apple S5 & Apple W3",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 6.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium, ceramic) LTPO OLED Always-On Retina display",
-                "Display Size": "759 mm<sup>2</sup>",
-                "Display Resolution": "324 x 394",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "245 mAh"
+                "Capacity": "245 mAh (40mm) or 296 mAh (44mm)",
+                "Life": "Up to 18 Hours"
             },
             "Connections": {
                 "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
                 "Bluetooth": "5.0",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
+                "Networks": "LTE & UMTS (Cellular variants only)",
+                "SIM Slot": "Built-in Apple eSIM (Cellular variants only)"
             }
         }
-    },
-    {
-        "Name": "Apple Watch Series 5 <br> (44mm GPS)",
-        "Type": "Watch",
-        "image": "watchS5.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2019",
-                "Discontinued": "Sep 2020",
-                "Model Identifier": "Watch5,2"
-            },
-            "Processor": {
-                "Processor Name": "Apple S5 & Apple W3",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 6.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium, ceramic) LTPO OLED Always-On Retina display",
-                "Display Size": "977 mm<sup>2</sup>",
-                "Display Resolution": "368 x 448",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "296 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "5.0"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 5 <br> (44mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchS5.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2019",
-                "Discontinued": "Sep 2020",
-                "Model Identifier": "Watch5,4"
-            },
-            "Processor": {
-                "Processor Name": "Apple S5 & Apple W3",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 6.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium, ceramic) LTPO OLED Always-On Retina display",
-                "Display Size": "977 mm<sup>2</sup>",
-                "Display Resolution": "368 x 448",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "296 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "5.0",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 6 <br> (40mm GPS)",
+    }, {
+        "Name": "Apple Watch Series 6",
         "Type": "Watch",
         "image": "watchS6.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2020",
                 "Discontinued": "Sep 2021",
-                "Model Identifier": "Watch6,1"
+                "Model Identifier": "<li>Watch6,1 (40mm GPS)<li>Watch6,2 (44mm GPS)<li>Watch6,3 (40mm GPS + Cellular)<li>Watch6,4 (44mm GPS + Cellular)",
+                "Model Number": "A2291 (40mm GPS)",
+                "Other Model Numbers": "<li>A2292 (44mm GPS)<li>A2293, A2375 (40mm GPS + Cellular)<li>A2294, A2356 (44mm GPS + Cellular)",
+                "EMC": "<li>3479 (40mm GPS)<li>3480 (44mm GPS)<li>3481 (40mm GPS + Cellular)<li>3482 (44mm GPS + Cellular)",
+                "Color": "<li>Silver, Space Gray, Gold, Blue or PRODUCT(RED) (aluminium)<li>Silver, Graphite or Gold (stainless steel), Titanium or Space Black (titanium)",
+                "Weight/Dimensions": "<li>30.5 - 39.7 g (case), 4 H x 3.4 W x 1.04 D cm (40mm)<li>36.5 - 47.1 g (case), 4.4 H x 3.8 W x 1.04 D cm (44mm)"
             },
             "Processor": {
-                "Processor Name": "Apple S6 & Apple W3 & Apple U1",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
+                "Name": "Apple S6",
+                "Speed": "1.8 GHz",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3 & Apple U1",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Memory": {
-                "Maximum Memory": "1 GB"
+                "Built-in": "1 GB"
             },
             "Software": {
                 "Original OS": "watchOS 7.0",
-                "Maximum OS": "Latest release of watchOS (10)"
+                "Maximum OS": "Latest release of watchOS"
             },
             "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
-                "Display Size": "759 mm<sup>2</sup>",
-                "Display Resolution": "324 x 394",
-                "Brightness": "1000 cd/m<sup>2</sup>"
+                "Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
+                "Size": "759 mm<sup>2</sup> (40mm) or 977 mm<sup>2</sup> (44mm)",
+                "Resolution": "324 x 394 (40mm) or 368 x 448 (44mm)",
+                "Brightness": "1000 nits"
             },
             "Storage": {
                 "Capacity": "32 GB"
             },
             "Battery": {
-                "Capacity": "265.9 mAh"
+                "Type": "Built-in 1.024 Wh (40mm) 1.17 Wh (44mm) lithium-ion",
+                "Capacity": "265.9 mAh (40mm) or 303.8 mAh (44mm)",
+                "Life": "Up to 18 Hours"
             },
             "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 Ghz (WiFi 4)",
-                "Bluetooth": "5.0"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 6 <br> (40mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchS6.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2020",
-                "Discontinued": "Sep 2021",
-                "Model Identifier": "Watch6,3"
-            },
-            "Processor": {
-                "Processor Name": "Apple S6 & Apple W3 & Apple U1",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 7.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
-                "Display Size": "759 mm<sup>2</sup>",
-                "Display Resolution": "324 x 394",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "265.9 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 Ghz (WiFi 4)",
+                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 GHz (WiFi 4)",
                 "Bluetooth": "5.0",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
+                "Networks": "LTE & UMTS (Cellular variants only)",
+                "SIM Slot": "Built-in Apple eSIM (Cellular variants only)"
             }
         }
-    },
-    {
-        "Name": "Apple Watch Series 6 <br> (44mm GPS)",
-        "Type": "Watch",
-        "image": "watchS6.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2020",
-                "Discontinued": "Sep 2021",
-                "Model Identifier": "Watch6,2"
-            },
-            "Processor": {
-                "Processor Name": "Apple S6 & Apple W3 & Apple U1",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 7.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
-                "Display Size": "977 mm<sup>2</sup>",
-                "Display Resolution": "368 x 448",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "303.8 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 Ghz (WiFi 4)",
-                "Bluetooth": "5.0"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 6 <br> (44mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchS6.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2020",
-                "Discontinued": "Sep 2021",
-                "Model Identifier": "Watch6,4"
-            },
-            "Processor": {
-                "Processor Name": "Apple S6 & Apple W3 & Apple U1",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 7.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
-                "Display Size": "977 mm<sup>2</sup>",
-                "Display Resolution": "368 x 448",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "303.8 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 Ghz (WiFi 4)",
-                "Bluetooth": "5.0",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch SE (1st Gen) <br> (40mm GPS)",
+    }, {
+        "Name": "Apple Watch SE (1st Gen)",
         "Type": "Watch",
         "image": "watchSE1.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2020",
                 "Discontinued": "Sep 2022",
-                "Model Identifier": "Watch5,9"
+                "Model Identifier": "<li>Watch5,9 (40mm GPS)<li>Watch5,10 (44mm GPS)<li>Watch5,11 (40mm GPS + Cellular)<li>Watch5,12 (44mm GPS + Cellular)",
+                "Model Number": "A2351 (40mm GPS)",
+                "Other Model Numbers": "<li>A2352 (44mm GPS)<li>A2353, A2355 (40mm GPS + Cellular)<li>A2354, A2356 (44mm GPS + Cellular)",
+                "EMC": "<li>3485 (40mm GPS)<li>3486 (44mm GPS)<li>3487 (40mm GPS + Cellular)<li>3488 (44mm GPS + Cellular)",
+                "Color": "Silver, Space Gray or Gold",
+                "Weight/Dimensions": "<li>30.49 - 30.68 g (case), 4 H x 3.4 W x 1.04 D cm (40mm)<li>36.20 - 36.36 g (case), 4.4 H x 3.8 W x 1.04 D cm (44mm)"
             },
             "Processor": {
-                "Processor Name": "Apple S5 & Apple W3",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2",
+                "Name": "Apple S5",
+                "Speed": "1.6 GHz",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Memory": {
-                "Maximum Memory": "1 GB"
+                "Built-in": "1 GB"
             },
             "Software": {
                 "Original OS": "watchOS 7.0",
-                "Maximum OS": "Latest release of watchOS (10)"
+                "Maximum OS": "Latest release of watchOS 10"
             },
             "Display": {
-                "Display Type": "Ion-X glass LTPO OLED Retina display",
-                "Display Size": "759 mm<sup>2</sup>",
-                "Display Resolution": "324 x 394",
-                "Brightness": "1000 cd/m<sup>2</sup>"
+                "Type": "Ion-X glass LTPO OLED Retina display",
+                "Size": "759 mm<sup>2</sup> (40mm) or 977 mm<sup>2</sup> (44mm)",
+                "Resolution": "324 x 394 (40mm) or 368 x 448 (44mm)",
+                "Brightness": "1000 nits"
             },
             "Storage": {
                 "Capacity": "32 GB"
             },
             "Battery": {
-                "Capacity": "n.a. (Up to 18 hours)"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "5.0"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch SE (1st Gen) <br> (40mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchSE1.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2020",
-                "Discontinued": "Sep 2022",
-                "Model Identifier": "Watch5,11"
-            },
-            "Processor": {
-                "Processor Name": "Apple S5 & Apple W3",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 7.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass LTPO OLED Retina display",
-                "Display Size": "759 mm<sup>2</sup>",
-                "Display Resolution": "324 x 394",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "n.a. (Up to 18 hours)"
+                "Life": "Up to 18 hours"
             },
             "Connections": {
                 "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
                 "Bluetooth": "5.0",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
+                "Networks": "LTE & UMTS (Cellular variants only)",
+                "SIM Slot": "Built-in Apple eSIM (Cellular variants only)"
             }
         }
-    },
-    {
-        "Name": "Apple Watch SE (1st Gen) <br> (44mm GPS)",
-        "Type": "Watch",
-        "image": "watchSE1.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2020",
-                "Discontinued": "Sep 2022",
-                "Model Identifier": "Watch5,10"
-            },
-            "Processor": {
-                "Processor Name": "Apple S5 & Apple W3",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 7.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass LTPO OLED Retina display",
-                "Display Size": "977 mm<sup>2</sup>",
-                "Display Resolution": "368 x 448",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "n.a. (Up to 18 hours)"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "5.0"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch SE (1st Gen) <br> (44mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchSE1.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2020",
-                "Discontinued": "Sep 2022",
-                "Model Identifier": "Watch5,12"
-            },
-            "Processor": {
-                "Processor Name": "Apple S5 & Apple W3",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 7.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass LTPO OLED Retina display",
-                "Display Size": "977 mm<sup>2</sup>",
-                "Display Resolution": "368 x 448",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "n.a. (Up to 18 hours)"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "5.0",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 7 <br> (41mm GPS)",
+    }, {
+        "Name": "Apple Watch Series 7",
         "Type": "Watch",
         "image": "watchS7.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2021",
                 "Discontinued": "Sep 2022",
-                "Model Identifier": "Watch6,6"
+                "Model Identifier": "<li>Watch6,6 (41mm GPS)<li>Watch6,7 (45mm GPS)<li>Watch6,8 (41mm GPS + Cellular)<li>Watch6,9 (45mm GPS + Cellular)",
+                "Model Number": "A2473 (41mm GPS)",
+                "Other Model Numbers": "<li>A2474 (45mm GPS)<li>A2475, A2476 (41mm GPS + Cellular)<li>A2477, A2478 (45mm GPS + Cellular)",
+                "EMC": "<li>3982 (41mm GPS)<li>3983 (45mm GPS)<li>3984 (41mm GPS + Cellular)<li>3985 (45mm GPS + Cellular)",
+                "Color": "<li>Midnight, Starlight, Green, Blue or PRODUCT(RED) (aluminum)<li>Silver, Graphite or Gold (stainless steel)<li>Titanium or Space Black (titanium)",
+                "Weight/Dimensions": "<li>32 - 42.3 g (case), 4.1 H x 3.5 W x 1.07 D cm (41mm)<li>38.8 - 51.5 g (case), 4.5 H x 3.8 W x 1.07 D cm (45mm)"
             },
             "Processor": {
-                "Processor Name": "Apple S7 & Apple W3 & Apple U1",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
+                "Name": "Apple S7",
+                "Speed": "1.8 GHz",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3 & Apple U1",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Memory": {
-                "Maximum Memory": "1 GB"
+                "Built-in": "1 GB"
             },
             "Software": {
                 "Original OS": "watchOS 8.0",
-                "Maximum OS": "Latest release of watchOS (10)"
+                "Maximum OS": "Latest release of watchOS"
             },
             "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
-                "Display Size": "904 mm<sup>2</sup>",
-                "Display Resolution": "352 x 430",
-                "Brightness": "1000 cd/m<sup>2</sup>"
+                "Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
+                "Size": "904 mm<sup>2</sup> (41mm) or 1143 mm<sup>2</sup> (45mm)",
+                "Resolution": "352 x 430 (41mm) or 396 x 484 (45mm)",
+                "Brightness": "1000 nits"
             },
             "Storage": {
                 "Capacity": "32 GB"
             },
             "Battery": {
-                "Capacity": "284.2 mAh"
+                "Type": "Built-in 1.094 (41mm) 1.189 Wh (45mm) lithium-ion",
+                "Capacity": "284.2 mAh (41mm) or 308.8 mAh (45mm)",
+                "Life": "Up to 18 Hours"
             },
             "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 Ghz (WiFi 4)",
-                "Bluetooth": "5.0"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 7 <br> (41mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchS7.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2021",
-                "Discontinued": "Sep 2022",
-                "Model Identifier": "Watch6,8"
-            },
-            "Processor": {
-                "Processor Name": "Apple S7 & Apple W3 & Apple U1",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 8.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
-                "Display Size": "904 mm<sup>2</sup>",
-                "Display Resolution": "352 x 430",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "284.2 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 Ghz (WiFi 4)",
+                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 GHz (WiFi 4)",
                 "Bluetooth": "5.0",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
+                "Networks": "LTE & UMTS (Cellular variants only)",
+                "SIM Slot": "Built-in Apple eSIM (Cellular variants only)"
             }
         }
-    },
-    {
-        "Name": "Apple Watch Series 7 <br> (45mm GPS)",
-        "Type": "Watch",
-        "image": "watchS7.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2021",
-                "Discontinued": "Sep 2022",
-                "Model Identifier": "Watch6,7"
-            },
-            "Processor": {
-                "Processor Name": "Apple S7 & Apple W3 & Apple U1",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 8.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
-                "Display Size": "1143 mm<sup>2</sup>",
-                "Display Resolution": "396 x 484",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "308.8 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 Ghz (WiFi 4)",
-                "Bluetooth": "5.0"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 7 <br> (45mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchS7.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2021",
-                "Discontinued": "Sep 2022",
-                "Model Identifier": "Watch6,9"
-            },
-            "Processor": {
-                "Processor Name": "Apple S7 & Apple W3 & Apple U1",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 8.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
-                "Display Size": "1143 mm<sup>2</sup>",
-                "Display Resolution": "396 x 484",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "308.8 mAh"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 Ghz (WiFi 4)",
-                "Bluetooth": "5.0",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 8 <br> (41mm GPS)",
+    }, {
+        "Name": "Apple Watch Series 8",
         "Type": "Watch",
         "image": "watchS8.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2022",
                 "Discontinued": "Sep 2023",
-                "Model Identifier": "Watch6,14"
+                "Model Identifier": "<li>Watch6,14 (41mm GPS)<li>Watch6,15 (45mm GPS)<li>Watch6,16 (41mm GPS + Cellular)<li>Watch6,17 (45mm GPS + Cellular)",
+                "Model Number": "A2770 (41mm GPS)",
+                "Other Model Numbers": "<li>A2771 (45mm GPS)<li>A2772, A2773, A2857 (41mm GPS + Cellular)<li>A2774, A2775, A2858 (45mm GPS + Cellular)",
+                "EMC": "8094 (41mm GPS)<li>8095 (45mm GPS)<li>8096 (41mm GPS + Cellular)<li>8097 (45mm GPS + Cellular)",
+                "Color": "<li>Midnight, Starlight, Silver or PRODUCT(RED) (aluminum)<li>Silver, Graphite, Space Black or Gold (stainless steel)",
+                "Weight/Dimensions": "<li>32 - 42.3 g (case), 4.1 H x 3.5 W x 1.07 D cm (41mm)<li>38.8 - 51.5 g (case), 4.5 H x 3.8 W x 1.07 D cm (45mm)"
             },
             "Processor": {
-                "Processor Name": "Apple S8 & Apple W3 & Apple U1",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
+                "Name": "Apple S8",
+                "Speed": "1.8 GHz",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3 & Apple U1",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Memory": {
-                "Maximum Memory": "1 GB"
+                "Built-in": "1 GB"
             },
             "Software": {
                 "Original OS": "watchOS 9.0",
-                "Maximum OS": "Latest release of watchOS (10)"
+                "Maximum OS": "Latest release of watchOS"
             },
             "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
-                "Display Size": "904 mm<sup>2</sup>",
-                "Display Resolution": "352 x 430",
-                "Brightness": "1000 cd/m<sup>2</sup>"
+                "Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
+                "Size": "904 mm<sup>2</sup> (41mm) or 1143 mm<sup>2</sup> (45mm)",
+                "Resolution": "352 x 430 (41mm) or 396 x 484 (45mm)",
+                "Brightness": "1000 nits"
             },
             "Storage": {
                 "Capacity": "32 GB"
             },
             "Battery": {
-                "Capacity": "n.a. (Up to 18 hours)"
+                "Life": "Up to 18 hours"
             },
             "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 Ghz (WiFi 4)",
-                "Bluetooth": "5.3"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 8 <br> (41mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchS8.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2022",
-                "Discontinued": "Sep 2023",
-                "Model Identifier": "Watch6,16"
-            },
-            "Processor": {
-                "Processor Name": "Apple S8 & Apple W3 & Apple U1",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 9.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
-                "Display Size": "904 mm<sup>2</sup>",
-                "Display Resolution": "352 x 430",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "n.a. (Up to 18 hours)"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 Ghz (WiFi 4)",
+                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 GHz (WiFi 4)",
                 "Bluetooth": "5.3",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
+                "Networks": "LTE & UMTS (Cellular variants only)",
+                "SIM Slot": "Built-in Apple eSIM (Cellular variants only)"
             }
         }
-    },
-    {
-        "Name": "Apple Watch Series 8 <br> (45mm GPS)",
-        "Type": "Watch",
-        "image": "watchS8.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2022",
-                "Discontinued": "Sep 2023",
-                "Model Identifier": "Watch6,15"
-            },
-            "Processor": {
-                "Processor Name": "Apple S8 & Apple W3 & Apple U1",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 9.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
-                "Display Size": "1143 mm<sup>2</sup>",
-                "Display Resolution": "396 x 484",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "n.a. (Up to 18 hours)"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 Ghz (WiFi 4)",
-                "Bluetooth": "5.3"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch Series 8 <br> (45mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchS8.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2022",
-                "Discontinued": "Sep 2023",
-                "Model Identifier": "Watch6,17"
-            },
-            "Processor": {
-                "Processor Name": "Apple S8 & Apple W3 & Apple U1",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 9.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
-                "Display Size": "1143 mm<sup>2</sup>",
-                "Display Resolution": "396 x 484",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "n.a. (Up to 18 hours)"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 Ghz (WiFi 4)",
-                "Bluetooth": "5.3",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch SE (2nd Gen) <br> (40mm GPS)",
+    }, {
+        "Name": "Apple Watch SE (2nd Gen)",
         "Type": "Watch",
         "image": "watchSE2.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2022",
-                "Discontinued": "---",
-                "Model Identifier": "Watch6,10"
+                "Discontinued": "--",
+                "Model Identifier": "<li>Watch6,10 (40mm GPS)<li>Watch6,11 (44mm GPS)<li>Watch6,12 (40mm GPS + Cellular)<li>Watch6,13 (44mm GPS + Cellular)",
+                "Model Number": "A2722 (40mm GPS)",
+                "Other Model Numbers": "<li>A2723 (44mm GPS)<li>A2725, A2726, A2855 (40mm GPS + Cellular)<li>A2727, A2724, A2856 (44mm GPS + Cellular)",
+                "EMC": "<li>8090 (40mm GPS)<li>8091 (44mm GPS)<li>8092 (40mm GPS + Cellular)<li>8093 (44mm GPS + Cellular)",
+                "Color": "Midnight, Starlight or Silver",
+                "Weight/Dimensions": "<li>26.4 - 27.8 g (case), 4 H x 3.4 W x 1.07 D cm (40mm)<li>32.9 - 33 g (case), 4.4 H x 3.8 W x 1.07 D cm (44mm)"
             },
             "Processor": {
-                "Processor Name": "Apple S8 & Apple W3",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
+                "Name": "Apple S8",
+                "Speed": "1.8 GHz",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Memory": {
-                "Maximum Memory": "1 GB"
+                "Built-in": "1 GB"
             },
             "Software": {
                 "Original OS": "watchOS 9.0",
-                "Maximum OS": "Latest release of watchOS (10)"
+                "Maximum OS": "Latest release of watchOS"
             },
             "Display": {
-                "Display Type": "Ion-X glass LTPO OLED Retina display",
-                "Display Size": "759 mm<sup>2</sup>",
-                "Display Resolution": "352 x 430",
-                "Brightness": "1000 cd/m<sup>2</sup>"
+                "Type": "Ion-X glass LTPO OLED Retina display",
+                "Size": "759 mm<sup>2</sup> (40mm) or 977 mm<sup>2</sup> (44mm)",
+                "Resolution": "352 x 430 (40mm) or 368 x 448 (44mm)",
+                "Brightness": "1000 nits"
             },
             "Storage": {
                 "Capacity": "32 GB"
             },
             "Battery": {
-                "Capacity": "n.a. (Up to 18 hours)"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "5.3"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch SE (2nd Gen) <br> (40mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchSE2.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2022",
-                "Discontinued": "---",
-                "Model Identifier": "Watch6,12"
-            },
-            "Processor": {
-                "Processor Name": "Apple S8 & Apple W3",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 9.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass LTPO OLED Retina display",
-                "Display Size": "759 mm<sup>2</sup>",
-                "Display Resolution": "352 x 430",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "n.a. (Up to 18 hours)"
+                "Life": "Up to 18 hours"
             },
             "Connections": {
                 "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
                 "Bluetooth": "5.3",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
+                "Networks": "LTE & UMTS (Cellular variants only)",
+                "SIM Slot": "Built-in Apple eSIM (Cellular variants only)"
             }
         }
-    },
-    {
-        "Name": "Apple Watch SE (2nd Gen) <br> (44mm GPS)",
-        "Type": "Watch",
-        "image": "watchSE2.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2022",
-                "Discontinued": "---",
-                "Model Identifier": "Watch6,11"
-            },
-            "Processor": {
-                "Processor Name": "Apple S8 & Apple W3",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 9.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass LTPO OLED Retina display",
-                "Display Size": "977 mm<sup>2</sup>",
-                "Display Resolution": "368 x 448",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "n.a. (Up to 18 hours)"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "5.3"
-            }
-        }
-    },
-    {
-        "Name": "Apple Watch SE (2nd Gen) <br> (44mm GPS + Cellular)",
-        "Type": "Watch",
-        "image": "watchSE2.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2022",
-                "Discontinued": "---",
-                "Model Identifier": "Watch6,13"
-            },
-            "Processor": {
-                "Processor Name": "Apple S8 & Apple W3",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "7 nm"
-            },
-            "Memory": {
-                "Maximum Memory": "1 GB"
-            },
-            "Software": {
-                "Original OS": "watchOS 9.0",
-                "Maximum OS": "Latest release of watchOS (10)"
-            },
-            "Display": {
-                "Display Type": "Ion-X glass LTPO OLED Retina display",
-                "Display Size": "977 mm<sup>2</sup>",
-                "Display Resolution": "368 x 448",
-                "Brightness": "1000 cd/m<sup>2</sup>"
-            },
-            "Storage": {
-                "Capacity": "32 GB"
-            },
-            "Battery": {
-                "Capacity": "n.a. (Up to 18 hours)"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz (WiFi 4)",
-                "Bluetooth": "5.3",
-                "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
-            }
-        }
-    },
-    {
+    }, {
         "Name": "Apple Watch Ultra 1",
         "Type": "Watch",
         "image": "watchU1.png",
@@ -1621,39 +540,184 @@
             "Overview": {
                 "Introduced": "Sep 2022",
                 "Discontinued": "Sep 2023",
-                "Model Identifier": "Watch6,18"
+                "Model Identifier": "Watch6,18",
+                "Model Number": "A2622, A2684, A2859",
+                "EMC": "8098",
+                "Color": "Natural Titanium",
+                "Weight/Dimensions": "61.3 g (case), 4.9 H x 4.4 W x 1.44 D cm"
             },
             "Processor": {
-                "Processor Name": "Apple S8 & Apple W3 & Apple U1",
-                "Processor Speed": "1.8 GHz",
-                "Number of Cores": "2",
+                "Name": "Apple S8",
+                "Speed": "1.8 GHz",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3 & Apple U1",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Memory": {
-                "Maximum Memory": "1 GB"
+                "Built-in": "1 GB"
             },
             "Software": {
                 "Original OS": "watchOS 9.0",
-                "Maximum OS": "Latest release of watchOS (10)"
+                "Maximum OS": "Latest release of watchOS"
             },
             "Display": {
-                "Display Type": "Sapphire crystal LTPO OLED Always-On Retina display",
-                "Display Size": "1185 mm<sup>2</sup>",
-                "Display Resolution": "410 x 502",
-                "Brightness": "2000 cd/m<sup>2</sup>"
+                "Type": "Sapphire crystal LTPO OLED Always-On Retina display",
+                "Size": "1185 mm<sup>2</sup>",
+                "Resolution": "410 x 502",
+                "Brightness": "2000 nits"
             },
             "Storage": {
                 "Capacity": "32 GB"
             },
             "Battery": {
-                "Capacity": "542 mAh"
+                "Type": "Built-in 2.094 Wh lithium-ion",
+                "Capacity": "542 mAh",
+                "Life": "Up to 36 Hours, Up to 18 Hours (LTE)"
             },
             "Connections": {
-                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 Ghz (WiFi 4)",
+                "Wi-Fi": "802.11b/g/n 2.4 GHz and 5 GHz (WiFi 4)",
                 "Bluetooth": "5.3",
                 "Networks": "LTE & UMTS",
-                "SIM Slot": "Built-in Apple eSIM"
+                "SIM Slot": "Built-in Apple eSIM",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Speakers"
+            }
+        }
+    }, {
+        "Name": "Apple Watch Series 9",
+        "Type": "Watch",
+        "image": "watchS9.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2023",
+                "Discontinued": "Sep 2024",
+                "Model Identifier": "<li>Watch7,1 (41mm GPS)<li>Watch7,2 (45mm GPS)<li>Watch7,3 (41mm GPS + Cellular)<li>Watch7,4 (45mm GPS + Cellular)",
+                "Model Number": "A2978 (41mm GPS)",
+                "Other Model Numbers": "<li>A2980 (45mm GPS)<li>A2982, A2983 (41mm GPS + Cellular)<li>A2984, A2985 (45mm GPS + Cellular)",
+                "EMC": "8397 (41mm GPS)<li>8398 (45mm GPS)<li>8399 (41mm GPS + Cellular)<li>8400 (45mm GPS + Cellular)",
+                "Color": "<li>Pink, Midnight, Starlight, Silver or PRODUCT(RED) (aluminum)<li>Silver, Graphite, Space Black or Gold (stainless steel)",
+                "Weight/Dimensions": "<li>31.9 - 42.3 g (case), 4.1 H x 3.5 W x 1.07 D cm (41mm)<li>38.7 - 51.5 g (case), 4.5 H x 3.8 W x 1.07 D cm (45mm)"
+            },
+            "Processor": {
+                "Name": "Apple S9",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3 & Apple U2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
+            },
+            "Software": {
+                "Original OS": "watchOS 10",
+                "Maximum OS": "Latest release of watchOS"
+            },
+            "Display": {
+                "Type": "Ion-X glass (alum.) Sapphire crystal (stainless steel, titanium) LTPO OLED Always-On Retina display",
+                "Size": "904 mm<sup>2</sup> (41mm) or 1143 mm<sup>2</sup> (45mm)",
+                "Resolution": "352 x 430 (41mm) or 396 x 484 (45mm)",
+                "Brightness": "2000 nits"
+            },
+            "Storage": {
+                "Capacity": "64 GB"
+            },
+            "Battery": {
+                "Life": "Up to 18 hours (Up to 36 hours in Low Power Mode)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11b/g/n (WiFi 4)",
+                "Bluetooth": "5.3",
+                "Networks": "LTE & UMTS (Cellular variants only)",
+                "SIM Slot": "Built-in Apple eSIM (Cellular variants only)"
+            }
+        }
+    }, {
+        "Name": "Apple Watch Ultra 2",
+        "Type": "Watch",
+        "image": "watchU2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2023",
+                "Discontinued": "--",
+                "Model Identifier": "Watch7,5",
+                "Model Number": "A2986, A2987",
+                "EMC": "8401",
+                "Color": "Natural or Black",
+                "Weight/Dimensions": "61.4 g (case), 4.9 H x 4.4 W x 1.44 D cm"
+            },
+            "Processor": {
+                "Name": "Apple S9",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3 & Apple U2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
+            },
+            "Software": {
+                "Original OS": "watchOS 10",
+                "Maximum OS": "Latest release of watchOS"
+            },
+            "Display": {
+                "Type": "Sapphire crystal LTPO OLED Always-On Retina display",
+                "Size": "1185 mm<sup>2</sup>",
+                "Resolution": "410 x 502",
+                "Brightness": "3000 nits"
+            },
+            "Storage": {
+                "Capacity": "64 GB"
+            },
+            "Battery": {
+                "Life": "Up to 36 Hours, Up to 72 Hours (Low Power Mode)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11b/g/n (WiFi 4)",
+                "Bluetooth": "5.3",
+                "Networks": "LTE & UMTS",
+                "SIM Slot": "Built-in Apple eSIM",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Speakers"
+            }
+        }
+    }, {
+        "Name": "Apple Watch Series 10",
+        "Type": "Watch",
+        "image": "watchS10.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2024",
+                "Discontinued": "--",
+                "Model Identifier": "<li>Watch7,8 (41mm GPS)<li>Watch7,9 (45mm GPS)<li>Watch7,10 (41mm GPS + Cellular)<li>Watch7,11 (45mm GPS + Cellular)",
+                "Model Number": "A2997, A2998 (42mm GPS)",
+                "Other Model Numbers": "<li>A2999, A3000 (46mm GPS)<li>A3001, A3002 (42mm GPS + Cellular)<li>A3003, A3004 (46mm GPS + Cellular)",
+                "EMC": "8729 (42mm GPS)<li>8735 (46mm GPS)<li>8733, 8734 (42mm GPS + Cellular)<li>8737, 8738 (46mm GPS + Cellular)",
+                "Color": "<li>Jet Black, Rose Gold, Silver (aluminum)<li>Slate, Gold, Natural (titanium)",
+                "Weight/Dimensions": "<li>29.3 - 34.4 g (case), 4.2 H x 3.6 W x 0.97 D cm (42mm)<li>35.3 - 41.7 g (case), 4.6 H x 3.9 W x 0.97 D cm (45mm)"
+            },
+            "Processor": {
+                "Name": "Apple S10",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3 & Apple U2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
+            },
+            "Software": {
+                "Original OS": "watchOS 11",
+                "Maximum OS": "Latest release of watchOS"
+            },
+            "Display": {
+                "Type": "Ion-X glass (alum.) Sapphire crystal (titanium) LTPO3 OLED Always-On Retina display",
+                "Size": "989 mm<sup>2</sup> (42mm) 1220 mm<sup>2</sup> (46mm)",
+                "Resolution": "374 x 446 (42mm) 416 x 496 (45mm)",
+                "Brightness": "2000 nits"
+            },
+            "Storage": {
+                "Capacity": "64 GB"
+            },
+            "Battery": {
+                "Life": "Up to 18 hours (Up to 36 hours in Low Power Mode)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11b/g/n (WiFi 4)",
+                "Bluetooth": "5.3",
+                "Networks": "LTE & UMTS (Cellular variants only)",
+                "SIM Slot": "Built-in Apple eSIM (Cellular variants only)"
             }
         }
     }

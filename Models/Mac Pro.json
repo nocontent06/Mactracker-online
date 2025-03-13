@@ -7,60 +7,99 @@
             "Overview": {
                 "Introduced": "August 2006",
                 "Discontinued": "January 2008",
-                "Model Identifier": "MacPro1,1"
+                "Model Identifier": "MacPro1,1",
+                "Model Number": "A1186",
+                "EMC": "2113",
+                "Weight/Dimensions": "<br>19.2 kg, 51.1 H x 20.6 W x 47.5 cm<br>42.4 lbs, 20.1 H x 8.1 W x 18.7 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Xeon 5100 series ('Woodcrest')",
-                "Processor Speed": "2x 2.0 GHz or 2x 2.66 GHz or 2x 3.0 GHz",
-                "Number of Cores": "2 per processor"
+                "Processor Name": "Intel Xeon 5130, Xeon 5150, Xeon 5160 ('Woodcrest')",
+                "Processor Speed": "2x 2.0 GHz, 2x 2.66 GHz or 2x 3.0 GHz",
+                "# of Cores": "2 per CPU",
+                "Architecture": "64-Bit",
+                "Manufacturing Process": "65 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.4.7 (Tiger)",
                 "Later OS": "Mac OS X 10.4.8/9/10 (Tiger) or 10.5 (Leopard)",
-                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+                "Maximum OS": "OS X 10.7.5 (Lion)"
             },
             "Memory": {
                 "Maximum Memory": "32 GB (Actual) or 16 GB (Apple)",
-                "Supported RAM": "667 MHz DDR2 ECC FB-DIMM"
+                "Supported RAM": "667 MHz DDR2 ECC FB-DIMM",
+                "# of Slots": "8"
+            },
+            "Storage": {
+                "HDD": "160, 250, 500 or 750 GB 7200-rpm"
             },
             "Graphics": {
                 "Graphics Chip": "NVIDIA GeForce 7300 GT, GeForce 8800 GT, Quadro FX 4500 or ATI Radeon X1900 XT",
                 "Graphics Memory": "256 MB (7300 GT) or 512 MB (8800 GT, Quadro FX 4500, X1900 XT)"
+            },
+            "Connections": {
+                "Wi-Fi": "Optional AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
+                "Bluetooth": "Optional Bluetooth 2.0 + EDR",
+                "Ethernet": "2 - 1 GBit/s",
+                "USB": "5 - 480 Mbit/s",
+                "FireWire": "2 - 400 Mbit/s, 2 - 800 Mbit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "2 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "<br>1 - DVI, 1 - dual-link DVI (7300 GT)<br>2 - dual-link DVI (FX 4500, X1900 XT)",
+                "PCIe Slots": "4"
             }
         }
 
     }, {
-        "Name": "Mac Pro (8-core Mid 2007)",
+        "Name": "Mac Pro (8-core)",
         "Type": "Mac Pro",
         "image": "macpro.png",
         "Info": {
             "Overview": {
                 "Introduced": "April 2007",
                 "Discontinued": "January 2008",
-                "Model Identifier": "MacPro2,1"
+                "Model Identifier": "MacPro2,1",
+                "Model Number": "A1186 (8-Core)",
+                "EMC": "2138",
+                "Weight/Dimensions": "<br>19.2 kg, 51.1 H x 20.6 W x 47.5 cm<br>42.4 lbs, 20.1 H x 8.1 W x 18.7 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core Xeon X5300 series ('Clovertown')",
+                "Processor Name": "Intel Xeon X5365 ('Clovertown')",
                 "Processor Speed": "2x 3.0 GHz",
-                "Number of Cores": "4 per Processor"
+                "# of Cores": "4 per CPU",
+                "Architecture": "64-Bit",
+                "Manufacturing Process": "65 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.4.9 (Tiger)",
                 "Later OS": "Mac OS X 10.4.10 (Tiger) or 10.5 (Leopard)",
-                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+                "Maximum OS": "OS X 10.7.5 (Lion)"
             },
             "Memory": {
                 "Maximum Memory": "32 GB (Actual) or 16 GB (Apple)",
-                "Supported RAM": "667 MHz DDR2 ECC FB-DIMM"
+                "Supported RAM": "667 MHz DDR2 ECC FB-DIMM",
+                "# of Slots": "8"
+            },
+            "Storage": {
+                "HDD": "250, 500 or 750 GB 7200-rpm"
             },
             "Graphics": {
                 "Graphics Chip": "NVIDIA GeForce 7300 GT, GeForce 8800 GT, Quadro FX 4500 or ATI Radeon X1900 XT",
                 "Graphics Memory": "256 MB (7300 GT) or 512 MB (8800 GT, Quadro FX 4500, X1900 XT)"
+            },
+            "Connections": {
+                "Wi-Fi": "Optional AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
+                "Bluetooth": "Optional Bluetooth 2.0 + EDR",
+                "Ethernet": "2 - 1 GBit/s",
+                "USB": "5 - 480 Mbit/s",
+                "FireWire": "2 - 400 Mbit/s, 2 - 800 Mbit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "2 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "<br>1 - DVI, 1 - dual-link DVI (7300 GT)<br>2 - dual-link DVI (FX 4500, X1900 XT)",
+                "PCIe Slots": "4"
             }
         }
 
-    },
-    {
+    }, {
         "Name": "Mac Pro (Early 2008)",
         "Type": "Mac Pro",
         "image": "macpro.png",
@@ -68,30 +107,50 @@
               "Overview": {
                   "Introduced": "January 2008",
                   "Discontinued": "March 2009",
-                  "Model Identifier": "MacPro3,1"
+                  "Model Identifier": "MacPro3,1",
+                  "Model Number": "A1186 (Early 2008)",
+                  "EMC": "2180",
+                  "Weight/Dimensions": "<br>19.2 kg, 51.1 H x 20.6 W x 47.5 cm<br>42.4 lbs, 20.1 H x 8.1 W x 18.7 D inch"
               } ,
               "Processor": {
-                "Processor Name": "Intel Xeon 5400 series ('Harpertown')",
+                "Processor Name": "Intel Xeon E5462, Xeon E5472, Xeon X5482 ('Harpertown')",
                 "Processor Speed": "2.8 GHz, 2x 2.8 GHz, 2x 3.0 Ghz or 2x 3.2 GHz",
-                "Number of Cores": "4"
+                "# of Cores": "4 per CPU",
+                "Architecture": "64-Bit",
+                "Manufacturing Process": "45 nm"
               },
               "Software": {
                 "Original OS": "Mac OS X 10.5.1 (Leopard)",
-                "Later OS": "none",
-                "Maximum OS": "Mac OS X 10.11.6 (El Capitan)"
+                "Later OS": "Mac OS X 10.5.2/4 (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
               },
               "Memory": {
                 "Maximum Memory": "64 GB (Actual) or 32 GB (Apple)",
-                "Supported RAM": "800 MHz DDR2 ECC FB-DIMM"
+                "Supported RAM": "800 MHz DDR2 ECC FB-DIMM",
+                "# of Slots": "8"
+              },
+              "Storage": {
+                "SATA HDD": "320, 500, 750 GB or 1 TB 7200-rpm",
+                "SAS HDD": "300 GB 15.000-rpm"
               },
               "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 8800 GT, Quadro FX 5600 or ATI Radeon HD 2600 XT,",
-                "Graphics Memory": "512 MB (8800 GT), 1.5 GB (Quadro FX 5600) or 256 MB (Radeon HD 2600 XT)"
+                "Graphics Chip": "ATI Radeon HD 2600 XT, NVIDIA GeForce 8800 GT or NVIDIA Quadro FX 5600",
+                "Graphics Memory": "256 MB (2600 XT), 512 MB (8800 GT) or 1536 MB (FX 5600) GDDR3 SDRAM"
+              },
+              "Connections": {
+                "Wi-Fi": "Optional AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 2.0 + EDR",
+                "Ethernet": "2 - 1 GBit/s",
+                "USB": "5 - 480 Mbit/s",
+                "FireWire": "2 - 400 Mbit/s, 2 - 800 Mbit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "2 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "2 - dual-link DVI",
+                "PCIe Slots": "2 - x16 2.0, 2 - x4 1.1"
               }
         }
       
-      },
-      {
+    }, {
         "Name": "Mac Pro (Early 2009)", 
         "Type": "Mac Pro",
         "image": "macpro.png",
@@ -99,30 +158,49 @@
               "Overview": {
                   "Introduced": "March 2009",
                   "Discontinued": "August 2010",
-                  "Model Identifier": "MacPro4,1"
+                  "Model Identifier": "MacPro4,1",
+                  "Model Number": "A1289",
+                  "EMC": "2314",
+                  "Weight/Dimensions": "<br>18.1 kg (Quad-Core) 18.7 kg (8-Core), 51.1 H x 20.6 W x 47.5 cm<br>39.9 lbs (Quad-Core) 41.2 lbs (8-Core), 20.1 H x 8.1 W x 18.7 D inch"
               } ,
               "Processor": {
-                "Processor Name": "Intel Xeon 3500 or 5500 series ('Bloomingdale' or 'Gainestown')",
+                "Processor Name": "Intel Xeon W3520, Xeon W3540, Xeon E5520, Xeon X5550 or Xeon X5570 ('Bloomfield' or 'Gainestown')",
                 "Processor Speed": "2.66 GHz, 2.93 GHz, 3.33 GHz, 2x 2.66 GHz, 2x 2.93 GHz, 2x 3.33 GHz",
-                "Number of Cores": "4 per processor"
+                "# of Cores": "4 per CPU",
+                "Architecture": "64-Bit",
+                "Manufacturing Process": "45 nm"
               },
               "Software": {
                 "Original OS": "Mac OS X 10.5.6 (Leopard)",
                 "Later OS": "Mac OS X 10.6 (Snow Leopard)",
-                "Maximum OS": "Mac OS X 10.11.6 (El Capitan)"
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
               },
               "Memory": {
-                "Maximum Memory": "48 GB (Quad-Core Actual) or 128 GB (Eight-Core Actual) <br> 16 GB (Quad-Core Apple) or 32 GB (Eight-Core Apple)",
-                "Supported RAM": "1066 MHz DDR3 ECC SDRAM"
+                "Maximum Memory": "<br>48 GB (Quad-Core Actual) or 128 GB (Eight-Core Actual) <br> 16 GB (Quad-Core Apple) or 32 GB (Eight-Core Apple)",
+                "Supported RAM": "1066 MHz DDR3 ECC SDRAM",
+                "# of Slots": "4 (Quad-Core) or 8 (Eight-Core)"
+              },
+              "Storage": {
+                  "HDD": "640 GB, 1 or 2 TB 7200-rpm"
               },
               "Graphics": {
                 "Graphics Chip": "NVIDIA GeForce GT 120 or ATI Radeon HD 4870",
                 "Graphics Memory": "512 MB GDDR3 (GT 120) or 512 MB GDDR5 (Radeon HD 4870)"
+              },
+              "Connections": {
+                "Wi-Fi":"Optional AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 2.1 + EDR",
+                "Ethernet": "2 - 1 GBit/s",
+                "USB": "5 - 480 Mbit/s",
+                "FireWire": "4 - 800 Mbit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "2 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "1 - Mini DisplayPort, 1 - dual-link DVI",
+                "PCIe Slots": "2 - x16 2.0, 2 - x4 2.0"
               }
         }
       
-      },
-      {
+    }, {
         "Name": "Mac Pro (Mid 2010)",
         "Type": "Mac Pro",
         "image": "macpro.png",
@@ -130,25 +208,46 @@
             "Overview": {
                 "Introduced": "July 2010",
                 "Discontinued": "June 2012",
-                "Model Identifier": "MacPro5,1 (2010)"
+                "Model Identifier": "MacPro5,1",
+                "Model Number": "A1289 (2010)",
+                "EMC": "2314",
+                "Weight/Dimensions": "<br>18.1 kg (Quad-Core) 18.7 kg (8-Core), 51.1 H x 20.6 W x 47.5 cm<br>39.9 lbs (Quad-Core) 41.2 lbs (8-Core), 20.1 H x 8.1 W x 18.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Xeon W3530, W3565, W3680, E5620, X5650, X5670 ('Bloomfield', 'Gulftown', 'Westmere')",
                 "Processor Speed": "2.8 GHz, 3.2 GHz, 3.33 GHz, 2x 2.4 GHz, 2x 2.66 GHz, 2x 2.93 GHz",
-                "Number of Cores": "4 or 6 per processor"
+                "# of Cores": "4 or 6 per CPU",
+                "Architecture": "64-Bit",
+                "Manufacturing Process": "45 nm (W3530, W3565), 32 nm (W3680, E5620, X5650, X5670)"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.6.4 (Snow Leopard)",
-                "Later OS": "Mac OS X 10.7(.2/3) (Lion)",
+                "Later OS": "OS X 10.7(.2/3) (Lion)",
                 "Maximum OS": "macOS 10.14.6 (Mojave) (recommended Metal capable GPU)"
             },
             "Memory": {
-                "Maximum Memory": "48 GB (Quad-Core Actual) or 128 GB (8 and 12-Core Actual) <br> 32 GB (Quad-Core Apple) or 64 GB (8 and 12-Core Apple)",
-                "Supported RAM": "1066/1333 MHz DDR3 ECC SDRAM"
+                "Maximum Memory": "<br>48 GB (Quad-Core Actual) or 128 GB (8 and 12-Core Actual) <br> 32 GB (Quad-Core Apple) or 64 GB (8 and 12-Core Apple)",
+                "Supported RAM": "1066/1333 MHz DDR3 ECC SDRAM",
+                "# of Slots":"4 (Quad-Core) or 8 (8 and 12-Core)"
+            },
+            "Storage": {
+                "HDD": "1 or 2 TB 7200-rpm",
+                "SSD": "512 GB"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon HD 5770, 5870",
+                "Graphics Chip": "ATI Radeon HD 5770 or Radeon HD 5870",
                 "Graphics Memory": "1 GB GDDR5"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 2.1 + EDR",
+                "Ethernet": "2 - 1 GBit/s",
+                "USB": "5 - 480 Mbit/s",
+                "FireWire": "4 - 800 Mbit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "2 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "2 - Mini DisplayPort, 1 - dual-link DVI",
+                "PCIe Slots": "2 - x16 2.0, 2 - x4 2.0"
             }
         }
     }, {
@@ -159,25 +258,46 @@
             "Overview": {
                 "Introduced": "June 2012",
                 "Discontinued": "October 2013",
-                "Model Identifier": "MacPro5,1 (2012)"
+                "Model Identifier": "MacPro5,1",
+                "Model Number": "A1289 (2012)",
+                "EMC": "2629",
+                "Weight/Dimensions": "<br>18.1 kg (Quad and 6-Core) 18.7 kg (12-Core), 51.1 H x 20.6 W x 47.5 cm<br>39.9 lbs (Quad and 6-Core) 41.2 lbs (12-Core), 20.1 H x 8.1 W x 18.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Xeon W3565, W3680, E5646, X5650, X5675 ('Bloomfield', 'Gulftown', 'Westmere')",
                 "Processor Speed": "3.2, 3.33, 2x 2.4, 2x 2.66, 2x 3.06 GHz",
-                "Number of Cores": "4 or 6 per processor"
+                "# of Cores": "4 or 6 per CPU",
+                "Architecture": "64-Bit",
+                "Manufacturing Process": "45 nm (W3565), 32 nm (W3680, E5645, X5650, X5675)"
             },
             "Software": {
-                "Original OS": "Mac OS X 10.7.3 (Lion)",
-                "Later OS": "Mac OS X 10.8(.3) (Mountain Lion)",
+                "Original OS": "OS X 10.7.3 (Lion)",
+                "Later OS": "OS X 10.8(.3) (Mountain Lion)",
                 "Maximum OS": "macOS 10.14.6 (Mojave) (recommended Metal capable GPU)"
             },
             "Memory": {
-                "Maximum Memory": "48 GB (Quad and 6-Core Actual) or 128 GB (8-Core Actual) <br> 32 GB (Quad and 6-Core Apple) or 64 GB (8-Core Apple)",
-                "Supported RAM": "1066/1333 MHz DDR3 ECC SDRAM"
+                "Maximum Memory": "48 GB (Quad and 6-Core Actual) or 128 GB (12-Core Actual) <br> 32 GB (Quad and 6-Core Apple) or 64 GB (12-Core Apple)",
+                "Supported RAM": "1066/1333 MHz DDR3 ECC SDRAM",
+                "# of Slots": "4 (Quad and 6-Core) or 8 (12-Core)"
+            },
+            "Storage": {
+                "HDD": "1 or 2 TB 7200-rpm",
+                "SSD": "512 GB"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon HD 5770, 5870",
+                "Graphics Chip": "ATI Radeon HD 5770 or Radeon HD 5870",
                 "Graphics Memory": "1 GB GDDR5"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11n (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 2.1 + EDR",
+                "Ethernet": "2 - 1 GBit/s",
+                "USB": "5 - 480 Mbit/s",
+                "FireWire": "4 - 800 Mbit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "2 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "2 - Mini DisplayPort, 1 - dual-link DVI",
+                "PCIe Slots": "2 - x16 2.0, 2 - x4 2.0"
             }
         }
     }, {
@@ -188,29 +308,47 @@
             "Overview": {
                 "Introduced": "December 2013",
                 "Discontinued": "December 2019",
-                "Model Identifier": "MacPro6,1"
+                "Model Identifier": "MacPro6,1",
+                "Model Number": "A1481",
+                "EMC": "2630",
+                "Weight/Dimensions": "<br>5 kg, 25.1 cm H x 16.7 D cm<br>11 lbs, 9.9 H x 6.6 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Xeon E5-1620, E5-1650, E5-1680, E5-2697 ('Ivy Bridge')",
                 "Processor Speed": "3.7, 3.5, 3.0, 2.7 GHz",
-                "Number of Cores": "4, 6, 8, 12"
+                "# of Cores": "4, 6, 8, 12",
+                "# of Threads": "8, 12, 16, 24",
+                "Architecture": "64-Bit",
+                "Manufacturing Process": "22 nm"
             },
             "Software": {
                 "Original OS": "OS X 10.9 (Mavericks)",
                 "Later OS": "OS X 10.9.2/4 (Mavericks), 10.11(.1/2) (El Capitan)",
-                "Maximum OS": "Latest Release of macOS 12 (Monterey)"
+                "Maximum OS": "Latest release of macOS 12 (Monterey)"
             },
             "Memory": {
                 "Maximum Memory": "128 GB (Actual), 64 GB (Apple)",
-                "Supported RAM": "1866 MHz DDR3 ECC SDRAM"
+                "Supported RAM": "1866 MHz DDR3 ECC SDRAM",
+                "# of Slots": "4"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB or 1 TB"  
             },
             "Graphics": {
-                "Graphics Chip": "dual AMD FirePro D300, D500, D700",
-                "Graphics Memory": "2 GB GDDR5 (D300), 3 GB GDDR5 (D500), 6 GB GDDR5 (D700)"
+                "Graphics Chip": "dual AMD FirePro D300, D500 or D700",
+                "Graphics Memory": "2 GB (D300), 3 GB (D500) or 6 GB (D700) GDDR5"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "4.0",
+                "Ethernet": "2 - 1 GBit/s",
+                "USB": "4 - 5 GBit/s",
+                "Thunderbolt": "6 - Thunderbolt 2 (20 GBit/s)",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "1 - HDMI 1.4 or Thunderbolt 2"
             }
         }
-    },
-    {
+    }, {
         "Name": "Mac Pro (2019)", 
         "Type": "Mac Pro",
         "image": "macpro_2019.png",
@@ -218,53 +356,92 @@
               "Overview": {
                   "Introduced": "December 2019",
                   "Discontinued": "Jun 2023",
-                  "Model Identifier": "MacPro7,1"
+                  "Model Identifier": "MacPro7,1",
+                  "Model Number": "A1991",
+                  "Other Model Numbers": "A2304",
+                  "EMC": "3203, 3413",
+                  "Weight/Dimensions": "<br>18 kg, 52.9 H x 21.8 cm W x 45 D cm (Tower)<br>17.6 kg, 22.02 H x 48.2 W x 53.95 D cm (Rack)<br>39.7 lbs, 20.8 H x 8.58 W x 17.7 D inch (Tower)<br>38.8 lbs, 8.67 H x 18.98 W x 21.24 D inch (Rack)"
               } ,
               "Processor": {
                 "Processor Name": "Intel Xeon W-3223, W-3235, W-3245, W-3265M, W-3275M ('Cascade Lake')",
                 "Processor Speed": "3.5, 3.3, 3.2, 2.7 or 2.5 GHz",
-                "Number of Cores": "8, 12, 16, 24, 28"
+                "# of Cores": "8, 12, 16, 24, 28",
+                "# of Threads": "16, 24, 32, 48, 56",
+                "Architecture": "64-Bit",
+                "Manufacturing Process": "14 nm"
               },
               "Software": {
                 "Original OS": "macOS 10.15.2 (Catalina)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
               },
               "Memory": {
                 "Maximum Memory": "1.5 TB",
-                "Supported RAM": "2666/2933 MHz DDR4 ECC R/LRDIMM"
+                "Supported RAM": "2666/2933 MHz DDR4 ECC R/LRDIMM",
+                "# of Slots": "12"
+              },
+              "Storage": {
+                "SSD": "256 GB, 1, 2, 4 or 8 TB"
               },
               "Graphics": {
                 "Graphics Chip": "AMD Radeon Pro 580X, W5500X, W5700X, W6800X, W6900X, W6800X Duo, Vega II, Vega II Duo",
-                "Graphics Memory": "8 GB GDDR5 (580X, W5500X), <br> 16 GB GDDR6 (W5700X), <br> 32 GB GDDR6 (W6800X, W6900X), <br> 64 GB GDDR6 (W6800X Duo (32 GB per GPU)), <br> 32 GB HBM2 (Vega II), <br> 64 GB HBM2 (Vega II Duo (32 GB per GPU))"
+                "Graphics Memory": "<br>8 GB GDDR5 (580X, W5500X)<br>16 GB GDDR6 (W5700X)<br>32 GB GDDR6 (W6800X, W6900X)<br>64 GB GDDR6 (W6800X Duo (32 GB per GPU))<br>32 GB HBM2 (Vega II)<br>64 GB HBM2 (Vega II Duo (32 GB per GPU))"
+              },
+              "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Ethernet": "2 - 10 GBit/s",
+                "USB": "3 - 5 GBit/s (2 - Apple I/O Card, 1 - internal)",
+                "Thunderbolt": "4 - Thunderbolt 3 (40 GBit/s) (2 - Apple I/O Card, 2 - internal)",
+                "Display": "1 - HDMI 2.0, Thunderbolt 3",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
+                "PCIe Slots": "4 - x16 3.0, 3 - x8 3.0, 1 - x4 3.0"
               }
         }
-    },
-    {
+    }, {
         "Name": "Mac Pro (2023)", 
         "Type": "Mac Pro",
         "image": "macpro_2019.png",
         "Info":{
               "Overview": {
                   "Introduced": "Jun 2023",
-                  "Discontinued": "---",
-                  "Model Identifier": "Mac14,8"
+                  "Discontinued": "--",
+                  "Model Identifier": "Mac14,8",
+                  "Model Number": "A2786",
+                  "Other Model Numbers": "A2787",
+                  "EMC": "8163, 8164",
+                  "Weight/Dimensions": "<br>16.86 kg, 52.9 H x 21.8 cm W x 45 D cm (Tower)<br>17.21 kg, 22.02 H x 48.2 W x 53.95 D cm (Rack)<br>37.2 lbs, 20.8 H x 17.7 W x 8.58 D inch (Tower)<br>37.9 lbs, 8.67 H x 18.98 W x 21.24 D inch (Rack)"
               } ,
               "Processor": {
                 "Chip Name": "Apple M2 Ultra",
                 "Processor Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
-                "Number of Cores": "24 (16 High Performance, 8 High Efficiency)"
+                "# of Cores": "24 (16 High Performance, 8 High Efficiency)",
+                "Architecture": "64-Bit",
+                "Manufacturing Process": "5 nm"
               },
               "Software": {
                 "Original OS": "macOS 13.4 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
               },
               "Memory": {
-                "Maximum Memory": "192 GB",
+                "Memory Options": "64, 128 or 192 GB",
                 "Supported RAM": "6400 MT/s LPDDR5"
+              },
+              "Storage": {
+                "SSD": "1, 2, 4 or 8 TB"
               },
               "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "60, 76"
+                "# of Graphics Cores": "60 or 76"
+              },
+              "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Ethernet": "2 - 10 GBit/s",
+                "USB": "3 - 5 GBit/s (2 - Apple I/O Card, 1 - internal)",
+                "Thunderbolt": "8 - (6 - Apple I/O Card, 2 - internal) (Thunderbolt 4 (40 GBit/s))",
+                "Display": "2 - HDMI 2.1, Thunderbolt 4",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
+                "PCIe Slots": "2 - x16 4.0, 4 - x8 4.0, 1 - x4 3.0"
               }
         }
     }

@@ -4,6 +4,9 @@ const searchWrapper = document.querySelector(".form-group"); // div -> search fo
 let inputBox = document.querySelector("input"); // input
 let linkTag = document.getElementById("a-index"); // link
 
+const searchFormNav = document.getElementById("search-form-nav");
+const searchInputNav = document.getElementById("search-input-nav"); // search input
+let linkTagNav = document.getElementById("a-bt"); // link
 
 searchFormIndex.addEventListener("keypress", function (event) {
     if (event.key === "Enter") {
@@ -13,22 +16,6 @@ searchFormIndex.addEventListener("keypress", function (event) {
         linkTag.click();
     }
 });
-
-
-const searchFormNav = document.getElementById("search-form-nav");
-const searchInputNav = document.getElementById("search-input-nav"); // search input
-let linkTagNav = document.getElementById("a-bt"); // link
-
-searchFormNav.addEventListener("keypress", function (event) {
-    if (event.key === "Enter") {
-        event.preventDefault();
-        let webLink = `results.html?search=${searchInputNav.value}`;
-        linkTagNav.setAttribute("href", webLink);
-        linkTagNav.click();
-    }
-});
-
-// searchInput.setAttribute("required", true)
 
 let footer_index = document.createElement("footer");
 footer_index.setAttribute("class", "footer");
@@ -111,9 +98,9 @@ async function fetchData() {
         featuredContainer.appendChild(featuredBox);
 
         featuredBox.addEventListener("click", function () {
-            location.href = `detailed.html?modelIdentifier=${item
+            location.href = `detailed.html?modelNumber=${item
                 .Info
-                .Overview["Model Identifier"]}&type=${item
+                .Overview["Model Number"]}&type=${item
                 .Type}`;
         });
     }

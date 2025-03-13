@@ -23,13 +23,12 @@ Now :) You can access it at https://mactracker.online
 ## Some Links
 
 - [Discord Server](https://discord.gg/hyTP8ynDAz)
-- Discord Username: appleguy06 (Old: AppleGuy#7469)
+- Discord Username: i_progeny
 
 ## Some Pics?
 
-![Screenshot](/img/searchForM1.png)
-<img width="1762" alt="searchForMBP15" src="https://github.com/nocontent06/Mactracker-online/assets/93335632/73306e5b-274f-46cd-95cf-44028597bbfb">
+<img width="1478" alt="image" src="https://github.com/user-attachments/assets/86893f8c-2389-4ab5-9606-149850f8074e" />
 
-<img width="611" alt="256232799-bbbbe05a-59ee-4617-ac4f-2a73d055b0bc" src="https://github.com/nocontent06/Mactracker-online/assets/93335632/97ad3221-05c2-4d27-a840-a7102311ca89">
+<img width="1478" alt="image" src="https://github.com/user-attachments/assets/e3c58429-71cb-4462-ab32-c9d81145bddc" />
 
-<img width="1764" alt="256232940-9020dc0e-dad5-46fb-ab56-b41b0120b037" src="https://github.com/nocontent06/Mactracker-online/assets/93335632/c8a5fcb1-a108-48aa-9bb0-b0f68b99157a">
+<img width="1478" alt="image" src="https://github.com/user-attachments/assets/d90e85cf-df5a-43b1-b4f4-e896cc16035d" />

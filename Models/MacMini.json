@@ -5,15 +5,22 @@
         "image": "Powermac10,1.png",
         "Info": {
             "Overview": {
-                "Introduced": "January 2005",
-                "Discontinued": "February 2006",
-                "Model Identifier": "PowerMac10,1"
+                "Introduced": "Jan 2005",
+                "Discontinued": "Feb 2006",
+                "Model Identifier": "PowerMac10,1",
+                "Model Number": "A1103",
+                "EMC": "2026",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.32 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
             },
             "Processor": {
                 "Processor Name": "PowerPC 7447A (G4)",
                 "Processor Speed": "1.25 or 1.42 GHz",
-                "Number of Cores": "1",
+                "# of Cores": "1",
                 "Manufacturing Process": "130 nm"
+            },
+            "Storage": {
+                "HDD": "40 or 80 GB 4200-rpm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.3.7 (Panther)",
@@ -22,11 +29,20 @@
             },
             "Memory": {
                 "Maximum Memory": "1 GB",
-                "Supported RAM": "333 MHz DDR SDRAM"
+                "Supported RAM": "333 MHz DDR SDRAM",
+                "# of Slots": "1"
             },
             "Graphics": {
                 "Graphics Chip": "ATI Radeon 9200",
-                "Graphics Memory": "32 MB"
+                "Graphics Memory": "32 MB DDR"
+            },
+            "Connections": {
+                "Wi-Fi": "Optional or Built-in AirPort Extreme card (802.11b/g)",
+                "Bluetooth": "Optional or Built-in Bluetooth 1.1",
+                "Ethernet": "1 - 100 Mbit/s",
+                "USB": "2 - 480 Mbit/s",
+                "FireWire": "1 - 400 MBit/s",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker"
             }
         }
     }, {
@@ -35,28 +51,43 @@
         "image": "Powermac10,1.png",
         "Info": {
             "Overview": {
-                "Introduced": "January 2005",
-                "Discontinued": "February 2006",
-                "Model Identifier": "PowerMac10,2"
+                "Introduced": "Sep 2005",
+                "Discontinued": "Feb 2006",
+                "Model Identifier": "PowerMac10,2",
+                "Model Number": "A1103 (Late 2005)",
+                "EMC": "2026",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.32 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
             },
             "Processor": {
                 "Processor Name": "PowerPC 7447A (G4)",
                 "Processor Speed": "1.33 or 1.5 GHz",
-                "Number of Cores": "1",
+                "# of Cores": "1",
                 "Manufacturing Process": "130 nm"
             },
+            "Storage": {
+                "HDD": "40 or 80 GB 5400-rpm"
+            },
             "Software": {
-                "Original OS": "Mac OS X 10.3.7 (Panther)",
-                "Later OS": "Mac OS X 10.4 (Tiger)",
+                "Original OS": "Mac OS X 10.4.2 (Tiger)",
                 "Maximum OS": "Mac OS X 10.5.8 (Leopard)"
             },
             "Memory": {
                 "Maximum Memory": "1 GB",
-                "Supported RAM": "333 MHz DDR SDRAM"
+                "Supported RAM": "333 MHz DDR SDRAM",
+                "# of Slots": "1"
             },
             "Graphics": {
                 "Graphics Chip": "ATI Radeon 9200",
-                "Graphics Memory": "32 MB"
+                "Graphics Memory": "32 or 64 MB DDR"
+            },
+            "Connections": {
+                "Wi-Fi": "Optional or Built-in AirPort Extreme card (802.11b/g)",
+                "Bluetooth": "Optional or Built-in Bluetooth 2.0 + EDR",
+                "Ethernet": "1 - 100 Mbit/s",
+                "USB": "2 - 480 Mbit/s",
+                "FireWire": "1 - 400 MBit/s",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker"
             }
         }
     }, {
@@ -65,28 +96,47 @@
         "image": "Macmini1,1.png",
         "Info": {
             "Overview": {
-                "Introduced": "February 2006",
-                "Discontinued": "September 2006",
-                "Model Identifier": "Macmini1,1"
+                "Introduced": "Feb 2006",
+                "Discontinued": "Sep 2006",
+                "Model Identifier": "Macmini1,1",
+                "Model Number": "A1176",
+                "EMC": "2108",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
+
             },
             "Processor": {
                 "Processor Name": "Intel Core Solo or Duo (T1200, T2300) ('Yonah')",
                 "Processor Speed": "1.5 or 1.66 GHz",
-                "Number of Cores": "1 (Solo) or 2 (Duo)",
+                "# of Cores": "1 (Solo) or 2 (Duo)",
+                "Architecture": "32-bit",
                 "Manufacturing Process": "65 nm"
+            },
+            "Storage": {
+                "HDD": "60, 80, 100 or 120 GB 5400-rpm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.4.5 (Tiger)",
                 "Later OS": "Mac OS X 10.4.6 (Tiger)",
-                "Maximum OS": "Mac OS X 10.5.8 (Leopard)"
+                "Maximum OS": "Mac OS X 10.6.8 (Snow Leopard)"
             },
             "Memory": {
                 "Maximum Memory": "2 GB",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+                "Supported RAM": "667 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Graphics": {
                 "Graphics Chip": "Intel GMA 950",
                 "Graphics Memory": "64 MB (shared)"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g)",
+                "Bluetooth": "Built-in Bluetooth 2.0 + EDR",
+                "Ethernet": "1 - 1GBit/s",
+                "USB": "4 - 480 Mbit/s",
+                "FireWire": "1 - 400 MBit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker"
             }
         }
     }, {
@@ -97,13 +147,21 @@
             "Overview": {
                 "Introduced": "Sep 2006",
                 "Discontinued": "Aug 2007",
-                "Model Identifier": "Macmini1,1 (L)"
+                "Model Identifier": "Macmini1,1",
+                "Model Number": "A1176 (Late 2006)",
+                "EMC": "2108",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core Duo (T2300, T2400) ('Yonah')",
                 "Processor Speed": "1.66 or 1.83 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
+                "Architecture": "32-bit",
                 "Manufacturing Process": "65 nm"
+            },
+            "Storage": {
+                "HDD": "60, 80, 100, 120 or 160 GB 5400-rpm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.4.7 (Tiger)",
@@ -112,11 +170,21 @@
             },
             "Memory": {
                 "Maximum Memory": "2 GB",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+                "Supported RAM": "667 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Graphics": {
                 "Graphics Chip": "Intel GMA 950",
                 "Graphics Memory": "64 MB (shared)"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g)",
+                "Bluetooth": "Built-in Bluetooth 2.0 + EDR",
+                "Ethernet": "1 - 1GBit/s",
+                "USB": "4 - 480 Mbit/s",
+                "FireWire": "1 - 400 MBit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker"
             }
         }
     }, {
@@ -125,15 +193,23 @@
         "image": "Macmini2,1.png",
         "Info": {
             "Overview": {
-                "Introduced": "August 2007",
-                "Discontinued": "March 2009",
-                "Model Identifier": "Macmini2,1"
+                "Introduced": "Aug 2007",
+                "Discontinued": "Mar 2009",
+                "Model Identifier": "Macmini2,1",
+                "Model Number": "A1176 (Mid 2007)",
+                "EMC": "2108",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (T5600, T7200) ('Merom')",
                 "Processor Speed": "1.83 or 2.0 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
+                "Architecture": "64-bit",
                 "Manufacturing Process": "65 nm"
+            },
+            "Storage": {
+                "HDD": "80 (1.83 GHz only), 120 or 160 GB 5400-rpm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.4.10 (Tiger)",
@@ -141,12 +217,22 @@
                 "Maximum OS": "Mac OS X 10.7.5 (Lion)"
             },
             "Memory": {
-                "Maximum Memory": "4 GB (Actual) 2 GB (Apple)",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+                "Maximum Memory": "3 GB (Actual) 2 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Graphics": {
                 "Graphics Chip": "Intel GMA 950",
                 "Graphics Memory": "64 MB (shared)"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g)",
+                "Bluetooth": "Built-in Bluetooth 2.0 + EDR",
+                "Ethernet": "1 - 1GBit/s",
+                "USB": "4 - 480 Mbit/s",
+                "FireWire": "1 - 400 MBit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker"
             }
         }
     }, {
@@ -155,15 +241,22 @@
         "image": "Macmini3,1.png",
         "Info": {
             "Overview": {
-                "Introduced": "March 2009",
-                "Discontinued": "October 2009",
-                "Model Identifier": "Macmini3,1"
+                "Introduced": "Mar 2009",
+                "Discontinued": "Oct 2009",
+                "Model Identifier": "Macmini3,1",
+                "Model Number": "A1283",
+                "EMC": "2264",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (P7350, P8400) ('Penryn')",
                 "Processor Speed": "2.0 or 2.26 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Manufacturing Process": "45 nm"
+            },
+            "Storage": {
+                "HDD": "120, 250 or 320 GB 5400-rpm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.5.6 (Leopard)",
@@ -171,11 +264,21 @@
             },
             "Memory": {
                 "Maximum Memory": "8 GB (Actual) 4 GB (Apple)",
-                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM",
+                "# of Slots": "2"
             },
             "Graphics": {
                 "Graphics Chip": "NVIDIA GeForce 9400M",
-                "Graphics Memory": "up to 256 MB"
+                "Graphics Memory": "up to 256 MB (shared)"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (WiFi 4)",
+                "Bluetooth": "Built-in Bluetooth 2.1 + EDR",
+                "Ethernet": "1 - 1GBit/s",
+                "USB": "5 - 480 Mbit/s",
+                "FireWire": "1 - 800 Mbit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker"
             }
         }
     }, {
@@ -186,13 +289,20 @@
             "Overview": {
                 "Introduced": "Oct 2009",
                 "Discontinued": "Jun 2010",
-                "Model Identifier": "Macmini3,1 (L)"
+                "Model Identifier": "Macmini3,1",
+                "Model Number": "A1283 (Late 2009)",
+                "EMC": "2336",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (P7550, P8700, P8800) ('Penryn')",
                 "Processor Speed": "2.26, 2.53 or 2.66 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Manufacturing Process": "45 nm"
+            },
+            "Storage": {
+                "HDD": "160, 320 or 500 GB 5400-rpm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.6 (Leopard)",
@@ -201,11 +311,21 @@
             },
             "Memory": {
                 "Maximum Memory": "8 GB (Actual) 4 GB (Apple)",
-                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM",
+                "# of Slots": "2"
             },
             "Graphics": {
                 "Graphics Chip": "NVIDIA GeForce 9400M",
-                "Graphics Memory": "up to 256 MB"
+                "Graphics Memory": "256 MB DDR3 SDRAM (shared)"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (WiFi 4)",
+                "Bluetooth": "Built-in Bluetooth 2.1 + EDR",
+                "Ethernet": "1 - 1GBit/s",
+                "USB": "5 - 480 Mbit/s",
+                "FireWire": "1 - 800 Mbit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker"
             }
         }
     }, {
@@ -214,15 +334,22 @@
         "image": "Macmini4,1.png",
         "Info": {
             "Overview": {
-                "Introduced": "June 2010",
-                "Discontinued": "July 2011",
-                "Model Identifier": "Macmini4,1"
+                "Introduced": "Jun 2010",
+                "Discontinued": "Jul 2011",
+                "Model Identifier": "Macmini4,1",
+                "Model Number": "A1347",
+                "EMC": "2364",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.37 kg, 3.6 H x 19.56 W x 19.56 D cm<br>3 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (P8600, P8800) ('Penryn')",
                 "Processor Speed": "2.4 or 2.66 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Manufacturing Process": "45 nm"
+            },
+            "Storage": {
+                "HDD": "320 or 500 GB 5400-rpm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.6.3 (Snow Leopard)",
@@ -231,11 +358,23 @@
             },
             "Memory": {
                 "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
-                "Supported RAM": "1066 MHz DDR3 SO-DIMM"
+                "Supported RAM": "1066 MHz DDR3 SO-DIMM",
+                "# of Slots": "2"
             },
             "Graphics": {
                 "Graphics Chip": "NVIDIA GeForce 320M",
-                "Graphics Memory": "up to 256 MB"
+                "Graphics Memory": "256 MB DDR3 SDRAM (shared)"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n)",
+                "Bluetooth": "Built-in Bluetooth 2.1 + EDR",
+                "Ethernet": "1 - 1GBit/s",
+                "USB": "4 - 480 Mbit/s",
+                "SD Card": "Yes",
+                "FireWire": "1 - 800 Mbit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "1 - Mini DisplayPort, 1 - HDMI" 
             }
         }
     }, {
@@ -244,89 +383,102 @@
         "image": "Macmini5,1 or 5,2.png",
         "Info": {
             "Overview": {
-                "Introduced": "July 2011",
-                "Discontinued": "October 2012",
-                "Model Identifier": "Macmini5,1"
+                "Introduced": "Jul 2011",
+                "Discontinued": "Oct 2012",
+                "Model Identifier": "Macmini5,1 or 5,2",
+                "Model Number": "A1347",
+                "EMC": "2442",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.22 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.7 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (2415M) ('Sandy Bridge')",
-                "Processor Speed": "2.3 GHz",
-                "Number of Cores": "2",
+                "Processor Name": "Intel Core i5 (2415M, 2520M) or Core i7 (2620M) ('Sandy Bridge')",
+                "Processor Speed": "2.3 GHz (Macmini5,1) (i5), 2.5 or 2.7 GHz (Macmini5,2) (i5 or i7)",
+                "# of Cores": "2",
+                "# of Threads": "4",
                 "Manufacturing Process": "32 nm"
             },
+            "Storage": {
+                "HDD": "500 5400-rpm, 750 GB 7200-rpm",
+                "SSD": "256 GB (configurable with 2.5 GHz Model) (w/ or w/o 750 GB 7200-rpm)"
+            },
             "Software": {
-                "Original OS": "Mac OS X 10.7 (Lion)",
-                "Later OS": "Mac OS X 10.7.2/3 (Lion) or 10.8 (Mountain Lion)",
-                "Maximum OS": "Mac OS X 10.13.6 (High Sierra)"
+                "Original OS": "OS X 10.7 (Lion)",
+                "Later OS": "OS X 10.7.2/3 (Lion) or OS X 10.8 (Mountain Lion)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
             },
             "Memory": {
                 "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
-                "Supported RAM": "1067/1333/1600 MHz DDR3 SO-DIMM"
+                "Supported RAM": "1333 MHz DDR3 SO-DIMM",
+                "# of Slots": "2"
             },
             "Graphics": {
                 "Graphics Chip": "Intel HD Graphics 3000 or AMD Radeon HD 6630M",
-                "Graphics Memory": "from 288 MB (HD 3000) (shared) or 256 MB (HD 6630M)"
+                "Graphics Memory": "from 288 MB (HD 3000) (shared), 256 MB GDDR5 (HD 6630M)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (WiFi 4)",
+                "Bluetooth": "4.0",
+                "Ethernet": "1 - 1GBit/s",
+                "USB": "4 - 480 Mbit/s",
+                "SD Card": "Yes",
+                "FireWire": "1 - 800 Mbit/s",
+                "Thunderbolt": "1 - 10GBit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "1 - HDMI, 1 - Thunderbolt 1"
             }
         }
     }, {
-        "Name": "Mac Mini (Mid 2011)",
+        "Name": "Mac Mini Server<br>(Mid 2011)",
         "Type": "MacMini",
         "image": "Macmini5,1 or 5,2.png",
         "Info": {
             "Overview": {
-                "Introduced": "July 2011",
-                "Discontinued": "October 2012",
-                "Model Identifier": "Macmini5,2"
-            },
-            "Processor": {
-                "Processor Name": "Intel Core i5 or i7 (2520M, 2620M) ('Sandy Bridge')",
-                "Processor Speed": "2.5, or 2.7 GHz",
-                "Number of Cores": "2",
-                "Manufacturing Process": "32 nm"
-            },
-            "Software": {
-                "Original OS": "Mac OS X 10.7 (Lion)",
-                "Later OS": "Mac OS X 10.7.2/3 (Lion) or 10.8 (Mountain Lion)",
-                "Maximum OS": "Mac OS X 10.13.6 (High Sierra)"
-            },
-            "Memory": {
-                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
-                "Supported RAM": "1067/1333/1600 MHz DDR3 SO-DIMM"
-            },
-            "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 3000 or AMD Radeon HD 6630M",
-                "Graphics Memory": "from 288 MB (HD 3000) (shared) or 256 MB (HD 6630M)"
-            }
-        }
-
-    }, {
-        "Name": "Mac Mini Server <br> (Mid 2011)",
-        "Type": "MacMini",
-        "image": "Macmini5,1 or 5,2.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "July 2011",
-                "Discontinued": "October 2012",
-                "Model Identifier": "Macmini5,3"
+                "Introduced": "Jul 2011",
+                "Discontinued": "Oct 2012",
+                "Model Identifier": "Macmini5,3",
+                "Model Number": "A1347 (Server)",
+                "EMC": "2442",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.37 kg, 3.6 H x 19.56 W x 19.56 D cm<br>3 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core i7 (2635QM) ('Sandy Bridge')",
                 "Processor Speed": "2.0 GHz",
-                "Number of Cores": "4",
+                "# of Cores": "4",
+                "# of Threads": "8",
                 "Manufacturing Process": "32 nm"
             },
+            "Storage": {
+                "HDD": "720 GB 7200-rpm (Dual)",
+                "SSD": "256 GB (Dual or w/ 720 GB 7200-rpm)"
+            },
             "Software": {
-                "Original OS": "Mac OS X 10.7 (Lion)",
-                "Later OS": "Mac OS X 10.7.2/3 (Lion) or 10.8 (Mountain Lion)",
-                "Maximum OS": "Mac OS X 10.13.6 (High Sierra)"
+                "Original OS": "OS X 10.7 (Lion)",
+                "Later OS": "OS X 10.7.2/3 (Lion) or OS X 10.8 (Mountain Lion)",
+                "Maximum OS": "macOS 10.13.6 (High Sierra)"
             },
             "Memory": {
                 "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
-                "Supported RAM": "1067/1333/1600 MHz DDR3 SO-DIMM"
+                "Supported RAM": "1333 MHz DDR3 SO-DIMM",
+                "# of Slots": "2"
             },
             "Graphics": {
                 "Graphics Chip": "Intel HD Graphics 3000",
-                "Graphics Memory": "from 288 MB (HD 3000) (shared)"
+                "Graphics Memory": "from 384 MB (HD 3000) (shared)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (WiFi 4)",
+                "Bluetooth": "4.0",
+                "Ethernet": "1 - 1GBit/s",
+                "USB": "4 - 480 Mbit/s",
+                "SD Card": "Yes",
+                "FireWire": "1 - 800 Mbit/s",
+                "Thunderbolt": "1 - 10GBit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display":"1 - HDMI, 1 - Thunderbolt 1"
             }
         }
 
@@ -336,59 +488,51 @@
         "image": "Macmini6,1 or 6,2.png",
         "Info": {
             "Overview": {
-                "Introduced": "October 2012",
-                "Discontinued": "October 2014",
-                "Model Identifier": "Macmini6,1"
+                "Introduced": "Oct 2012",
+                "Discontinued": "Oct 2014",
+                "Model Identifier": "Macmini6,1 or 6,2",
+                "Model Number": "A1347 (2012)",
+                "EMC": "2570",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.22 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.7 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core i5 (3210M) ('Ivy Bridge')",
-                "Processor Speed": "2.5 GHz",
-                "Number of Cores": "2",
-                "Manufacturing Process": "32 nm"
-            },
-            "Software": {
-                "Original OS": "Mac OS X 10.8.1 (Mountain Lion)",
-                "Later OS": "Mac OS X 10.8.2/3 (Mountain Lion) or 10.9(.2) (Mavericks)",
-                "Maximum OS": "Mac OS X 10.15.7 (Catalina)"
-            },
-            "Memory": {
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "1600 MHz DDR3 SO-DIMM"
-            },
-            "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 4000",
-                "Graphics Memory": "up to 1 GB (shared)"
-            }
-        }
-
-    }, {
-        "Name": "Mac Mini (Late 2012)",
-        "Type": "MacMini",
-        "image": "Macmini6,1 or 6,2.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "October 2012",
-                "Discontinued": "October 2014",
-                "Model Identifier": "Macmini6,2"
-            },
-            "Processor": {
-                "Processor Name": "Intel Core i7 (3615QM, 3720QM) ('Ivy Bridge')",
-                "Processor Speed": "2.3, or 2.6 GHz",
-                "Number of Cores": "4",
+                "Processor Speed": "2.5 GHz (Macmini6,1) (i5), 2.3 or 2.6 GHz (Macmini6,2) (i7)",
+                "# of Cores": "2 (i5), 4 (i7)",
+                "# of Threads": "4 (i5), 8 (i7)",
                 "Manufacturing Process": "22 nm"
             },
+            "Storage": {
+                "HDD": "500 or 1 TB 5400-rpm",
+                "SSD": "256 GB",
+                "Fusion": "1 TB"
+            },
             "Software": {
-                "Original OS": "Mac OS X 10.8.1 (Mountain Lion)",
-                "Later OS": "Mac OS X 10.8.2/3 (Mountain Lion) or 10.9(.2) (Mavericks)",
-                "Maximum OS": "Mac OS X 10.15.7 (Catalina)"
+                "Original OS": "OS X 10.8.1 (Mountain Lion)",
+                "Later OS": "OS X 10.8.2/3 (Mountain Lion) or OS X 10.9(.2) (Mavericks)",
+                "Maximum OS": "macOS 10.15.7 (Catalina)"
             },
             "Memory": {
                 "Maximum Memory": "16 GB",
-                "Supported RAM": "1600 MHz DDR3 SO-DIMM"
+                "Supported RAM": "1600 MHz DDR3 SO-DIMM",
+                "# of Slots": "2"
             },
             "Graphics": {
                 "Graphics Chip": "Intel HD Graphics 4000",
-                "Graphics Memory": "up to 1 GB (shared)"
+                "Graphics Memory": "up to 1 GB DDR3 (shared)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (WiFi 4)",
+                "Bluetooth": "4.0",
+                "Ethernet": "1 - 1GBit/s",
+                "USB": "4 - 5 GBit/s", 
+                "Thunderbolt": "1 - 10GBit/s",
+                "SD Card": "Yes",
+                "FireWire": "1 - 800 Mbit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "1 - HDMI, 1 - Thunderbolt 1"
             }
         }
 
@@ -398,19 +542,28 @@
         "image": "Macmini6,1 or 6,2.png",
         "Info": {
             "Overview": {
-                "Introduced": "October 2012",
-                "Discontinued": "October 2014",
-                "Model Identifier": "Macmini6,2 (Server)"
+                "Introduced": "Oct 2012",
+                "Discontinued": "Oct 2014",
+                "Model Identifier": "Macmini6,2",
+                "Model Number": "A1347 (2012 Server)",
+                "EMC": "2570",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.22 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.7 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core i7 (3615QM, 3720QM) ('Ivy Bridge')",
-                "Processor Speed": "2.3, or 2.6 GHz",
-                "Number of Cores": "4",
+                "Processor Speed": "2.3 or 2.6 GHz",
+                "# of Cores": "4",
+                "# of Threads": "8",
                 "Manufacturing Process": "22 nm"
             },
+            "Storage": {
+                "HDD": "2 - 1 TB 5400-rpm",
+                "SSD": "1 or 2 - 256 GB"
+            },
             "Software": {
-                "Original OS": "Mac OS X 10.8.1 (Mountain Lion)",
-                "Later OS": "Mac OS X 10.8.2/3 (Mountain Lion) or 10.9(.2) (Mavericks)",
+                "Original OS": "OS X 10.8.1 (Mountain Lion)",
+                "Later OS": "OS X 10.8.2/3 (Mountain Lion) or OS X 10.9(.2) (Mavericks)",
                 "Maximum OS": "Mac OS X 10.15.7 (Catalina)"
             },
             "Memory": {
@@ -419,7 +572,19 @@
             },
             "Graphics": {
                 "Graphics Chip": "Intel HD Graphics 4000",
-                "Graphics Memory": "up to 1 GB (shared)"
+                "Graphics Memory": "up to 1 GB DDR3 (shared)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (WiFi 4)",
+                "Bluetooth": "4.0",
+                "Ethernet": "1 - 1GBit/s",
+                "USB": "4 - 5 GBit/s ", 
+                "Thunderbolt": "1 - 10GBit/s",
+                "SD Card": "Yes",
+                "FireWire": "1 - 800 Mbit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "1 - HDMI, 1 - Thunderbolt 1"
             }
         }
 
@@ -429,28 +594,49 @@
         "image": "Macmini7,1.png",
         "Info": {
             "Overview": {
-                "Introduced": "October 2014",
-                "Discontinued": "October 2018",
-                "Model Identifier": "Macmini7,1"
+                "Introduced": "Oct 2014",
+                "Discontinued": "Oct 2018",
+                "Model Identifier": "Macmini7,1",
+                "Model Number": "A1347 (2014)",
+                "EMC": "2840",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.19 - 1.22kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.6 - 2.7 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core i5 or i7 (4260U, 4278U, 4308U, 4578U) ('Broadwell')",
-                "Processor Speed": "1.4, 2.6, 2.8, or 3.0 GHz",
-                "Number of Cores": "2",
+                "Processor Speed": "1.4, 2.6, 2.8 (i5), 3.0 GHz (i7)",
+                "# of Cores": "2",
+                "# of Threads": "4",
                 "Manufacturing Process": "22 nm"
             },
+            "Storage": {
+                "HDD": "500 or 1 TB 5400-rpm",
+                "SSD": "256, 512 GB or 1 TB",
+                "Fusion": "1 or 2 TB"
+            },
             "Software": {
-                "Original OS": "Mac OS X 10.10 (Yosemite)",
-                "Later OS": "Mac OS X 10.10.2 (Yosemite) or 10.11.1/2 (El Capitan)",
+                "Original OS": "OS X 10.10 (Yosemite)",
+                "Later OS": "OS X 10.10.2 (Yosemite) or OS X 10.11.1/2 (El Capitan)",
                 "Maximum OS": "Latest Release of macOS 12 (Monterey)"
             },
             "Memory": {
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "not expandable (1600 MHz LPDDR3)"
+                "Options": "4, 8 or 16 GB (soldered)",
+                "Supported RAM": "1600 MHz LPDDR3"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 5000 or Intel Iris Graphics 5100",
+                "Graphics Chip": "Intel HD Graphics 5000 (1.4 GHz) or Intel Iris Graphics 5100 (2.6 and 2.8 GHz)",
                 "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "4.0",
+                "Ethernet": "1 - 1 GBit/s",
+                "USB": "4 - 5 GBit/s ", 
+                "Thunderbolt": "2 - 20 GBit/s",
+                "SD Card": "Yes",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "1 - HDMI, 2 - Thunderbolt 2"
             }
         }
 
@@ -460,28 +646,46 @@
         "image": "Macmini8,1.png",
         "Info": {
             "Overview": {
-                "Introduced": "October 2018",
-                "Discontinued": "Present",
-                "Model Identifier": "Macmini8,1"
+                "Introduced": "Oct 2018",
+                "Discontinued": "Jan 2023",
+                "Model Identifier": "Macmini8,1",
+                "Model Number": "A1993",
+                "EMC": "3213",
+                "Color": "Space Gray",
+                "Weight/Dimensions": "<br>1.3 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.9 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i3, i5, or i7 (8100B, 8500B, 8700B) ('Coffee Lake')",
-                "Processor Speed": "3.6, 3.0, or 3.2 GHz",
-                "Number of Cores": "4 (i3), 6 (i5 and i7)",
+                "Processor Name": "Intel Core i3 (8100B) i5 (8500B) or i7 (8700B) ('Coffee Lake')",
+                "Processor Speed": "3.6 (i3) 3.0 (i5) or 3.2 GHz (i7)",
+                "# of Cores": "4 (i3), 6 (i5 and i7)",
+                "# of Threads": "4 (i3), 6 (i5), 12 (i7)",
                 "Manufacturing Process": "14 nm"
+            },
+            "Storage": {
+                "SSD": "128, 256, 512 GB, 1 or 2 TB"
             },
             "Software": {
                 "Original OS": "macOS 10.14 (Mojave)",
-                "Later OS": "none",
-                "Maximum OS": "Latest Release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
                 "Maximum Memory": "64 GB",
-                "Supported RAM": "2666 MHz DDR4 SO-DIMM"
+                "Supported RAM": "2666 MHz DDR4 SO-DIMM",
+                "# of Slots": "2"
             },
             "Graphics": {
                 "Graphics Chip": "Intel UHD Graphics 630",
                 "Graphics Memory": "up to 1.5 GB (shared)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Ethernet": "1 - 1 GBit/s, configurable to 10 GBit/s",
+                "USB": "2 - 5 GBit/s", 
+                "Thunderbolt": "4 - 40 GBit/s",
+                "SD Card": "Yes",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "1 - HDMI 2.0, 4 - Thunderbolt 3"
             }
         }
 
@@ -491,28 +695,44 @@
         "image": "Macmini_2020-23.png",
         "Info": {
             "Overview": {
-                "Introduced": "November 2020",
+                "Introduced": "Nov 2020",
                 "Discontinued": "Jan 2023",
-                "Model Identifier": "Macmini9,1"
+                "Model Identifier": "Macmini9,1",
+                "Model Number": "A2348",
+                "EMC": "3569",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.2 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.6 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Chip Name": "Apple M1",
-                "Chip Speed": "3.2 GHz (high-performance) or 2.1 GHz (high-efficiency)",
-                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "Chip Speed": "3.2 GHz (high-performance), 2.1 GHz (high-efficiency)",
+                "# of Cores": "8 (4 high-performance, 4 high-efficiency)",
                 "Manufacturing Process": "5 nm"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
             },
             "Software": {
                 "Original OS": "macOS 11.0 (Big Sur)",
-                "Maximum OS": "Latest Release of macOS (Sonoma)"
+                "Maximum OS": "Latest Release of macOS"
             },
             "Memory": {
-                "Maximum Memory": "16 GB",
+                "Options": "8 or 16 GB",
                 "Supported RAM": "4266 MT/s LPDDR4X"
             },
             "Graphics": {
                 "Graphics Chip": "Apple G13G",
                 "Graphics Memory": "Shared through UMA (Unified Memory Architecture)",
-                "Graphics Cores": "8 (high-performance) or 4 (high-efficiency)"
+                "Graphics Cores": "8"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Ethernet": "1 - 1 GBit/s, up to 10 GBit/s",
+                "USB": "2 - 10 GBit/s", 
+                "Thunderbolt": "2 - 40 GBit/s",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "1 - HDMI 2.0, TB 3"
             }
         }
 
@@ -523,58 +743,93 @@
         "Info": {
             "Overview": {
                 "Introduced": "Jan 2023",
-                "Discontinued": "---",
-                "Model Identifier": "Mac14,3"
+                "Discontinued": "Oct 2024",
+                "Model Identifier": "Mac14,3 or Mac14,12",
+                "Model Number": "A2686 (M2)",
+                "Other Model Numbers": "A2816 (M2 Pro)",
+                "EMC": "8003 (M2), 8180 (M2 Pro)",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.18 (M2), 1.28 (M2 Pro) kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.6 lbs (M2), 2.8 lbs (M2 Pro), 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M2",
-                "Processor Speed": "3.5 GHz (high-performance) or 2.4 GHz (high-efficiency)",
-                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "Processor Speed": "3.5 GHz (high-performance), 2.4 GHz (high-efficiency)",
+                "# of Cores": "<br>8 (4 high-performance, 4 high-efficiency) (M2)<br>10 (6 high-performance, 4 high-efficiency) (M2 Pro)<br>12 (8 high-performance, 4 high-efficiency) (M2 Pro)",
                 "Manufacturing Process": "5 nm"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1, 2, 4 or 8 TB"
             },
             "Software": {
                 "Original OS": "macOS 13.0 (Ventura)",
-                "Maximum OS": "Latest Release of macOS (Sonoma)"
+                "Maximum OS": "Latest Release of macOS"
             },
             "Memory": {
-                "Maximum Memory": "24 GB",
+                "Options": "8, 16, 24 (M2), 32 (M2 Pro) GB",
                 "Supported RAM": "6400 MT/s LPDDR5"
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "10",
+                "Graphics Cores": "10, 16, 19",
                 "Graphics Memory": "Shared through UMA (Unified Memory Architecture)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Ethernet": "1 - 1 GBit/s, up to 10 GBit/s",
+                "USB": "2 - 10 GBit/s ", 
+                "Thunderbolt": "2 - 40 GBit/s",
+                "Audio In": "1 - 3.5mm jack",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "1 - HDMI 2.0 (M2), 1 - HDMI 2.1 (M2 Pro), 4 - Thunderbolt 3"
             }
         }
 
     }, {
-        "Name": "Mac Mini (2023)",
+        "Name": "Mac Mini (2024)",
         "Type": "MacMini",
-        "image": "Macmini_2020-23.png",
+        "image": "Macmini_2024.png",
         "Info": {
             "Overview": {
-                "Introduced": "Jan 2023",
-                "Discontinued": "---",
-                "Model Identifier": "Mac14,12"
+                "Introduced": "Nov 2024",
+                "Discontinued": "--",
+                "Model Identifier": "Mac16,10 or Mac16,11",
+                "Model Number": "A3238 (M4)",
+                "Other Model Numbers": "A3239 (M4 Pro)",
+                "EMC": "8739 (M4), 8852 (M4 Pro)",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>0.67 kg (M4), 0.73 (M4 Pro), 5 H x 12.7 W x 12.7 D cm<br>1.5 lbs (M4), 1.6 lbs (M4 Pro), 2 H x 5 W x 5 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple M2 Pro",
-                "Processor Speed": "3.5 GHz (high-performance) or 2.4 GHz (high-efficiency)",
-                "Number of Cores": "10 (6 high-performance, 4 high-efficiency), 12 (8 high-performance, 4 high-efficiency) or 16 (12 high-performance, 4 high-efficiency)",
+                "Processor Name": "Apple M4",
+                "Processor Speed": "4.4 GHz (high-performance) (M4), 4.5 GHz (high-performance) (M4 Pro), 2.9 GHz (high-efficiency)",
+                "# of Cores": "<br>10 (4 high-performance, 6 high-efficiency) (M4)<br>12 (8 high-performance, 4 high-efficiency) (M4 Pro)<br>14 (10 high-performance, 4 high-efficiency) (M4 Pro)",
                 "Manufacturing Process": "5 nm"
             },
+            "Storage": {
+                "HDD": "256, 512 GB, 1, 2, 4 or 8 TB SSD"
+            },
             "Software": {
-                "Original OS": "macOS 13.0 (Ventura)",
-                "Maximum OS": "Latest Release of macOS (Sonoma)"
+                "Original OS": "macOS 15 (Sequoia)",
+                "Maximum OS": "Latest Release of macOS"
             },
             "Memory": {
-                "Maximum Memory": "32 GB",
-                "Supported RAM": "6400 MT/s LPDDR5"
+                "Options": "16, 24 or 32 (M4) 24, 48 or 64 GB (M4 Pro)",
+                "Supported RAM": "7500 MT/s LPDDR5 (M4), 8533 MT/s LPDDR5X (M4 Pro)"
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "16, 19",
+                "Graphics Cores": "10, 16 or 20",
                 "Graphics Memory": "Shared through UMA (Unified Memory Architecture)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Ethernet": "1 - 1 GBit/s, up to 10 GBit/s",
+                "USB": "2 - 10 GBit/s (USB-C)", 
+                "Thunderbolt": "3 - 40 GBit/s (M4), 3 - 120 GBit/s (M4 Pro)",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
+                "Display": "1 - HDMI 2.1, TB 4 (M4), TB 5 (M4 Pro)"
             }
         }
 

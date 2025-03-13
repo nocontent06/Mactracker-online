@@ -7,16 +7,25 @@
             "Overview": {
                 "Introduced": "Jan 2007",
                 "Discontinued": "Sep 2009 (40) Sep 2010 (160)",
-                "Model Identifier": "AppleTV1,1"
+                "Model Identifier": "AppleTV1,1",
+                "Model Number": "A1218",
+                "EMC": "2123",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>1.09 kg, 28 H x 197 W x 197 D mm <br> 2.4 lbs, 1.1 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Pentium M",
+                "Processor Name": "Intel Pentium M (ULV 1.0)",
                 "Processor Speed": "1 GHz",
-                "Number of Cores": "1"
+                "# of Cores": "1",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "90 nm"
             },
             "Memory": {
                 "Maximum Memory": "256 MB",
                 "Supported RAM": "400 MHz DDR2 SDRAM"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce Go 7300"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.4.7 (Tiger) (Apple TV 1.0)",
@@ -28,8 +37,12 @@
             "Storage": {
                 "Capacity": "40 or 160 GB"
             },
-            "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce Go 7300"
+            "Connections": {
+                "AirPlay": "No (AirTunes only)",
+                "Audio/Video": "HDMI, Component Video, Optical Audio, Analog RCA stereo audio",
+                "Ethernet":"1 - 100 MBit/s",
+                "Wi-Fi": "802.11b/g (draft-n)",
+                "USB":"1 - 480 MBit/s"
             }
         }
 
@@ -42,15 +55,25 @@
             "Overview": {
                 "Introduced": "Sep 2010",
                 "Discontinued": "Mar 2012",
-                "Model Identifier": "AppleTV2,1"
+                "Model Identifier": "AppleTV2,1",
+                "Model Number": "A1378",
+                "EMC": "2411",
+                "Color": "Black",
+                "Weight/Dimensions": "<br>0.27 kg, 23 H x 98 W x 98 D mm <br> 0.6 lbs, 0.9 H x 3.9 W x 3.9 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A4",
                 "Processor Speed": "1 GHz",
-                "Number of Cores": "1"
+                "# of Cores": "1",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "45 nm"
             },
             "Memory": {
                 "Built-in Memory": "256 MB"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX535",
+                "# of Graphics Cores": "1"
             },
             "Software": {
                 "Original OS": "iOS 4.1 (Apple TV 4.0)",
@@ -61,9 +84,13 @@
             },
             "Storage": {
               "Capacity": "8 GB"
-          },
-            "Graphics": {
-                "Graphics Chip": "PowerVR SGX535"
+            },
+            "Connections": {
+                "AirPlay": "Yes",
+                "Audio/Video": "1 - HDMI, 1 - Optical Audio",
+                "Ethernet": "1 - 100 MBit/s",
+                "Wi-Fi": "802.11n (2.4 & 5 GHz)",
+                "USB": "1 - 480 MBit/s Micro-USB"
             }
         }
     
@@ -76,12 +103,18 @@
             "Overview": {
                 "Introduced": "Mar 2012",
                 "Discontinued": "Oct 2016",
-                "Model Identifier": "AppleTV3,1"
+                "Model Identifier": "AppleTV3,1",
+                "Model Number": "A1427",
+                "EMC": "2528",
+                "Color": "Black",
+                "Weight/Dimensions": "<br>0.27 kg, 23 H x 98 W x 98 D mm <br> 0.6 lbs, 0.9 H x 3.9 W x 3.9 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A5",
                 "Processor Speed": "1 GHz",
-                "Number of Cores": "1"
+                "# of Cores": "1",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "32 nm"
             },
             "Memory": {
                 "Built-in Memory": "512 MB LPDDR2" 
@@ -98,7 +131,14 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX543MP2",
-                "Graphics Cores": "2"
+                "# of Graphics Cores": "2"
+            },
+            "Connections": {
+                "AirPlay": "Yes",
+                "Audio/Video": "1 - HDMI, 1 - Optical Audio",
+                "Ethernet": "1 - 100 MBit/s",
+                "Wi-Fi": "802.11n",
+                "USB": "1 - 480 MBit/s Micro-USB"
             }
         }
     
@@ -111,12 +151,18 @@
             "Overview": {
                 "Introduced": "Mar 2013",
                 "Discontinued": "Oct 2016",
-                "Model Identifier": "AppleTV3,2"
+                "Model Identifier": "AppleTV3,2",
+                "Model Number": "A1469",
+                "EMC": "2528",
+                "Color": "Black",
+                "Weight/Dimensions": "<br>0.27 kg, 23 H x 98 W x 98 D mm <br> 0.6 lbs, 0.9 H x 3.9 W x 3.9 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A5",
                 "Processor Speed": "1 GHz",
-                "Number of Cores": "1"
+                "# of Cores": "1",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "32 nm"
             },
             "Memory": {
                 "Built-in Memory": "512 MB LPDDR2" 
@@ -134,6 +180,13 @@
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX543MP2",
                 "Graphics Cores": "2"
+            },
+            "Connections": {
+                "AirPlay": "Yes",
+                "Audio/Video": "1 - HDMI, 1 - Optical Audio",
+                "Ethernet": "1 - 100 MBit/s",
+                "Wi-Fi": "802.11n",
+                "USB": "1 - 480 MBit/s Micro-USB"
             }
         }
     
@@ -146,19 +199,29 @@
             "Overview": {
                 "Introduced": "Sep 2015",
                 "Discontinued": "Oct 2022",
-                "Model Identifier": "AppleTV5,3"
+                "Model Identifier": "AppleTV5,3",
+                "Model Number": "A1625",
+                "EMC": "2907",
+                "Color": "Black",
+                "Weight/Dimensions": "<br>0.425 kg, 35 H x 98 W x 98 D mm <br> 0.94 lbs, 1.4 H x 3.9 W x 3.9 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A8",
                 "Processor Speed": "1.4 GHz",
-                "Number of Cores": "2"
+                "# of Cores": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "20 nm"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR3" 
             },
+            "Graphics": {
+                "Graphics Chip": "PowerVR 6XT GX6450",
+                "# of Graphics Cores": "4"
+            },
             "Software": {
                 "Original OS": "tvOS 9.0",
-                "Maximum OS": "Latest release of tvOS 16"
+                "Maximum OS": "Latest release of tvOS 17"
             },
             "Media": {
                 "Video Output": "1080p"
@@ -166,10 +229,15 @@
             "Storage": {
                 "Capacity": "32 or 64 GB"
             },
-            "Graphics": {
-                "Graphics Chip": "PowerVR 6XT GX6450",
-                "Graphics Cores": "4"
+            "Connections": {
+                "AirPlay": "Yes",
+                "Audio/Video": "1 - HDMI 1.4",
+                "Ethernet": "1 - 100 MBit/s",
+                "Wi-Fi": "802.11ac",
+                "Bluetooth": "4.0",
+                "USB": "1 - USB-C"
             }
+
         }
     
     },
@@ -181,15 +249,25 @@
             "Overview": {
                 "Introduced": "Sep 2017",
                 "Discontinued": "Apr 2021",
-                "Model Identifier": "AppleTV6,2"
+                "Model Identifier": "AppleTV6,2",
+                "Model Number": "A1842",
+                "EMC": "3124",
+                "Color": "Black",
+                "Weight/Dimensions": "<br>0.425 kg, 35 H x 98 W x 98 D mm <br> 0.94 lbs, 1.4 H x 3.9 W x 3.9 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A10X Fusion",
                 "Processor Speed": "2.3 GHz",
-                "Number of Cores": "6 (3 high performance, 3 high efficiency)"
+                "# of Cores": "6 (3 high performance, 3 high efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "10 nm"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4" 
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR Series",
+                "# of Graphics Cores": "12"
             },
             "Software": {
                 "Original OS": "tvOS 11.0",
@@ -201,12 +279,15 @@
             "Storage": {
                 "Capacity": "32 or 64 GB"
             },
-            "Graphics": {
-                "Graphics Chip": "PowerVR Series",
-                "Graphics Cores": "12"
+            "Connections": {
+                "AirPlay": "Yes",
+                "Audio/Video": "1 - HDMI 2.0a",
+                "Ethernet": "1 - 1 GBit/s",
+                "Wi-Fi": "802.11ac",
+                "Bluetooth": "5.0",
+                "USB": "none"
             }
         }
-    
     },
     {
         "Name": "Apple TV 4K (2nd Gen)",
@@ -216,15 +297,25 @@
             "Overview": {
                 "Introduced": "May 2021",
                 "Discontinued": "Oct 2022",
-                "Model Identifier": "AppleTV11,1"
+                "Model Identifier": "AppleTV11,1",
+                "Model Number": "A2169",
+                "EMC": "3111",
+                "Color": "Black",
+                "Weight/Dimensions":"<br>0.425 kg, 35 H x 98 W x 98 D mm <br> 0.94 lbs, 1.4 H x 3.9 W x 3.9 D in"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "6 (2 high performance, 4 high efficiency)"
+                "# of Cores": "6 (2 high performance, 4 high efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4" 
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple G11P",
+                "# of Graphics Cores": "4"
             },
             "Software": {
                 "Original OS": "tvOS 14.5",
@@ -236,12 +327,15 @@
             "Storage": {
                 "Capacity": "32 or 64 GB"
             },
-            "Graphics": {
-                "Graphics Chip": "Apple G11P",
-                "Graphics Cores": "4"
+            "Connections": {
+                "AirPlay": "Yes",
+                "Audio/Video": "1 - HDMI 2.1",
+                "Ethernet": "1 - 1 GBit/s",
+                "Wi-Fi": "802.11ax",
+                "Bluetooth": "5.0",
+                "USB": "none"
             }
         }
-    
     },
     {
         "Name": "Apple TV 4K (3rd Gen)",
@@ -251,15 +345,25 @@
             "Overview": {
                 "Introduced": "Nov 2022",
                 "Discontinued": "--",
-                "Model Identifier": "AppleTV14,1"
+                "Model Identifier": "AppleTV14,1",
+                "Model Number": "A2737 (Wi-Fi) or A2843 (Wi-Fi + Ethernet)",
+                "EMC": "8101 (Wi-Fi) or 8165 (Wi-Fi + Ethernet)",
+                "Color": "Black",
+                "Weight/Dimensions": "<br>0.208 kg (Wi-Fi), 0.214 kg (Wi-Fi + Ethernet), 31 H x 93 W x 93 D mm <br>0.46 lbs (Wi-Fi), 0.47 lbs (Wi-Fi + Ethernet), 1.2 H x 3.66 W x 3.66 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
                 "Processor Speed": "3.2 GHz",
-                "Number of Cores": "5 (2 high performance, 3 high efficiency)"
+                "# of Cores": "5 (2 high performance, 3 high efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4" 
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
             },
             "Software": {
                 "Original OS": "tvOS 16.1",
@@ -271,9 +375,13 @@
             "Storage": {
                 "Capacity": "64 (Wi-Fi) or 128 GB (Wi-Fi + Ethernet)"
             },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "5"
+            "Connections": {
+                "AirPlay": "Yes",
+                "Audio/Video": "1 - HDMI 2.1",
+                "Ethernet": "None (Wi-Fi) or 1 - 1 GBit/s (Wi-Fi + Ethernet)",
+                "Wi-Fi": "802.11ax",
+                "Bluetooth": "5.0",
+                "USB": "none"
             }
         }
     

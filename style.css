@@ -84,14 +84,9 @@ body {
 .heading {
     text-align: center;
     font-size: 3em;
-    color: lightgray;
-    font-weight: bold;
-}
-
-.sub-heading {
-    text-align: center;
     margin-bottom: 20px;
     color: lightgray;
+    font-weight: bold;
 }
 
 .search-form {
@@ -362,10 +357,6 @@ html {
         font-size: 2em;
     }
 
-    .img-detail {
-        width: 100%;
-    }
-
     .item-container {
         flex-basis: 100%;
         text-align: center;
@@ -415,4 +406,66 @@ html {
 
 .iosVersion {
     padding-right: 100%;
+}
+
+.benchmark-popover {
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0;
+}
+
+.benchmark-popover::after {
+    content: "Geekbench 5 Benchmark\A SC = Singlecore\A MC = Multicore";
+    position: absolute;
+    width: 121%;
+    left: 50%;
+    bottom: 100%;
+    transform: translateX(-42%);
+    background-color: #333;
+    color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease;
+    white-space: pre-line;
+    text-align: left;
+    z-index: 1;
+}
+
+.benchmark-popover:hover::after {
+    opacity: 1;
+    visibility: visible;
+}
+
+.benchmark-6-popover {
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0;
+}
+
+.benchmark-6-popover::after {
+    content: "Geekbench 6 Benchmark\A SC = Singlecore\A MC = Multicore";
+    position: absolute;
+    width: 121%;
+    left: 50%;
+    bottom: 100%;
+    transform: translateX(-42%);
+    background-color: #333;
+    color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease;
+    white-space: pre-line;
+    text-align: left;
+    z-index: 1;
+}
+
+.benchmark-6-popover:hover::after {
+    opacity: 1;
+    visibility: visible;
 }

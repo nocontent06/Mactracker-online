@@ -7,12 +7,18 @@
             "Overview": {
                 "Introduced": "Jan 2008",
                 "Discontinued": "Oct 2008",
-                "Model Identifier": "MacBookAir1,1"
+                "Model Identifier": "MacBookAir1,1",
+                "Model Number": "A1237",
+                "EMC": "2142",
+                "Weight/Dimensions": "<br>1.36 kg, 0.4 - 1.94 H x 32.4 x 22.7 cm<br>3 lbs., 0.16 - 0.76 H x 12.74 W x 8.9 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (P7500, P7700) ('Merom')",
-                "Processor Speed": "1.6 or 1.8 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core 2 Duo (P7500, P7700) ('Merom')",
+                "Speed": "1.6 or 1.8 GHz",
+                "# of Cores": "2",
+                "# of Threads": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "65 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.5.1 (Leopard)",
@@ -20,17 +26,30 @@
                 "Maximum OS": "Mac OS X 10.7.5 (Lion)"
             },
             "Memory": {
-                "Maximum Memory": "2 GB",
-                "Supported RAM": "667 MHz DDR2 SDRAM"
+                "Options": "2 GB",
+                "Supported": "667 MHz DDR2 SDRAM"
+            },
+            "Storage": {
+                "HDD": "80 GB (4200 RPM)",
+                "SSD": "64 GB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel GMA X3100",
-                "Graphics Memory": "144 - 160 MB DDR2 (shared)"
+                "Chip": "Intel GMA X3100",
+                "VRAM": "144 - 160 MB DDR2 (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch glossy widescreen",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1280 x 800"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11n (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 2.1 + EDR",
+                "USB": "1 - 2.0",
+                "Display": "1 - Micro-DVI",
+                "Audio In": "1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 1 - Built-in speaker",
+                "Power": "MagSafe 1"
             }
         }
     }, {
@@ -41,45 +60,70 @@
             "Overview": {
                 "Introduced": "Oct 2008",
                 "Discontinued": "Jun 2009",
-                "Model Identifier": "MacBookAir2,1 (2008)"
+                "Model Identifier": "MacBookAir2,1",
+                "Model Number": "A1304",
+                "EMC": "2253",
+                "Weight/Dimensions": "<br>1.36 kg, 0.4 - 1.94 H x 32.4 x 22.7 cm<br>3 lbs., 0.16 - 0.76 H x 12.74 W x 8.9 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (L9300, L9400) ('Penryn')",
-                "Processor Speed": "1.6 or 1.86 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core 2 Duo (L9300, L9400) ('Penryn')",
+                "Speed": "1.6 or 1.86 GHz",
+                "# of Cores": "2",
+                "# of Threads": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "45 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.5.5 (Leopard)",
                 "Maximum OS": "OS X 10.11.6 (El Capitan)"
             },
             "Memory": {
-                "Maximum Memory": "2 GB",
-                "Supported RAM": "1066 MHz DDR3 SDRAM"
+                "Options": "2 GB",
+                "Supported": "1066 MHz DDR3 SDRAM"
+            },
+            "Storage": {
+                "HDD": "120 GB (4200 RPM)",
+                "SSD": "128 GB"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 9400M",
-                "Graphics Memory": "256 MB DDR3 (shared)"
+                "Chip": "NVIDIA GeForce 9400M",
+                "VRAM": "256 MB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch glossy widescreen",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1280 x 800"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11n (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 2.1 + EDR",
+                "USB": "1 - 2.0",
+                "Display": "1 - Mini DisplayPort",
+                "Audio In": "1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 1 - Built-in speaker",
+                "Power": "MagSafe 1"
             }
         }
     }, {
-        "Name": "MacBook Air (Mid 2008)",
+        "Name": "MacBook Air (Mid 2009)",
         "Type": "MacBook Air",
         "image": "macbook_air.png",
         "Info": {
             "Overview": {
-                "Introduced": "Oct 2008",
-                "Discontinued": "Jun 2009",
-                "Model Identifier": "MacBookAir2,1 (2009)"
+                "Introduced": "Oct 2009",
+                "Discontinued": "Jun 2010",
+                "Model Identifier": "MacBookAir2,1",
+                "Model Number": "A1304 (2009)",
+                "EMC": "2334",
+                "Weight/Dimensions":"<br>1.36 kg, 0.4 - 1.94 H x 32.4 x 22.7 cm<br>3 lbs., 0.16 - 0.76 H x 12.74 W x 8.9 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (L9400, L9600) ('Penryn')",
-                "Processor Speed": "1.86 or 2.13 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core 2 Duo (L9400, L9600) ('Penryn')",
+                "Speed": "1.86 or 2.13 GHz",
+                "# of Cores": "2",
+                "# of Threads": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "45 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.5.6 (Leopard)",
@@ -87,17 +131,30 @@
                 "Maximum OS": "OS X 10.11.6 (El Capitan)"
             },
             "Memory": {
-                "Maximum Memory": "2 GB",
-                "Supported RAM": "1066 MHz DDR3 SDRAM"
+                "Options": "2 GB",
+                "Supported": "1066 MHz DDR3 SDRAM"
+            },
+            "Storage": {
+                "HDD": "120 GB (4200 RPM)",
+                "SSD": "128 GB"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 9400M",
-                "Graphics Memory": "256 MB DDR3 (shared)"
+                "Chip": "NVIDIA GeForce 9400M",
+                "VRAM": "256 MB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch glossy widescreen",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1280 x 800"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11n (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 2.1 + EDR",
+                "USB": "1 - 2.0",
+                "Display": "1 - Mini DisplayPort",
+                "Audio In": "1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 1 - Built-in speaker",
+                "Power": "MagSafe 1"
             }
         }
     }, {
@@ -108,12 +165,18 @@
             "Overview": {
                 "Introduced": "Oct 2010",
                 "Discontinued": "Jul 2011",
-                "Model Identifier": "MacBookAir3,1"
+                "Model Identifier": "MacBookAir3,1",
+                "Model Number": "A1370",
+                "EMC": "2393",
+                "Weight/Dimensions": "<br>1.06 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.3 lbs, 0.11 - 0.68 H x 11.8 W x 7.56 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (U9400, U9600) ('Penryn')",
-                "Processor Speed": "1.4 or 1.6 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core 2 Duo (U9400, U9600) ('Penryn')",
+                "Speed": "1.4 or 1.6 GHz",
+                "# of Cores": "2",
+                "# of Threads": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "45 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.6.4 (Snow Leopard)",
@@ -121,17 +184,29 @@
                 "Maximum OS": "macOS 10.13.6 (High Sierra)"
             },
             "Memory": {
-                "Maximum Memory": "4 GB",
-                "Supported RAM": "1066 MHz DDR3 SDRAM"
+                "Memory Options": "2 or 4 GB",
+                "Supported": "1066 MHz DDR3 SDRAM"
+            },
+            "Storage": {
+                "SSD": "64 or 128 GB"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 320M",
-                "Graphics Memory": "256 MB DDR3 (shared)"
+                "Chip": "NVIDIA GeForce 320M",
+                "VRAM": "256 MB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "11.6-inch LED-backlit glossy widescreen",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1366 x 768"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11n (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 2.1 + EDR",
+                "USB": "2 - 2.0",
+                "Display": "1 - Mini DisplayPort",
+                "Audio In": "1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "MagSafe 1"
             }
         }
     }, {
@@ -142,12 +217,18 @@
             "Overview": {
                 "Introduced": "Oct 2010",
                 "Discontinued": "Jul 2011",
-                "Model Identifier": "MacBookAir3,2"
+                "Model Identifier": "MacBookAir3,2",
+                "Model Number": "A1369",
+                "EMC": "2392",
+                "Weight/Dimensions": "<br>1.32 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.9 lbs, 0.11 - 0.68 H x 12.8 W x 8.94 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (L9400, L9600) ('Penryn')",
-                "Processor Speed": "1.86 or 2.13 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core 2 Duo (L9400, L9600) ('Penryn')",
+                "Speed": "1.86 or 2.13 GHz",
+                "# of Cores": "2",
+                "# of Threads": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "45 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.6.4 (Snow Leopard)",
@@ -155,17 +236,29 @@
                 "Maximum OS": "macOS 10.13.6 (High Sierra)"
             },
             "Memory": {
-                "Maximum Memory": "4 GB",
-                "Supported RAM": "1066 MHz DDR3 SDRAM"
+                "Options": "2 or 4 GB",
+                "Supported": "1066 MHz DDR3 SDRAM"
+            },
+            "Storage": {
+                "SSD": "128 or 256 GB"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 320M",
-                "Graphics Memory": "256 MB DDR3 (shared)"
+                "Chip": "NVIDIA GeForce 320M",
+                "VRAM": "256 MB DDR3 (shared)"
             },
             "Display": {
-                "Display Type": "13.3-inch LED-backlit glossy widescreen",
+                "Type": "13.3-inch LED-backlit glossy widescreen",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1440 x 900"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11n (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 2.1 + EDR",
+                "USB": "2 - 2.0",
+                "Display": "1 - Mini DisplayPort",
+                "Audio In": "1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "MagSafe 1"
             }
         }
     }, {
@@ -176,12 +269,18 @@
             "Overview": {
                 "Introduced": "Jul 2011",
                 "Discontinued": "Jun 2012",
-                "Model Identifier": "MacBookAir4,1"
+                "Model Identifier": "MacBookAir4,1",
+                "Model Number": "A1370 (2011)",
+                "EMC": "2471",
+                "Weight/Dimensions": "<br>1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 or i7 (2467M, 2677M) ('Sandy Bridge')",
-                "Processor Speed": "1.6 or 1.8 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core i5 or i7 (2467M, 2677M) ('Sandy Bridge')",
+                "Speed": "1.6 or 1.8 GHz",
+                "# of Cores": "2",
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "32 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.7 (Lion)",
@@ -189,17 +288,29 @@
                 "Maximum OS": "macOS 10.13.6 (High Sierra)"
             },
             "Memory": {
-                "Maximum Memory": "4 GB",
-                "Supported RAM": "1333 MHz DDR3 SDRAM"
+                "Options": "2 or 4 GB",
+                "Supported": "1333 MHz DDR3"
+            },
+            "Storage": {
+                "SSD": "64, 128 or 256 GB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 3000",
-                "Graphics Memory": "256 - 384 MB DDR3 (shared)"
+                "Chip": "Intel HD Graphics 3000",
+                "VRAM": "256 - 384 MB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "11.6-inch LED-backlit glossy widescreen",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1366 x 768"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11n (Wi-Fi 4)",  
+                "Bluetooth": "Bluetooth 4.0",
+                "USB": "2 - 2.0",
+                "Thunderbolt": "1 - Thunderbolt 1 (up to 10 Gbps)",
+                "Audio In": "1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "MagSafe 1"
             }
         }
     }, {
@@ -210,12 +321,18 @@
             "Overview": {
                 "Introduced": "Jul 2011",
                 "Discontinued": "Jun 2012",
-                "Model Identifier": "MacBookAir4,2"
+                "Model Identifier": "MacBookAir4,2",
+                "Model Number": "A1369 (2011)",
+                "EMC": "2469",
+                "Weight/Dimensions": "<br>1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 or i7 (2557M, 2677M) ('Sandy Bridge')",
-                "Processor Speed": "1.7 or 1.8 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core i5 or i7 (2557M, 2677M) ('Sandy Bridge')",
+                "Speed": "1.7 or 1.8 GHz",
+                "# of Cores": "2",
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "32 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.7 (Lion)",
@@ -223,17 +340,30 @@
                 "Maximum OS": "macOS 10.13.6 (High Sierra)"
             },
             "Memory": {
-                "Maximum Memory": "4 GB",
-                "Supported RAM": "1333 MHz DDR3 SDRAM"
+                "Options": "4 GB",
+                "Supported": "1333 MHz DDR3 SDRAM"
+            },
+            "Storage": {
+                "SSD": "128 or 256 GB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 3000",
-                "Graphics Memory": "384 MB DDR3 (shared)"
+                "Chip": "Intel HD Graphics 3000",
+                "VRAM": "384 MB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit glossy widescreen",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1440 x 900"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11n (Wi-Fi 4)",  
+                "Bluetooth": "Bluetooth 4.0",
+                "USB": "2 - 2.0",
+                "Thunderbolt": "1 - Thunderbolt 1 (up to 10 Gbps)",
+                "Audio In": "1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "MagSafe 1",
+                "SD": "1 - SD card slot"
             }
         }
     }, {
@@ -244,12 +374,18 @@
             "Overview": {
                 "Introduced": "Jun 2012",
                 "Discontinued": "Jun 2013",
-                "Model Identifier": "MacBookAir5,1"
+                "Model Identifier": "MacBookAir5,1",
+                "Model Number": "A1465",
+                "EMC": "2558",
+                "Weight/Dimensions": "<br>1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 or i7 (3317U, 3667U) ('Ivy Bridge')",
-                "Processor Speed": "1.7 or 2.0 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core i5 or i7 (3317U, 3667U) ('Ivy Bridge')",
+                "Speed": "1.7 or 2.0 GHz",
+                "# of Cores": "2",
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "22 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.7.4 (Lion)",
@@ -257,17 +393,29 @@
                 "Maximum OS": "macOS 10.15.7 (Catalina)"
             },
             "Memory": {
-                "Maximum Memory": "8 GB",
-                "Supported RAM": "1600 MHz DDR3L SDRAM"
+                "Options": "4 or 8 GB",
+                "Supported": "1600 MHz DDR3L"
+            },
+            "Storage": {
+                "SSD": "64, 128, 256 or 512 GB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 4000",
-                "Graphics Memory": "up to 1 GB (shared)"
+                "Chip": "Intel HD Graphics 4000",
+                "VRAM": "up to 1 GB (shared)"
             },
             "Display": {
                 "Display Type": "11.6-inch LED-backlit glossy widescreen",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1366 x 768"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11n (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 4.0",
+                "USB": "2 - 3.0 (up to 5 Gbps)",
+                "Thunderbolt": "1 - Thunderbolt 1 (up to 10 Gbps)",
+                "Audio In": "1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "MagSafe 2"
             }
         }
     }, {
@@ -278,12 +426,18 @@
             "Overview": {
                 "Introduced": "Jun 2012",
                 "Discontinued": "Jun 2013",
-                "Model Identifier": "MacBookAir5,2"
+                "Model Identifier": "MacBookAir5,2",
+                "Model Number": "A1466",
+                "EMC": "2559",
+                "Weight/Dimensions": "<br>1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 or i7 (3427U, 3667U) ('Ivy Bridge')",
-                "Processor Speed": "1.8 or 2.0 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core i5 or i7 (3427U, 3667U) ('Ivy Bridge')",
+                "Speed": "1.8 or 2.0 GHz",
+                "# of Cores": "2",
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "22 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.7.4 (Lion)",
@@ -291,17 +445,30 @@
                 "Maximum OS": "Latest release of macOS 11 (Big Sur)"
             },
             "Memory": {
-                "Maximum Memory": "8 GB",
-                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+                "Options": "4 or 8 GB",
+                "Supported": "1600 MHz DDR3L"
+            },
+            "Storage": {
+                "SSD": "128, 256 or 512 GB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 4000",
-                "Graphics Memory": "up to 1 GB (shared)"
+                "Chip": "Intel HD Graphics 4000",
+                "VRAM": "up to 1 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit glossy widescreen",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1440 x 900"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11n (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 4.0",
+                "USB": "2 - 3.0 (up to 5 Gbps)",
+                "Thunderbolt": "1 - Thunderbolt 1 (up to 10 Gbps)",
+                "Audio In": "1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "MagSafe 2",
+                "SD": "1 - SD card slot"
             }
         }
     }, {
@@ -312,12 +479,18 @@
             "Overview": {
                 "Introduced": "Jun 2013",
                 "Discontinued": "Apr 2014",
-                "Model Identifier": "MacBookAir6,1 (2013)"
+                "Model Identifier": "MacBookAir6,1",
+                "Model Number": "A1465 (2013)",
+                "EMC": "2631",
+                "Weight/Dimensions": "<br>1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 or i7 (4250U, 4650U) ('Haswell')",
-                "Processor Speed": "1.3 or 1.7 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core i5 or i7 (4250U, 4650U) ('Haswell')",
+                "Speed": "1.3 or 1.7 GHz",
+                "# of Cores": "2",
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "22 nm"
             },
             "Software": {
                 "Original OS": "OS X 10.8.4 (Mountain Lion)",
@@ -325,17 +498,29 @@
                 "Maximum OS": "Latest release of macOS 11 (Big Sur)"
             },
             "Memory": {
-                "Maximum Memory": "8 GB",
-                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+                "Options": "4 or 8 GB",
+                "Supported": "1600 MHz LPDDR3"
+            },
+            "Storage": {
+                "SSD": "128, 256 or 512 GB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 5000",
-                "Graphics Memory": "up to 1.5 GB (shared)"
+                "Chip": "Intel HD Graphics 5000",
+                "VRAM": "up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "11.6-inch LED-backlit glossy widescreen",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1366 x 768"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "Bluetooth 4.0",
+                "USB": "2 - 3.0 (up to 5 Gbps)",
+                "Thunderbolt": "1 - Thunderbolt 1 (up to 10 Gbps)",
+                "Audio In": "2 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "MagSafe 2"
             }
         }
     }, {
@@ -346,12 +531,18 @@
             "Overview": {
                 "Introduced": "Jun 2013",
                 "Discontinued": "Apr 2014",
-                "Model Identifier": "MacBookAir6,2 (2013)"
+                "Model Identifier": "MacBookAir6,2",
+                "Model Number": "A1466 (2013)",
+                "EMC": "2632",
+                "Weight/Dimensions": "<br>1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 or i7 (4250U, 4650U) ('Haswell')",
-                "Processor Speed": "1.3 or 1.7 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core i5 or i7 (4250U, 4650U) ('Haswell')",
+                "Speed": "1.3 or 1.7 GHz",
+                "# of Cores": "2",
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "22 nm"
             },
             "Software": {
                 "Original OS": "OS X 10.8.4 (Mountain Lion)",
@@ -359,17 +550,30 @@
                 "Maximum OS": "Latest release of macOS 11 (Big Sur)"
             },
             "Memory": {
-                "Maximum Memory": "8 GB",
-                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+                "Options": "4 or 8 GB",
+                "Supported": "1600 MHz LPDDR3"
+            },
+            "Storage": {
+                "SSD": "128, 256 or 512 GB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 5000",
-                "Graphics Memory": "up to 1.5 GB (shared)"
+                "Chip": "Intel HD Graphics 5000",
+                "VRAM": "up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit glossy widescreen",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1440 x 900"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "Bluetooth 4.0",
+                "USB": "2 - 3.0 (up to 5 Gbps)",
+                "Thunderbolt": "1 - Thunderbolt 1 (up to 10 Gbps)",
+                "Audio In": "2 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "MagSafe 2",
+                "SD": "1 - SD card slot"
             }
         }
     }, {
@@ -380,29 +584,47 @@
             "Overview": {
                 "Introduced": "Apr 2014",
                 "Discontinued": "Mar 2015",
-                "Model Identifier": "MacBookAir6,1 (2014)"
+                "Model Identifier": "MacBookAir6,1",
+                "Model Number": "A1465 (2014)",
+                "EMC": "2631",
+                "Weight/Dimensions": "<br>1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 or i7 (4260U, 4650U) ('Haswell')",
-                "Processor Speed": "1.4 or 1.7 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core i5 or i7 (4260U, 4650U) ('Haswell')",
+                "Speed": "1.4 or 1.7 GHz",
+                "# of Cores": "2",
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "22 nm"
             },
             "Software": {
                 "Original OS": "OS X 10.9.2 (Mavericks)",
                 "Maximum OS": "Latest release of macOS 11 (Big Sur)"
             },
             "Memory": {
-                "Maximum Memory": "8 GB",
-                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+                "Options": "4 or 8 GB",
+                "Supported": "1600 MHz LPDDR3"
+            },
+            "Storage": {
+                "SSD": "128, 256 or 512 GB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 5000",
-                "Graphics Memory": "up to 1.5 GB (shared)"
+                "Chip": "Intel HD Graphics 5000",
+                "VRAM": "up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "11.6-inch LED-backlit glossy widescreen",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1366 x 768"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "Bluetooth 4.0",
+                "USB": "2 - 3.0 (up to 5 Gbps)",
+                "Thunderbolt": "1 - Thunderbolt 1 (up to 10 Gbps)",
+                "Audio In": "2 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "MagSafe 2"
             }
         }
     }, {
@@ -413,29 +635,48 @@
             "Overview": {
                 "Introduced": "Apr 2014",
                 "Discontinued": "Mar 2015",
-                "Model Identifier": "MacBookAir6,2 (2014)"
+                "Model Identifier": "MacBookAir6,2",
+                "Model Number": "A1466 (2014)",
+                "EMC": "2632",
+                "Weight/Dimensions": "<br>1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 or i7 (4260U, 4650U) ('Haswell')",
-                "Processor Speed": "1.4 or 1.7 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core i5 or i7 (4260U, 4650U) ('Haswell')",
+                "Speed": "1.4 or 1.7 GHz",
+                "# of Cores": "2",
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "22 nm"
             },
             "Software": {
                 "Original OS": "OS X 10.9.2 (Mavericks)",
                 "Maximum OS": "Latest release of macOS 11 (Big Sur)"
             },
             "Memory": {
-                "Maximum Memory": "8 GB",
-                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+                "Options": "4 or 8 GB",
+                "Supported": "1600 MHz LPDDR3"
+            },
+            "Storage": {
+                "SSD": "128, 256 or 512 GB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 5000",
-                "Graphics Memory": "up to 1.5 GB (shared)"
+                "Chip": "Intel HD Graphics 5000",
+                "VRAM": "up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit glossy widescreen",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1440 x 900"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "Bluetooth 4.0",
+                "USB": "2 - 3.0 (up to 5 Gbps)",
+                "Thunderbolt": "1 - Thunderbolt 1 (up to 10 Gbps)",
+                "Audio In": "2 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "MagSafe 2",
+                "SD": "1 - SD card slot"
             }
         }
     }, {
@@ -446,29 +687,47 @@
             "Overview": {
                 "Introduced": "Mar 2015",
                 "Discontinued": "Oct 2016",
-                "Model Identifier": "MacBookAir7,1"
+                "Model Identifier": "MacBookAir7,1",
+                "Model Number": "A1465 (2015)",
+                "EMC": "2924",
+                "Weight/Dimensions": "<br>1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 or i7 (5250U, 5650U) ('Broadwell')",
-                "Processor Speed": "1.6 or 2.2 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core i5 or i7 (5250U, 5650U) ('Broadwell')",
+                "Speed": "1.6 or 2.2 GHz",
+                "# of Cores": "2",
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
             },
             "Software": {
                 "Original OS": "OS X 10.10.2 (Yosemite)",
                 "Maximum OS": "Latest release of macOS 12 (Monterey)"
             },
             "Memory": {
-                "Maximum Memory": "8 GB",
-                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+                "Options": "4 or 8 GB",
+                "Supported": "1600 MHz LPDDR3"
+            },
+            "Storage": {
+                "SSD": "128, 256 or 512 GB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 6000",
-                "Graphics Memory": "up to 1.5 GB (shared)"
+                "Chip": "Intel HD Graphics 6000",
+                "VRAM": "up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "11.6-inch LED-backlit glossy widescreen",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1366 x 768"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "Bluetooth 4.0",
+                "USB": "2 - 3.0 (up to 5 Gbps)",
+                "Thunderbolt": "1 - Thunderbolt 2 (up to 20 Gbps)",
+                "Audio In": "2 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "MagSafe 2"
             }
         }
     }, {
@@ -479,29 +738,48 @@
             "Overview": {
                 "Introduced": "Apr 2014",
                 "Discontinued": "Mar 2015",
-                "Model Identifier": "MacBookAir7,2 (2015)"
+                "Model Identifier": "MacBookAir7,2",
+                "Model Number": "A1465 (2015)",
+                "EMC": "2925",
+                "Weight/Dimensions": "<br>1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 or i7 (5250U, 5650U) ('Broadwell')",
-                "Processor Speed": "1.6 or 2.2 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core i5 or i7 (5250U, 5650U) ('Broadwell')",
+                "Speed": "1.6 or 2.2 GHz",
+                "# of Cores": "2",
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
             },
             "Software": {
                 "Original OS": "OS X 10.10.2 (Yosemite)",
                 "Maximum OS": "Latest release of macOS 12 (Monterey)"
             },
             "Memory": {
-                "Maximum Memory": "8 GB",
-                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+                "Options": "4 or 8 GB",
+                "Supported": "1600 MHz LPDDR3"
+            }, 
+            "Storage": {
+                "SSD": "128, 256 or 512 GB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 6000",
-                "Graphics Memory": "up to 1.5 GB (shared)"
+                "Chip": "Intel HD Graphics 6000",
+                "VRAM": "up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit glossy widescreen",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1440 x 900"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "Bluetooth 4.0",
+                "USB": "2 - 3.0 (up to 5 Gbps)",
+                "Thunderbolt": "1 - Thunderbolt 2 (up to 20 Gbps)",
+                "Audio In": "2 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "MagSafe 2",
+                "SD": "1 - SD card slot"
             }
         }
     }, {
@@ -512,29 +790,48 @@
             "Overview": {
                 "Introduced": "Jun 2017",
                 "Discontinued": "Jul 2019",
-                "Model Identifier": "MacBookAir7,2 (2017)"
+                "Model Identifier": "MacBookAir7,2",
+                "Model Number": "A1466 (2017)",
+                "EMC": "3178",
+                "Weight/Dimensions": "<br>1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 or i7 (5350U, 5650U) ('Broadwell')",
-                "Processor Speed": "1.8 or 2.2 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core i5 or i7 (5350U, 5650U) ('Broadwell')",
+                "Speed": "1.8 or 2.2 GHz",
+                "# of Cores": "2",
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
             },
             "Software": {
                 "Original OS": "macOS 10.12.4 (Sierra)",
                 "Maximum OS": "Latest release of macOS 12 (Monterey)"
             },
             "Memory": {
-                "Maximum Memory": "8 GB",
-                "Supported RAM": "1600 MHz LPDDR3 SDRAM"
+                "Options": "4 or 8 GB",
+                "Supported": "1600 MHz LPDDR3"
+            },
+            "Storage": {
+                "SSD": "128, 256 or 512 GB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 6000",
-                "Graphics Memory": "up to 1.5 GB (shared)"
+                "Chip": "Intel HD Graphics 6000",
+                "VRAM": "up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit glossy widescreen",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1440 x 900"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "Bluetooth 4.0",
+                "USB": "2 - 3.0 (up to 5 Gbps)",
+                "Thunderbolt": "1 - Thunderbolt 2 (up to 20 Gbps)",
+                "Audio In": "2 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "MagSafe 2",
+                "SD": "1 - SD card slot"
             }
         }
     }, {
@@ -545,29 +842,46 @@
             "Overview": {
                 "Introduced": "Oct 2018",
                 "Discontinued": "Jul 2019",
-                "Model Identifier": "MacBookAir8,1"
+                "Model Identifier": "MacBookAir8,1",
+                "Model Number": "A1932",
+                "EMC": "3184",
+                "Weight/Dimensions": "<br>1.25 kg, 0.41 - 1.56 H x 30.41 W x 21.24 D cm<br>2.75 lbs., 0.16 - 0.61 H x 11.97 W x 8.36 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (8210Y) ('Amber Lake')",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core i5 (8210Y) ('Amber Lake')",
+                "Speed": "1.6 GHz",
+                "# of Cores": "2",
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
             },
             "Software": {
                 "Original OS": "macOS 10.14.1 (Mojave)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS 14 (Sonoma)"
             },
             "Memory": {
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "2133 MHz LPDDR3 on-board"
+                "Options": "8 or 16 GB",
+                "Supported": "2133 MHz LPDDR3 on-board"
+            },
+            "Storage": {
+                "SSD": "128, 256, 512 or 1.5 TB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel UHD Graphics 617",
-                "Graphics Memory": "up to 1.5 GB (shared)"
+                "Chip": "Intel UHD Graphics 617",
+                "VRAM": "up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "2560 x 1600"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "Bluetooth 4.2",
+                "Thunderbolt": "2 - Thunderbolt 3 (up to 40 Gbps)",
+                "Audio In": "3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "USB-C"
             }
         }
     }, {
@@ -578,29 +892,47 @@
             "Overview": {
                 "Introduced": "Jul 2019",
                 "Discontinued": "Mar 2020",
-                "Model Identifier": "MacBookAir8,2"
+                "Model Identifier": "MacBookAir8,2",
+                "Model Number": "A1932 (2019)",
+                "EMC": "3184",
+                "Weight/Dimensions": "<br>1.25 kg, 0.41 - 1.56 H x 30.41 W x 21.24 D cm<br>2.75 lbs., 0.16 - 0.61 H x 11.97 W x 8.36 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (8210Y) ('Amber Lake')",
-                "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2"
+                "Name": "Intel Core i5 (8210Y) ('Amber Lake')",
+                "Speed": "1.6 GHz",
+                "# of Cores": "2",
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
             },
             "Software": {
                 "Original OS": "macOS 10.14.5 (Mojave)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS 14 (Sonoma)"
             },
             "Memory": {
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "2133 MHz LPDDR3 on-board"
+                "Options": "8 or 16 GB",
+                "Supported": "2133 MHz LPDDR3 on-board"
+            },
+            "Storage": {
+                "SSD": "128, 256, 512 or 1 TB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel UHD Graphics 617",
-                "Graphics Memory": "up to 1.5 GB (shared)"
+                "Chip": "Intel UHD Graphics 617",
+                "VRAM": "up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
                 "Aspect Ratio": "16:10",
-                "Native Resolution": "2560 x 1600"
+                "Native Resolution": "2560 x 1600",
+                "Brightness": "400 nits"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "Bluetooth 4.2",
+                "Thunderbolt": "2 - Thunderbolt 3 (up to 40 Gbps)",
+                "Audio In": "3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "USB-C"
             }
         }
     }, {
@@ -611,29 +943,47 @@
             "Overview": {
                 "Introduced": "Mar 2020",
                 "Discontinued": "Nov 2020",
-                "Model Identifier": "MacBookAir9,1"
+                "Model Identifier": "MacBookAir9,1",
+                "Model Number": "A2179",
+                "EMC": "3302",
+                "Weight/Dimensions": "<br>1.29 kg, 0.41 - 1.61 H x 30.41 W x 21.24 D cm<br>2.8 lbs., 0.16 - 0.63 H x 11.97 W x 8.36 D inches"
             },
             "Processor": {
-                "Processor Name": "Intel Core i3, i5, i7 (1000NG4, 1030NG7, 1060NG7) ('Ice Lake')",
-                "Processor Speed": "1.1 (i3, i5) or 1.2 (i7) GHz",
-                "Number of Cores": "2 (i3) or 4 (i5, i7)"
+                "Name": "Intel Core i3, i5, i7 (1000NG4, 1030NG7, 1060NG7) ('Ice Lake')",
+                "Speed": "1.1 (i3, i5) or 1.2 (i7) GHz",
+                "# of Cores": "2 (i3) or 4 (i5, i7)",
+                "# of Threads": "4 (i3) or 8 (i5, i7)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "10 nm"
             },
             "Software": {
                 "Original OS": "macOS 10.15.3 (Catalina)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "3733 MHz LPDDR4X on-board"
+                "Options": "8 or 16 GB",
+                "Supported": "3733 MHz LPDDR4X on-board"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB or 1 TB"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Plus Graphics",
-                "Graphics Memory": "up to 1.5 GB (shared)"
+                "Chip": "Intel Iris Plus Graphics",
+                "VRAM": "up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
                 "Aspect Ratio": "16:10",
-                "Native Resolution": "2560 x 1600"
+                "Native Resolution": "2560 x 1600",
+                "Brightness": "400 nits"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "Bluetooth 5.0",
+                "Thunderbolt": "2 - Thunderbolt 3 (up to 40 Gbps)",
+                "Audio In": "3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "USB-C"
             }
         }
     }, {
@@ -643,30 +993,47 @@
         "Info": {
             "Overview": {
                 "Introduced": "Nov 2020",
-                "Discontinued": "--",
-                "Model Identifier": "MacBookAir10,1"
+                "Discontinued": "Mar 2024",
+                "Model Identifier": "MacBookAir10,1",
+                "Model Number": "A2337",
+                "EMC": "3598",
+                "Weight/Dimensions": "<br>1.29 kg, 0.41 - 1.61 H x 30.41 W x 21.24 D cm<br>2.8 lbs., 0.16 - 0.63 H x 11.97 W x 8.36 D inches"
             },
             "Processor": {
-                "Processor Name": "Apple M1 (APL1102)",
-                "Processor Speed": "3.2 GHz (high-performance), 2.1 GHz (high-efficiency)",
-                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)"
+                "Name": "Apple M1 (APL1102)",
+                "Speed": "3.2 GHz (high-performance), 2.1 GHz (high-efficiency)",
+                "# of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "macOS 11.0 (Big Sur)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "4266 MT/s LPDDR4X"
+                "Options": "8 or 16 GB",
+                "Supported": "4266 MT/s LPDDR4X"
+            },
+            "Storage": {
+                "SSD": "128, 256, 512 GB, 1 or 2 TB"
             },
             "Graphics": {
-                "Graphics Chip": "Apple G13G",
-                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
+                "Chip": "Apple G13G",
+                "# of Graphics Cores": "7 or 8"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
                 "Aspect Ratio": "16:10",
-                "Native Resolution": "2560 x 1600"
+                "Native Resolution": "2560 x 1600",
+                "Brightness": "400 nits"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "Bluetooth 5.0",
+                "Thunderbolt": "2 - Thunderbolt 4 (up to 40 Gbps)",
+                "Audio In": "3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "USB-C"
             }
         }
     }, {
@@ -677,29 +1044,45 @@
             "Overview": {
                 "Introduced": "Jul 2022",
                 "Discontinued": "--",
-                "Model Identifier": "Mac14,2"
+                "Model Identifier": "Mac14,2",
+                "Model Number": "A2681",
+                "EMC": "4074",
+                "Weight/Dimensions": "<br>1.24 kg, 1.13 H x 30.41 W x 21.5 D cm<br>2.7 lbs, 0.44 H x 11.97 W x 8.46 D inches"
             },
             "Processor": {
-                "Processor Name": "Apple M2 (APL1109)",
-                "Processor Speed": "3.5 GHz (high-performance), 2.4 GHz (high-efficiency)",
-                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)"
+                "Name": "Apple M2 (APL1109)",
+                "Speed": "3.5 GHz (high-performance), 2.4 GHz (high-efficiency)",
+                "# of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "macOS 12.4 (Monterey)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Maximum Memory": "24 GB",
-                "Supported RAM": "6400 MT/s LPDDR5"
+                "Options": "8, 16 or 24 GB",
+                "Supported": "6400 MT/s LPDDR5"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
+                "Chip": "Apple GPU",
+                "# of Graphics Cores": "8 or 10"
             },
             "Display": {
                 "Display Type": "13.6-inch LED-backlit display with IPS technology",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "2560 x 1664"
+                "Native Resolution": "2560 x 1664",
+                "Brightness": "500 nits"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "Bluetooth 5.3",
+                "Thunderbolt": "2 - Thunderbolt 4 (up to 40 Gbps)",
+                "Audio In": "3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 4 - Built-in speakers",
+                "Power": "MagSafe 3"
             }
         }
     }, {
@@ -709,29 +1092,46 @@
         "Info": {
             "Overview": {
                 "Introduced": "Jun 2023",
-                "Discontinued": "---",
-                "Model Identifier": "Mac14,15"
+                "Discontinued": "Mar 2024",
+                "Model Identifier": "Mac14,15",
+                "Model Number": "A2941",
+                "EMC": "8301",
+                "Weight/Dimensions": "<br>1.51 kg, 1.15 H x 34.04 W x 23.76 D cm<br>3.3 lbs, 0.45 H x 13.4 W x 9.35 D inches"
             },
             "Processor": {
-                "Processor Name": "Apple M2 (APL1109)",
-                "Processor Speed": "3.5 GHz (high-performance), 2.4 GHz (high-efficiency)",
-                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)"
+                "Name": "Apple M2 (APL1109)",
+                "Speed": "3.5 GHz (high-performance), 2.4 GHz (high-efficiency)",
+                "# of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "macOS 13.4 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Maximum Memory": "24 GB",
-                "Supported RAM": "6400 MT/s LPDDR5"
+                "Options": "8, 16 or 24 GB",
+                "Supported": "6400 MT/s LPDDR5"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "10"
+                "Chip": "Apple GPU",
+                "# of Graphics Cores": "10"
             },
             "Display": {
                 "Display Type": "15.3-inch LED-backlit display with IPS technology",
-                "Native Resolution": "2880 x 1864"
+                "Native Resolution": "2880 x 1864",
+                "Brightness": "500 nits"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "Bluetooth 5.3",
+                "Thunderbolt": "2 - Thunderbolt 4 (up to 40 Gbps)",
+                "Audio In": "3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 4 - Built-in speakers",
+                "Power": "MagSafe 3"
             }
         }
     }, {
@@ -743,34 +1143,44 @@
                 "Introduced": "Mar 2024",
                 "Discontinued": "--",
                 "Model Identifier": "Mac15,12",
-                "Initial Price": "$1,099 / €1,299"
+                "Model Number": "A3113",
+                "EMC": "8611",
+                "Weight/Dimensions": "<br>1.24 kg, 1.13 H x 30.41 W x 21.5 D cm<br>2.7 lbs, 0.44 H x 11.97 W x 8.46 D inches"
             },
             "Processor": {
-                "Processor Name": "Apple M3",
-                "Processor Speed": "4.05 GHz (high-performance), 2.8 GHz (high-efficiency)",
-                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "Name": "Apple M3",
+                "Speed": "4.1 GHz (high-performance), 2.8 GHz (high-efficiency)",
+                "# of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "# of Neural Engine Cores": "16",
                 "Manufacturing Process": "3 nm"
             },
             "Software": {
                 "Original OS": "macOS 14.4 (Sonoma)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Maximum Memory": "24 GB",
-                "Supported RAM": "6400 MT/s LPDDR5"
+                "Options": "8, 16 or 24 GB",
+                "Supported": "6400 MT/s LPDDR5"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8, 10"
+                "Chip": "Apple GPU",
+                "Graphics Cores": "8 or 10"
             },
             "Display": {
                 "Display Type": "13.6-inch LED-backlit display with IPS technology",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "2560 x 1664"
-            }, 
-            "Storage": {
-                "Storage Type": "Soldered-on SSD",
-                "Storage Capacity": "256, 512 GB, 1 TB, 2 TB"
+                "Native Resolution": "2560 x 1664",
+                "Brightness": "500 nits"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "Bluetooth 5.3",
+                "Thunderbolt": "2 - Thunderbolt 4 (up to 40 Gbps)",
+                "Audio In": "3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 4 - Built-in speakers",
+                "Power": "MagSafe 3"
             }
         }
     }, {
@@ -782,34 +1192,44 @@
                 "Introduced": "Mar 2024",
                 "Discontinued": "--",
                 "Model Identifier": "Mac15,13",
-                "Initial Price": "$1,299 / €1,599"
+                "Model Number": "A3114",
+                "EMC": "8612",
+                "Weight/Dimensions": "<br>1.51 kg, 1.15 H x 34.04 W x 23.76 D cm<br>3.3 lbs, 0.45 H x 13.4 W x 9.35 D inches"
             },
             "Processor": {
-                "Processor Name": "Apple M3",
-                "Processor Speed": "4.05 GHz (high-performance), 2.8 GHz (high-efficiency)",
-                "Number of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "Name": "Apple M3",
+                "Speed": "4.1 GHz (high-performance), 2.8 GHz (high-efficiency)",
+                "# of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "# of Neural Engine Cores": "16",
                 "Manufacturing Process": "3 nm"
             },
             "Software": {
                 "Original OS": "macOS 14.4 (Sonoma)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Maximum Memory": "24 GB",
-                "Supported RAM": "6400 MT/s LPDDR5"
+                "Options": "8, 16 or 24 GB",
+                "Supported": "6400 MT/s LPDDR5"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
+                "Chip": "Apple GPU",
                 "Graphics Cores": "10"
             },
             "Display": {
                 "Display Type": "15.3-inch LED-backlit display with IPS technology",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "2880 x 1864"
-            }, 
-            "Storage": {
-                "Storage Type": "Soldered-on SSD",
-                "Storage Capacity": "256, 512 GB, 1 TB, 2 TB"
+                "Native Resolution": "2880 x 1864",
+                "Brightness": "500 nits"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "Bluetooth 5.3",
+                "Thunderbolt": "2 - Thunderbolt 4 (up to 40 Gbps)",
+                "Audio In": "3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 4 - Built-in speakers",
+                "Power": "MagSafe 3"
             }
         }
     }

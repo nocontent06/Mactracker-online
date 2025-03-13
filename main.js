@@ -1,9 +1,5 @@
-let footerElements = document.getElementsByClassName("footer");
+let version = "1.4.2";
+let build = "1E3";
+let commit = "1 (2025-03-14)";
 
-console.log(footerElements);
-
-
-let version = "1.4.1";
-let build = "1E2b";
-
-var returnString = `Version ${version} (Build ${build}) \n ©2023 - 2024 MangoCoding-Inc. (Felix) \nAll rights reserved.`;
+let returnString = `Version ${version} (Build ${build}) \n Commit: ${commit} \n ©2023-2025 MangoCoding-Inc. (Felix) \nAll rights reserved.`;

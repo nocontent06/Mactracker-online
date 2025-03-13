@@ -17,7 +17,7 @@ let pattern = new RegExp(
     'i'
 );
 
-let searchResults_heading = document.createElement("h1");
+const searchResults_heading = document.createElement("h1");
 searchResults_heading.id = "search-results-heading";
 searchResults_heading.innerText = "Search Results for " + search;
 searchResultsContainer = document.getElementById("search-results-container");
@@ -26,8 +26,8 @@ searchResultsContainer = document.getElementById("search-results-container");
 const searchResults = document.getElementById("search-results");
 searchResults.classList.add("resultContainer")
 
-const regexModelIdentifier = new RegExp(
-    `(MacBook|iMac|iPhone)[0-9,]+$`
+const regexmodelNumber = new RegExp(
+    `A[0-9,]+$`
 )
 
 const fetchJSON = async (url) => {
@@ -38,38 +38,8 @@ const fetchJSON = async (url) => {
     return await response.json();
 };
 
-const searchFormNav = document.getElementById("search-form-nav");
 const searchInputNav = document.getElementById("search-input-nav"); // search input
 let linkTagNav = document.getElementById("a-bt"); // link
-
-searchFormNav.addEventListener("keypress", function (event) {
-    if (event.key === "Enter") {
-        event.preventDefault();
-        let webLink = `results.html?search=${searchInputNav.value}`;
-        linkTagNav.setAttribute("href", webLink);
-        linkTagNav.click();
-    }
-});
-
-window.onscroll = function () {
-    scrollFunction();
-};
-
-// Make Navbar sticky
-
-let navbar = document.getElementById("bt-nav");
-let sticky = navbar.offsetHeight;
-
-
-
-
-function scrollFunction() {
-    if (window.scrollY >= sticky) {
-        navbar.classList.add("sticky")
-    } else {
-        navbar.classList.remove("sticky");
-    }
-}
 
 const processData = async () => {
     const deviceFiles = [
@@ -138,7 +108,8 @@ const processData = async () => {
         { keywords: ["Mac Pro", "MacPro"], device: "Mac Pro" },
         { keywords: ["iMac", "iMacPro"], device: "iMac" },
         { keywords: ["Mac Studio", "MacStudio", "Mac"], device: "Mac Studio" },
-        { keywords: ["iOS", "iPhoneOS"], device: "iOS" },
+        { keywords: ["iPhoneOS"], device: "iPhoneOS"},
+        { keywords: ["iOS"], device: "iOS" },
         { keywords: ["iPhone"], device: "iPhone" },
         { keywords: ["iPad"], device: "iPad" },
         { keywords: ["iPod"], device: "iPod" },
@@ -171,7 +142,7 @@ const processData = async () => {
         } else if (checkConcatenatedString(model.keywords, cleanedSearch)) {
             console.log("TRUE");
             const devices = await fetchJSON(`Models/${model.device}.json`);
-        } else if (regexModelIdentifier.test(cleanedSearch)) {
+        } else if (regexmodelNumber.test(cleanedSearch)) {
             console.log("TRUE");
             const devices = await fetchJSON(`Models/${model.device}.json`);
         } else {
@@ -197,6 +168,8 @@ const processData = async () => {
                 console.log("Device Info Len: ", deviceInfo);
                 let name = deviceInfo[j].Name;
                 let mid = deviceInfo[j].Info.Overview["Model Identifier"];
+                let mnr = deviceInfo[j].Info.Overview["Model Number"];
+                let omnr = deviceInfo[j].Info.Overview["Other Model Numbers"];
             
                 // const name = deviceInfo[i].Name;
     
@@ -213,6 +186,10 @@ const processData = async () => {
                 } else if (resultTest) {
                     filtData.push(deviceInfo[j]);
                 } else if (checkConcatenatedString(name, search)) {
+                    filtData.push(deviceInfo[j]);
+                } else if (pattern.test(mnr)) {
+                    filtData.push(deviceInfo[j]);
+                } else if (pattern.test(omnr)) {
                     filtData.push(deviceInfo[j]);
                 }
             }
@@ -231,26 +208,24 @@ const processData = async () => {
 
     if (filtData.length === 0) {
         const notFoundMessage = document.createElement("p");
-        notFoundMessage.innerHTML = "Not Found :("
+        notFoundMessage.innerHTML = "'" + search + "' not found :("
         notFoundMessage.style.textAlign = "center";
         notFoundMessage.style.position = "absolute";
         notFoundMessage.style.fontWeight = "bold";
-        notFoundMessage.style.fontSize = "2rem";
+        notFoundMessage.style.fontSize = "1.8rem";
         searchResults.appendChild(notFoundMessage);
+
+        const notFoundHr = document.createElement("hr");
+        notFoundMessage.appendChild(notFoundHr);
 
         const requestMsg = document.createElement("p");
         requestMsg.innerHTML = "If you want to request a device, please contact me <br> \
-            On Twitt" +
-                "er: <a class='linkNotFound' href='https://twitter.com/@NoContent_06'> @NoConte" +
-                "nt_06 </a> <br> \
-            On Discord: <a class='linkNotFound' href='https:" +
-                "//discord.gg/hyTP8ynDAz'>AppleGuy#7469</a><br> \
-            On Reddit: <a cla" +
-                "ss='linkNotFound' href='https://reddit.com/u/ytnocontent06'>u/ytnocontent06</a" +
-                ">";
+            On Twitter: <a class='linkNotFound' href='https://twitter.com/@mactracker.online'> @mactracker.online </a> <br> \
+            On Discord: <a class='linkNotFound' href='https://discord.gg/hyTP8ynDAz'> i_progeny </a><br> \
+            On Reddit: <a class='linkNotFound' href='https://reddit.com/u/ytnocontent06'>u/ytnocontent06</a>"
         requestMsg.style.textAlign = "center";
         requestMsg.style.fontWeight = "bold";
-        requestMsg.style.fontSize = "1.5rem";
+        requestMsg.style.fontSize = "1rem";
         notFoundMessage.appendChild(requestMsg);
 
         let notFoundFooter = document.createElement("footer");
@@ -269,13 +244,13 @@ const processData = async () => {
             .appendChild(notFoundFooter);
     } else if (filtData.length === 1) {
         console.error("Found 1 device: ", filtData);
-            let modelIdentifier = filtData[0]
+            let modelNumber = filtData[0]
                 .Info
-                .Overview["Model Identifier"]
-                .replace(/ /g, "")
-                .replace("(", "")
-                .replace(")", "");
-            location.href = `detailed.html?modelIdentifier=${modelIdentifier}&type=${filtData[0].Type}`; // Use foundIndex here
+                .Overview["Model Number"]
+                // .replace(/ /g, "")
+                // .replace("(", "")
+                // .replace(")", "");
+            location.href = `detailed.html?modelNumber=${modelNumber}&type=${filtData[0].Type}`; // Use foundIndex here
     } else {
         for (let index = 0; index < filtData.length; index++) {
             const item = filtData[index];
@@ -288,7 +263,6 @@ const processData = async () => {
             // Create image element
             let image = document.createElement("img");
             image.src = `img/${item.image}`;
-            image.id = `result-image-${item.Info.Overview["Model Identifier"].replace(/,/g, "")}`;
             image.classList.add("result_img");
             result.prepend(image);
 
@@ -315,18 +289,23 @@ const processData = async () => {
                 console.error ("Selected Index: ", selectedIndex);
 
                 // Redirect the user to the detailed page with the selected index
-                location.href = `detailed.html?modelIdentifier=${item.Info.Overview["Model Identifier"]}&type=${item.Type}`;
+                location.href = `detailed.html?modelNumber=${item.Info.Overview["Model Number"]}&type=${item.Type}`;
             });
 
         }
 
         searchResults.appendChild(footer);
     }
-    searchResults_heading.style.textAlign = "center";
-    document
-        .body
-        .insertBefore(searchResults_heading, searchResultsContainer);
+
 };
+searchResults_heading.style.textAlign = "center";
+document.body.insertBefore(searchResults_heading, searchResultsContainer);
+
+// Footer
+
+let footer_index = document.createElement("footer");
+footer_index.setAttribute("class", "footer");
+footer_index.innerText = returnString;
 
 processData().catch((error) => {
     console.error(error);

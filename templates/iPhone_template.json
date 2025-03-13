@@ -1,0 +1,70 @@
+{
+    "Name": "",
+    "Type": "iPhone",
+    "image": "",
+    "Info": {
+        "Overview": {
+            "Introduced": "",
+            "Discontinued": "",
+            "Model Identifier": "",
+            "Model Number": "",
+            "Other Model Numbers": "<br>Axxx",
+            "EMC": "",
+            "Colors": "",
+            "Weight/Dimensions": ""
+        },
+        "Processor": {
+            "Processor Name": "Apple Axx",
+            "Processor Speed": "x.x GHz",
+            "# of Cores": "",
+            "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "x / x",
+            "Architecture": "x-bit",
+            "Manufacturing Process": "x nm"
+        },
+        "Software": {
+            "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%20xx&type=iOS'>iOS xx</a>",
+            "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%20xx&type=iOS'>Latest release of iOS</a>"
+        },
+        "Memory": {
+            "Built-in Memory": "x GB LPDDRx"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple GPU",
+            "# of Graphics Cores": "x"
+        },
+        "Display": {
+            "Display Type": "",
+            "Display Size": "x.x-inch widescreen",
+            "Display Resolution": "xxxx x xxxx",
+            "Brightness": "x nits (typical), x nits (HDR), x nits (outdoor)",
+            "Display Refresh Rate": "x - x Hz ProMotion or x Hz Always-On"
+        },
+        "Storage": {
+            "Capacity": ""
+        },
+        "Connections": {
+            "Wi-Fi": "",
+            "Bluetooth": "",
+            "Networks": "",
+            "SIM slot": "",
+            "Audio In": "",
+            "Audio Out": "",
+            "Ports": ""
+        },
+        "Camera": {
+            "Rear Camera": "",
+            "Front Camera": ""
+        },
+        "Power": {
+            "Battery": "Built-in xx.xx lithium-ion",
+            "Capacity": "xxxx mAh"
+        },
+        "Features": {
+            "Authentication": "Face ID",
+            "Waterproof": "IPxx",
+            "Dynamic Island": "yes/no",
+            "Action Button": "yes/no",
+            "Camera Control Button": "yes/no"
+        }
+    }
+}
