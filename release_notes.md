@@ -320,7 +320,7 @@ Minor release. Updated meta Tags.
 - Added the new Mac Studio (Commit 2aa91f9)
 - Updated release notes
 
-### 1.5 (1F1a) - BIG REDESIGN
+# 1.5 (1F1a) - BIG REDESIGN
 
 - Added Apple Displays from Cinema Display (20-inch) to Studio Display (2022)
 - Updated iPad A16 (fixed Issue #9)
