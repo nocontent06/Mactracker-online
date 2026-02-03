@@ -10,7 +10,7 @@
                 "Model Identifier": "MacPro1,1",
                 "Model Number": "A1186",
                 "EMC": "2113",
-                "Weight/Dimensions": "<br>19.2 kg, 51.1 H x 20.6 W x 47.5 cm<br>42.4 lbs, 20.1 H x 8.1 W x 18.7 D inch"
+                "Weight/Dimensions": "19.2 kg, 51.1 H x 20.6 W x 47.5 cm<br>42.4 lbs, 20.1 H x 8.1 W x 18.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Xeon 5130, Xeon 5150, Xeon 5160 ('Woodcrest')",
@@ -60,7 +60,7 @@
                 "Model Identifier": "MacPro2,1",
                 "Model Number": "A1186 (8-Core)",
                 "EMC": "2138",
-                "Weight/Dimensions": "<br>19.2 kg, 51.1 H x 20.6 W x 47.5 cm<br>42.4 lbs, 20.1 H x 8.1 W x 18.7 D inch"
+                "Weight/Dimensions": "19.2 kg, 51.1 H x 20.6 W x 47.5 cm<br>42.4 lbs, 20.1 H x 8.1 W x 18.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Xeon X5365 ('Clovertown')",
@@ -110,7 +110,7 @@
                   "Model Identifier": "MacPro3,1",
                   "Model Number": "A1186 (Early 2008)",
                   "EMC": "2180",
-                  "Weight/Dimensions": "<br>19.2 kg, 51.1 H x 20.6 W x 47.5 cm<br>42.4 lbs, 20.1 H x 8.1 W x 18.7 D inch"
+                  "Weight/Dimensions": "19.2 kg, 51.1 H x 20.6 W x 47.5 cm<br>42.4 lbs, 20.1 H x 8.1 W x 18.7 D inch"
               } ,
               "Processor": {
                 "Processor Name": "Intel Xeon E5462, Xeon E5472, Xeon X5482 ('Harpertown')",
@@ -161,7 +161,7 @@
                   "Model Identifier": "MacPro4,1",
                   "Model Number": "A1289",
                   "EMC": "2314",
-                  "Weight/Dimensions": "<br>18.1 kg (Quad-Core) 18.7 kg (8-Core), 51.1 H x 20.6 W x 47.5 cm<br>39.9 lbs (Quad-Core) 41.2 lbs (8-Core), 20.1 H x 8.1 W x 18.7 D inch"
+                  "Weight/Dimensions": "18.1 kg (Quad-Core) 18.7 kg (8-Core), 51.1 H x 20.6 W x 47.5 cm<br>39.9 lbs (Quad-Core) 41.2 lbs (8-Core), 20.1 H x 8.1 W x 18.7 D inch"
               } ,
               "Processor": {
                 "Processor Name": "Intel Xeon W3520, Xeon W3540, Xeon E5520, Xeon X5550 or Xeon X5570 ('Bloomfield' or 'Gainestown')",
@@ -211,7 +211,7 @@
                 "Model Identifier": "MacPro5,1",
                 "Model Number": "A1289 (2010)",
                 "EMC": "2314",
-                "Weight/Dimensions": "<br>18.1 kg (Quad-Core) 18.7 kg (8-Core), 51.1 H x 20.6 W x 47.5 cm<br>39.9 lbs (Quad-Core) 41.2 lbs (8-Core), 20.1 H x 8.1 W x 18.7 D inch"
+                "Weight/Dimensions": "18.1 kg (Quad-Core) 18.7 kg (8-Core), 51.1 H x 20.6 W x 47.5 cm<br>39.9 lbs (Quad-Core) 41.2 lbs (8-Core), 20.1 H x 8.1 W x 18.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Xeon W3530, W3565, W3680, E5620, X5650, X5670 ('Bloomfield', 'Gulftown', 'Westmere')",
@@ -261,7 +261,7 @@
                 "Model Identifier": "MacPro5,1",
                 "Model Number": "A1289 (2012)",
                 "EMC": "2629",
-                "Weight/Dimensions": "<br>18.1 kg (Quad and 6-Core) 18.7 kg (12-Core), 51.1 H x 20.6 W x 47.5 cm<br>39.9 lbs (Quad and 6-Core) 41.2 lbs (12-Core), 20.1 H x 8.1 W x 18.7 D inch"
+                "Weight/Dimensions": "18.1 kg (Quad and 6-Core) 18.7 kg (12-Core), 51.1 H x 20.6 W x 47.5 cm<br>39.9 lbs (Quad and 6-Core) 41.2 lbs (12-Core), 20.1 H x 8.1 W x 18.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Xeon W3565, W3680, E5646, X5650, X5675 ('Bloomfield', 'Gulftown', 'Westmere')",
@@ -311,7 +311,7 @@
                 "Model Identifier": "MacPro6,1",
                 "Model Number": "A1481",
                 "EMC": "2630",
-                "Weight/Dimensions": "<br>5 kg, 25.1 cm H x 16.7 D cm<br>11 lbs, 9.9 H x 6.6 D inch"
+                "Weight/Dimensions": "5 kg, 25.1 cm H x 16.7 D cm<br>11 lbs, 9.9 H x 6.6 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Xeon E5-1620, E5-1650, E5-1680, E5-2697 ('Ivy Bridge')",
@@ -360,7 +360,7 @@
                   "Model Number": "A1991",
                   "Other Model Numbers": "A2304",
                   "EMC": "3203, 3413",
-                  "Weight/Dimensions": "<br>18 kg, 52.9 H x 21.8 cm W x 45 D cm (Tower)<br>17.6 kg, 22.02 H x 48.2 W x 53.95 D cm (Rack)<br>39.7 lbs, 20.8 H x 8.58 W x 17.7 D inch (Tower)<br>38.8 lbs, 8.67 H x 18.98 W x 21.24 D inch (Rack)"
+                  "Weight/Dimensions": "18 kg, 52.9 H x 21.8 cm W x 45 D cm (Tower)<br>17.6 kg, 22.02 H x 48.2 W x 53.95 D cm (Rack)<br>39.7 lbs, 20.8 H x 8.58 W x 17.7 D inch (Tower)<br>38.8 lbs, 8.67 H x 18.98 W x 21.24 D inch (Rack)"
               } ,
               "Processor": {
                 "Processor Name": "Intel Xeon W-3223, W-3235, W-3245, W-3265M, W-3275M ('Cascade Lake')",
@@ -409,7 +409,7 @@
                   "Model Number": "A2786",
                   "Other Model Numbers": "A2787",
                   "EMC": "8163, 8164",
-                  "Weight/Dimensions": "<br>16.86 kg, 52.9 H x 21.8 cm W x 45 D cm (Tower)<br>17.21 kg, 22.02 H x 48.2 W x 53.95 D cm (Rack)<br>37.2 lbs, 20.8 H x 17.7 W x 8.58 D inch (Tower)<br>37.9 lbs, 8.67 H x 18.98 W x 21.24 D inch (Rack)"
+                  "Weight/Dimensions": "16.86 kg, 52.9 H x 21.8 cm W x 45 D cm (Tower)<br>17.21 kg, 22.02 H x 48.2 W x 53.95 D cm (Rack)<br>37.2 lbs, 20.8 H x 17.7 W x 8.58 D inch (Tower)<br>37.9 lbs, 8.67 H x 18.98 W x 21.24 D inch (Rack)"
               } ,
               "Processor": {
                 "Chip Name": "Apple M2 Ultra",

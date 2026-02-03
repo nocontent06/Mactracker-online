@@ -320,6 +320,29 @@ Minor release. Updated meta Tags.
 - Added the new Mac Studio (Commit 2aa91f9)
 - Updated release notes
 
+### 1.5 (1F1a) - BIG REDESIGN
+
+- Added Apple Displays from Cinema Display (20-inch) to Studio Display (2022)
+- Updated iPad A16 (fixed Issue #9)
+- Updated iOS with latest versions
+- Updated MacBooks with more data
+- Added iOS 26 Beta
+- Added macOS Versions
+- Redesigned the entire page
+- Added links between iPhones and iOS Versions
+- Started with Mac OS X 10.6
+- Added Xserve
+- Sped Up Search
+- Add sort function
+- Fixed navbar search
+- Added latest iPads (iPad Air M3, iPad Pro M5)
+- Fixed Navbar Search
+- Fixed a bug searching for a model with a year, it shows every object with that particular year being released
+- Added iPhone 17 models and iPhone Air
+- Added Macbook Pro M5 14-inch
+- Added Apple Watch Series 11, Ultra 3, SE (3rd Gen)
+- Added Macbook Air 2025
+- Added all missing macOS Versions
 
 
 

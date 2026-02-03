@@ -1,0 +1,333 @@
+[
+    {
+        "Name": "Cinema Display (20-inch)",
+        "Type": "Display",
+        "image": "cinemaDisplay20.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2004",
+                "Discontinued": "Aug 2006",
+                "Model Identifier": "Cinema Display",
+                "Model Number": "A1081",
+                "Weight/Dimensions": "<br>6.6 kg, 41 H x 47.1 W x 17.4 D cm<br>14.5 lbs, 16.1 H x 18.5 W x 6.8 D inch"
+            },
+            "Display": {
+                "Type": "LCD",
+                "Size": "20 inch",
+                "Colors": "16.7 Mio.",
+                "Brightness": "250 nits",
+                "Resolutions": "<li>1024 x 640<li>1280 x 800<li>1680 x 1050"
+            },
+            "Connections": {
+                "Connection": "DVI",
+                "Audio/Video": "--",
+                "Camera":"--",
+                "Ports": "2 - USB 2.0 (up to 480 MBit/s), 2 - FireWire 400"
+            },
+            "Power": {
+                "Maximum": "65 W"
+            }
+        }
+    }, {
+        "Name": "Cinema Display (23-inch)",
+        "Type": "Display",
+        "image": "cinemaDisplay23.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2004",
+                "Discontinued": "Aug 2006",
+                "Model Identifier": "Cinema Display",
+                "Model Number": "A1082",
+                "Weight/Dimensions": "<br>7.03 kg, 45 H x 53.6 W x 18.7 D cm<br>15.5 lbs, 17.7 H x 21.1 W x 7.3 D inch"
+            },
+            "Display": {
+                "Type": "LCD",
+                "Size": "23 inch",
+                "Colors": "16.7 Mio.",
+                "Brightness": "270 nits",
+                "Resolutions": "<li>1024 x 640<li>1280 x 800<li>1920 x 1200"
+            },
+            "Connections": {
+                "Connection": "DVI",
+                "Audio/Video": "--",
+                "Camera":"--",
+                "Ports": "2 - USB 2.0 (up to 480 MBit/s), 2 - FireWire 400"
+            },
+            "Power": {
+                "Maximum": "90 W"
+            }
+        }
+    }, {
+        "Name": "Cinema Display (30-inch)",
+        "Type": "Display",
+        "image": "cinemaDisplay30.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jun 2004",
+                "Discontinued": "Mar 2006",
+                "Model Identifier": "Cinema Display",
+                "Model Number": "A1083",
+                "Weight/Dimensions": "<br>12.47 kg, 54.3 H x 68.8 W x 21.5 D cm<br>27.5 lbs, 21.3 H x 27.2 W x 8.46 D inch"
+            },
+            "Display": {
+                "Type": "LCD",
+                "Size": "30 inch",
+                "Colors": "16.7 Mio.",
+                "Brightness": "270 nits",
+                "Resolutions": "<li>1024 x 640<li>1280 x 800<li>1920 x 1200<li>2048 x 1280<li>2560 x 1600"
+            },
+            "Connections": {
+                "Connection": "DVI",
+                "Audio/Video": "--",
+                "Camera":"--",
+                "Ports": "2 - USB 2.0 (up to 480 MBit/s), 2 - FireWire 400"
+            },
+            "Power": {
+                "Maximum": "150 W"
+            }
+        }
+    }, {
+        "Name": "Cinema Display (20-inch)<br>(Late 2005)",
+        "Type": "Display",
+        "image": "cinemaDisplay20.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Aug 2006",
+                "Discontinued": "Feb 2009",
+                "Model Identifier": "Cinema Display",
+                "Model Number": "A1081 (Late 2005)",
+                "Weight/Dimensions": "<br>6.6 kg, 41 H x 47.1 W x 17.4 D cm<br>14.5 lbs, 16.1 H x 18.5 W x 6.8 D inch"
+            },
+            "Display": {
+                "Type": "LCD",
+                "Size": "20 inch",
+                "Colors": "16.7 Mio.",
+                "Brightness": "300 nits",
+                "Resolutions": "<li>1024 x 640<li>1280 x 800<li>1680 x 1050"
+            },
+            "Connections": {
+                "Connection": "DVI",
+                "Audio/Video": "--",
+                "Camera":"--",
+                "Ports": "2 - USB 2.0 (up to 480 MBit/s), 2 - FireWire 400"
+            },
+            "Power": {
+                "Maximum": "65 W"
+            }
+        }
+    }, {
+        "Name": "Cinema Display (23-inch)<br>(Late 2005)",
+        "Type": "Display",
+        "image": "cinemaDisplay23.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Aug 2006",
+                "Discontinued": "Nov 2008",
+                "Model Identifier": "Cinema Display",
+                "Model Number": "A1082 (Late 2005)",
+                "Weight/Dimensions": "<br>7.03 kg, 45 H x 53.6 W x 18.7 D cm<br>15.5 lbs, 17.7 H x 21.1 W x 7.3 D inch"
+            },
+            "Display": {
+                "Type": "LCD",
+                "Size": "23 inch",
+                "Colors": "16.7 Mio.",
+                "Brightness": "400 nits",
+                "Resolutions": "<li>1024 x 640<li>1280 x 800<li>1920 x 1200"
+            },
+            "Connections": {
+                "Connection": "DVI",
+                "Audio/Video": "--",
+                "Camera":"--",
+                "Ports": "2 - USB 2.0 (up to 480 MBit/s), 2 - FireWire 400"
+            },
+            "Power": {
+                "Maximum": "90 W"
+            }
+        }
+    }, {
+        "Name": "Cinema Display (30-inch)<br>(Late 2005)",
+        "Type": "Display",
+        "image": "cinemaDisplay30.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2006",
+                "Discontinued": "Jul 2010",
+                "Model Identifier": "Cinema Display",
+                "Model Number": "A1083 (Late 2005)",
+                "Weight/Dimensions": "<br>12.47 kg, 54.3 H x 68.8 W x 21.5 D cm<br>27.5 lbs, 21.3 H x 27.2 W x 8.46 D inch"
+            },
+            "Display": {
+                "Type": "LCD",
+                "Size": "30 inch",
+                "Colors": "16.7 Mio.",
+                "Brightness": "400 nits",
+                "Resolutions": "<li>1024 x 640<li>1280 x 800<li>1920 x 1200<li>2048 x 1280<li>2560 x 1600"
+            },
+            "Connections": {
+                "Connection": "DVI",
+                "Audio/Video": "--",
+                "Camera":"--",
+                "Ports": "2 - USB 2.0 (up to 480 MBit/s), 2 - FireWire 400"
+            },
+            "Power": {
+                "Maximum": "150 W"
+            }
+        }
+    }, {
+        "Name": "LED Cinema Display<br>(24-inch)",
+        "Type": "Display",
+        "image": "LEDDisplay24.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2008",
+                "Discontinued": "Jul 2010",
+                "Model Identifier": "LED Cinema Display",
+                "Model Number": "A1267",
+                "Weight/Dimensions": "<br>9.5 kg, 47.84 H x 57.32 W x 19.71 D cm<br>21 lbs, 18.84 H x 22.57 W x 7.76 D inch"
+            },
+            "Display": {
+                "Type": "LCD",
+                "Size": "24 inch",
+                "Colors": "16.7 Mio.",
+                "Brightness": "330 nits",
+                "Resolutions": "<li>1024 x 640<li>1280 x 800<li>1920 x 1200"
+            },
+            "Connections": {
+                "Connection": "Mini DisplayPort",
+                "Audio": "Built-in 2.1 Speaker system and microphone",
+                "Camera":"Built-in iSight",
+                "Ports": "3 - USB 2.0 (up to 480 MBit/s), 1 - MagSafe"
+            },
+            "Power": {
+                "Maximum": "212 W"
+            }
+        }
+    }, {
+        "Name": "LED Cinema Display<br>(27-inch)",
+        "Type": "Display",
+        "image": "LEDDisplay27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2010",
+                "Discontinued": "Oct 2013",
+                "Model Identifier": "LED Cinema Display",
+                "Model Number": "A1316",
+                "Weight/Dimensions": "<br>10.7 kg, 49.1 H x 65 W x 20.7 D cm<br>23.5 lbs, 19.35 H x 25.7 W x 8.15 D inch"
+            },
+            "Display": {
+                "Type": "LCD (IPS)",
+                "Size": "27 inch",
+                "Colors": "16.7 Mio.",
+                "Brightness": "375 nits",
+                "Resolutions": "<li>1280 x 720<li>1920 x 1080<li>2560 x 1440"
+            },
+            "Connections": {
+                "Connection": "Mini DisplayPort",
+                "Audio": "Built-in 2.1 Speaker system and microphone",
+                "Camera":"Built-in iSight",
+                "Ports": "3 - USB 2.0 (up to 480 MBit/s), 1 - MagSafe"
+            },
+            "Power": {
+                "Maximum": "250 W"
+            }
+        }
+    }, {
+        "Name": "Apple Thunderbolt Display<br>(27-inch)",
+        "Type": "Display",
+        "image": "TBDisplay27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2011",
+                "Discontinued": "Jun 2016",
+                "Model Identifier": "Apple Thunderbolt Display",
+                "Model Number": "A1407",
+                "Weight/Dimensions": "<br>10.8 kg, 49.1 H x 65 W x 20.7 D cm<br>23.5 lbs, 19.35 H x 25.7 W x 8.15 D inch"
+            },
+            "Display": {
+                "Type": "LCD (IPS)",
+                "Size": "27 inch",
+                "Colors": "16.7 Mio.",
+                "Brightness": "375 nits",
+                "Resolutions": "<li>1280 x 720<li>1920 x 1080<li>2560 x 1440"
+            },
+            "Connections": {
+                "Connection": "Thunderbolt",
+                "Audio": "Built-in 2.1 Speaker system and microphone",
+                "Camera":"Built-in FaceTime HD",
+                "Ports": "<li>1 - Thunderbolt<li>3 - USB 2.0 (up to 480 MBit/s)<li>1 - MagSafe<li>1 - FireWire 800<li>1 - Gigabit Ethernet"
+            },
+            "Power": {
+                "Maximum": "250 W"
+            }
+        }
+    }, {
+        "Name": "Pro Display XDR",
+        "Type": "Display",
+        "image": "XDRDisplay.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Dec 2019",
+                "Discontinued": "--",
+                "Model Identifier": "Pro Display XDR",
+                "Model Number": "A1999",
+                "Weight/Dimensions": "<br>7.48 kg, 41.2 H x 71.8 W x 2.7 D cm<br>16.49 lbs, 16.2 H x 28.3 W x 1.1 D inch"
+            },
+            "Software": {
+                "Original OS": "Display Firmware 1.2.2.26",
+                "Latest OS": "4.2.37 (14/12/2020)"
+            },
+            "Display": {
+                "Type": "LCD (IPS) with oxide TFT",
+                "Size": "32 inch",
+                "Glass": "Standard or Nano-texture",
+                "Colors": "1.073 Bio.",
+                "Brightness": "500 (SDR), 1000 (sustained HDR), 1600 (peak HDR) nits",
+                "Resolutions": "6016 x 3384 px",
+                "Refresh Rate": "60 Hz"
+            },
+            "Connections": {
+                "Connection": "Thunderbolt 3",
+                "Audio": "--",
+                "Camera":"--",
+                "Ports": "1 - Thunderbolt 3 (96 W charging), 3 - USB-C"
+            },
+            "Power": {
+                "Maximum": "105 W"
+            }
+        }
+    }, {
+        "Name": "Studio Display (2022)",
+        "Type": "Display",
+        "image": "StudioDisplay22.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2022",
+                "Discontinued": "--",
+                "Model Identifier": "AppleDisplay2,1",
+                "Model Number": "A2525",
+                "Weight/Dimensions": "<li>6.3 kg, 47.8 H x 62.3 W x 16.8 D cm (Tilt-adjustable stand)<li>7.7 kg, 47.9 - 58.3 H x 62.3 W x 20.7 D cm (Tilt and height-adjustable)<li>5.5 kg, 36.2 H x 62.3 W x 3.1 D cm (VESA mount)<br><br><li>13.9 lbs., 18.8 H x 24.5 W x 6.6 D inch (Tilt-adjustable stand)<li>16.9 lbs., 18.8 - 23 H x 24.5 W x 8.1 D inch (Tilt and height-adjustable)<li>12.1 lbs., 14.3 H x 24.5 W x 1.2 D inch (VESA mount)"
+            },
+            "Software": {
+                "Original OS": "Studio Display Firmware 15.3",
+                "Latest OS": "17.0 (26/09/2023)"
+            },
+            "Display": {
+                "Type": "LCD (IPS)",
+                "Size": "27 inch",
+                "Colors": "1 Bio.",
+                "Brightness": "600 nits",
+                "Resolutions": "5120 x 2880 px",
+                "Refresh Rate": "60 Hz"
+            },
+            "Connections": {
+                "Connection": "Thunderbolt",
+                "Audio": "Built-in 2.1 Speaker system and microphone",
+                "Camera":"Built-in FaceTime HD",
+                "Ports": "<li>1 - Thunderbolt<li>3 - USB 2.0 (up to 480 MBit/s)<li>1 - MagSafe<li>1 - FireWire 800<li>1 - Gigabit Ethernet"
+            },
+            "Power": {
+                "Maximum": "250 W"
+            }
+        }
+    }
+]

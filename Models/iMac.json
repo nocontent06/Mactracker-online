@@ -11,7 +11,7 @@
                 "Model Number": "A1058",
                 "EMC": "1989",
                 "Color": "White",
-                "Weight/Dimensions": "<br>8.4 kg, 43 H x 42.6 W x 17.3 D cm<br>18.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
+                "Weight/Dimensions": "8.4 kg, 43 H x 42.6 W x 17.3 D cm<br>18.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
                 "Name": "PowerPC 970FX (G5)",
@@ -67,7 +67,7 @@
                 "Model Number": "A1076",
                 "EMC": "2008",
                 "Color": "White",
-                "Weight/Dimensions": "<br>11.4 kg, 47.2 H x 49.3 W x 18.9 D cm<br>25.2 lbs, 18.6 H x 19.4 W x 7.4 D inch"
+                "Weight/Dimensions": "11.4 kg, 47.2 H x 49.3 W x 18.9 D cm<br>25.2 lbs, 18.6 H x 19.4 W x 7.4 D inch"
             },
             "Processor": {
                 "Name": "PowerPC 970FX (G5)",
@@ -120,10 +120,10 @@
                 "Introduced": "May 2005",
                 "Discontinued": "Oct 2005",
                 "Model Identifier": "PowerMac8,2",
-                "Model Number": "A1058",
+                "Model Number": "A1058 (ALS)",
                 "EMC": "2055",
                 "Color": "White",
-                "Weight/Dimensions": "<br>8.4 kg, 43 H x 42.6 W x 17.3 D cm<br>18.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
+                "Weight/Dimensions": "8.4 kg, 43 H x 42.6 W x 17.3 D cm<br>18.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
                 "Name": "PowerPC 970FX (G5)",
@@ -177,10 +177,10 @@
                 "Introduced": "May 2005",
                 "Discontinued": "Oct 2005",
                 "Model Identifier": "PowerMac8,2",
-                "Model Number": "A1076",
+                "Model Number": "A1076 (ALS)",
                 "EMC": "2056",
                 "Color": "White",
-                "Weight/Dimensions": "<br>11.4 kg, 47.2 H x 49.3 W x 18.9 D cm<br>25.2 lbs, 18.6 H x 19.4 W x 7.4 D inch"
+                "Weight/Dimensions": "11.4 kg, 47.2 H x 49.3 W x 18.9 D cm<br>25.2 lbs, 18.6 H x 19.4 W x 7.4 D inch"
             },
             "Processor": {
                 "Name": "PowerPC 970FX (G5)",
@@ -236,7 +236,7 @@
                 "Model Number": "A1144",
                 "EMC": "2081",
                 "Color": "White",
-                "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
+                "Weight/Dimensions": "7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
                 "Name": "PowerPC 970FX (G5)",
@@ -292,7 +292,7 @@
                 "Model Number": "A1145",
                 "EMC": "2082",
                 "Color": "White",
-                "Weight/Dimensions": "<br>10 kg, 47.2 H x 49.3 W x 18.9 D cm <br> 22 lbs, 18.6 H x 19.4 W x 7.4 D inch"
+                "Weight/Dimensions": "10 kg, 47.2 H x 49.3 W x 18.9 D cm <br> 22 lbs, 18.6 H x 19.4 W x 7.4 D inch"
             },
             "Processor": {
                 "Name": "PowerPC 970FX (G5)",
@@ -338,7 +338,7 @@
 
         }
     }, {
-        "Name": "iMac Early 2006 17-inch",
+        "Name": "iMac (Early 2006)<br>(17-inch)",
         "Type": "iMac",
         "image": "imac_isight.png",
         "Info": {
@@ -349,7 +349,7 @@
                 "Model Number": "A1173",
                 "EMC": "2104",
                 "Color": "White",
-                "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
+                "Weight/Dimensions": "7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
                 "Name": "Intel Core Duo (T2400) ('Yonah')",
@@ -396,7 +396,7 @@
 
         }
     }, {
-        "Name": "iMac Early 2006 20-inch",
+        "Name": "iMac (Early 2006)<br>(20-inch)",
         "Type": "iMac",
         "image": "imac_isight.png",
         "Info": {
@@ -407,7 +407,7 @@
                 "Model Number": "A1174",
                 "EMC": "2105",
                 "Color": "White",
-                "Weight/Dimensions": "<br>10 kg, 47.2 H x 49.3 W x 18.9 D cm <br> 22 lbs, 18.6 H x 19.4 W x 7.4 D inch"
+                "Weight/Dimensions": "10 kg, 47.2 H x 49.3 W x 18.9 D cm <br> 22 lbs, 18.6 H x 19.4 W x 7.4 D inch"
             },
             "Processor": {
                 "Name": "Intel Core Duo T2500 ('Yonah')",
@@ -452,7 +452,7 @@
             }
         }
     }, {
-        "Name": "iMac Mid 2006",
+        "Name": "iMac (Mid 2006)<br>(17-inch)",
         "Type": "iMac",
         "image": "imac_isight.png",
         "Info": {
@@ -460,10 +460,10 @@
                 "Introduced": "Jul 2006",
                 "Discontinued": "Sep 2006",
                 "Model Identifier": "iMac4,2",
-                "Model Number": "A1195",
+                "Model Number": "A1195 (Mid 2006)",
                 "EMC": "2110",
                 "Color": "White",
-                "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
+                "Weight/Dimensions": "7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
                 "Name": "Intel Core Duo (T2400) ('Yonah')",
@@ -507,7 +507,7 @@
 
         }
     }, {
-        "Name": "iMac Late 2006 17-inch CD",
+        "Name": "iMac (Late 2006)<br>(17-inch CD)",
         "Type": "iMac",
         "image": "imac_isight.png",
         "Info": {
@@ -518,7 +518,7 @@
                 "Model Number": "A1195",
                 "EMC": "2124",
                 "Color": "White",
-                "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
+                "Weight/Dimensions": "7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T5600) ('Merom')",
@@ -562,7 +562,7 @@
             }
         }
     }, {
-        "Name": "iMac Late 2006 17-inch",
+        "Name": "iMac (Late 2006)<br>(17-inch)",
         "Type": "iMac",
         "image": "imac_isight.png",
         "Info": {
@@ -573,7 +573,7 @@
                 "Model Number": "A1208",
                 "EMC": "2114",
                 "Color": "White",
-                "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
+                "Weight/Dimensions": "7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T7200, T7400) ('Merom') ",
@@ -617,7 +617,7 @@
             }
         }
     }, {
-        "Name": "iMac Late 2006 20-inch",
+        "Name": "iMac (Late 2006)<br>(20-inch)",
         "Type": "iMac",
         "image": "imac_isight.png",
         "Info": {
@@ -628,7 +628,7 @@
                 "Model Number": "A1207",
                 "EMC": "2118",
                 "Color": "White",
-                "Weight/Dimensions": "<br>10 kg, 47.2 H x 49.3 W x 18.9 D cm <br> 22 lbs, 18.6 H x 19.4 W x 7.4 D inch"
+                "Weight/Dimensions": "10 kg, 47.2 H x 49.3 W x 18.9 D cm <br> 22 lbs, 18.6 H x 19.4 W x 7.4 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T7400, T7600) ('Merom')",
@@ -673,7 +673,7 @@
 
         }
     }, {
-        "Name": "iMac (24')",
+        "Name": "iMac (24-inch)",
         "Type": "iMac",
         "image": "imac_isight.png",
         "Info": {
@@ -684,7 +684,7 @@
                 "Model Number": "A1200",
                 "EMC": "2111",
                 "Color": "White",
-                "Weight/Dimensions": "<br>11.2 kg, 52.3 H x 57.4 W x 20.7 D cm <br>24.7 lbs, 20.6 H x 22.6 W x 8.1 D inch"
+                "Weight/Dimensions": "11.2 kg, 52.3 H x 57.4 W x 20.7 D cm <br>24.7 lbs, 20.6 H x 22.6 W x 8.1 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T7400, T7600) ('Merom')",
@@ -728,7 +728,7 @@
             }
         }
     }, {
-        "Name": "iMac Mid 2007 20-inch",
+        "Name": "iMac (Mid 2007)<br>(20-inch)",
         "Type": "iMac",
         "image": "imac_aluminium_20.png",
         "Info": {
@@ -739,7 +739,7 @@
                 "Model Number": "A1224",
                 "EMC": "2133",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
+                "Weight/Dimensions": "9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T7300, T7700) ('Merom')",
@@ -784,7 +784,7 @@
 
         }
     }, {
-        "Name": "iMac Mid 2007 24-inch",
+        "Name": "iMac (Mid 2007)<br>(24-inch)",
         "Type": "iMac",
         "image": "imac_aluminium_24.png",
         "Info": {
@@ -795,7 +795,7 @@
                 "Model Number": "A1225",
                 "EMC": "2134",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>11.5 kg, 52 H x 56.9 x 20.7 cm <br> 25.4 lbs, 20.5 H x 22.4 W x 8.1 D inch"
+                "Weight/Dimensions": "11.5 kg, 52 H x 56.9 x 20.7 cm <br> 25.4 lbs, 20.5 H x 22.4 W x 8.1 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T7700) or Core 2 Extreme (X7900) ('Merom')",
@@ -839,7 +839,7 @@
             }
         }
     }, {
-        "Name": "iMac Early 2008 20-inch",
+        "Name": "iMac (Early 2008)<br>(20-inch)",
         "Type": "iMac",
         "image": "imac_aluminium_20.png",
         "Info": {
@@ -847,10 +847,10 @@
                 "Introduced": "Apr 2008",
                 "Discontinued": "Mar 2009",
                 "Model Identifier": "iMac8,1",
-                "Model Number": "A1224 (2008)",
+                "Model Number": "A1224 (Early 2008)",
                 "EMC": "2210",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
+                "Weight/Dimensions": "9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (E8135, E8335) ('Penryn')",
@@ -894,7 +894,7 @@
             }
         }
     }, {
-        "Name": "iMac Early 2008 24-inch",
+        "Name": "iMac (Early 2008)<br>(24-inch)",
         "Type": "iMac",
         "image": "imac_aluminium_24.png",
         "Info": {
@@ -902,10 +902,10 @@
                 "Introduced": "Apr 2008",
                 "Discontinued": "Mar 2009",
                 "Model Identifier": "iMac8,1",
-                "Model Number": "A1225 (2008)",
+                "Model Number": "A1225 (Early 2008)",
                 "EMC": "2211",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>11.5 kg, 52 H x 56.9 x 20.7 cm <br> 25.4 lbs, 20.5 H x 22.4 W x 8.1 D inch"
+                "Weight/Dimensions": "11.5 kg, 52 H x 56.9 x 20.7 cm <br> 25.4 lbs, 20.5 H x 22.4 W x 8.1 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (E8235, E8435) ('Penryn')",
@@ -949,7 +949,7 @@
             }
         }
     }, {
-        "Name": "iMac Early 2009 20-inch ",
+        "Name": "iMac (Early 2009)<br>(20-inch)",
         "Type": "iMac",
         "image": "imac_aluminium_20.png",
         "Info": {
@@ -957,10 +957,10 @@
                 "Introduced": "Mar 2009",
                 "Discontinued": "Oct 2009",
                 "Model Identifier": "iMac9,1",
-                "Model Number": "A1224 (2009)",
+                "Model Number": "A1224 (Early 2009)",
                 "EMC": "2266",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
+                "Weight/Dimensions": "9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (E8135) ('Penryn')",
@@ -1003,7 +1003,7 @@
             }
         }
     }, {
-        "Name": "iMac Early 2009 24-inch",
+        "Name": "iMac (Early 2009)<br>(24-inch)",
         "Type": "iMac",
         "image": "imac_aluminium_24.png",
         "Info": {
@@ -1011,10 +1011,10 @@
                 "Introduced": "Mar 2009",
                 "Discontinued": "Oct 2009",
                 "Model Identifier": "iMac9,1",
-                "Model Number": "A1225 (2009)",
+                "Model Number": "A1225 (Early 2009)",
                 "EMC": "2267",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>11.5 kg, 52 H x 56.9 x 20.7 cm <br> 25.4 lbs, 20.5 H x 22.4 W x 8.1 D inch"
+                "Weight/Dimensions": "11.5 kg, 52 H x 56.9 x 20.7 cm <br> 25.4 lbs, 20.5 H x 22.4 W x 8.1 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (E8135, E8335, E8435) ('Penryn')",
@@ -1057,7 +1057,7 @@
             }
         }
     }, {
-        "Name": "iMac Mid 2009 20-inch",
+        "Name": "iMac (Mid 2009)<br>(20-inch)",
         "Type": "iMac",
         "image": "imac_aluminium_20.png",
         "Info": {
@@ -1068,7 +1068,7 @@
                 "Model Number": "A1224 (Mid 2009)",
                 "EMC": "2266",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
+                "Weight/Dimensions": "9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (P7350, P7550) ('Penryn')",
@@ -1123,7 +1123,7 @@
                 "Model Number": "A1311",
                 "EMC": "2308",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>9.3 kg, 45.1 H x 52.8 W x 18.85 D cm<br>20.5 lbs, 17.75 H x 20.8 W x 7.42 D inch"
+                "Weight/Dimensions": "9.3 kg, 45.1 H x 52.8 W x 18.85 D cm<br>20.5 lbs, 17.75 H x 20.8 W x 7.42 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (E7600, E8600) ('Wolfdale')",
@@ -1179,7 +1179,7 @@
                 "Model Number": "A1312",
                 "EMC": "2309 (C2D) or 2374 (Ci5, Ci7)",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>13.8 kg, 51.7 H x 65 W x 20.7 D cm <br>30.5 lbs, 20.4 H x 25.6 W x 8.15 D inch"
+                "Weight/Dimensions": "13.8 kg, 51.7 H x 65 W x 20.7 D cm <br>30.5 lbs, 20.4 H x 25.6 W x 8.15 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (E7600, E8600) ('Wolfdale'), Intel Core i5 (750), Intel Core i7 (860) ('Lynnfield')",
@@ -1224,7 +1224,7 @@
             }
         }
     }, {
-        "Name": "iMac (21.5 inch, Mid 2010)",
+        "Name": "iMac (21.5-inch, Mid 2010)",
         "Type": "iMac",
         "image": "imac_unibody_21.png",
         "Info": {
@@ -1234,7 +1234,7 @@
                 "Model Identifier": "iMac11,2",
                 "Model Number": "A1311 (2010)",
                 "EMC": "2389",
-                "Weight/Dimensions": "<br>9.3 kg, 45.1 H x 52.8 W x 18.85 D cm<br>20.5 lbs, 17.75 H x 20.8 W x 7.42 D inch"
+                "Weight/Dimensions": "9.3 kg, 45.1 H x 52.8 W x 18.85 D cm<br>20.5 lbs, 17.75 H x 20.8 W x 7.42 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i3 (540, 550) or Core i5 (680) ('Clarkdale')",
@@ -1290,7 +1290,7 @@
                 "Model Identifier": "iMac11,3",
                 "Model Number": "A1312 (2010)",
                 "EMC": "2390",
-                "Weight/Dimensions": "<br>13.8 kg, 51.7 H x 65 W x 20.7 D cm <br>30.5 lbs, 20.4 H x 25.6 W x 8.15 D inch"
+                "Weight/Dimensions": "13.8 kg, 51.7 H x 65 W x 20.7 D cm <br>30.5 lbs, 20.4 H x 25.6 W x 8.15 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i3 (550), Core i5 (680, 760) or Core i7 (870) ('Clarkdale', 'Lynnfield')",
@@ -1347,7 +1347,7 @@
                 "Model Identifier": "iMac12,1",
                 "Model Number": "A1311 (2011)",
                 "EMC": "2428",
-                "Weight/Dimensions": "<br>9.3 kg, 45.1 H x 52.8 W x 18.85 D cm<br>20.5 lbs, 17.75 H x 20.8 W x 7.42 D inch"
+                "Weight/Dimensions": "9.3 kg, 45.1 H x 52.8 W x 18.85 D cm<br>20.5 lbs, 17.75 H x 20.8 W x 7.42 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (2400S, 2500S) or i7 (2600S) ('Sandy Bridge')",
@@ -1403,7 +1403,7 @@
                 "Model Identifier": "iMac12,2",
                 "Model Number": "A1312 (2011)",
                 "EMC": "2429",
-                "Weight/Dimensions": "<br>13.8 kg, 51.7 H x 65 W x 20.7 D cm <br>30.5 lbs, 20.4 H x 25.6 W x 8.15 D inch"
+                "Weight/Dimensions": "13.8 kg, 51.7 H x 65 W x 20.7 D cm <br>30.5 lbs, 20.4 H x 25.6 W x 8.15 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (2500S, 2400) or i7 (2600) ('Sandy Bridge')",
@@ -1459,7 +1459,7 @@
                 "Model Identifier": "iMac12,1",
                 "Model Number": "A1311 (Late 2011)",
                 "EMC": "2496",
-                "Weight/Dimensions": "<br>9.3 kg, 45.1 H x 52.8 W x 18.85 D cm<br>20.5 lbs, 17.75 H x 20.8 W x 7.42 D inch"
+                "Weight/Dimensions": "9.3 kg, 45.1 H x 52.8 W x 18.85 D cm<br>20.5 lbs, 17.75 H x 20.8 W x 7.42 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i3 (2100) ('Sandy Bridge')",
@@ -1514,7 +1514,7 @@
                 "Model Number": "A1418",
                 "EMC": "2544",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
+                "Weight/Dimensions": "5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (3330S, 3470S) or i7 (3770S) ('Ivy Bridge')",
@@ -1571,7 +1571,7 @@
                 "Model Number": "A1419",
                 "EMC": "2546",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
+                "Weight/Dimensions": "9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (3470S, 3470) or i7 (3770) ('Ivy Bridge')",
@@ -1627,7 +1627,7 @@
                 "Model Number": "A1418 (2013)",
                 "EMC": "2545",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
+                "Weight/Dimensions": "5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i3 (3225) ('Ivy Bridge')",
@@ -1684,7 +1684,7 @@
                 "Model Number": "A1418 (Late 2013)",
                 "EMC": "2638 (iMac14,1), 2742 (iMac14,3)",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
+                "Weight/Dimensions": "5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (4570R, 4570S) or Core i7 (4770S) ('Haswell')",
@@ -1743,7 +1743,7 @@
                 "Model Number": "A1419 (Late 2013)",
                 "EMC": "2639",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
+                "Weight/Dimensions": "9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (4570, 4670) or i7 (4771) ('Haswell')",
@@ -1801,7 +1801,7 @@
                 "Model Number": "A1418 (2014)",
                 "EMC": "2805",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
+                "Weight/Dimensions": "5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (4260U) ('Haswell')",
@@ -1858,7 +1858,7 @@
                 "Model Number": "A1419 (2014)",
                 "EMC": "2806",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
+                "Weight/Dimensions": "9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (4690) or Core i7 (4790K)",
@@ -1915,7 +1915,7 @@
                 "Model Number": "A1419 (2015)",
                 "EMC": "2806",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
+                "Weight/Dimensions": "9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (4590) ('Haswell')",
@@ -1972,7 +1972,7 @@
                 "Model Number": "A1418 (Late 2015)",
                 "EMC": "2889",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
+                "Weight/Dimensions": "5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (5250U, 5575R) ('Broadwell')",
@@ -2031,7 +2031,7 @@
                 "Model Number": "A1418 (4K Late 2015)",
                 "EMC": "2833",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
+                "Weight/Dimensions": "5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (5675R) or Core i7 (5775R) ('Broadwell')",
@@ -2090,7 +2090,7 @@
                 "Model Number": "A1419 (Late 2015)",
                 "EMC": "2834",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
+                "Weight/Dimensions": "9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (6500, 6600) or i7 (6700K)",
@@ -2148,7 +2148,7 @@
                 "Model Number": "A1418 (2017)",
                 "EMC": "3068",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
+                "Weight/Dimensions": "5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (7360U) ('Kaby Lake')",
@@ -2208,7 +2208,7 @@
                 "Model Number": "A1418 (4K 2017)",
                 "EMC": "3069",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
+                "Weight/Dimensions": "5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (7400, 7500) or Core i7 (7700)",
@@ -2263,7 +2263,7 @@
                 "Model Number": "A1419 (5K 2017)",
                 "EMC": "3070",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
+                "Weight/Dimensions": "9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (7500, 7600, 7600K) or Core i7 (7700K)",
@@ -2321,7 +2321,7 @@
                 "Model Number": "A1862",
                 "EMC": "3144",
                 "Color": "Space Gray",
-                "Weight/Dimensions": "<br>9.7 kg, 51.6 H x 65 W x 20.3 D cm<br>21.5 lbs, 20.3 H x 25.6 W x 8 D inch"
+                "Weight/Dimensions": "9.7 kg, 51.6 H x 65 W x 20.3 D cm<br>21.5 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
                 "Name": "Intel Xeon W (W-2140B, W-2150B, W-2170B, W-2190B)",
@@ -2376,7 +2376,7 @@
                 "Model Number": "A2116",
                 "EMC": "3195",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>5.6 kg, 45 H x 52.8 W x 17.5 D cm<br>12.3 lbs., 17.7 H x 20.8 W x 6.9 D inch"
+                "Weight/Dimensions": "5.6 kg, 45 H x 52.8 W x 17.5 D cm<br>12.3 lbs., 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i3 (8100), Core i5 (8500), or Core i7 (8700)",
@@ -2434,7 +2434,7 @@
                 "Model Number": "A2115",
                 "EMC": "3194",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>9.42 kg, 51.6 H x 65 W x 20.3 D cm<br>20.8 lbs, 20.3 H x 25.6 W x 8 D inch"
+                "Weight/Dimensions": "9.42 kg, 51.6 H x 65 W x 20.3 D cm<br>20.8 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (8500, 8600, 9600K) or Core i9 (9900K)",
@@ -2489,7 +2489,7 @@
                 "Model Number": "A2115 (2020)",
                 "EMC": "3442",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>8.92 kg, 51.6 H x 65 W x 20.3 D cm<br>19.7 lbs, 20.3 H x 25.6 W x 8 D inch"
+                "Weight/Dimensions": "8.92 kg, 51.6 H x 65 W x 20.3 D cm<br>19.7 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (10500, 10600), Core i7 (10700K) or Core i9 (10910) ('Comet Lake')",
@@ -2542,7 +2542,7 @@
                     "Model Number": "<li>A2439<br><li>A2438",
                     "EMC": "3664 (2-Ports) or 3663 (4-Ports)",
                     "Color": "Silver, Pink, Blue, Green (2-Ports) or Silver, Pink, Blue, Green, Purple, Orange, Yellow (4-Ports)",
-                    "Weight/Dimensions": "<br>4.46 kg (2-Ports) or 4.48 kg (4-Ports), 46.1 H x 54.7 W x 14.7 D cm<br>9.83 lbs (2-Ports) or 9.88 lbs (4-Ports), 18.1 H x 21.5 W x 5.8 D inch"
+                    "Weight/Dimensions": "4.46 kg (2-Ports) or 4.48 kg (4-Ports), 46.1 H x 54.7 W x 14.7 D cm<br>9.83 lbs (2-Ports) or 9.88 lbs (4-Ports), 18.1 H x 21.5 W x 5.8 D inch"
                 },
                 "Processor": {
                     "Name": "Apple M1 (APL1102)",
@@ -2599,7 +2599,7 @@
                 "Model Number": "<li>A2874<br><li>A2873",
                 "EMC": "8207 (2-Ports) or 8206 (4-Ports)",
                 "Color": "Silver, Pink, Blue, Green (2-Ports) or Silver, Pink, Blue, Green, Purple, Orange, Yellow (4-Ports)",
-                "Weight/Dimensions": "<br>4.43 kg (2-Ports) or 4.48 kg (4-Ports), 46.1 H x 54.7 W x 14.7 D cm<br>9.75 lbs (2-Ports) or 9.87 lbs (4-Ports), 18.1 H x 21.5 W x 5.8 D inch"
+                "Weight/Dimensions": "4.43 kg (2-Ports) or 4.48 kg (4-Ports), 46.1 H x 54.7 W x 14.7 D cm<br>9.75 lbs (2-Ports) or 9.87 lbs (4-Ports), 18.1 H x 21.5 W x 5.8 D inch"
             },
             "Processor": {
                 "Name": "Apple M3",
@@ -2655,7 +2655,7 @@
             "Model Number": "A3247 or A3137",
             "EMC": "8531 (2-Ports) or 8532 (4-Ports)",
             "Color": "Blue, Green, Purple, Pink, Orange, Yellow",
-            "Weight/Dimensions": "<br>4.42 kg (2-Ports) 4.44 kg (4-Ports), 45.97 H x 54.61 W x 14.73 D cm<br>9.74 lbs (2-Ports) or 9.79 lbs (4-Ports), 18.1 H x 21.5 W x 5.8 D inch"
+            "Weight/Dimensions": "4.42 kg (2-Ports) 4.44 kg (4-Ports), 45.97 H x 54.61 W x 14.73 D cm<br>9.74 lbs (2-Ports) or 9.79 lbs (4-Ports), 18.1 H x 21.5 W x 5.8 D inch"
         },
         "Processor": {
             "Name": "Apple M4",

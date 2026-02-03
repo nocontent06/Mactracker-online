@@ -3,9 +3,7 @@
     <head>
         <title id="title"></title>
 
-        <link
-            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
-            rel="stylesheet">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" rel="stylesheet">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Mactracker Online provides detailed technical information on some Apple Macs along with Apple branded Mac-compatible devices.">
         
@@ -25,7 +23,6 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <!-- <h1>Search Results</h1> -->
         <nav id="navbar-container" class="navbar navbar-expand-lg navbar-dark bg-dark"></nav>
         <script>
             fetch('./navbar.html')
@@ -53,6 +50,8 @@
                 searchFormNav.addEventListener("keypress", function (event) {
                     if (event.key === "Enter") {
                         event.preventDefault();
+                        const searchInputNav = document.getElementById("search-input-nav");
+                        const linkTagNav = document.getElementById("a-bt");
                         let webLink = `results.html?search=${searchInputNav.value}`;
                         linkTagNav.setAttribute("href", webLink);
                         linkTagNav.click();
@@ -60,17 +59,70 @@
                 });
               })
               .catch(err => console.error('Error loading navbar:', err));
-        </script>  
+        </script>
+
         <div class="loading-screen">
             <div class="spinner"></div>
         </div>
+
         <div id="search-results-container">
-            <div id="search-results"></div>
-            
+            <div class="sort-controls" style="text-align: center; margin: 20px 0; display: none;">
+                <label for="sort-select" style="margin-right: 10px; font-weight: bold; color: #fff;">Sort by:</label>
+                <select id="sort-select" style="padding: 8px 12px; border-radius: 5px; border: 1px solid #444; background: #1f2937; color: #fff; font-size: 14px; cursor: pointer;">
+                    <option value="name-asc">Name (A-Z)</option>
+                    <option value="name-desc">Name (Z-A)</option>
+                    <option value="date-newest">Newest First</option>
+                    <option value="date-oldest">Oldest First</option>
+                    <option value="model-asc">Model ID (A-Z)</option>
+                    <option value="model-desc">Model ID (Z-A)</option>
+                </select>
+            </div>
+            <div id="search-results" class="resultContainer"></div>
         </div>
-        
+
+        <!-- Add Footer HTML Structure -->
+        <footer class="footer">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>About Mactracker Online</h3>
+                    <p>A comprehensive database of Apple devices, providing detailed information about Mac, iPhone, iPad, and other Apple products.</p>
+                    <p class="version-info">Version loading...</p>
+                    <p class="version-info">Commit: loading...</p>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <a href="index.html">Home</a><br>
+                    <a href="results.html">Search</a><br>
+                    <a href="#" onclick="window.location.href='results.html?search=Mac'">All Macs</a><br>
+                    <a href="#" onclick="window.location.href='results.html?search=iPhone'">All iPhones</a><br>
+                    <a href="#" onclick="window.location.href='results.html?search=iPad'">All iPads</a>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Resources</h3>
+                    <a href="https://github.com/nocontent06" target="_blank" aria-label="GitHub">GitHub Repository</a><br>
+                    <a href="https://discord.gg/hyTP8ynDAz" target="_blank" aria-label="Discord">Discord Community</a><br>
+                    <a href="#" onclick="window.open('https://everymac.com/', '_blank')">EveryMac.com</a><br>
+                    <a href="#" onclick="window.open('https://support.apple.com/', '_blank')">Apple Support</a>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Legal</h3>
+                    <p class="version-info">©2023-2026 MangoCoding-Inc. (Felix)</p>
+                    <p class="version-info">All rights reserved.</p>
+                    <p>Apple, Mac, iPhone, iPad are trademarks of Apple Inc.</p>
+                    <p>This is an unofficial fan project.</p>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>Made with ❤️ by Felix | Not affiliated with Apple Inc.</p>
+            </div>
+        </footer>
+
+        <!-- Scripts -->
         <script src="main.js"></script>
         <script src="results.js"></script>
-        
     </body>
 </html>

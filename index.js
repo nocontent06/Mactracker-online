@@ -1,12 +1,10 @@
 const searchFormIndex = document.getElementById("search-form-index");
-const searchInputIndex = document.getElementById("search-input-index"); // search input
-const searchWrapper = document.querySelector(".form-group"); // div -> search form
-let inputBox = document.querySelector("input"); // input
-let linkTag = document.getElementById("a-index"); // link
+const searchInputIndex = document.getElementById("search-input-index");
+let linkTag = document.getElementById("a-index");
 
 const searchFormNav = document.getElementById("search-form-nav");
-const searchInputNav = document.getElementById("search-input-nav"); // search input
-let linkTagNav = document.getElementById("a-bt"); // link
+const searchInputNav = document.getElementById("search-input-nav");
+let linkTagNav = document.getElementById("a-bt");
 
 searchFormIndex.addEventListener("keypress", function (event) {
     if (event.key === "Enter") {
@@ -17,93 +15,123 @@ searchFormIndex.addEventListener("keypress", function (event) {
     }
 });
 
-let footer_index = document.createElement("footer");
-footer_index.setAttribute("class", "footer");
-footer_index.innerText = returnString;
-footer_index.innerHTML += '<br> \
-    <a href="https://github.com/nocontent06" target="_blank" style="col' +
-        'or: gray">\
-    <i class="fa-brands fa-github" style="font-size: 3vh"></i>\
-  ' +
-        '  </a>\
-    \
-    <a href="https://discord.gg/hyTP8ynDAz" target="_blank" styl' +
-        'e="color: gray">\
-    <i class="fa-brands fa-discord" style="font-size: 3vh"><' +
-        '/i>\
-    </a><br>\
-    <p style="color: gray">Data provided by \
-    <li class' +
-        '="no-style-type">Me, myself and I with all my Macs</li>\
-    <li class="no-sty' +
-        'le-type"><a href="https://apple.com" target="_blank" style="color: gray">Apple' +
-        ' Inc.</a></li>\
-    <li class="no-style-type"><a href="https://everymac.com" t' +
-        'arget="_blank" style="color: gray">EveryMac.com</a></li>'
+// Update footer dynamically with main.js variables
+function updateFooter() {
+    // Wait for main.js variables to be available
+    if (typeof version === 'undefined' || typeof build === 'undefined' || typeof commit === 'undefined') {
+        // If variables aren't loaded yet, try again in a bit
+        setTimeout(updateFooter, 200);
+        return;
+    }
 
-searchFormIndex.appendChild(footer_index);
+    const versionInfoElements = document.querySelectorAll('.version-info');
+    if (versionInfoElements.length >= 4) {
+        versionInfoElements[0].textContent = `Version ${version} (Build ${build})`;
+        versionInfoElements[1].textContent = `Commit: ${commit}`;
+        versionInfoElements[2].textContent = `©2023-2026 MangoCoding-Inc. (Felix)`;
+        versionInfoElements[3].textContent = "All rights reserved.";
+    }
+
+    // Update social links with correct URLs
+    const githubLink = document.querySelector('a[aria-label="GitHub"]');
+    const discordLink = document.querySelector('a[aria-label="Discord"]');
+    
+    if (githubLink) {
+        githubLink.href = "https://github.com/nocontent06";
+    }
+    
+    if (discordLink) {
+        discordLink.href = "https://discord.gg/hyTP8ynDAz";
+    }
+}
+
+// Cache for loaded JSON data  
+const jsonCacheIndex = new Map();
 
 const fetchJSON = async (url) => {
+    // Check if data is already cached
+    if (jsonCacheIndex.has(url)) {
+        console.log(`Using cached data for ${url}`);
+        return jsonCacheIndex.get(url);
+    }
+    
     const response = await fetch(url);
     if (!response.ok) {
         throw new Error(`Failed to fetch ${url}`);
     }
-    return await response.json();
+    const data = await response.json();
+    
+    // Cache the data
+    jsonCacheIndex.set(url, data);
+    return data;
 };
 
 async function fetchData() {
-    const iPhones = await fetchJSON(`Models/iPhone.json`);
-    const MacBooks = await fetchJSON(`Models/MacBook Pro.json`);
-    const featuredArray = [iPhones[iPhones.length - 1], iPhones[iPhones.length - 2], iPhones[iPhones.length - 4], MacBooks[MacBooks.length - 3], MacBooks[MacBooks.length - 1]];
+    try {
+        const iPhones = await fetchJSON(`Models/iPhone.json`);
+        const MacBooks = await fetchJSON(`Models/MacBook Pro.json`);
+        const featuredArray = [
+            iPhones[iPhones.length - 1], 
+            iPhones[iPhones.length - 2], 
+            iPhones[iPhones.length - 4], 
+            MacBooks[MacBooks.length - 3], 
+            MacBooks[MacBooks.length - 1]
+        ];
 
-    for (let index = 0; index < featuredArray.length; index++) {
-        const item = featuredArray[index]; // Corrected variable name
         const featuredContainer = document.getElementById('featuredContainer');
-        featuredContainer
-            .classList
-            .add("resultContainer")
+        
+        for (let index = 0; index < featuredArray.length; index++) {
+            const item = featuredArray[index];
 
-        const featuredBox = document.createElement("div");
-        featuredBox
-            .classList
-            .add("featuredBox", "result");
+            const featuredBox = document.createElement("div");
+            featuredBox.classList.add("result");
 
-        let fImage = document.createElement("img");
-        fImage.src = `img/${item.image}`;
-        fImage
-            .classList
-            .add("featured_img");
+            // Create image container
+            const imageContainer = document.createElement("div");
+            imageContainer.classList.add("featured_img");
+            
+            const fImage = document.createElement("img");
+            fImage.src = `img/${item.image}`;
+            fImage.alt = item.Name;
+            
+            imageContainer.appendChild(fImage);
+            featuredBox.appendChild(imageContainer);
 
-        featuredBox.prepend(fImage);
+            // Create text content
+            const nameElement = document.createElement("div");
+            nameElement.classList.add("res_name");
+            nameElement.innerHTML = item.Name; // Changed from textContent to innerHTML
+            
+            const modelElement = document.createElement("div");
+            modelElement.classList.add("mid_text_result");
+            let modelId = item.Info.Overview["Model Identifier"];
+            modelId = modelId.replace(/_/g, " ");
+            modelElement.innerHTML = modelId; // Changed from textContent to innerHTML
 
-        const text = document.createElement("div");
-        let MId = item
-            .Info
-            .Overview["Model Identifier"];
-        MId = MId.replace(/_/g, " ");
-        text
-            .classList
-            .add("result__text");
-        text.innerHTML = `<p class="mid_text_result">${item
-            .Name}</p>
-            <p id='mid_text_${item
-            .Info
-            .Overview["Model Identifier"]
-            .replace(/,/g, "")
-            .replace(/ /g, "")
-            .replace("(", "")
-            .replace(")", "")}'>${MId} </p>`;
-        featuredBox.appendChild(text);
+            featuredBox.appendChild(nameElement);
+            featuredBox.appendChild(modelElement);
+            featuredContainer.appendChild(featuredBox);
 
-        featuredContainer.appendChild(featuredBox);
-
-        featuredBox.addEventListener("click", function () {
-            location.href = `detailed.html?modelNumber=${item
-                .Info
-                .Overview["Model Number"]}&type=${item
-                .Type}`;
-        });
+            // Add click event
+            featuredBox.addEventListener("click", function () {
+                location.href = `detailed.html?modelNumber=${item.Info.Overview["Model Number"]}&type=${item.Type}`;
+            });
+        }
+    } catch (error) {
+        console.error('Error fetching data:', error);
+        const featuredContainer = document.getElementById('featuredContainer');
+        featuredContainer.innerHTML = '<p>Error loading featured items. Please try again later.</p>';
     }
 }
 
-fetchData();
+// Initialize everything when DOM is loaded
+document.addEventListener('DOMContentLoaded', function() {
+    // Add a small delay to ensure main.js variables are loaded
+    setTimeout(() => {
+        updateFooter();
+        fetchData();
+    }, 100);
+});
+
+// If main.js is loaded after this script, we can also call updateFooter after a short delay
+setTimeout(updateFooter, 100);

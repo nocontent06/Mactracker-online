@@ -10,7 +10,7 @@
                 "Model Identifier": "<br>Mac13,1 (M1 Max)<br>Mac13,2 (M1 Ultra)",
                 "Model Number": "A2615",
                 "EMC": "3988",
-                "Weight/Dimensions": "<br>2.7 kg, 9.5 H x 19.7 W x 19.7 D cm (M1 Max)<br>5.9 lbs, 3.7 H x 7.7 W x 7.7 D in (M1 Max)<br>3.6 kg, 9.5 H x 19.7 W x 19.7 D cm (M1 Ultra)<br>7.9 lbs, 3.7 H x 7.7 W x 7.7 D in (M1 Ultra)"
+                "Weight/Dimensions": "2.7 kg, 9.5 H x 19.7 W x 19.7 D cm (M1 Max)<br>5.9 lbs, 3.7 H x 7.7 W x 7.7 D in (M1 Max)<br>3.6 kg, 9.5 H x 19.7 W x 19.7 D cm (M1 Ultra)<br>7.9 lbs, 3.7 H x 7.7 W x 7.7 D in (M1 Ultra)"
             },
             "Processor": {
                 "Processor Name": "Apple M1 Max or M1 Ultra",
@@ -58,7 +58,7 @@
                 "Model Identifier": "<br>Mac14,13 (M2 Max)<br>Mac14,14 (M2 Ultra)",
                 "Model Number": "A2901",
                 "EMC": "8292",
-                "Weight/Dimensions": "<br>2.7 kg, 9.5 H x 19.7 W x 19.7 D cm (M2 Max)<br>5.9 lbs, 3.7 H x 7.7 W x 7.7 D in (M2 Max)<br>3.6 kg, 9.5 H x 19.7 W x 19.7 D cm (M2 Ultra)<br>7.9 lbs, 3.7 H x 7.7 W x 7.7 D in (M2 Ultra)"
+                "Weight/Dimensions": "2.7 kg, 9.5 H x 19.7 W x 19.7 D cm (M2 Max)<br>5.9 lbs, 3.7 H x 7.7 W x 7.7 D in (M2 Max)<br>3.6 kg, 9.5 H x 19.7 W x 19.7 D cm (M2 Ultra)<br>7.9 lbs, 3.7 H x 7.7 W x 7.7 D in (M2 Ultra)"
             },
             "Processor": {
                 "Processor Name": "Apple M2 Max or M2 Ultra",

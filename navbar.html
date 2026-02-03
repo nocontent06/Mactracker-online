@@ -1,104 +1,125 @@
 <body>
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#"><img src="/favicon.ico" alt="" width="30" height="30"></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
-                <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="/">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="https://github.com/nocontent06/mactracker-online" target="_blank">GitHub</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Models
-                    </a>
-                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDropdown">
-                        <p class="dropdown-header">Macs</p>
-                        <li>
-                            <a class="dropdown-item" href="/results.html?search=MacBook">MacBook</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="/results.html?search=MacBook Air">MacBook Air</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="/results.html?search=MacBook Pro">MacBook Pro</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="/results.html?search=iMac">iMac</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="/results.html?search=Mac Mini">Mac Mini</a>
-                        </li>
-                        <li>
-                            <hr class="dropdown-divider">
-                        </li>
-                        <p class="dropdown-header">Mobile</p>
-                        <li>
-                            <a href="/results.html?search=iPhone" class="dropdown-item">iPhone</a>
-                        </li>
-                        <li>
-                            <a href="/results.html?search=iPad" class="dropdown-item">iPad</a>
-                        </li>
-                        <li>
-                            <a href="/results.html?search=iPod" class="dropdown-item">iPod</a>
-                        </li>
-                        <li>
-                            <hr class="dropdown-divider">
-                        </li>
-                        <p class="dropdown-header">Accessories</p>
-                        <li>
-                            <a href="/results.html?search=Apple Watch" class="dropdown-item">Apple Watch</a>
-                        </li>
-                        <li>
-                            <a href="/results.html?search=Apple TV" class="dropdown-item">Apple TV</a>
-                        </li>
-                        <li>
-                            <a href="/results.html?search=Display" class="dropdown-item">(WIP) Display</a>
-                        </li>
-                        <li>
-                            <hr class="dropdown-divider">
-                        </li>
-                        <p class="dropdown-header">OS</p>
-                        <li>
-                            <a href="/results.html?search=iPhoneOS" class="dropdown-item">iPhoneOS</a>
-                        </li>
-                        <li>
-                            <a href="/results.html?search=iOS" class="dropdown-item">iOS</a>
-                        </li>
-                        <li>
-                            <a href="/results.html?search=MacOS" class="dropdown-item">(WIP) macOS</a>
-                        </li>
-                        <li>
-                            <a href="/results.html?search=tvOS" class="dropdown-item">(WIP) tvOS</a>
-                        </li>
-                        <li>
-                            <a href="/results.html?search=watchOS" class="dropdown-item">(WIP) watchOS</a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="https://github.com/nocontent06/Mactracker-online-test/blob/main/release_notes.md" target="_blank">Release Notes</a>
-                </li>
-            </ul>
-            <form class="d-flex search-form-nav " id="search-form-nav">
-                <div class="wrapper">
-                    <div class="search-form">
-                        <a href="#" id="a-bt" hidden="hidden"></a>
-                        <span class="material-symbols-outlined form-icon">
-                            search
-                        </span>
-                        <input
-                            class="search-input-nav"
-                            id="search-input-nav"
-                            type="text"></div>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <!-- Brand with enhanced styling -->
+            <div class="navbar-brand-container">
+                <a class="navbar-brand" href="/">
+                    <div class="brand-logo">
+                        <img src="/favicon.ico" alt="Mactracker" width="32" height="32">
+                        <span class="brand-text">Mactracker</span>
+                    </div>
+                </a>
+            </div>
+
+            <!-- Mobile toggle with custom styling -->
+            <button class="navbar-toggler custom-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="toggler-line"></span>
+                <span class="toggler-line"></span>
+                <span class="toggler-line"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <!-- Main navigation -->
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link nav-link-enhanced active" aria-current="page" href="/">
+                            <span class="material-symbols-outlined">home</span>
+                            Home
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link nav-link-enhanced" href="https://github.com/nocontent06/mactracker-online" target="_blank">
+                            <span class="material-symbols-outlined">code</span>
+                            GitHub
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle nav-link-enhanced" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <span class="material-symbols-outlined">devices</span>
+                            Models
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-enhanced" aria-labelledby="navbarDropdown">
+                            <div class="dropdown-section">
+                                <p class="dropdown-header">
+                                    <span class="material-symbols-outlined">computer</span>
+                                    Macs
+                                </p>
+                                <li><a class="dropdown-item dropdown-item-enhanced" href="/results.html?search=MacBook">MacBook</a></li>
+                                <li><a class="dropdown-item dropdown-item-enhanced" href="/results.html?search=MacBook Air">MacBook Air</a></li>
+                                <li><a class="dropdown-item dropdown-item-enhanced" href="/results.html?search=MacBook Pro">MacBook Pro</a></li>
+                                <li><a class="dropdown-item dropdown-item-enhanced" href="/results.html?search=iMac">iMac</a></li>
+                                <li><a class="dropdown-item dropdown-item-enhanced" href="/results.html?search=Mac Mini">Mac Mini</a></li>
+                            </div>
+                            
+                            <div class="dropdown-divider-enhanced"></div>
+                            
+                            <div class="dropdown-section">
+                                <p class="dropdown-header">
+                                    <span class="material-symbols-outlined">smartphone</span>
+                                    Mobile
+                                </p>
+                                <li><a href="/results.html?search=iPhone" class="dropdown-item dropdown-item-enhanced">iPhone</a></li>
+                                <li><a href="/results.html?search=iPad" class="dropdown-item dropdown-item-enhanced">iPad</a></li>
+                                <li><a href="/results.html?search=iPod" class="dropdown-item dropdown-item-enhanced">iPod</a></li>
+                            </div>
+                            
+                            <div class="dropdown-divider-enhanced"></div>
+                            
+                            <div class="dropdown-section">
+                                <p class="dropdown-header">
+                                    <span class="material-symbols-outlined">watch</span>
+                                    Accessories
+                                </p>
+                                <li><a href="/results.html?search=Apple Watch" class="dropdown-item dropdown-item-enhanced">Apple Watch</a></li>
+                                <li><a href="/results.html?search=Apple TV" class="dropdown-item dropdown-item-enhanced">Apple TV</a></li>
+                                <li><a href="/results.html?search=Display" class="dropdown-item dropdown-item-enhanced">Display</a></li>
+                            </div>
+                            
+                            <div class="dropdown-divider-enhanced"></div>
+                            
+                            <div class="dropdown-section">
+                                <p class="dropdown-header">
+                                    <span class="material-symbols-outlined">settings</span>
+                                    Operating Systems
+                                </p>
+                                <li><a href="/results.html?search=iOS" class="dropdown-item dropdown-item-enhanced">iOS</a></li>
+                                <li><a href="/results.html?search=macOS" class="dropdown-item dropdown-item-enhanced">
+                                    macOS <span class="badge-wip">WIP</span>
+                                </a></li>
+                                <li><a href="/results.html?search=tvOS" class="dropdown-item dropdown-item-enhanced">
+                                    tvOS <span class="badge-wip">WIP</span>
+                                </a></li>
+                                <li><a href="/results.html?search=watchOS" class="dropdown-item dropdown-item-enhanced">
+                                    watchOS <span class="badge-wip">WIP</span>
+                                </a></li>
+                            </div>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link nav-link-enhanced" href="https://github.com/nocontent06/Mactracker-online-test/blob/main/release_notes.md" target="_blank">
+                            <span class="material-symbols-outlined">article</span>
+                            Release Notes
+                        </a>
+                    </li>
+                </ul>
+
+                <!-- Enhanced search form -->
+                <form class="search-form-container" id="search-form-nav">
+                    <div class="search-wrapper-nav">
+                        <div class="search-form-nav">
+                            <a href="#" id="a-bt" hidden="hidden"></a>
+                            <span class="material-symbols-outlined search-icon">search</span>
+                            <input
+                                class="search-input-nav"
+                                id="search-input-nav"
+                                type="text"
+                                placeholder="Search devices...">
+                            <div class="search-border-glow"></div>
+                        </div>
                         <div class="autocom-box"></div>
                     </div>
-                </div>
-            </form>
-        </div>
-    </div> 
+                </form>
+            </div>
+        </div> 
+    </nav>
 </body>

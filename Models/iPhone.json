@@ -10,30 +10,30 @@
                 "Model Identifier": "iPhone1,1",
                 "Model Number": "A1203",
                 "Colors": "Black",
-                "Weight/Dimensions": "<br><li>135 g, 11.5 H x 6.1 W x 1.16 D cm <br><li>4.8 oz, 4.5 H x 2.4 W x 0.46 D inch" 
+                "Weight/Dimensions": "<li>135 g, 11.5 H x 6.1 W x 1.16 D cm <li>4.8 oz, 4.5 H x 2.4 W x 0.46 D inch" 
             },
             "Processor": {
-                "Processor Name": "Samsung ARM 1176JZ(F)-S",
-                "Processor Speed": "620 MHz (running at 412 MHz)",
+                "Name": "Samsung ARM 1176JZ(F)-S",
+                "Speed": "620 MHz (running at 412 MHz)",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "90 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iPhoneOS&type=iPhoneOS'>iPhoneOS 1.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iPhoneOS%203&type=iPhoneOS'>iPhoneOS 3.1.3</a>"
+                "Original OS": "iPhoneOS 1.0",
+                "Maximum OS": "iPhoneOS 3.1.3"
             },
             "Memory": {
                 "Built-in Memory": "128 MB LPDDR"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR MBX Lite",
-                "# of Graphics Cores": "1"
+                "Chip": "PowerVR MBX Lite",
+                "# of Cores": "1"
             },
             "Display": {
-                "Display Type": "LCD Display",
-                "Display Size": "3.5-inch widescreen",
-                "Display Resolution": "320 x 480"
+                "Type": "LCD Display",
+                "Size": "3.5-inch widescreen",
+                "Resolution": "320 x 480"
             },
             "Storage": {
                 "Capacity": "4, 8, or 16 GB"
@@ -65,33 +65,34 @@
                 "Introduced": "Jul 2008",
                 "Discontinued": "Jun 2010",
                 "Model Identifier": "iPhone1,2",
-                "Model Number": "A1241, A1324",
+                "Model Number": "A1241",
+                "Other Model Numbers": "A1324",
                 "EMC": "2347",
                 "Colors": "Black (8, 16 GB) White (16 GB)",
-                "Weight/Dimensions":"<br><li>133 g, 11.55 H x 6.21 W x 1.26 D cm <br><li>4.7 oz, 4.5 H x 2.4 W x 0.48 D inch"
+                "Weight/Dimensions":"<li>133 g, 11.55 H x 6.21 W x 1.26 D cm <li>4.7 oz, 4.5 H x 2.4 W x 0.48 D inch"
             },
             "Processor": {
-                "Processor Name": "Samsung ARM 1176JZ(F)-S",
-                "Processor Speed": "620 MHz (running at 412 MHz)",
+                "Name": "Samsung ARM 1176JZ(F)-S",
+                "Speed": "620 MHz (running at 412 MHz)",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "90 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iPhoneOS%202&type=iPhoneOS'>iPhoneOS 2.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%204&type=iOS'>iOS 4.2.1</a>"
+                "Original OS": "iPhoneOS 2.0",
+                "Maximum OS": "iOS 4.2.1"
             },
             "Memory": {
                 "Built-in Memory": "128 MB LPDDR"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR MBX Lite",
-                "# of Graphics Cores": "1"
+                "Chip": "PowerVR MBX Lite",
+                "# of Cores": "1"
             },
             "Display": {
-                "Display Type": "LCD Display",
-                "Display Size": "3.5-inch widescreen",
-                "Display Resolution": "320 x 480"
+                "Type": "LCD Display",
+                "Size": "3.5-inch widescreen",
+                "Resolution": "320 x 480"
             },
             "Storage": {
                 "Capacity": "8 or 16 GB"
@@ -123,33 +124,34 @@
                 "Introduced": "Jun 2009 (16, 32) Jun 2010 (8)",
                 "Discontinued": "Jun 2010 (16, 32) Sep (8)",
                 "Model Identifier": "iPhone2,1",
-                "Model Number": "A1303, A1325",
+                "Model Number": "A1303",
+                "Other Model Numbers": "A1325",
                 "EMC": "2315",
                 "Colors": "Black (8, 16, 32 GB) White (16, 32 GB)",
-                "Weight/Dimensions": "<br><li>135 g, 11.55 H x 6.21 W x 1.26 D cm <br><li>4.8 oz, 4.5 H x 2.4 W x 0.48 D inch"
+                "Weight/Dimensions": "<li>135 g, 11.55 H x 6.21 W x 1.26 D cm <li>4.8 oz, 4.5 H x 2.4 W x 0.48 D inch"
             },
             "Processor": {
-                "Processor Name": "Samsung S5PC100",
-                "Processor Speed": "833 MHz (running at 600 MHz)",
+                "Name": "Samsung S5PC100",
+                "Speed": "833 MHz (running at 600 MHz)",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "65 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iPhoneOS%203&type=iPhoneOS'>iPhoneOS 3.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%206&type=iOS'>iOS 6.1.6</a>"
+                "Original OS": "iPhoneOS 3.0",
+                "Maximum OS": "iOS 6.1.6"
             },
             "Memory": {
                 "Built-in Memory": "256 MB LPDDR"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX535",
-                "# of Graphics Cores": "1"
+                "Chip": "PowerVR SGX535",
+                "# of Cores": "1"
             },
             "Display": {
-                "Display Type": "LCD Display",
-                "Display Size": "3.5-inch widescreen",
-                "Display Resolution": "320 x 480",
+                "Type": "LCD Display",
+                "Size": "3.5-inch widescreen",
+                "Resolution": "320 x 480",
                 "Brightness": "428 nits"
             },
             "Storage": {
@@ -179,36 +181,36 @@
         "image": "iphone_4.png",
         "Info": {
             "Overview": {
-                "Introduced": "Jun 2010 (16, 32 Black) <br><li> Apr 2011 (16, 32 White) <br><li> Oct 2011 (8)",
+                "Introduced": "Jun 2010 (16, 32 Black) <li> Apr 2011 (16, 32 White) <li> Oct 2011 (8)",
                 "Discontinued": "Oct 2011 (16, 32), Sep 2013 (8)",
                 "Model Identifier": "iPhone3,1 or iPhone3,2",
                 "Model Number": "A1332",
                 "EMC": "380A, 380B",
                 "Colors": "Black, White",
-                "Weight/Dimensions": "<br><li>137 g, 11.52 H x 5.86 W x 0.93 D cm<br><li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
+                "Weight/Dimensions": "<li>137 g, 11.52 H x 5.86 W x 0.93 D cm<li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A4",
-                "Processor Speed": "1 GHz (running at 800 MHz)",
+                "Name": "Apple A4",
+                "Speed": "1 GHz (running at 800 MHz)",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "45 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%204&type=iOS'>iOS 4.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%207&type=iOS'>iOS 7.1.2</a>"
+                "Original OS": "iOS 4.0",
+                "Maximum OS": "iOS 7.1.2"
             },
             "Memory": {
                 "Built-in Memory": "512 MB LPDDR"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX535",
-                "# of Graphics Cores": "1"
+                "Chip": "PowerVR SGX535",
+                "# of Cores": "1"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "3.5-inch widescreen",
-                "Display Resolution": "960 x 640 pixels"
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "3.5-inch widescreen",
+                "Resolution": "960 x 640 pixels"
             },
             "Storage": {
                 "Capacity": "8, 16 or 32 GB"
@@ -237,36 +239,36 @@
         "image": "iphone_4.png",
         "Info": {
             "Overview": {
-                "Introduced": "Jan 2011 (16, 32 Black) <br><li> Apr 2011 (16, 32 White) <br><li> Oct 2011 (8)",
+                "Introduced": "Jan 2011 (16, 32 Black) <li> Apr 2011 (16, 32 White) <li> Oct 2011 (8)",
                 "Discontinued": "Oct 2011 (16, 32) Sep 2013 (8)",
                 "Model Identifier": "iPhone3,3",
                 "Model Number": "A1349",
                 "EMC": "2422",
                 "Colors": "Black, White",
-                "Weight/Dimensions": "<br><li>137 g, 11.52 H x 5.86 W x 0.93 D cm<br><li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
+                "Weight/Dimensions": "<li>137 g, 11.52 H x 5.86 W x 0.93 D cm<li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A4",
-                "Processor Speed": "1 GHz (running at 800 MHz)",
+                "Name": "Apple A4",
+                "Speed": "1 GHz (running at 800 MHz)",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "45 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%204&type=iOS'>iOS 4.2.5</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%207&type=iOS'>iOS 7.1.2</a>"
+                "Original OS": "iOS 4.2.5",
+                "Maximum OS": "iOS 7.1.2"
             },
             "Memory": {
                 "Built-in Memory": "512 MB LPDDR"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX535",
-                "# of Graphics Cores": "1"
+                "Chip": "PowerVR SGX535",
+                "# of Cores": "1"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "3.5-inch widescreen",
-                "Display Resolution": "960 x 640 pixels"
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "3.5-inch widescreen",
+                "Resolution": "960 x 640 pixels"
             },
             "Storage": {
                 "Capacity": "8, 16 or 32 GB"
@@ -294,36 +296,37 @@
         "image": "iphone_4S.png",
         "Info": {
             "Overview": {
-                "Introduced": "Oct 2011 (16, 32, 64) <br><li> Sep 2013 (8)",
+                "Introduced": "Oct 2011 (16, 32, 64) <li> Sep 2013 (8)",
                 "Discontinued": "Sep 2012 (32, 64) Sep 2013 (16), Sep 2014 (8)",
                 "Model Identifier": "iPhone4,1",
-                "Model Number": "A1387, A1431",
+                "Model Number": "A1387",
+                "Other Model Numbers": "A1431",
                 "EMC": "A2430",
                 "Colors":"Black, White",
-                "Weight/Dimensions": "<br><li>140 g, 11.52 H x 5.86 W x 0.93 D cm<br><li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
+                "Weight/Dimensions": "<li>140 g, 11.52 H x 5.86 W x 0.93 D cm<li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A5",
-                "Processor Speed": "1 GHz (running at 800 MHz)",
+                "Name": "Apple A5",
+                "Speed": "1 GHz (running at 800 MHz)",
                 "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "45 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%205&type=iOS'>iOS 5.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%209&type=iOS'>iOS 9.3.6</a>"
+                "Original OS": "iOS 5.0",
+                "Maximum OS": "iOS 9.3.6"
             },
             "Memory": {
                 "Built-in Memory": "512 MB LPDDR2"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP2",
-                "# of Graphics Cores": "2"
+                "Chip": "PowerVR SGX543MP2",
+                "# of Cores": "2"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "3.5-inch widescreen",
-                "Display Resolution": "960 x 640 pixels"
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "3.5-inch widescreen",
+                "Resolution": "960 x 640 pixels"
             },
             "Storage": {
                 "Capacity": "8, 16, 32, 64 GB"
@@ -355,33 +358,34 @@
                 "Introduced": "Sep 2012",
                 "Discontinued": "Sep 2013",
                 "Model Identifier": "iPhone5,1",
-                "Model Number": "A1428 (NA), A1429 (International)",
+                "Model Number": "A1428",
+                "Other Model Numbers": "A1429",
                 "EMC": "2610",
                 "Colors":"Black, Slate, White, Silver",
-                "Weight/Dimensions": "<br><li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>112 g, 12.38 H x 5.86 W x 0.76 D cm<li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A6",
-                "Processor Speed": "1.3 GHz",
+                "Name": "Apple A6",
+                "Speed": "1.3 GHz",
                 "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "32 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%206&type=iOS'>iOS 6.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2010&type=iOS'>iOS 10.3.4</a>"
+                "Original OS": "iOS 6.0",
+                "Maximum OS": "iOS 10.3.4"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR2"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP3",
-                "# of Graphics Cores": "3"
+                "Chip": "PowerVR SGX543MP3",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels"
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "4-inch widescreen",
+                "Resolution": "1136 x 640 pixels"
             },
             "Storage": {
                 "Capacity": "16, 32 or 64 GB"
@@ -416,30 +420,30 @@
                 "Model Number": "A1429",
                 "EMC": "2610",
                 "Colors":"Black, Slate, White, Silver",
-                "Weight/Dimensions": "<br><li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>112 g, 12.38 H x 5.86 W x 0.76 D cm<li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A6",
-                "Processor Speed": "1.3 GHz",
+                "Name": "Apple A6",
+                "Speed": "1.3 GHz",
                 "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "32 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%206&type=iOS'>iOS 6.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2010&type=iOS'>iOS 10.3.4</a>"
+                "Original OS": "iOS 6.0",
+                "Maximum OS": "iOS 10.3.4"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR2"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP3",
-                "# of Graphics Cores": "3"
+                "Chip": "PowerVR SGX543MP3",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels"
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "4-inch widescreen",
+                "Resolution": "1136 x 640 pixels"
             },
             "Storage": {
                 "Capacity": "16, 32 or 64 GB"
@@ -474,30 +478,30 @@
                 "Model Number": "A1442",
                 "EMC": "N/A",
                 "Colors":"Black, Slate, White, Silver",
-                "Weight/Dimensions": "<br><li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>112 g, 12.38 H x 5.86 W x 0.76 D cm<li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A6",
-                "Processor Speed": "1.3 GHz",
+                "Name": "Apple A6",
+                "Speed": "1.3 GHz",
                 "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "32 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%206&type=iOS'>iOS 6.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2010&type=iOS'>iOS 10.3.4</a>"
+                "Original OS": "iOS 6.0",
+                "Maximum OS": "iOS 10.3.4"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR2"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP3",
-                "# of Graphics Cores": "3"
+                "Chip": "PowerVR SGX543MP3",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels"
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "4-inch widescreen",
+                "Resolution": "1136 x 640 pixels"
             },
             "Storage": {
                 "Capacity": "16, 32 or 64 GB"
@@ -528,34 +532,34 @@
             "Overview": {
                 "Introduced": "Sep 2013 (16, 32), Mar 2014 (8)",
                 "Discontinued": "Sep 2014 (16, 32), Sep 2015 (8)",
-                "Model Identifier": "<br><li>iPhone5,3 (GSM/CDMA)<br><li>iPhone5,4 (CDMA)",
-                "Model Number": "A1532 (GSM/CDMA)",
-                "Other Model Numbers": "<br><li>A1456 (US/JP)<br><li>A1507 (UK/EU)<br><li>A1516<br><li>A1526 (China)<br><li>A1529 (Asia & Oceania)",
+                "Model Identifier": "<li>iPhone5,3 (GSM/CDMA)<li>iPhone5,4 (CDMA)",
+                "Model Number": "A1532",
+                "Other Model Numbers": "<li>A1456 (US/JP)<li>A1507 (UK/EU)<li>A1516<li>A1526 (China)<li>A1529 (Asia & Oceania)",
                 "EMC": "2644",
                 "Colors": "White, Pink, Yellow, Blue, Green"
             },
             "Processor": {
-                "Processor Name": "Apple A6",
-                "Processor Speed": "1.3 GHz",
+                "Name": "Apple A6",
+                "Speed": "1.3 GHz",
                 "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "32 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%207&type=iOS'>iOS 7.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2010&type=iOS'>iOS 10.3.3</a>"
+                "Original OS": "iOS 7.0",
+                "Maximum OS": "iOS 10.3.3"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR2"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP3",
-                "# of Graphics Cores": "3"
+                "Chip": "PowerVR SGX543MP3",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels",
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "4-inch widescreen",
+                "Resolution": "1136 x 640 pixels",
                 "Brightness": "500 nits"
             },
             "Storage": {
@@ -587,36 +591,36 @@
             "Overview": {
                 "Introduced": "Sep 2013",
                 "Discontinued": "Mar 2016",
-                "Model Identifier": "<br><li>iPhone6,1 (GSM)<br><li>iPhone6,2 (GSM/CDMA)",
-                "Model Number": "A1533 (NA)",
-                "Other Model Numbers": "<br><li>A1453 (US / JP)<br><li>A1457 (UK / EU)<br><li>A1518<br><li>A1528 (China)<br><li>A1530 (Asia & Oceania)",
+                "Model Identifier": "<li>iPhone6,1 (GSM)<li>iPhone6,2 (GSM/CDMA)",
+                "Model Number": "A1533",
+                "Other Model Numbers": "<li>A1453 (US / JP)<li>A1457 (UK / EU)<li>A1518<li>A1528 (China)<li>A1530 (Asia & Oceania)",
                 "EMC": "2642",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br><li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>112 g, 12.38 H x 5.86 W x 0.76 D cm<li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A7",
-                "Processor Speed": "1.3 GHz",
+                "Name": "Apple A7",
+                "Speed": "1.3 GHz",
                 "# of Cores": "2",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "259 / 476",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "28 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%207&type=iOS'>iOS 7.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2012&type=iOS'>iOS 12.5.7</a>"
+                "Original OS": "iOS 7.0",
+                "Maximum OS": "iOS 12.5.7"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR3"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR G6430",
-                "# of Graphics Cores": "4"
+                "Chip": "PowerVR G6430",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels",
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "4-inch widescreen",
+                "Resolution": "1136 x 640 pixels",
                 "Brightness": "500 nits"
             },
             "Storage": {
@@ -652,35 +656,35 @@
                 "Introduced": "Sep 2014",
                 "Discontinued": "Sep 2016",
                 "Model Identifier": "iPhone7,2",
-                "Model Number": "A1549 (GSM/CDMA)",
-                "Other Model Numbers": "<br><li>A1586<br><li>A1589",
+                "Model Number": "A1549",
+                "Other Model Numbers": "<li>A1586<li>A1589",
                 "EMC": "2816",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br><li>129 g, 13.81 H x 6.7 W x 0.69 D cm<br><li>4.55 oz, 5.44 H x 2.64 W x 0.27 D inch"
+                "Weight/Dimensions": "<li>129 g, 13.81 H x 6.7 W x 0.69 D cm<li>4.55 oz, 5.44 H x 2.64 W x 0.27 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A8",
-                "Processor Speed": "1.4 GHz",
+                "Name": "Apple A8",
+                "Speed": "1.4 GHz",
                 "# of Cores": "2",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "308 / 569",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "20 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%208&type=iOS'>iOS 8.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2012&type=iOS'>iOS 12.5.7</a>"
+                "Original OS": "iOS 8.0",
+                "Maximum OS": "iOS 12.5.7"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR3"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR G6450",
-                "# of Graphics Cores": "4"
+                "Chip": "PowerVR G6450",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334 x 750 pixels",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "4.7-inch widescreen",
+                "Resolution": "1334 x 750 pixels",
                 "Brightness": "500 nits"
             },
             "Storage": {
@@ -716,35 +720,35 @@
                 "Introduced": "Sep 2014",
                 "Discontinued": "Sep 2016",
                 "Model Identifier": "iPhone7,1",
-                "Model Number": "A1522 (GSM/CDMA)",
-                "Other Model Numbers": "<br><li>A1524<br><li>A1593",
+                "Model Number": "A1522",
+                "Other Model Numbers": "<li>A1524<li>A1593",
                 "EMC": "2817",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br><li>172 g, 15.81 H x 7.78 W x 0.71 D cm<br><li>6.07 oz, 6.22 H x 3.06 W x 0.28 D inch"
+                "Weight/Dimensions": "<li>172 g, 15.81 H x 7.78 W x 0.71 D cm<li>6.07 oz, 6.22 H x 3.06 W x 0.28 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A8",
-                "Processor Speed": "1.4 GHz",
+                "Name": "Apple A8",
+                "Speed": "1.4 GHz",
                 "# of Cores": "2",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "308 / 569",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "20 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%208&type=iOS'>iOS 8.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2012&type=iOS'>iOS 12.5.7</a>"
+                "Original OS": "iOS 8.0",
+                "Maximum OS": "iOS 12.5.7"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR3"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR G6450",
-                "# of Graphics Cores": "4"
+                "Chip": "PowerVR G6450",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "5.5-inch widescreen",
-                "Display Resolution": "1920 x 1080 pixels",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "5.5-inch widescreen",
+                "Resolution": "1920 x 1080 pixels",
                 "Brightness": "500 nits"
             },
             "Storage": {
@@ -777,38 +781,38 @@
         "image": "iphone_6s.png",
         "Info": {
             "Overview": {
-                "Introduced": "Sep 2015 (16, 64, 128) <br><li> Sep 2016 (32 GB)",
-                "Discontinued": "Sep 2016 (16, 64) <br><li> Sep 2018 (32, 128)",
+                "Introduced": "Sep 2015 (16, 64, 128) <li> Sep 2016 (32 GB)",
+                "Discontinued": "Sep 2016 (16, 64) <li> Sep 2018 (32, 128)",
                 "Model Identifier": "iPhone8,1",
                 "Model Number": "A1633",
-                "Other Model Numbers": "<br><li>A1688<br><li>A1691<br><li>A1700",
+                "Other Model Numbers": "<li>A1688<li>A1691<li>A1700",
                 "EMC": "2946",
                 "Colors": "Space Gray, Silver, Gold, Rose Gold",
-                "Weight/Dimensions": "<br><li>143 g, 13.81 H x 6.71 W x 0.71 D cm<br><li>5.04 oz, 5.44 H x 2.64 W x 0.28 D inch"
+                "Weight/Dimensions": "<li>143 g, 13.81 H x 6.71 W x 0.71 D cm<li>5.04 oz, 5.44 H x 2.64 W x 0.28 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A9",
-                "Processor Speed": "1.85 GHz",
+                "Name": "Apple A9",
+                "Speed": "1.85 GHz",
                 "# of Cores": "2",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "541 / 990",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "14 nm (Samsung) 16 nm (TSMC)"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%209&type=iOS'>iOS 9.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2015&type=iOS'>Latest release of iOS 15</a>"
+                "Original OS": "iOS 9.0",
+                "Maximum OS": "Latest release of iOS 15"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR4"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR GT7600",
-                "# of Graphics Cores": "6"
+                "Chip": "PowerVR GT7600",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334 x 750 pixels",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "4.7-inch widescreen",
+                "Resolution": "1334 x 750 pixels",
                 "Brightness": "500 nits"
             },
             "Storage": {
@@ -841,38 +845,38 @@
         "image": "iphone_6s_plus.png",
         "Info": {
             "Overview": {
-                "Introduced": "Sep 2015 (16, 64, 128) <br><li> Sep 2016 (32 GB)",
-                "Discontinued": "Sep 2016 (16, 64) <br><li> Sep 2018 (32, 128)",
+                "Introduced": "Sep 2015 (16, 64, 128) <li> Sep 2016 (32 GB)",
+                "Discontinued": "Sep 2016 (16, 64) <li> Sep 2018 (32, 128)",
                 "Model Identifier": "iPhone8,2",
                 "Model Number": "A1634",
-                "Other Model Numbers": "<br><li>A1687<br><li>A1699",
+                "Other Model Numbers": "<li>A1687<li>A1699",
                 "EMC": "2944",
                 "Colors":"Space Gray, Silver, Gold, Rose Gold",
-                "Weight/Dimensions": "<br><li>192 g, 15.81 H x 7.79 W x 0.73 D cm<br><li>6.77 oz, 6.23 H x 3.07 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>192 g, 15.81 H x 7.79 W x 0.73 D cm<li>6.77 oz, 6.23 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A9",
-                "Processor Speed": "1.85 GHz",
+                "Name": "Apple A9",
+                "Speed": "1.85 GHz",
                 "# of Cores": "2",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "541 / 990",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "14 nm (Samsung) 16 nm (TSMC)"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%209&type=iOS'>iOS 9.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2015&type=iOS'>Latest release of iOS 15</a>"
+                "Original OS": "iOS 9.0",
+                "Maximum OS": "Latest release of iOS 15"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR4"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR GT7600",
-                "# of Graphics Cores": "6"
+                "Chip": "PowerVR GT7600",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "5.5-inch widescreen",
-                "Display Resolution": "1920 x 1080"
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "5.5-inch widescreen",
+                "Resolution": "1920 x 1080"
             },
             "Storage": {
                 "Capacity": "16, 32, 64 or 128 GB"
@@ -904,18 +908,18 @@
         "image": "iphone_se1.png",
         "Info": {
             "Overview": {
-                "Introduced": "Mar 2016 (16, 64) <br><li> Mar 2017 (32, 128)",
-                "Discontinued": "Mar 2017 (16, 64) <br><li> Sep 2018 (32, 128)",
+                "Introduced": "Mar 2016 (16, 64) <li> Mar 2017 (32, 128)",
+                "Discontinued": "Mar 2017 (16, 64) <li> Sep 2018 (32, 128)",
                 "Model Identifier": "iPhone8,4",
                 "Model Number": "A1662",
-                "Other Model Numbers": "<br><li>A1723<br><li>A1724",
+                "Other Model Numbers": "<li>A1723<li>A1724",
                 "EMC": "3042",
                 "Colors": "Space Gray, Silver, Gold, Rose Gold",
-                "Weight/Dimensions": "<br><li>113 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>113 g, 12.38 H x 5.86 W x 0.76 D cm<li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A9",
-                "Processor Speed": "1.85 GHz",
+                "Name": "Apple A9",
+                "Speed": "1.85 GHz",
                 "# of Cores": "2",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "546 / 1002",
                 "Architecture": "64-bit",
@@ -929,13 +933,13 @@
                 "Built-in Memory": "2 GB LPDDR4"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR GT7600",
-                "# of Graphics Cores": "6"
+                "Chip": "PowerVR GT7600",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "4-inch widescreen",
+                "Resolution": "1136 x 640",
                 "Brightness": "500 nits"
             },
             "Storage": {
@@ -970,36 +974,36 @@
             "Overview": {
                 "Introduced": "Sep 2016",
                 "Discontinued": "Sep 2019",
-                "Model Identifier": "iPhone9,1<br><li>iPhone9,3",
+                "Model Identifier": "iPhone9,1<li>iPhone9,3",
                 "Model Number": "A1660",
-                "Other Model Numbers": "<br><li>A1778<br><li>A1779<br><li>A1780",
+                "Other Model Numbers": "<li>A1778<li>A1779<li>A1780",
                 "EMC": "3091",
                 "Colors": "Jet Black, Silver, Gold, Rose Gold, (PRODUCT) Red",
-                "Weight/Dimensions": "<br><li>138 g, 13.83 H x 6.71 W x 0.71 D cm<br><li>4.87 oz, 5.44 H x 2.64 W x 0.28 D inch"
+                "Weight/Dimensions": "<li>138 g, 13.83 H x 6.71 W x 0.71 D cm<li>4.87 oz, 5.44 H x 2.64 W x 0.28 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A10 Fusion",
-                "Processor Speed": "2.3 GHz",
+                "Name": "Apple A10 Fusion",
+                "Speed": "2.3 GHz",
                 "# of Cores": "4 (2 High Performance, 2 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "741 / 1313",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "16 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2010&type=iOS'>iOS 10.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2015&type=iOS'>Latest release of iOS 15</a>"
+                "Original OS": "iOS 10.0",
+                "Maximum OS": "Latest release of iOS 15"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR4"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR GT7600",
-                "# of Graphics Cores": "6"
+                "Chip": "PowerVR GT7600",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334 x 750",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "4.7-inch widescreen",
+                "Resolution": "1334 x 750",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1028,43 +1032,43 @@
             }
         }
     }, {
-        "Name": "iPhone 7 Plus (Global)",
+        "Name": "iPhone 7 Plus",
         "Type": "iPhone",
         "image": "iphone_7_plus.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2016",
                 "Discontinued": "Sep 2019",
-                "Model Identifier": "iPhone9,2<br><li>iPhone9,4",
+                "Model Identifier": "iPhone9,2<li>iPhone9,4",
                 "Model Number": "A1661",
-                "Other Model Numbers": "<br><li>A1784<br><li>A1785<br><li>A1786",
+                "Other Model Numbers": "<li>A1784<li>A1785<li>A1786",
                 "EMC": "3092",
                 "Colors": "Jet Black, Silver, Gold, Rose Gold, (PRODUCT) Red",
-                "Weight/Dimensions": "<br><li>188 g, 15.82 H x 7.79 W x 0.73 D cm<br><li>6.63 oz, 6.23 H x 3.07 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>188 g, 15.82 H x 7.79 W x 0.73 D cm<li>6.63 oz, 6.23 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A10 Fusion",
-                "Processor Speed": "2.3 GHz",
+                "Name": "Apple A10 Fusion",
+                "Speed": "2.3 GHz",
                 "# of Cores": "4 (2 High Performance, 2 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "742 / 1324",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "16 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2010&type=iOS'>iOS 10.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2015&type=iOS'>Latest release of iOS 15</a>"
+                "Original OS": "iOS 10.0",
+                "Maximum OS": "Latest release of iOS 15"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR GT7600",
-                "# of Graphics Cores": "6"
+                "Chip": "PowerVR GT7600",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "5.5-inch widescreen",
-                "Display Resolution": "1920 x 1080",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "5.5-inch widescreen",
+                "Resolution": "1920 x 1080",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1098,38 +1102,38 @@
         "image": "iphone_8.png",
         "Info": {
             "Overview": {
-                "Introduced": "Sep 2017 (64, 256) <br><li> Sep 2019 (128)",
-                "Discontinued": "Sep 2019 (256) <br><li> Apr 2020 (64, 128)",
-                "Model Identifier": "iPhone10,1<br><li>iPhone10,4",
+                "Introduced": "Sep 2017 (64, 256)<li>Sep 2019 (128)",
+                "Discontinued": "Sep 2019 (256)<li>Apr 2020 (64, 128)",
+                "Model Identifier": "iPhone10,1<li>iPhone10,4",
                 "Model Number": "A1863",
-                "Other Model Numbers": "<br><li>A1905<br><li>A1906<br><li>A1907",
+                "Other Model Numbers": "<li>A1905<li>A1906<li>A1907",
                 "EMC": "3159, 3171, 3172",
                 "Colors": "Space Gray, Silver, Gold, (PRODUCT) Red",
-                "Weight/Dimensions": "<br><li>144 g, 13.84 H x 6.73 W x 0.73 D cm<br><li>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>144 g, 13.84 H x 6.73 W x 0.73 D cm<li>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A11 Bionic",
-                "Processor Speed": "2.4 GHz",
+                "Name": "Apple A11 Bionic",
+                "Speed": "2.4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "919 / 2231",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "10 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2011&type=iOS'>iOS 11.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2016&type=iOS'>Latest release of iOS 16</a>"
+                "Original OS": "iOS 11.0",
+                "Maximum OS": "Latest release of iOS 16"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "3"
+                "Chip": "Apple GPU",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334 x 750",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "4.7-inch widescreen",
+                "Resolution": "1334 x 750",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1163,38 +1167,38 @@
         "image": "iphone_8_plus.png",
         "Info": {
             "Overview": {
-                "Introduced": "Sep 2017 (64, 256) <br><li> Sep 2019 (128)",
-                "Discontinued": "Sep 2019 (256) <br><li> Apr 2020 (64, 128)",
-                "Model Identifier": "iPhone10,2<br><li>iPhone10,5",
+                "Introduced": "Sep 2017 (64, 256)<li>Sep 2019 (128)",
+                "Discontinued": "Sep 2019 (256)<li>Apr 2020 (64, 128)",
+                "Model Identifier": "iPhone10,2<li>iPhone10,5",
                 "Model Number": "A1864",
-                "Other Model Numbers": "<br><li>A1897<br><li>A1898<br><li>A1899",
+                "Other Model Numbers": "<li>A1897<li>A1898<li>A1899",
                 "EMC": "3160, 3173, 3174",
                 "Colors": "Space Gray, Silver, Gold, (PRODUCT) Red",
-                "Weight/Dimensions": "<br><li>202 g, 15.84 H x 7.81 W x 0.75 D cm<br><li>"
+                "Weight/Dimensions": "<li>202 g, 15.84 H x 7.81 W x 0.75 D cm<li>"
             },
             "Processor": {
-                "Processor Name": "Apple A11 Bionic",
-                "Processor Speed": "2.4 GHz",
+                "Name": "Apple A11 Bionic",
+                "Speed": "2.4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "923 / 2327",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "10 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2011&type=iOS'>iOS 11.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2016&type=iOS'>Latest release of iOS 16</a>"
+                "Original OS": "iOS 11.0",
+                "Maximum OS": "Latest release of iOS 16"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "3"
+                "Chip": "Apple GPU",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "5.5-inch widescreen",
-                "Display Resolution": "1920 x 1080",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "5.5-inch widescreen",
+                "Resolution": "1920 x 1080",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1230,36 +1234,36 @@
             "Overview": {
                 "Introduced": "Nov 2017",
                 "Discontinued": "Sep 2018",
-                "Model Identifier": "iPhone10,3<br><li>iPhone10,6",
+                "Model Identifier": "iPhone10,3<li>iPhone10,6",
                 "Model Number": "A1865",
-                "Other Model Numbers": "<br><li>A1865<br><li>A1901<br><li>A1902",
+                "Other Model Numbers": "<li>A1865<li>A1901<li>A1902",
                 "EMC": "3161, 3175, 3176",
                 "Colors": "Space Gray, Silver",
-                "Weight/Dimensions": "<br><li>174 g, 14.36 H x 7.09 W x 0.77 D cm<br><li>6.14 oz, 5.65 H x 2.68 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>174 g, 14.36 H x 7.09 W x 0.77 D cm<li>6.14 oz, 5.65 H x 2.68 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A11 Bionic",
-                "Processor Speed": "2.4 GHz",
+                "Name": "Apple A11 Bionic",
+                "Speed": "2.4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "918 / 2365",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "10 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2011&type=iOS'>iOS 11.0.1</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2016&type=iOS'>Latest release of iOS 16</a>"
+                "Original OS": "iOS 11.0.1",
+                "Maximum OS": "Latest release of iOS 16"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "3"
+                "Chip": "Apple GPU",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Super Retina HD OLED Display",
-                "Display Size": "5.8-inch widescreen",
-                "Display Resolution": "2436 x 1125",
+                "Type": "Super Retina HD OLED Display",
+                "Size": "5.8-inch widescreen",
+                "Resolution": "2436 x 1125",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1297,34 +1301,34 @@
                 "Discontinued": "Sep 2019",
                 "Model Identifier": "iPhone11,2",
                 "Model Number": "A1920",
-                "Other Model Numbers": "<br><li>A2097<br><li>A2098<br><li>A2100",
+                "Other Model Numbers": "<li>A2097<li>A2098<li>A2100",
                 "EMC": "3218, 3232, 3233, 3262",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br><li>177 g, 14.36 H x 7.09 W x 0.77 D cm<br><li>6.24 oz, 5.65 H x 2.68 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>177 g, 14.36 H x 7.09 W x 0.77 D cm<li>6.24 oz, 5.65 H x 2.68 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A12 Bionic",
-                "Processor Speed": "2.5 GHz",
+                "Name": "Apple A12 Bionic",
+                "Speed": "2.5 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1106 / 2701",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2012&type=iOS'>iOS 12.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 12.0",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple G11P",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple G11P",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina HD OLED Display",
-                "Display Size": "5.8-inch widescreen",
-                "Display Resolution": "2436 x 1125",
+                "Type": "Super Retina HD OLED Display",
+                "Size": "5.8-inch widescreen",
+                "Resolution": "2436 x 1125",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1362,34 +1366,34 @@
                 "Discontinued": "Sep 2019",
                 "Model Identifier": "iPhone11,6",
                 "Model Number": "A1921",
-                "Other Model Numbers": "<br><li>A2101<br><li>A2102<br><li>A2104",
+                "Other Model Numbers": "<li>A2101<li>A2102<li>A2104",
                 "EMC": "3219, 3234, 3235, 3261",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br><li>208 g, 15.75 H x 7.74 W x 0.77 D cm<br><li>7.34 oz, 6.20 H x 3.05 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>208 g, 15.75 H x 7.74 W x 0.77 D cm<li>7.34 oz, 6.20 H x 3.05 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A12 Bionic",
-                "Processor Speed": "2.5 GHz",
+                "Name": "Apple A12 Bionic",
+                "Speed": "2.5 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1109 / 2651",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2012&type=iOS'>iOS 12.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 12.0",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple G11P",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple G11P",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina HD OLED Display",
-                "Display Size": "6.5-inch widescreen",
-                "Display Resolution": "2688 x 1242",
+                "Type": "Super Retina HD OLED Display",
+                "Size": "6.5-inch widescreen",
+                "Resolution": "2688 x 1242",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1427,34 +1431,34 @@
                 "Discontinued": "Sep 2021",
                 "Model Identifier": "iPhone11,8",
                 "Model Number": "A1984",
-                "Other Model Numbers": "<br><li>A2105, A2106, A2107, A2108",
+                "Other Model Numbers": "<li>A2105, A2106, A2107, A2108",
                 "EMC": "3220, 3227, 3238, 3260",
                 "Colors": "(PRODUCT) Red, Yellow, White, Coral, Black, Blue",
-                "Weight/Dimensions": "<br><li>194 g, 15.09 H x 7.57 W x 0.83 D cm<br><li>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
+                "Weight/Dimensions": "<li>194 g, 15.09 H x 7.57 W x 0.83 D cm<li>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A12 Bionic",
-                "Processor Speed": "2.5 GHz",
+                "Name": "Apple A12 Bionic",
+                "Speed": "2.5 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1107 / 2708",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2012&type=iOS'>iOS 12.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 12.0",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple G11P",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple G11P",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Liquid Retina HD LED-backlit LCD IPS display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "1792 x 828"
+                "Type": "Liquid Retina HD LED-backlit LCD IPS display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "1792 x 828"
             },
             "Storage": {
                 "Capacity": "64, 128 or 256 GB"
@@ -1491,34 +1495,34 @@
                 "Discontinued": "Sep 2022",
                 "Model Identifier": "iPhone12,1",
                 "Model Number": "A2111",
-                "Other Model Numbers": "<br><li>A2221<br><li>A2223",
+                "Other Model Numbers": "<li>A2221<li>A2223",
                 "EMC": "3309, 3304",
                 "Colors": "(PRODUCT) Red, Yellow, White, Green, Black, Purple",
-                "Weight/Dimensions": "<br><li>194 g, 15.09 H x 7.57 W x 0.83 D cm<br><li>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
+                "Weight/Dimensions": "<li>194 g, 15.09 H x 7.57 W x 0.83 D cm<li>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A13 Bionic",
-                "Processor Speed": "2.66 GHz",
+                "Name": "Apple A13 Bionic",
+                "Speed": "2.66 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1325 / 3229",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2013&type=iOS'>iOS 13.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 13.0",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Liquid Retina HD LED-backlit LCD IPS display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "1792 x 828",
+                "Type": "Liquid Retina HD LED-backlit LCD IPS display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "1792 x 828",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1556,14 +1560,14 @@
                 "Discontinued": "Oct 2020",
                 "Model Identifier": "iPhone12,3",
                 "Model Number": "A2160",
-                "Other Model Numbers": "<br><li>A2217<br><li>A2215",
+                "Other Model Numbers": "<li>A2217<li>A2215",
                 "EMC": "3305, 3307",
                 "Colors": "Space Gray, Silver, Gold, Midnight Green",
-                "Weight/Dimensions": "<br><li>188 g, 14.40 H x 7.14 W x 0.81 D cm<br><li>6.63 oz, 5.67 H x 2.81 W x 0.32 D inch"
+                "Weight/Dimensions": "<li>188 g, 14.40 H x 7.14 W x 0.81 D cm<li>6.63 oz, 5.67 H x 2.81 W x 0.32 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A13 Bionic",
-                "Processor Speed": "2.66 GHz",
+                "Name": "Apple A13 Bionic",
+                "Speed": "2.66 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1327 / 3414",
                 "Architecture": "64-bit",
@@ -1571,20 +1575,20 @@
 
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2013&type=iOS'>iOS 13.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 13.0",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "5.8-inch widescreen",
-                "Display Resolution": "2436 x 1125",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "5.8-inch widescreen",
+                "Resolution": "2436 x 1125",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -1618,34 +1622,34 @@
                 "Discontinued": "Oct 2020",
                 "Model Identifier": "iPhone12,5",
                 "Model Number": "A2161",
-                "Other Model Numbers": "<br><li>A2220<br><li>A2218",
+                "Other Model Numbers": "<li>A2220<li>A2218",
                 "EMC": "3306, 3308",
                 "Colors": "Space Gray, Silver, Gold, Midnight Green",
-                "Weight/Dimensions": "<br><li>226 g, 15.80 H x 7.78 W x 0.81 D cm<br><li>7.97 oz, 6.22 H x 3.06 W x 0.32 D inch"
+                "Weight/Dimensions": "<li>226 g, 15.80 H x 7.78 W x 0.81 D cm<li>7.97 oz, 6.22 H x 3.06 W x 0.32 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A13 Bionic",
-                "Processor Speed": "2.66 GHz",
+                "Name": "Apple A13 Bionic",
+                "Speed": "2.66 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1327 / 3414",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2013&type=iOS'>iOS 13.0</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 13.0",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.5-inch widescreen",
-                "Display Resolution": "2688 x 1242",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.5-inch widescreen",
+                "Resolution": "2688 x 1242",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -1679,34 +1683,34 @@
                 "Discontinued": "Mar 2022",
                 "Model Identifier": "iPhone12,8",
                 "Model Number": "A2275",
-                "Other Model Numbers": "<br><li>A2298<br><li>A2296",
+                "Other Model Numbers": "<li>A2298<li>A2296",
                 "EMC": "3500",
                 "Colors": "Black, White, (PRODUCT) RED",
-                "Weight/Dimensions": "<br><li>148 g, 13.84 H x 6.73 W x 0.73 D cm<br><li>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>148 g, 13.84 H x 6.73 W x 0.73 D cm<li>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A13 Bionic",
-                "Processor Speed": "2.6 GHz",
+                "Name": "Apple A13 Bionic",
+                "Speed": "2.6 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1330 / 3134",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "7 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2013&type=iOS'>iOS 13.4</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 13.4",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334 x 750",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "4.7-inch widescreen",
+                "Resolution": "1334 x 750",
                 "Brightness":"625 nits"
             },
             "Storage": {
@@ -1740,34 +1744,34 @@
                 "Discontinued": "Sep 2023",
                 "Model Identifier": "iPhone13,2",
                 "Model Number": "A2172",
-                "Other Model Numbers": "<br><li>A2402<br><li>A2404<br><li>A2403",
+                "Other Model Numbers": "<li>A2402<li>A2404<li>A2403",
                 "EMC": "3542, 3543, 3544",
                 "Colors": "Black, White, (PRODUCT) RED, Green, Blue, Purple",
-                "Weight/Dimensions": "<br><li>164 g, 14.67 H x 7.15 W x 0.74 D cm<br><li>5.78 oz, 5.78 H x 2.82 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>164 g, 14.67 H x 7.15 W x 0.74 D cm<li>5.78 oz, 5.78 H x 2.82 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A14 Bionic",
-                "Processor Speed": "3 GHz",
+                "Name": "Apple A14 Bionic",
+                "Speed": "3 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1585 / 3951",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2014&type=iOS'>iOS 14.1</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 14.1",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED Display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532 x 1170",
+                "Type": "Super Retina XDR OLED Display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2532 x 1170",
                 "Brightness": "625 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -1805,34 +1809,34 @@
                 "Discontinued": "Sep 2022",
                 "Model Identifier": "iPhone13,1",
                 "Model Number": "A2176",
-                "Other Model Numbers": "<br><li>A2398<br><li>A2399<br><li>A2400",
+                "Other Model Numbers": "<li>A2398<li>A2399<li>A2400",
                 "EMC": "3539, 3540, 3541",
                 "Colors": "Black, White, (PRODUCT) RED, Green, Blue, Purple",
-                "Weight/Dimensions": "<br><li>135 g, 13.15 H x 6.42 W x 0.74 D cm<br><li>4.76 oz, 5.18 H x 2.53 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>135 g, 13.15 H x 6.42 W x 0.74 D cm<li>4.76 oz, 5.18 H x 2.53 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A14 Bionic",
-                "Processor Speed": "3.0 GHz",
+                "Name": "Apple A14 Bionic",
+                "Speed": "3.0 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1585 / 3951",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2014&type=iOS'>iOS 14.1</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 14.1",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "5.4-inch widescreen",
-                "Display Resolution": "2340 x 1080",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "5.4-inch widescreen",
+                "Resolution": "2340 x 1080",
                 "Brightness": "625 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -1870,34 +1874,34 @@
                 "Discontinued": "Sep 2021",
                 "Model Identifier": "iPhone13,3",
                 "Model Number": "A2341",
-                "Other Model Numbers": "<br><li>A2406<br><li>A2407<br><li>A2408",
+                "Other Model Numbers": "<li>A2406<li>A2407<li>A2408",
                 "EMC": "3545, 3546, 3547",
                 "Colors": "Silver, Graphite, Gold, Pacific Blue",
-                "Weight/Dimensions": "<br><li>189 g, 14.67 H x 7.15 W x 0.74 D cm<br><li>6.66 oz, 5.78 H x 2.82 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>189 g, 14.67 H x 7.15 W x 0.74 D cm<li>6.66 oz, 5.78 H x 2.82 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A14 Bionic",
-                "Processor Speed": "3.0 GHz",
+                "Name": "Apple A14 Bionic",
+                "Speed": "3.0 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1583 / 3891",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2014&type=iOS'>iOS 14.1</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 14.1",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "6 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532 x 1170",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2532 x 1170",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -1935,34 +1939,34 @@
                 "Discontinued": "Sep 2021",
                 "Model Identifier": "iPhone13,4",
                 "Model Number": "A2342",
-                "Other Model Numbers": "<br><li>A2410<br><li>A2411<br><li>A2412",
+                "Other Model Numbers": "<li>A2410<li>A2411<li>A2412",
                 "EMC": "3548, 3549, 3550",
                 "Colors": "Silver, Graphite, Gold, Pacific Blue",
-                "Weight/Dimensions": "<br><li>228 g, 16.08 H x 7.81 W x 0.74 D cm<br><li>8.03 oz, 6.33 H x 3.07 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>228 g, 16.08 H x 7.81 W x 0.74 D cm<li>8.03 oz, 6.33 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A14 Bionic",
-                "Processor Speed": "3.0 GHz",
+                "Name": "Apple A14 Bionic",
+                "Speed": "3.0 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1722 / 4503",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2014&type=iOS'>iOS 14.1</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 14.1",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "6 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2778 x 1284",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2778 x 1284",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -2000,14 +2004,14 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone14,5",
                 "Model Number": "A2482",
-                "Other Model Numbers": "<br><li>A2631<br><li>A2633<br><li>A2634<br><li>A2635",
+                "Other Model Numbers": "<li>A2631<li>A2633<li>A2634<li>A2635",
                 "EMC": "3997, 3999, 4032, 4031",
                 "Colors": "(PRODUCT) RED, Starlight, Midnight, Blue, Pink, Green",
-                "Weight/Dimensions": "<br><li>174 g, 14.67 H x 7.15 W x 0.76 D cm<br><li>6.14 oz, 5.78 H x 2.82 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>174 g, 14.67 H x 7.15 W x 0.76 D cm<li>6.14 oz, 5.78 H x 2.82 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "Continue here": "",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1730 / 4810",
@@ -2015,20 +2019,20 @@
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2015&type=iOS'>iOS 15</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 15",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532 x 1170",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2532 x 1170",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -2066,34 +2070,34 @@
                 "Discontinued": "Sep 2023",
                 "Model Identifier": "iPhone14,4",
                 "Model Number": "A2481",
-                "Other Model Numbers": "<br><li>A2626<br><li>A2628<br><li>A2629",
+                "Other Model Numbers": "<li>A2626<li>A2628<li>A2629",
                 "EMC": "3996, 4029, 4030",
                 "Colors": "Red, Starlight, Midnight, Blue, Pink, Green",
-                "Weight/Dimensions": "<br><li>141 g, 13.15 H x 6.42 W x 0.76 D cm<br><li>4.97 oz, 5.18 H x 2.53 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>141 g, 13.15 H x 6.42 W x 0.76 D cm<li>4.97 oz, 5.18 H x 2.53 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1722 / 4503",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2015&type=iOS'>iOS 15</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 15",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "5.4-inch widescreen",
-                "Display Resolution": "2340 x 1080",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "5.4-inch widescreen",
+                "Resolution": "2340 x 1080",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -2131,36 +2135,36 @@
                 "Discontinued": "Sep 2022",
                 "Model Identifier": "iPhone14,2",
                 "Model Number": "A2483",
-                "Other Model Numbers": "<br><li>A2636<br><li>A2638<br><li>A2639<br><li>A2640",
+                "Other Model Numbers": "<li>A2636<li>A2638<li>A2639<li>A2640",
                 "EMC": "4000, 4002, 4033, 4034",
                 "Colors": "Graphite, Gold, Silver, Sierra Blue, Alpine Green",
-                "Weight/Dimensions": "<br><li>204 g, 14.67 H x 7.15 W x 0.76 D cm<br><li>7.19 oz, 5.78 H x 2.82 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>204 g, 14.67 H x 7.15 W x 0.76 D cm<li>7.19 oz, 5.78 H x 2.82 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1728 / 4594",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2015&type=iOS'>iOS 15</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 15",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "6 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532 x 1170",
+                "Type": "Super Retina XDR OLED display with ProMotion",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2532 x 1170",
                 "Brightness": "1000 nits (typical), 1200 nits (HDR)",
-                "Display Refresh Rate": "10 - 120 Hz"
+                "Refresh Rate": "10 - 120 Hz"
             },
             "Storage": {
                 "Capacity": "128 GB, 256 GB, 512 GB, or 1 TB"
@@ -2197,36 +2201,36 @@
                 "Discontinued": "Sep 2022",
                 "Model Identifier": "iPhone14,3",
                 "Model Number": "A2484",
-                "Other Model Numbers": "<br><li>A2641<br><li>A2643<br><li>A2644<br><li>A2645",
+                "Other Model Numbers": "<li>A2641<li>A2643<li>A2644<li>A2645",
                 "EMC": "4003, 4005, 4035, 4036",
                 "Colors": "Graphite, Gold, Silver, Sierra Blue, Alpine Green",
-                "Weight/Dimensions": "<br><li>240 g, 16.08 H x 7.81 W x 0.76 D cm<br><li>8.47 oz, 6.33 H x 3.07 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>240 g, 16.08 H x 7.81 W x 0.76 D cm<li>8.47 oz, 6.33 H x 3.07 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1750 / 4850",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2015&type=iOS'>iOS 15</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 15",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "6 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2778 x 1284",
+                "Type": "Super Retina XDR OLED display with ProMotion",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2778 x 1284",
                 "Brightness": "1000 nits (typical), 1200 nits (HDR)",
-                "Display Refresh Rate": "10 - 120 Hz ProMotion"
+                "Refresh Rate": "10 - 120 Hz ProMotion"
             },
             "Storage": {
                 "Capacity": "128 GB, 256 GB, 512 GB, or 1 TB"
@@ -2263,34 +2267,34 @@
                 "Discontinued": "Still available",
                 "Model Identifier": "iPhone14,6",
                 "Model Number": "A2595",
-                "Other Model Numbers": "<br><li>A2782<br><li>A2783<br><li>A2785",
+                "Other Model Numbers": "<li>A2782<li>A2783<li>A2785",
                 "EMC": "4082, 4083, 8064, 8076",
                 "Colors": "Midnight, Starlight, (PRODUCT) RED",
-                "Weight/Dimensions": "<br><li>144 g, 13.84 H x 6.73 W x 0.73 D cm<br><li>5.09 oz, 5.45 H x 2.65 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>144 g, 13.84 H x 6.73 W x 0.73 D cm<li>5.09 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1726 / 4504",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2015&type=iOS'>iOS 15.4</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 15.4",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Retina HD LCD display",
-                "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334 x 750",
+                "Type": "Retina HD LCD display",
+                "Size": "4.7-inch widescreen",
+                "Resolution": "1334 x 750",
                 "Brightness": "625 nits (typical)"
             },
             "Storage": {
@@ -2328,34 +2332,34 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone14,7",
                 "Model Number": "A2649",
-                "Other Model Numbers": "<br><li>A2881<br><li>A2884<br><li>A2883",
+                "Other Model Numbers": "<li>A2881<li>A2884<li>A2883",
                 "EMC": "8138, 8142, 8144, 8143",
                 "Colors": "Midnight, Starlight, Blue, Purple, (PRODUCT) RED, Yellow",
-                "Weight/Dimensions": "<br><li>172 g, 14.67 H x 7.15 W x 0.78 D cm<br><li>6.07 oz, 5.78 H x 2.82 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>172 g, 14.67 H x 7.15 W x 0.78 D cm<li>6.07 oz, 5.78 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1735 / 4820",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2016&type=iOS'>iOS 16</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 16",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "6 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532 x 1170",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2532 x 1170",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -2393,34 +2397,34 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone14,8",
                 "Model Number": "A2632",
-                "Other Model Numbers": "<br><li>A2885<br><li>A2886<br><li>A2887<br><li>A2888",
+                "Other Model Numbers": "<li>A2885<li>A2886<li>A2887<li>A2888",
                 "EMC": "8139, 8146, 8148, 8147",
                 "Colors": "Midnight, Starlight, Blue, Purple, (PRODUCT) RED, Yellow",
-                "Weight/Dimensions": "<br><li>203 g, 16.08 H x 7.81 W x 0.78 D cm<br><li>7.16 oz, 6.33 H x 3.07 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>203 g, 16.08 H x 7.81 W x 0.78 D cm<li>7.16 oz, 6.33 H x 3.07 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1735 / 4820",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2016&type=iOS'>iOS 16</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 16",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "6 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2778 x 1284",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2778 x 1284",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -2458,36 +2462,36 @@
                 "Discontinued": "Sep 2023",
                 "Model Identifier": "iPhone15,2",
                 "Model Number": "A2650",
-                "Other Model Numbers": "<br><li>A2889<br><li>A2890<br><li>A2891<br><li>A2892",
+                "Other Model Numbers": "<li>A2889<li>A2890<li>A2891<li>A2892",
                 "EMC": "8140, 8150, 8152, 8151",
                 "Colors": "Space Black, Silver, Gold, Deep Purple",
-                "Weight/Dimensions": "<br><li>206 g, 14.67 H x 7.15 W x 0.78 D cm<br><li>7.27 oz, 5.78 H x 2.82 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>206 g, 14.67 H x 7.15 W x 0.78 D cm<li>7.27 oz, 5.78 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A16 Bionic",
-                "Processor Speed": "3.5 GHz",
+                "Name": "Apple A16 Bionic",
+                "Speed": "3.5 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1886 / 5493",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2016&type=iOS'>iOS 16</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 16",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "6 GB LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion and Always-On",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2556 x 1179",
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2556 x 1179",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)",
-                "Display Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
             },
             "Storage": {
                 "Capacity": "128 GB, 256 GB, 512 GB, or 1 TB"
@@ -2525,36 +2529,36 @@
                 "Discontinued": "Sep 2023",
                 "Model Identifier": "iPhone15,3",
                 "Model Number": "A2651",
-                "Other Model Numbers": "<br><li>A2893<br><li>A2894<br><li>A2895<br><li>A2896",
+                "Other Model Numbers": "<li>A2893<li>A2894<li>A2895<li>A2896",
                 "EMC": "8141, 8154, 8156, 8155",
                 "Colors": "Space Black, Silver, Gold, Deep Purple",
-                "Weight/Dimensions": "<br><li>240 g, 16.08 H x 7.81 W x 0.78 D cm<br><li>8.47 oz, 6.33 H x 3.07 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>240 g, 16.08 H x 7.81 W x 0.78 D cm<li>8.47 oz, 6.33 H x 3.07 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A16 Bionic",
-                "Processor Speed": "3.5 GHz",
+                "Name": "Apple A16 Bionic",
+                "Speed": "3.5 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1886 / 5493",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2016&type=iOS'>iOS 16</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 16",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "6 GB LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion and Always-On",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2796 x 1290",
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2796 x 1290",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)",
-                "Display Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
             },
             "Storage": {
                 "Capacity": "128 GB, 256 GB, 512 GB, or 1 TB"
@@ -2592,34 +2596,34 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone15,4",
                 "Model Number": "A2846",
-                "Other Model Numbers": "<br><li>A3090<br><li>A3089<br><li>A3092",
+                "Other Model Numbers": "<li>A3090<li>A3089<li>A3092",
                 "EMC": "8427, 8428, 8430, 8429",
                 "Colors": "Black, Blue, Green, Yellow, Pink",
-                "Weight/Dimensions": "<br><li>171 g, 14.70 H x 7.15 W x 0.76 D cm<br><li>6.03 oz, 5.79 H x 2.82 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>171 g, 14.70 H x 7.15 W x 0.76 D cm<li>6.03 oz, 5.79 H x 2.82 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A16 Bionic",
-                "Processor Speed": "3.5 GHz",
+                "Name": "Apple A16 Bionic",
+                "Speed": "3.5 GHz",
                 "# of Cores": "6 (2 Performance, 4 Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1886 / 5493",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2017&type=iOS'>iOS 17</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 17",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "6 GB LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2556 x 1179",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2556 x 1179",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)"
             },
             "Storage": {
@@ -2658,34 +2662,34 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone15,5",
                 "Model Number": "A2847",
-                "Other Model Numbers": "<br><li>A3093<br><li>A3096<br><li>A3094",
+                "Other Model Numbers": "<li>A3093<li>A3096<li>A3094",
                 "EMC": "8431, 8432, 8433, 8434",
                 "Colors": "Black, Blue, Green, Yellow, Pink",
-                "Weight/Dimensions": "<br><li>201 g, 16.01 H x 7.81 W x 0.76 D cm<br><li>7.09 oz, 6.30 H x 3.07 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>201 g, 16.01 H x 7.81 W x 0.76 D cm<li>7.09 oz, 6.30 H x 3.07 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A16 Bionic",
-                "Processor Speed": "3.5 GHz",
+                "Name": "Apple A16 Bionic",
+                "Speed": "3.5 GHz",
                 "# of Cores": "6 (2 Performance, 4 Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1886 / 5493",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2017&type=iOS'>iOS 17</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 17",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "6 GB LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2796 x 1290",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2796 x 1290",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)"
             },
             "Storage": {
@@ -2724,36 +2728,36 @@
                 "Discontinued": "Sep 2024",
                 "Model Identifier": "iPhone16,1",
                 "Model Number": "A2848",
-                "Other Model Numbers": "<br><li>A3101<br><li>A3104<br><li>A3102",
+                "Other Model Numbers": "<li>A3101<li>A3104<li>A3102",
                 "EMC": "8435, 8436, 8437, 8438",
                 "Colors": "Black Titanium, White Titanium, Blue Titanium, Natural Titanium",
-                "Weight/Dimensions": "<br><li>187 g, 14.70 H x 7.06 W x 0.82 D cm<br><li>6.60 oz, 5.79 H x 2.78 W x 0.32 D inch"
+                "Weight/Dimensions": "<li>187 g, 14.70 H x 7.06 W x 0.82 D cm<li>6.60 oz, 5.79 H x 2.78 W x 0.32 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A17 Pro",
-                "Processor Speed": "3.8 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "Name": "Apple A17 Pro",
+                "Speed": "3.8 GHz (High Performance), 2.1 GHz (High Efficiency)",
                 "# of Cores": "6 (2 Performance, 4 Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "2136 / 5997",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "3 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2017&type=iOS'>iOS 17</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 17",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "8 GB LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "6"
+                "Chip": "Apple GPU",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion and Always-On",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2556 x 1179",
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2556 x 1179",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)",
-                "Display Refresh Rate":"10 - 120 Hz ProMotion or 1 Hz Always-On"
+                "Refresh Rate":"10 - 120 Hz ProMotion or 1 Hz Always-On"
             },
             "Storage": {
                 "Capacity": "128 GB, 256 GB, 512 GB, or 1 TB"
@@ -2792,36 +2796,36 @@
                 "Discontinued": "Sep 2024",
                 "Model Identifier": "iPhone16,2",
                 "Model Number": "A2849",
-                "Other Model Numbers": "<br><li>A3105<br><li>A3108<br><li>A3106",
+                "Other Model Numbers": "<li>A3105<li>A3108<li>A3106",
                 "EMC": "8439, 8440, 8441, 8442",
                 "Colors": "Black Titanium, White Titanium, Blue Titanium, Natural Titanium",
-                "Weight/Dimensions": "<br><li>221 g, 15.99 H x 7.76 W x 0.82 D cm<br><li>7.80 oz, 6.30 H x 3.06 W x 0.32 D inch"
+                "Weight/Dimensions": "<li>221 g, 15.99 H x 7.76 W x 0.82 D cm<li>7.80 oz, 6.30 H x 3.06 W x 0.32 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A17 Pro",
-                "Processor Speed": "3.8 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "Name": "Apple A17 Pro",
+                "Speed": "3.8 GHz (High Performance), 2.1 GHz (High Efficiency)",
                 "# of Cores": "6 (2 Performance, 4 Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "2136 / 5997",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "3 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2017&type=iOS'>iOS 17</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 17",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "8 GB LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "6"
+                "Chip": "Apple GPU",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion and Always-On",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2796 x 1290",
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2796 x 1290",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)",
-                "Display Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
             },
             "Storage": {
                 "Capacity": "256 GB, 512 GB, 1 TB"
@@ -2860,34 +2864,34 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone17,3",
                 "Model Number": "A3081",
-                "Other Model Numbers": "<br><li>A3286<br><li>A3288<br><li>A3287",
+                "Other Model Numbers": "<li>A3286<li>A3288<li>A3287",
                 "EMC": "8688, 8689, 8690, 8691",
                 "Colors": "Black, White, Pink, Teal, Ultramarine",
-                "Weight/Dimensions": "<br><li>170 g, 14.76 H x 7.16 W x 0.78 D cm<br><li>6 oz, 5.81 H x 2.82 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>170 g, 14.76 H x 7.16 W x 0.78 D cm<li>6 oz, 5.81 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A18",
-                "Processor Speed": "4 GHz",
+                "Name": "Apple A18",
+                "Speed": "4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3264 / 7997",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "3 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>iOS 18</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 18",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "8 GB LPDDR5X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2556 x 1179",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2556 x 1179",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)"
             },
             "Storage": {
@@ -2928,34 +2932,34 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone17,4",
                 "Model Number": "A3082",
-                "Other Model Numbers": "<br><li>A3289<br><li>A3290<br><li>A3291",
+                "Other Model Numbers": "<li>A3289<li>A3290<li>A3291",
                 "EMC": "8692, 8693, 8694, 8695",
                 "Colors": "Black, White, Pink, Teal, Ultramarine",
-                "Weight/Dimensions": "<br><li>199 g, 16.09 H x 7.78 W x 0.78 D cm<br><li>7.03 oz, 6.33 H x 3.06 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>199 g, 16.09 H x 7.78 W x 0.78 D cm<li>7.03 oz, 6.33 H x 3.06 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A18",
-                "Processor Speed": "4 GHz",
+                "Name": "Apple A18",
+                "Speed": "4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3264 / 7997",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "3 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>iOS 18</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 18",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "8 GB LPDDR5X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2796 x 1290",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2796 x 1290",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)"
             },
             "Storage": {
@@ -2993,39 +2997,39 @@
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2024",
-                "Discontinued": "--",
+                "Discontinued": "Sep 2025",
                 "Model Identifier": "iPhone17,1",
                 "Model Number": "A3083",
-                "Other Model Numbers": "<br><li>A3292<br><li>A3294<br><li>A3293",
+                "Other Model Numbers": "<li>A3292<li>A3294<li>A3293",
                 "EMC": "8666, 8667, 8683, 8668",
                 "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
-                "Weight/Dimensions": "<br><li>199 g, 14.96 H x 7.15 W x 0.83 D cm<br><li>7.03 oz, 5.89 H x 2.81 W x 0.32 D inch"
+                "Weight/Dimensions": "<li>199 g, 14.96 H x 7.15 W x 0.83 D cm<li>7.03 oz, 5.89 H x 2.81 W x 0.32 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A18 Pro",
-                "Processor Speed": "4 GHz",
+                "Name": "Apple A18 Pro",
+                "Speed": "4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3401 / 8397",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "3 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>iOS 18</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 18",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "8 GB LPDDR5X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion and Always-On",
-                "Display Size": "6.3-inch widescreen",
-                "Display Resolution": "2622 x 1206",
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.3-inch widescreen",
+                "Resolution": "2622 x 1206",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)",
-                "Display Refresh Rate":"10 - 120 Hz ProMotion or 1 Hz Always-On"
+                "Refresh Rate":"10 - 120 Hz ProMotion or 1 Hz Always-On"
             },
             "Storage": {
                 "Capacity": "128, 256, 512 GB or 1 TB"
@@ -3062,39 +3066,39 @@
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2024",
-                "Discontinued": "--",
+                "Discontinued": "Sep 2025",
                 "Model Identifier": "iPhone17,2",
                 "Model Number": "A3084",
-                "Other Model Numbers": "<br><li>A3295<br><li>A3297<br><li>A3296",
+                "Other Model Numbers": "<li>A3295<li>A3297<li>A3296",
                 "EMC": "8684, 8685, 8687, 8686",
                 "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
-                "Weight/Dimensions": "<br><li>227 g, 16.30 H x 7.76 W x 0.83 D cm<br><li>7.99 oz, 6.42 H x 3.06 W x 0.32 D inch"
+                "Weight/Dimensions": "<li>227 g, 16.30 H x 7.76 W x 0.83 D cm<li>7.99 oz, 6.42 H x 3.06 W x 0.32 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A18 Pro",
-                "Processor Speed": "4 GHz",
+                "Name": "Apple A18 Pro",
+                "Speed": "4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3401 / 8397",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "3 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>iOS 18</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 18",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "8 GB LPDDR5X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion and Always-On",
-                "Display Size": "6.9-inch widescreen",
-                "Display Resolution": "2868 x 1320",
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.9-inch widescreen",
+                "Resolution": "2868 x 1320",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)",
-                "Display Refresh Rate":"10 - 120 Hz ProMotion or 1 Hz Always-On"
+                "Refresh Rate":"10 - 120 Hz ProMotion or 1 Hz Always-On"
             },
             "Storage": {
                 "Capacity": "256, 512 GB or 1 TB"
@@ -3134,34 +3138,34 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone17,5",
                 "Model Number": "A3212",
-                "Other Model Numbers": "<br><li>A3408<br><li>A3409<br><li>A3410",
+                "Other Model Numbers": "<li>A3408<li>A3409<li>A3410",
                 "EMC": "8725, 8726, 8728, 8727",
                 "Colors": "Black or White",
-                "Weight/Dimensions": "<br><li>167 g, 14.76 H x 7.15 W x 0.78 D cm<br><li>5.88 oz, 5.78 H x 2.82 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>167 g, 14.76 H x 7.15 W x 0.78 D cm<li>5.88 oz, 5.78 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A18",
-                "Processor Speed": "4 GHz",
+                "Name": "Apple A18",
+                "Speed": "4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3264 / 7997",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "3 nm"
             },
             "Software": {
-                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>iOS 18.3</a>",
-                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+                "Original OS": "iOS 18.3",
+                "Maximum OS": "Latest release of iOS"
             },
             "Memory": {
                 "Built-in Memory": "8 GB LPDDR5X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532 x 1170",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2532 x 1170",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -3193,6 +3197,291 @@
                 "Camera Control Button": "No"
             }
         }
+    },
+    {
+        "Name": "iPhone 17",
+        "Type": "iPhone",
+        "image": "iphone_17.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPhone18,3",
+                "Model Number": "A3258",
+                "Other Model Numbers": "<li>A3519<li>A3521<li>A3521",
+                "EMC": "8947, 8951, 8953, 8952",
+                "Colors": "Lavender, Sage, Mist Blue, White, Black",
+                "Weight/Dimensions": "<li>177 g, 14.96 H x 7.15 W x 0.8 D cm<li>6.24 oz, 5.89 H x 2.81 W x 0.31 D inch"
+            },
+            "Processor": {
+                "Name": "Apple A19",
+                "Speed": "4.3 GHz (High Performance)<br>2.6 GHz (High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3619 / 9214",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 26",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
+            },
+            "Display": {
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.3-inch widescreen",
+                "Resolution": "2622 x 1206",
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On",
+                "Brightness": "1000 nits (typical), 1600 nits (HDR), 3000 nits (outdoor)"
+            },
+            "Storage": {
+                "Capacity": "256 or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (WiFi 7)",
+                "Bluetooth": "6",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "dual eSIM (A3258, A3519), nano-SIM and eSIM (A3520) dual nano-SIM (A3521)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "USB-C 2 (up to 480 MBit/s)"
+            },
+            "Camera": {
+                "Rear Camera": "2 - Main: 48 MP, Ultra Wide: 48 MP",
+                "Front Camera": "1 - 18 MP (Center Stage)"
+            },
+            "Power": {
+                "Battery": "Built-in 14.35 lithium-ion",
+                "Capacity": "3692 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68",
+                "Dynamic Island": "Yes",
+                "Action Button": "Yes",
+                "Camera Control Button": "Yes"
+            }
+        }
+    },
+    {
+        "Name": "iPhone Air",
+        "Type": "iPhone",
+        "image": "iphone_air.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPhone18,4",
+                "Model Number": "A3260",
+                "Other Model Numbers": "<li>A3516<li>A3517<li>A3518",
+                "EMC": "8948, 8954, 8955, 8956",
+                "Colors": "Sky Blue, Light Gold, Cloud White, Space Black",
+                "Weight/Dimensions": "<li>165 g, 15.62 H x 7.47 W x 0.56 D cm<li>5.82 oz, 6.15 H x 2.94 W x 0.22 D inch"
+            },
+            "Processor": {
+                "Name": "Apple A19 Pro",
+                "Speed": "4.3 GHz (High Performance)<br>2.6 GHz (High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3652 / 9329",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 26",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
+            },
+            "Display": {
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.5-inch widescreen",
+                "Resolution": "2736 x 1260",
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On",
+                "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (WiFi 7)",
+                "Bluetooth": "6",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "dual eSIM",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "1 - Built-in speakers",
+                "Ports": "USB-C 2 (up to 480 MBit/s)"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 48 MP",
+                "Front Camera": "1 - 18 MP (Center Stage)"
+            },
+            "Power": {
+                "Battery": "Built-in 12.26 lithium-ion",
+                "Capacity": "3149 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68",
+                "Dynamic Island": "Yes",
+                "Action Button": "Yes",
+                "Camera Control Button": "Yes"
+            }
+        }
+    },
+    {
+        "Name": "iPhone 17 Pro",
+        "Type": "iPhone",
+        "image": "iphone_17_pro.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPhone18,1",
+                "Model Number": "A3256",
+                "Other Model Numbers": "<li>A3522<li>A3523<li>A3524",
+                "EMC": "8949, 8957, 8959, 8958",
+                "Colors": "Silver, Cosmic Orange, Deep Blue",
+                "Weight/Dimensions": "<li>206 g, 15 H x 7.19 W x 0.875 D cm<li>7.27 oz, 5.91 H x 2.83 W x 0.34 D inch"
+            },
+            "Processor": {
+                "Name": "Apple A19 Pro",
+                "Speed": "4.3 GHz (High Performance)<br>2.6 GHz (High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3773 / 9783",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 26",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "# of Cores": "6"
+            },
+            "Display": {
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.3-inch widescreen",
+                "Resolution": "2622 x 1206",
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On",
+                "Brightness": "1000 nits (typical), 1600 nits (HDR), 3000 nits (outdoor)"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (WiFi 7)",
+                "Bluetooth": "6",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "dual eSIM (A3256, A3522), nano-SIM and eSIM (A3523) dual nano-SIM (A3524)",
+                "Audio In": "4 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "USB-C connector (USB 3, up to 10Gb/s)"
+            },
+            "Camera": {
+                "Rear Camera": "3 - Main: 48 MP, Ultra Wide: 48 MP, Telephoto: 48 MP",
+                "Front Camera": "1 - 18 MP (Center Stage)"
+            },
+            "Power": {
+                "Battery": "Built-in 16.55 Wh (A3256, A3522)lithium-ion<br> Built-in 15.85 Wh (A3523, A3524) lithium-ion",
+                "Capacity": "4252 mAh, 3988 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68",
+                "Dynamic Island": "Yes",
+                "Action Button": "Yes",
+                "Camera Control Button": "Yes"
+            }
+        }
+    },
+    {
+        "Name": "iPhone 17 Pro Max",
+        "Type": "iPhone",
+        "image": "iphone_17_pro_max.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPhone18,2",
+                "Model Number": "A3257",
+                "Other Model Numbers": "<li>A3525<li>A3526<li>A3527",
+                "EMC": "8949, 8957, 8958, 8959",
+                "Colors": "Silver, Cosmic Orange, Deep Blue",
+                "Weight/Dimensions": "<li>233 g, 16.34 H x 7.8 W x 0.875 D cm<li>8.22 oz, 6.43 H x 3.07 W x 0.34 D inch"
+            },
+            "Processor": {
+                "Name": "Apple A19 Pro",
+                "Speed": "4.3 GHz (High Performance)<br>2.6 GHz (High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3787 / 9811",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 26",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "# of Cores": "6"
+            },
+            "Display": {
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.9-inch widescreen",
+                "Resolution": "2868 x 1320",
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On",
+                "Brightness": "1000 nits (typical), 1600 nits (HDR), 3000 nits (outdoor)"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB, 1 or 2 TB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (WiFi 7)",
+                "Bluetooth": "6",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "dual eSIM (A3257, A3525), nano-SIM and eSIM (A3526) dual nano-SIM (A3527)",
+                "Audio In": "4 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "USB-C connector (USB 3, up to 10Gb/s)"
+            },
+            "Camera": {
+                "Rear Camera": "3 - Main: 48 MP, Ultra Wide: 48 MP, Telephoto: 48 MP",
+                "Front Camera": "1 - 18 MP (Center Stage)"
+            },
+            "Power": {
+                "Battery": "Built-in 19.77 Wh (A3257, A3525) lithium-ion<br> Built-in 18.75 Wh (A3526, A3527) lithium-ion",
+                "Capacity": "5088 mAh, 4823 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68",
+                "Dynamic Island": "Yes",
+                "Action Button": "Yes",
+                "Camera Control Button": "Yes"
+            }
+        }
     }
     
 ]
+
+
+
+
+

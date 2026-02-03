@@ -1,0 +1,362 @@
+[
+    {
+        "Name": "Mac OS X 10.0 Cheetah",
+        "Type": "macOS",
+        "image": "macOS100.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 24, 2001",
+                "Supported Devices": "<ul class='supported-devices'><li>Power Macintosh G3 Beige</li><li>Power Macintosh G3 Blue & White</li><li>Power Mac G4</li><li>Power Mac G4 Cube</li><li>iMac G3</li><li>PowerBook G3</li><li>PowerBook G4</li><li>iBook</li></ul>",
+                "System Requirements": "<br>RAM: 128 MB<br>Hard Drive Space: 1.5 GB",
+                "Model Identifier": "macOS 10.0.4",
+                "Model Number": "macOS 10.0"
+            },
+            "Versions": {
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td><td>Description</td></tr><tr><td>10.0</td><td>4K78</td><td>Mar 24, 2001</td><td>PowerPC</td></tr><tr><td>10.0.1</td><td>4L13</td><td>Apr 14, 2001</td><td>PowerPC</td></tr><tr><td>10.0.2</td><td>4P12</td><td>May 1, 2001</td><td>PowerPC</td></tr><tr><td>10.0.3</td><td>4P13</td><td>May 9, 2001</td><td>PowerPC</td></tr><tr><td>10.0.4</td><td>4Q12<br>4R14<br>4S10</td><td>Jun 21, 2001<br>Jul 18, 2001<br>Aug 10, 2001</td><td>PowerPC</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "Mac OS X 10.1 Puma",
+        "Type": "macOS",
+        "image": "macOS100.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 29, 2001",
+                "Supported Devices": "<ul class='supported-devices'><li>Power Mac G3</li><li>Power Mac G4</li><li>Power Mac G4 Cube</li><li>iMac G3</li><li>iMac G4</li><li>eMac</li><li>PowerBook G3 (except for the orig. PowerBook G3)</li><li>PowerBook G4</li><li>iBook</li></ul>",
+                "System Requirements": "<ul class='supported-devices'><li>RAM: 128 MB</li><li>Hard Drive Space: 1.5 GB</li></ul>",
+                "Model Identifier": "macOS 10.1.5",
+                "Model Number": "macOS 10.1"
+            },
+            "Versions": {
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td><td>Description</td></tr><tr><td>10.1</td><td>5G64</td><td>Sep 25, 2001</td><td>PowerPC</td></tr><tr><td>10.1.1</td><td>5M28</td><td>Nov 12, 2001</td><td>PowerPC</td></tr><tr><td>10.1.2</td><td>5P48</td><td>Dec 21, 2001</td><td>PowerPC</td></tr><tr><td>10.1.3</td><td>5Q45</td><td>Feb 19, 2002</td><td>PowerPC</td></tr><tr><td>10.1.4</td><td>5Q125</td><td>Apr 17, 2002</td><td>PowerPC</td></tr><tr><td>10.1.5</td><td>5S60</td><td>Jun 5, 2002</td><td>PowerPC</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "Mac OS X 10.2 Jaguar",
+        "Type": "macOS",
+        "image": "macOS102.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Aug 23, 2002",
+                "Supported Devices": "<ul class='supported-devices'><li>PowerPC G3</li><li>PowerPC G4</li><li>PowerPC G5</li></ul>",
+                "System Requirements": "<ul class='supported-devices'><li>RAM: 128 MB</li></ul>",
+                "Model Identifier": "macOS 10.2.8",
+                "Model Number": "macOS 10.2"
+            },
+            "Versions": {
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td><td>Description</td></tr><tr><td>10.2</td><td>6C115<br>6C115a</td><td>Aug 24, 2002</td><td>PowerPC</td></tr><tr><td>10.2.1</td><td>6D52</td><td>Sep 18, 2002</td><td>PowerPC</td></tr><tr><td>10.2.2</td><td>6F21</td><td>Nov 11, 2002</td><td>PowerPC</td></tr><tr><td>10.2.3</td><td>6G30<br>6G37<br>6G50</td><td>Dec 19, 2002</td><td>PowerPC</td></tr><tr><td>10.2.4</td><td>6I32</td><td>Feb 13, 2003</td><td>PowerPC</td></tr><tr><td>10.2.5</td><td>6L29</td><td>Apr 10, 2003</td><td>PowerPC</td></tr><tr><td>10.2.6</td><td>6L60</td><td>May 6, 2003</td><td>PowerPC</td></tr><tr><td>10.2.7</td><td>6R65</td><td>Sep 22, 2003</td><td>PowerPC</td></tr><tr><td>10.2.8</td><td>6R73<br>6S90</td><td>Oct 3, 2003</td><td>PowerPC</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "Mac OS X 10.3 Panther",
+        "Type": "macOS",
+        "image": "macOS103.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 24, 2003",
+                "Supported Devices": "<ul class='supported-devices'><li>PowerPC G3, G4 or G5 (233 MHz or faster)</li></ul>",
+                "System Requirements": "<ul class='supported-devices'><li>Built-in USB</li><li>RAM: 128 MB (256 recommended)</li><li>HDD: 1.5 GB</li><li>CD Drive</li><li>Internet access</li></ul>",
+                "Model Identifier": "macOS 10.3.9",
+                "Model Number": "macOS 10.3"
+            },
+            "Versions": {
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td><td>Description</td></tr><tr><td>10.3</td><td>7B85<br>7B86</td><td>Oct 24, 2003</td><td>PowerPC</td></tr><tr><td>10.3.1</td><td>7C107</td><td>Nov 10, 2003</td><td>PowerPC</td></tr><tr><td>10.3.2</td><td>7D24<br>7D28</td><td>Dec 17, 2003</td><td>PowerPC</td></tr><tr><td>10.3.3</td><td>7F44</td><td>Mar 15, 2004</td><td>PowerPC</td></tr><tr><td>10.3.4</td><td>7H63</td><td>May 26, 2004</td><td>PowerPC</td></tr><tr><td>10.3.5</td><td>7M34</td><td>Aug 9, 2004</td><td>PowerPC</td></tr><tr><td>10.3.6</td><td>7R28</td><td>Nov 5, 2004</td><td>PowerPC</td></tr><tr><td>10.3.7</td><td>7S215</td><td>Dec 15, 2004</td><td>PowerPC</td></tr><tr><td>10.3.8</td><td>7U16</td><td>Feb 9, 2005</td><td>PowerPC</td></tr><tr><td>10.3.9</td><td>7W98</td><td>Apr 15, 2005</td><td>PowerPC</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "Mac OS X 10.4 Tiger",
+        "Type": "macOS",
+        "image": "macOS104.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Apr 29, 2005",
+                "Supported Devices": "<ul class='supported-devices'><li>PowerPC G3, G4 or G5</li><strong>iMacs:</strong><li>iMac (Early 2006) (17-inch)</li><li>iMac Early 2006 20-inch</li><li>iMac (Mid 2006, 17-inch)</li><li>iMac (Late 2006) (17-inch CD)</li><li>iMac (Late 2006) (17-inch)</li><li>iMac (Late 2006) (20-inch)</li><li>iMac (24-inch)</li><strong>MacBooks:</strong><li>MacBook (Mid 2006)</li><li>MacBook (Late 2006)</li><li>MacBook (Mid 2007)</li><strong>MacBook Pros:</strong><li>MacBook Pro (Early 2006)</li><li>MacBook Pro (17-inch)</li><li>MacBook Pro (15-inch, Core 2 Duo)</li><li>MacBook Pro (17-inch, Core 2 Duo)</li><li>MacBook Pro (15-inch, Mid 2007)</li><li>MacBook Pro (17-inch, Mid 2007)</li><strong>Mac Minis:</strong><li>Mac Mini (Early 2006)</li><li>Mac Mini (Late 2006)</li><li>Mac Mini (Mid 2007)</li></ul>",
+                "System Requirements (PowerPC)": "<ul class='supported-devices'><li>PowerPC G3, G4 or G5</li><li>RAM: 256 MB</li><li>HDD: 3 GB (4 GB with dev tools)</li><li>DVD Drive</li></ul>",
+                "Model Identifier": "macOS 10.4.11",
+                "Model Number": "macOS 10.4"
+            },
+            "Versions": {
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td><td>Description</td></tr><tr><td>10.4</td><td>8A428<br>8A432</td><td>Apr 29, 2005</td><td>PowerPC</td></tr><tr><td>10.4.1</td><td>8B15<br>8B17</td><td>May 16, 2005<br>May 19, 2005</td><td>PowerPC</td></tr><tr><td>10.4.2</td><td>8C46<br>8C47<br>8E102<br>8E45<br>8E90</td><td>Jul 12, 2005<br>Oct 12, 2005<br>Oct 19, 2005</td><td>PowerPC</td></tr><tr><td>10.4.3</td><td>8F46</td><td>Oct 21, 2005</td><td>PowerPC</td></tr><tr><td>10.4.4</td><td>8G32<br>8G1165</td><td>Jan 10, 2006</td><td>PowerPC<br>Intel x86</td></tr><tr><td>10.4.5</td><td>8H14<br>8G1454</td><td>Feb 14, 2006</td><td>PowerPC<br>Intel x86</td></tr><tr><td>10.4.6</td><td>8I127<br>8I1119</td><td>Apr 3, 2006</td><td>PowerPC<br>Intel x86</td></tr><tr><td>10.4.7</td><td>8J135<br>8J2135a<br>8K1079<br>8N5107</td><td>Jun 27, 2006<br><br>Aug 7, 2006</td><td>PowerPC<br>Intel x86<br>Mac Pro<br>Apple TV</td></tr><tr><td>10.4.8</td><td>8L127<br>8L2127</td><td>Sep 29, 2006</td><td>PowerPC<br>Intel x86</td></tr><tr><td>10.4.9</td><td>8P135<br>8P2137</td><td>Mar 13, 2007</td><td>PowerPC<br>Intel x86</td></tr><tr><td>10.4.10</td><td>8R218<br>8R2218<br>8R2232</td><td>Jun 20, 2007</td><td>PowerPC<br>Intel x86</td></tr><tr><td>10.4.11</td><td>8S165<br>8S2167</td><td>Nov 14, 2007</td><td>PowerPC<br>Intel x86</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "Mac OS X 10.5 Leopard",
+        "Type": "macOS",
+        "image": "macOS105.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 26, 2007",
+                "System Requirements": "<ul class='supported-devices'><li>Built-in USB</li><li>RAM: 512 MB</li><li>HDD: 9 GB</li><li>DVD Drive</li></ul>",
+                "Model Identifier": "macOS 10.5.8",
+                "Model Number": "macOS 10.5"
+            },
+            "Supported Devices": {
+                "Supported": "<ul class='supported-devices'><li>PowerPC G4 (867 MHz or faster) or G5</li><strong>MacBooks:</strong><li>MacBook (13-inch)</li><li>MacBook (13-inch, Late 2006)</li><li>MacBook (13-inch, Mid 2007)</li><li>MacBook (13-inch, Late 2007)</li><li>MacBook (13-inch, Early 2008)</li><li>MacBook (13-inch, Late 2008)</li><li>MacBook (13-inch, Late 2008) (Aluminum)</li><li>MacBook (13-inch, Early 2009)</li><li>MacBook (13-inch, Mid 2009)</li><br><strong>MacBook Air:</strong><li>MacBook Air</li><li>MacBook Air (Late 2008)</li><li>MacBook Air (Mid 2009)</li><br><strong>MacBook Pro:</strong><li>MacBook Pro (Early 2006)</li><li>MacBook Pro (17-inch)</li><li>MacBook Pro (15-inch, Core 2 Duo)</li><li>MacBook Pro (17-inch, Core 2 Duo)</li><li>MacBook Pro (15-inch, Mid 2007)</li><li>MacBook Pro (17-inch, Mid 2007)</li><li>MacBook Pro (15-inch, Early 2008)</li><li>MacBook Pro (17-inch, Early 2008)</li><li>MacBook Pro (15-inch, Late 2008)</li><li>MacBook Pro (17-inch, Late 2008)</li><li>MacBook Pro (17-inch, Early 2009)</li><li>MacBook Pro (13-inch, Mid 2009)</li><li>MacBook Pro (15-inch, 2.53 GHz, Mid 2009)</li><li>MacBook Pro (15-inch, Mid 2009)</li><li>MacBook Pro (17-inch, Mid 2009)</li><br><strong>iMac:</strong><li>iMac G5 17-inch</li><li>iMac G5 20-inch</li><li>iMac G5 17-inch (ALS)</li><li>iMac G5 20-inch (ALS)</li><li>iMac G5 17-inch iSight</li><li>iMac G5 20-inch iSight</li><li>iMac (Early 2006) (17-inch)</li><li>iMac (Early 2006) (20-inch)</li><li>iMac (Mid 2006) (17-inch)</li><li>iMac (Late 2006) (17-inch CD)</li><li>iMac (Late 2006) (17-inch)</li><li>iMac (Late 2006) (20-inch)</li><li>iMac (24-inch)</li><li>iMac (Mid 2007) (20-inch)</li><li>iMac (Mid 2007) (24-inch)</li><li>iMac (Early 2008) (20-inch)</li><li>iMac (Early 2008) (24-inch)</li><li>iMac (Early 2009) (20-inch)</li><li>iMac (Early 2009) (24-inch)</li><li>iMac (Mid 2009) (20-inch)</li><br><strong>Mac Mini:</strong><li>Mac Mini</li><li>Mac Mini (Late 2005)</li><li>Mac Mini (Early 2006)</li><li>Mac Mini (Late 2006)</li><li>Mac Mini (Mid 2007)</li><li>Mac Mini (Early 2009)</li><br><strong>Mac Pro:</strong><li>Mac Pro</li><li>Mac Pro (8-core)</li><li>Mac Pro (Early 2008)</li><li>Mac Pro (Early 2009)</li></ul>"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>10.5</td><td>9A581</td><td>Oct 26, 2007</td></tr><tr><td>10.5.1</td><td>9B18<br>9B2117</td><td>Nov 15, 2007<br>Dec 14, 2007</td></tr><tr><td>10.5.2</td><td>9C31<br>9C7010</td><td>Feb 11, 2008</td></tr><tr><td>10.5.3</td><td>9D34</td><td>May 28, 2008</td></tr><tr><td>10.5.4</td><td>9E17</td><td>Jun 30, 2008</td></tr><tr><td>10.5.5</td><td>9F33</td><td>Sep 15, 2008</td></tr><tr><td>10.5.6</td><td>9G55<br>9G66<br>9G71</td><td>Dec 15, 2008<br>Jan 6, 2009</td></tr><tr><td>10.5.7</td><td>9J61</td><td>May 12, 2009</td></tr><tr><td>10.5.8</td><td>9L30<br>9L34</td><td>Aug 5, 2009<br>Aug 31, 2009</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "Mac OS X 10.6 Snow Leopard",
+        "Type": "macOS",
+        "image": "macOS106.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Aug 28, 2009",
+                "System Requirements": "<ul class='supported-devices'><li>Intel processor</li><li>RAM: 1 GB</li><li>HDD: 5 GB</li><li>DVD Drive</li></ul>",
+                "Model Identifier": "macOS 10.6.8",
+                "Model Number": "macOS 10.6"
+            },
+            "Supported Devices": {
+                "Supported": "<ul class='supported-devices'><li>Intel-based Macs only</li><strong>MacBooks:</strong><li>MacBook (13-inch)</li><li>MacBook (13-inch, Late 2006)</li><li>MacBook (13-inch, Mid 2007)</li><li>MacBook (13-inch, Late 2007)</li><li>MacBook (13-inch, Early 2008)</li><li>MacBook (13-inch, Late 2008)</li><li>MacBook (13-inch, Late 2008) (Aluminum)</li><li>MacBook (13-inch, Early 2009)</li><li>MacBook (13-inch, Mid 2009)</li><li>MacBook (13-inch, Late 2009)</li><li>MacBook (13-inch, Mid 2010)</li><br><strong>MacBook Air:</strong><li>MacBook Air</li><li>MacBook Air (Late 2008)</li><li>MacBook Air (Mid 2009)</li><li>MacBook Air (11-inch, Late 2010)</li><li>MacBook Air (13-inch, Late 2010)</li><br><strong>MacBook Pro:</strong><li>MacBook Pro (Early 2006)</li><li>MacBook Pro (17-inch)</li><li>MacBook Pro (15-inch, Core 2 Duo)</li><li>MacBook Pro (17-inch, Core 2 Duo)</li><li>MacBook Pro (15-inch, Mid 2007)</li><li>MacBook Pro (17-inch, Mid 2007)</li><li>MacBook Pro (15-inch, Early 2008)</li><li>MacBook Pro (17-inch, Early 2008)</li><li>MacBook Pro (15-inch, Late 2008)</li><li>MacBook Pro (17-inch, Late 2008)</li><li>MacBook Pro (17-inch, Early 2009)</li><li>MacBook Pro (13-inch, Mid 2009)</li><li>MacBook Pro (15-inch, 2.53 GHz, Mid 2009)</li><li>MacBook Pro (15-inch, Mid 2009)</li><li>MacBook Pro (17-inch, Mid 2009)</li><li>MacBook Pro (13-inch, Mid 2010)</li><li>MacBook Pro (15-inch, Mid 2010)</li><li>MacBook Pro (17-inch, Mid 2010)</li><li>MacBook Pro (13-inch, Early 2011)</li><li>MacBook Pro (15-inch, Early 2011)</li><li>MacBook Pro (17-inch, Early 2011)</li><br><strong>iMac:</strong><li>iMac (Early 2006) (17-inch)</li><li>iMac (Early 2006) (20-inch)</li><li>iMac (Mid 2006) (17-inch)</li><li>iMac (Late 2006) (17-inch CD)</li><li>iMac (Late 2006) (17-inch)</li><li>iMac (Late 2006) (20-inch)</li><li>iMac (24-inch)</li><li>iMac (Mid 2007) (20-inch)</li><li>iMac (Mid 2007) (24-inch)</li><li>iMac (Early 2008) (20-inch)</li><li>iMac (Early 2008) (24-inch)</li><li>iMac (Early 2009) (20-inch)</li><li>iMac (Early 2009) (24-inch)</li><li>iMac (Mid 2009) (20-inch)</li><li>iMac (21.5-inch, Late 2009)</li><li>iMac (27-inch, Late 2009)</li><li>iMac (21.5-inch, Mid 2010)</li><li>iMac (27-inch, Mid 2010)</li><li>iMac (21.5-inch, Mid 2011)</li><li>iMac (27-inch, Mid 2011)</li><br><strong>Mac Mini:</strong><li>Mac Mini (Early 2006)</li><li>Mac Mini (Late 2006)</li><li>Mac Mini (Mid 2007)</li><li>Mac Mini (Early 2009)</li><li>Mac Mini (Late 2009)</li><li>Mac Mini (Mid 2010)</li><br><strong>Mac Pro:</strong><li>Mac Pro</li><li>Mac Pro (8-core)</li><li>Mac Pro (Early 2008)</li><li>Mac Pro (Early 2009)</li><li>Mac Pro (Mid 2010)</li><li>Mac Pro (Mid 2012)</li><br><strong>Xserve:</strong><li>Xserve (Early 2008)</li><li>Xserve (Early 2009)</li></ul>"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td><td>Description</td></tr><tr><td>10.6</td><td>10A432</td><td>Aug 28, 2009</td><td>Intel x86-64</td></tr><tr><td>10.6.1</td><td>10B504</td><td>Sep 10, 2009</td><td>Intel x86-64</td></tr><tr><td>10.6.2</td><td>10C540</td><td>Nov 9, 2009</td><td>Intel x86-64</td></tr><tr><td>10.6.3</td><td>10D573<br>10D575<br>10D578</td><td>Mar 29, 2010<br>Apr 13, 2010</td><td>Intel x86-64</td></tr><tr><td>10.6.4</td><td>10F569</td><td>Jun 15, 2010</td><td>Intel x86-64</td></tr><tr><td>10.6.5</td><td>10H574</td><td>Nov 10, 2010</td><td>Intel x86-64</td></tr><tr><td>10.6.6</td><td>10J567</td><td>Jan 6, 2011</td><td>Intel x86-64</td></tr><tr><td>10.6.7</td><td>10J869</td><td>Mar 21, 2011</td><td>Intel x86-64</td></tr><tr><td>10.6.8</td><td>10K540<br>10K549</td><td>Jun 23, 2011<br>Jul 25, 2011</td><td>Intel x86-64</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "OS X 10.7 Lion",
+        "Type": "macOS",
+        "image": "macOS107.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 20, 2011",
+                "System Requirements": "<ul class='supported-devices'><li>Intel Core 2 Duo, Core i3, Core i5, Core i7, or Xeon processor</li><li>RAM: 2 GB</li><li>HDD: 7 GB</li><li>OS X 10.6.6 or later (to download from Mac App Store)</li></ul>",
+                "Model Identifier": "macOS 10.7.5",
+                "Model Number": "macOS 10.7"
+            },
+            "Supported Devices": {
+                "Supported": "<ul class='supported-devices'><li>Intel Core 2 Duo or later</li><strong>MacBooks:</strong><li>MacBook (13-inch, Late 2008) (Aluminum)</li><li>MacBook (13-inch, Early 2009)</li><li>MacBook (13-inch, Mid 2009)</li><li>MacBook (13-inch, Late 2009)</li><li>MacBook (13-inch, Mid 2010)</li><br><strong>MacBook Air:</strong><li>MacBook Air (Late 2008)</li><li>MacBook Air (Mid 2009)</li><li>MacBook Air (11-inch, Late 2010)</li><li>MacBook Air (13-inch, Late 2010)</li><li>MacBook Air (11-inch, Mid 2011)</li><li>MacBook Air (13-inch, Mid 2011)</li><li>MacBook Air (11-inch, Mid 2012)</li><li>MacBook Air (13-inch, Mid 2012)</li><br><strong>MacBook Pro:</strong><li>MacBook Pro (15-inch, Core 2 Duo)</li><li>MacBook Pro (17-inch, Core 2 Duo)</li><li>MacBook Pro (15-inch, Mid 2007)</li><li>MacBook Pro (17-inch, Mid 2007)</li><li>MacBook Pro (15-inch, Early 2008)</li><li>MacBook Pro (17-inch, Early 2008)</li><li>MacBook Pro (15-inch, Late 2008)</li><li>MacBook Pro (17-inch, Late 2008)</li><li>MacBook Pro (17-inch, Early 2009)</li><li>MacBook Pro (13-inch, Mid 2009)</li><li>MacBook Pro (15-inch, 2.53 GHz, Mid 2009)</li><li>MacBook Pro (15-inch, Mid 2009)</li><li>MacBook Pro (17-inch, Mid 2009)</li><li>MacBook Pro (13-inch, Mid 2010)</li><li>MacBook Pro (15-inch, Mid 2010)</li><li>MacBook Pro (17-inch, Mid 2010)</li><li>MacBook Pro (13-inch, Early 2011)</li><li>MacBook Pro (15-inch, Early 2011)</li><li>MacBook Pro (17-inch, Early 2011)</li><li>MacBook Pro (13-inch, Late 2011)</li><li>MacBook Pro (15-inch, Late 2011)</li><li>MacBook Pro (17-inch, Late 2011)</li><li>MacBook Pro (Retina, 15-inch, Mid 2012)</li><br><strong>iMac:</strong><li>iMac (20-inch, Early 2008)</li><li>iMac (24-inch, Early 2008)</li><li>iMac (20-inch, Early 2009)</li><li>iMac (24-inch, Early 2009)</li><li>iMac (21.5-inch, Late 2009)</li><li>iMac (27-inch, Late 2009)</li><li>iMac (21.5-inch, Mid 2010)</li><li>iMac (27-inch, Mid 2010)</li><li>iMac (21.5-inch, Mid 2011)</li><li>iMac (27-inch, Mid 2011)</li><li>iMac (21.5-inch, Late 2011)</li><li>iMac (27-inch, Late 2011)</li><li>iMac (21.5-inch, Late 2012)</li><li>iMac (27-inch, Late 2012)</li><br><strong>Mac Mini:</strong><li>Mac Mini (Early 2009)</li><li>Mac Mini (Late 2009)</li><li>Mac Mini (Mid 2010)</li><li>Mac Mini (Mid 2011)</li><li>Mac Mini Server (Mid 2011)</li><li>Mac Mini (Late 2012)</li><br><strong>Mac Pro:</strong><li>Mac Pro (Early 2008)</li><li>Mac Pro (Early 2009)</li><li>Mac Pro (Mid 2010)</li><li>Mac Pro (Mid 2012)</li><br><strong>Xserve:</strong><li>Xserve (Early 2008)</li><li>Xserve (Early 2009)</li></ul>"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td><td>Darwin</td><td>Description</td></tr><tr><td>10.7</td><td>11A511<br>11A511s<br>11A2061<br>11A2063</td><td>Jul 20, 2011<br>Aug 16, 2011<br>Jul 20, 2011</td><td>11.0<br><br>11.0.2</td><td>Mac App Store release<br>Retail USB Thumb Drive<br>Mid-2011 Mac Mini<br>Mid-2011 MacBook Air</td></tr><tr><td>10.7.1</td><td>11B26<br>11B2118</td><td>Aug 16, 2011</td><td>11.1.0</td><td>General release<br>Mid-2011 Mac mini and MacBook Air</td></tr><tr><td>10.7.2</td><td>11C74</td><td>Oct 12, 2011</td><td>11.2</td><td>iCloud support, fixes</td></tr><tr><td>10.7.3</td><td>11D50</td><td>Feb 1, 2012</td><td>11.3</td><td>Fixes, language support</td></tr><tr><td>10.7.4</td><td>11E53</td><td>May 9, 2012</td><td>11.4</td><td>Fixes, Safari 5.1.6</td></tr><tr><td>10.7.5</td><td>11G56<br>11G63</td><td>Sep 19, 2012<br>Oct 4, 2012</td><td>11.4.2</td><td>Fixes, Safari 5.1.7, Gatekeeper</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "OS X 10.8 Mountain Lion",
+        "Type": "macOS",
+        "image": "macOS108.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 25, 2012",
+                "System Requirements": "<ul class='supported-devices'><li>Intel Core 2 Duo, Core i3, Core i5, Core i7, or Xeon processor</li><li>RAM: 2 GB</li><li>HDD: 8 GB</li><li>OS X 10.6.8 or later (to download from Mac App Store)</li></ul>",
+                "Model Identifier": "macOS 10.8.5",
+                "Model Number": "macOS 10.8"
+            },
+            "Supported Devices": {
+                "Supported": "<ul class='supported-devices'><li>Intel Core 2 Duo or later</li><strong>MacBooks:</strong><li>MacBook (13-inch, Late 2008) (Aluminum)</li><li>MacBook (13-inch, Early 2009)</li><li>MacBook (13-inch, Mid 2009)</li><li>MacBook (13-inch, Late 2009)</li><li>MacBook (13-inch, Mid 2010)</li><br><strong>MacBook Air:</strong><li>MacBook Air (Late 2008)</li><li>MacBook Air (Mid 2009)</li><li>MacBook Air (11-inch, Late 2010)</li><li>MacBook Air (13-inch, Late 2010)</li><li>MacBook Air (11-inch, Mid 2011)</li><li>MacBook Air (13-inch, Mid 2011)</li><li>MacBook Air (11-inch, Mid 2012)</li><li>MacBook Air (13-inch, Mid 2012)</li><li>MacBook Air (11-inch, Mid 2013)</li><li>MacBook Air (13-inch, Mid 2013)</li><br><strong>MacBook Pro:</strong><li>MacBook Pro (15-inch, Core 2 Duo)</li><li>MacBook Pro (17-inch, Core 2 Duo)</li><li>MacBook Pro (15-inch, Mid 2007)</li><li>MacBook Pro (17-inch, Mid 2007)</li><li>MacBook Pro (15-inch, Early 2008)</li><li>MacBook Pro (17-inch, Early 2008)</li><li>MacBook Pro (15-inch, Late 2008)</li><li>MacBook Pro (17-inch, Late 2008)</li><li>MacBook Pro (17-inch, Early 2009)</li><li>MacBook Pro (13-inch, Mid 2009)</li><li>MacBook Pro (15-inch, 2.53 GHz, Mid 2009)</li><li>MacBook Pro (15-inch, Mid 2009)</li><li>MacBook Pro (17-inch, Mid 2009)</li><li>MacBook Pro (13-inch, Mid 2010)</li><li>MacBook Pro (15-inch, Mid 2010)</li><li>MacBook Pro (17-inch, Mid 2010)</li><li>MacBook Pro (13-inch, Early 2011)</li><li>MacBook Pro (15-inch, Early 2011)</li><li>MacBook Pro (17-inch, Early 2011)</li><li>MacBook Pro (13-inch, Late 2011)</li><li>MacBook Pro (15-inch, Late 2011)</li><li>MacBook Pro (17-inch, Late 2011)</li><li>MacBook Pro (Retina, 13-inch, Late 2012)</li><li>MacBook Pro (Retina, 15-inch, Mid 2012)</li><li>MacBook Pro (Retina, 13-inch, Early 2013)</li><li>MacBook Pro (Retina, 15-inch, Early 2013)</li><br><strong>iMac:</strong><li>iMac (20-inch, Early 2008)</li><li>iMac (24-inch, Early 2008)</li><li>iMac (20-inch, Early 2009)</li><li>iMac (24-inch, Early 2009)</li><li>iMac (21.5-inch, Late 2009)</li><li>iMac (27-inch, Late 2009)</li><li>iMac (21.5-inch, Mid 2010)</li><li>iMac (27-inch, Mid 2010)</li><li>iMac (21.5-inch, Mid 2011)</li><li>iMac (27-inch, Mid 2011)</li><li>iMac (21.5-inch, Late 2011)</li><li>iMac (27-inch, Late 2011)</li><li>iMac (21.5-inch, Late 2012)</li><li>iMac (27-inch, Late 2012)</li><li>iMac (21.5-inch, Late 2013)</li><li>iMac (27-inch, Late 2013)</li><br><strong>Mac Mini:</strong><li>Mac Mini (Early 2009)</li><li>Mac Mini (Late 2009)</li><li>Mac Mini (Mid 2010)</li><li>Mac Mini (Mid 2011)</li><li>Mac Mini Server (Mid 2011)</li><li>Mac Mini (Late 2012)</li><li>Mac Mini Server (Late 2012)</li><br><strong>Mac Pro:</strong><li>Mac Pro (Early 2008)</li><li>Mac Pro (Early 2009)</li><li>Mac Pro (Mid 2010)</li><li>Mac Pro (Mid 2012)</li><li>Mac Pro (Late 2013)</li><br><strong>Xserve:</strong><li>Xserve (Early 2008)</li><li>Xserve (Early 2009)</li></ul>"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>10.8</td><td>12A269</td><td>Jul 25, 2012</td></tr><tr><td>10.8.1</td><td>12B19</td><td>Aug 23, 2012</td></tr><tr><td>10.8.2</td><td>12C54<br>12C60</td><td>Sep 19, 2012<br>Oct 4, 2012</td></tr><tr><td>10.8.3</td><td>12D78</td><td>Mar 14, 2013</td></tr><tr><td>10.8.4</td><td>12E55</td><td>Jun 4, 2013</td></tr><tr><td>10.8.5</td><td>12F37<br>12F45</td><td>Sep 12, 2013<br>Oct 3, 2013</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "OS X 10.9 Mavericks",
+        "Type": "macOS",
+        "image": "macOS109.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 22, 2013",
+                "System Requirements": "<ul class='supported-devices'><li>Intel Core 2 Duo, Core i3, Core i5, Core i7, or Xeon processor</li><li>RAM: 2 GB</li><li>HDD: 8 GB</li><li>OS X 10.6.8 or later (to download from Mac App Store)</li></ul>",
+                "Model Identifier": "macOS 10.9.5",
+                "Model Number": "macOS 10.9"
+            },
+            "Supported Devices": {
+                "Supported": "<ul class='supported-devices'><li>Intel Core 2 Duo or later</li><strong>MacBooks:</strong><li>MacBook (13-inch, Late 2008) (Aluminum)</li><li>MacBook (13-inch, Early 2009)</li><li>MacBook (13-inch, Mid 2009)</li><li>MacBook (13-inch, Late 2009)</li><li>MacBook (13-inch, Mid 2010)</li><br><strong>MacBook Air:</strong><li>MacBook Air (Late 2008)</li><li>MacBook Air (Mid 2009)</li><li>MacBook Air (11-inch, Late 2010)</li><li>MacBook Air (13-inch, Late 2010)</li><li>MacBook Air (11-inch, Mid 2011)</li><li>MacBook Air (13-inch, Mid 2011)</li><li>MacBook Air (11-inch, Mid 2012)</li><li>MacBook Air (13-inch, Mid 2012)</li><li>MacBook Air (11-inch, Mid 2013)</li><li>MacBook Air (13-inch, Mid 2013)</li><li>MacBook Air (11-inch, Early 2014)</li><li>MacBook Air (13-inch, Early 2014)</li><br><strong>MacBook Pro:</strong><li>MacBook Pro (15-inch, Mid 2007)</li><li>MacBook Pro (17-inch, Mid 2007)</li><li>MacBook Pro (15-inch, Late 2007)</li><li>MacBook Pro (17-inch, Late 2007)</li><li>MacBook Pro (15-inch, Early 2008)</li><li>MacBook Pro (17-inch, Early 2008)</li><li>MacBook Pro (15-inch, Late 2008)</li><li>MacBook Pro (17-inch, Late 2008)</li><li>MacBook Pro (17-inch, Early 2009)</li><li>MacBook Pro (13-inch, Mid 2009)</li><li>MacBook Pro (15-inch, 2.53 GHz, Mid 2009)</li><li>MacBook Pro (15-inch, Mid 2009)</li><li>MacBook Pro (17-inch, Mid 2009)</li><li>MacBook Pro (13-inch, Mid 2010)</li><li>MacBook Pro (15-inch, Mid 2010)</li><li>MacBook Pro (17-inch, Mid 2010)</li><li>MacBook Pro (13-inch, Early 2011)</li><li>MacBook Pro (15-inch, Early 2011)</li><li>MacBook Pro (17-inch, Early 2011)</li><li>MacBook Pro (13-inch, Late 2011)</li><li>MacBook Pro (15-inch, Late 2011)</li><li>MacBook Pro (17-inch, Late 2011)</li><li>MacBook Pro (Retina, 13-inch, Late 2012)</li><li>MacBook Pro (Retina, 15-inch, Mid 2012)</li><li>MacBook Pro (Retina, 13-inch, Early 2013)</li><li>MacBook Pro (Retina, 15-inch, Early 2013)</li><li>MacBook Pro (Retina, 13-inch, Late 2013)</li><li>MacBook Pro (Retina, 15-inch, Late 2013)</li><br><strong>iMac:</strong><li>iMac (20-inch, Mid 2007)</li><li>iMac (24-inch, Mid 2007)</li><li>iMac (20-inch, Early 2008)</li><li>iMac (24-inch, Early 2008)</li><li>iMac (20-inch, Early 2009)</li><li>iMac (24-inch, Early 2009)</li><li>iMac (21.5-inch, Late 2009)</li><li>iMac (27-inch, Late 2009)</li><li>iMac (21.5-inch, Mid 2010)</li><li>iMac (27-inch, Mid 2010)</li><li>iMac (21.5-inch, Mid 2011)</li><li>iMac (27-inch, Mid 2011)</li><li>iMac (21.5-inch, Late 2011)</li><li>iMac (27-inch, Late 2011)</li><li>iMac (21.5-inch, Late 2012)</li><li>iMac (27-inch, Late 2012)</li><li>iMac (21.5-inch, Late 2013)</li><li>iMac (27-inch, Late 2013)</li><br><strong>Mac Mini:</strong><li>Mac Mini (Early 2009)</li><li>Mac Mini (Late 2009)</li><li>Mac Mini (Mid 2010)</li><li>Mac Mini (Mid 2011)</li><li>Mac Mini Server (Mid 2011)</li><li>Mac Mini (Late 2012)</li><li>Mac Mini Server (Late 2012)</li><li>Mac Mini (Late 2014)</li><br><strong>Mac Pro:</strong><li>Mac Pro (Early 2008)</li><li>Mac Pro (Early 2009)</li><li>Mac Pro (Mid 2010)</li><li>Mac Pro (Mid 2012)</li><li>Mac Pro (Late 2013)</li><br><strong>Xserve:</strong><li>Xserve (Early 2009)</li></ul>"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>10.9</td><td>13A603</td><td>Oct 22, 2013</td></tr><tr><td>10.9.1</td><td>13B42<br>13B3116<br>13B4116</td><td>Dec 16, 2013<br>Dec 16, 2013<br>Dec 19, 2013</td></tr><tr><td>10.9.2</td><td>13C64</td><td>Feb 25, 2014</td></tr><tr><td>10.9.3</td><td>13D65</td><td>May 15, 2014</td></tr><tr><td>10.9.4</td><td>13E28</td><td>Jun 30, 2014</td></tr><tr><td>10.9.5</td><td>13F34</td><td>Sep 17, 2014</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "OS X 10.10 Yosemite",
+        "Type": "macOS",
+        "image": "macOS1010.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 16, 2014",
+                "Model Identifier": "macOS 10.10.5",
+                "Model Number": "macOS 10.10"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>10.10</td><td>14A389</td><td>Oct 16, 2014</td></tr><tr><td>10.10.1</td><td>14B25</td><td>Nov 17, 2014</td></tr><tr><td>10.10.2</td><td>14C109</td><td>Jan 27, 2015</td></tr><tr><td>10.10.3</td><td>14D131</td><td>Apr 8, 2015</td></tr><tr><td>10.10.4</td><td>14E46</td><td>Jun 30, 2015</td></tr><tr><td>10.10.5</td><td>14F27</td><td>Aug 13, 2015</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "OS X 10.11 El Capitan",
+        "Type": "macOS",
+        "image": "macOS1011.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 30, 2015",
+                "Model Identifier": "macOS 10.11.6",
+                "Model Number": "macOS 10.11"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>10.11</td><td>15A284</td><td>Sep 30, 2015</td></tr><tr><td>10.11.1</td><td>15B42</td><td>Oct 21, 2015</td></tr><tr><td>10.11.2</td><td>15C50</td><td>Dec 8, 2015</td></tr><tr><td>10.11.3</td><td>15D21</td><td>Jan 19, 2016</td></tr><tr><td>10.11.4</td><td>15E65</td><td>Mar 21, 2016</td></tr><tr><td>10.11.5</td><td>15F34</td><td>May 16, 2016</td></tr><tr><td>10.11.6</td><td>15G31</td><td>Jul 18, 2016</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "macOS 10.12 Sierra",
+        "Type": "macOS",
+        "image": "macOS1012.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 20, 2016",
+                "Model Identifier": "macOS 10.12.6",
+                "Model Number": "macOS 10.12"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>10.12</td><td>16A323</td><td>Sep 20, 2016</td></tr><tr><td>10.12.1</td><td>16B2555<br>16B2657</td><td>Oct 24, 2016</td></tr><tr><td>10.12.2</td><td>16C67</td><td>Dec 13, 2016</td></tr><tr><td>10.12.3</td><td>16D32</td><td>Jan 23, 2017</td></tr><tr><td>10.12.4</td><td>16E195</td><td>Mar 27, 2017</td></tr><tr><td>10.12.5</td><td>16F73</td><td>May 15, 2017</td></tr><tr><td>10.12.6</td><td>16G29</td><td>Jul 19, 2017</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "macOS 10.13 High Sierra",
+        "Type": "macOS",
+        "image": "macOS1013.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 25, 2017",
+                "Model Identifier": "macOS 10.13.6",
+                "Model Number": "macOS 10.13"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>10.13</td><td>17A365<br>17A405</td><td>Sep 25, 2017</td></tr><tr><td>10.13.1</td><td>17B48</td><td>Oct 31, 2017</td></tr><tr><td>10.13.2</td><td>17C88<br>17C89</td><td>Dec 6, 2017</td></tr><tr><td>10.13.3</td><td>17D47<br>17D2047<br>17D102<br>17D2102</td><td>Jan 23, 2018</td></tr><tr><td>10.13.4</td><td>17E199</td><td>Mar 29, 2018</td></tr><tr><td>10.13.5</td><td>17F77</td><td>Jun 1, 2018</td></tr><tr><td>10.13.6</td><td>17G65<br>17G2208<br>17G2037</td><td>Jul 9, 2018</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "macOS 10.14 Mojave",
+        "Type": "macOS",
+        "image": "macOS1014.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 24, 2018",
+                "Model Identifier": "macOS 10.14.6",
+                "Model Number": "macOS 10.14"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>10.14</td><td>18A391</td><td>Sep 24, 2018</td></tr><tr><td>10.14.1</td><td>18B75</td><td>Oct 30, 2018</td></tr><tr><td>10.14.2</td><td>18C54</td><td>Dec 5, 2018</td></tr><tr><td>10.14.3</td><td>18D42<br>18D43</td><td>Jan 22, 2019</td></tr><tr><td>10.14.4</td><td>18E226<br>18E227</td><td>Mar 25, 2019</td></tr><tr><td>10.14.5</td><td>18F132</td><td>May 13, 2019</td></tr><tr><td>10.14.6</td><td>18G84<br>18G87<br>18G95</td><td>Jul 22, 2019</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "macOS 10.15 Catalina",
+        "Type": "macOS",
+        "image": "macOS1015.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 7, 2019",
+                "Model Identifier": "macOS 10.15.7",
+                "Model Number": "macOS 10.15"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>10.15</td><td>19A583<br>19A602<br>19A603</td><td>Oct 7, 2019</td></tr><tr><td>10.15.1</td><td>19B88</td><td>Oct 29, 2019</td></tr><tr><td>10.15.2</td><td>19C57</td><td>Dec 10, 2019</td></tr><tr><td>10.15.3</td><td>19D76</td><td>Jan 28, 2020</td></tr><tr><td>10.15.4</td><td>19E266<br>19E287</td><td>Mar 24, 2020</td></tr><tr><td>10.15.5</td><td>19F96<br>19F101</td><td>May 26, 2020</td></tr><tr><td>10.15.6</td><td>19G73<br>19G2021</td><td>Jul 15, 2020</td></tr><tr><td>10.15.7</td><td>19H2<br>19H4<br>19H15<br>19H524</td><td>Sep 24, 2020</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "macOS 11 Big Sur",
+        "Type": "macOS",
+        "image": "macOS11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 12, 2020",
+                "Model Identifier": "macOS 11.7.10",
+                "Model Number": "macOS 11"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>11.0.1</td><td>20B29<br>20B50</td><td>Nov 12, 2020</td></tr><tr><td>11.1</td><td>20C69</td><td>Dec 14, 2020</td></tr><tr><td>11.2</td><td>20D64</td><td>Feb 1, 2021</td></tr><tr><td>11.2.1</td><td>20D74<br>20D75</td><td>Feb 9, 2021</td></tr><tr><td>11.2.2</td><td>20D80</td><td>Feb 25, 2021</td></tr><tr><td>11.2.3</td><td>20D91</td><td>Mar 8, 2021</td></tr><tr><td>11.3</td><td>20E232</td><td>Apr 26, 2021</td></tr><tr><td>11.3.1</td><td>20E241</td><td>May 3, 2021</td></tr><tr><td>11.4</td><td>20F71</td><td>May 24, 2021</td></tr><tr><td>11.5</td><td>20G71</td><td>Jul 21, 2021</td></tr><tr><td>11.5.1</td><td>20G80</td><td>Jul 26, 2021</td></tr><tr><td>11.5.2</td><td>20G95</td><td>Aug 11, 2021</td></tr><tr><td>11.6</td><td>20G165</td><td>Sep 13, 2021</td></tr><tr><td>11.6.1</td><td>20G224</td><td>Oct 25, 2021</td></tr><tr><td>11.6.2</td><td>20G314</td><td>Dec 13, 2021</td></tr><tr><td>11.6.3</td><td>20G415</td><td>Jan 26, 2022</td></tr><tr><td>11.6.4</td><td>20G417</td><td>Feb 14, 2022</td></tr><tr><td>11.6.5</td><td>20G527</td><td>Mar 14, 2022</td></tr><tr><td>11.6.6</td><td>20G624</td><td>May 16, 2022</td></tr><tr><td>11.6.7</td><td>20G630</td><td>Jun 9, 2022</td></tr><tr><td>11.6.8</td><td>20G730</td><td>Jul 20, 2022</td></tr><tr><td>11.7</td><td>20G817</td><td>Sep 12, 2022</td></tr><tr><td>11.7.1</td><td>20G918</td><td>Oct 24, 2022</td></tr><tr><td>11.7.2</td><td>20G1020</td><td>Dec 13, 2022</td></tr><tr><td>11.7.3</td><td>20G1116</td><td>Jan 23, 2023</td></tr><tr><td>11.7.4</td><td>20G1120</td><td>Feb 15, 2023</td></tr><tr><td>11.7.5</td><td>20G1225</td><td>Mar 27, 2023</td></tr><tr><td>11.7.6</td><td>20G1231</td><td>Apr 10, 2023</td></tr><tr><td>11.7.7</td><td>20G1345</td><td>May 18, 2023</td></tr><tr><td>11.7.8</td><td>20G1351</td><td>Jun 21, 2023</td></tr><tr><td>11.7.9</td><td>20G1426</td><td>Jul 24, 2023</td></tr><tr><td>11.7.10</td><td>20G1427</td><td>Sep 11, 2023</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "macOS 12 Monterey",
+        "Type": "macOS",
+        "image": "macOS12.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 25, 2021",
+                "Model Identifier": "macOS 12.7.6",
+                "Model Number": "macOS 12"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>12.0.1</td><td>21A559</td><td>Oct 25, 2021</td></tr><tr><td>12.1</td><td>21C52</td><td>Dec 13, 2021</td></tr><tr><td>12.2</td><td>21D49</td><td>Jan 26, 2022</td></tr><tr><td>12.2.1</td><td>21D62</td><td>Feb 10, 2022</td></tr><tr><td>12.3</td><td>21E230</td><td>Mar 14, 2022</td></tr><tr><td>12.3.1</td><td>21E258</td><td>Mar 31, 2022</td></tr><tr><td>12.4</td><td>21F79<br>21F2092</td><td>May 16, 2022</td></tr><tr><td>12.5</td><td>21G72</td><td>Jul 20, 2022</td></tr><tr><td>12.5.1</td><td>21G83</td><td>Aug 17, 2022</td></tr><tr><td>12.6</td><td>21G115</td><td>Sep 12, 2022</td></tr><tr><td>12.6.1</td><td>21G217</td><td>Oct 24, 2022</td></tr><tr><td>12.6.2</td><td>21G320</td><td>Dec 13, 2022</td></tr><tr><td>12.6.3</td><td>21G419</td><td>Jan 23, 2023</td></tr><tr><td>12.6.4</td><td>21G526</td><td>Mar 27, 2023</td></tr><tr><td>12.6.5</td><td>21G531</td><td>Apr 10, 2023</td></tr><tr><td>12.6.6</td><td>21G646</td><td>May 18, 2023</td></tr><tr><td>12.6.7</td><td>21G651</td><td>Jun 21, 2023</td></tr><tr><td>12.6.8</td><td>21G725</td><td>Jul 24, 2023</td></tr><tr><td>12.6.9</td><td>21G726</td><td>Sep 11, 2023</td></tr><tr><td>12.7</td><td>21G816</td><td>Sep 21, 2023</td></tr><tr><td>12.7.1</td><td>21G920</td><td>Oct 25, 2023</td></tr><tr><td>12.7.2</td><td>21G1974</td><td>Dec 11, 2023</td></tr><tr><td>12.7.3</td><td>21H1015</td><td>Jan 22, 2024</td></tr><tr><td>12.7.4</td><td>21H1123</td><td>Mar 7, 2024</td></tr><tr><td>12.7.5</td><td>21H1222</td><td>May 13, 2024</td></tr><tr><td>12.7.6</td><td>21H1320</td><td>Jul 29, 2024</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "macOS 13 Ventura",
+        "Type": "macOS",
+        "image": "macOS13.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 24, 2022",
+                "Model Identifier": "macOS 13.7.8",
+                "Model Number": "macOS 13"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>13.0</td><td>22A380</td><td>Oct 24, 2022</td></tr><tr><td>13.0.1</td><td>22A400</td><td>Nov 9, 2022</td></tr><tr><td>13.1</td><td>22C65</td><td>Dec 13, 2022</td></tr><tr><td>13.2</td><td>22D49</td><td>Jan 23, 2023</td></tr><tr><td>13.2.1</td><td>22D68</td><td>Feb 13, 2023</td></tr><tr><td>13.3</td><td>22E252</td><td>Mar 27, 2023</td></tr><tr><td>13.3.1</td><td>22E261</td><td>Apr 7, 2023</td></tr><tr><td>13.4</td><td>22F66</td><td>May 18, 2023</td></tr><tr><td>13.4.1</td><td>22F82</td><td>Jun 21, 2023</td></tr><tr><td>13.5</td><td>22G74</td><td>Jul 24, 2023</td></tr><tr><td>13.5.1</td><td>22G90</td><td>Aug 17, 2023</td></tr><tr><td>13.5.2</td><td>22G91</td><td>Sep 7, 2023</td></tr><tr><td>13.6</td><td>22G120</td><td>Sep 21, 2023</td></tr><tr><td>13.6.1</td><td>22G313</td><td>Oct 25, 2023</td></tr><tr><td>13.6.2</td><td>22G320</td><td>Nov 7, 2023</td></tr><tr><td>13.6.3</td><td>22G436</td><td>Dec 11, 2023</td></tr><tr><td>13.6.4</td><td>22G513</td><td>Jan 22, 2024</td></tr><tr><td>13.6.5</td><td>22G621</td><td>Mar 7, 2024</td></tr><tr><td>13.6.6</td><td>22G630</td><td>Mar 25, 2024</td></tr><tr><td>13.6.7</td><td>22G720</td><td>May 13, 2024</td></tr><tr><td>13.6.8</td><td>22G820</td><td>Jul 29, 2024</td></tr><tr><td>13.6.9</td><td>22G830</td><td>Aug 7, 2024</td></tr><tr><td>13.7</td><td>22H123</td><td>Sep 16, 2024</td></tr><tr><td>13.7.1</td><td>22H221</td><td>Oct 28, 2024</td></tr><tr><td>13.7.2</td><td>22H313</td><td>Dec 11, 2024</td></tr><tr><td>13.7.3</td><td>22H417</td><td>Jan 27, 2025</td></tr><tr><td>13.7.4</td><td>22H420</td><td>Feb 10, 2025</td></tr><tr><td>13.7.5</td><td>22H527</td><td>Mar 31, 2025</td></tr><tr><td>13.7.6</td><td>22H625</td><td>May 12, 2025</td></tr><tr><td>13.7.7</td><td>22H722</td><td>Jul 29, 2025</td></tr><tr><td>13.7.8</td><td>22H730</td><td>Aug 20, 2025</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "macOS 14 Sonoma",
+        "Type": "macOS",
+        "image": "macOS14.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 26, 2023",
+                "Model Identifier": "macOS 14.8.3",
+                "Model Number": "macOS 14"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>14.0</td><td>23A344</td><td>Sep 26, 2023</td></tr><tr><td>14.1</td><td>23B74</td><td>Oct 25, 2023</td></tr><tr><td>14.1.1</td><td>23B81<br>23B2082</td><td>Nov 7, 2023</td></tr><tr><td>14.1.2</td><td>23B92<br>23B2091</td><td>Nov 30, 2023</td></tr><tr><td>14.2</td><td>23C64</td><td>Dec 11, 2023</td></tr><tr><td>14.2.1</td><td>23C71</td><td>Dec 19, 2023</td></tr><tr><td>14.3</td><td>23D56</td><td>Jan 22, 2024</td></tr><tr><td>14.3.1</td><td>23D60</td><td>Feb 8, 2024</td></tr><tr><td>14.4</td><td>23E214</td><td>Mar 7, 2024</td></tr><tr><td>14.4.1</td><td>23E224</td><td>Mar 25, 2024</td></tr><tr><td>14.5</td><td>23F79</td><td>May 13, 2024</td></tr><tr><td>14.6</td><td>23G80</td><td>Jul 29, 2024</td></tr><tr><td>14.6.1</td><td>23G93</td><td>Aug 7, 2024</td></tr><tr><td>14.7</td><td>23H124</td><td>Sep 16, 2024</td></tr><tr><td>14.7.1</td><td>23H222</td><td>Oct 28, 2024</td></tr><tr><td>14.7.2</td><td>23H311</td><td>Dec 11, 2024</td></tr><tr><td>14.7.3</td><td>23H417</td><td>Jan 27, 2025</td></tr><tr><td>14.7.4</td><td>23H420</td><td>Feb 10, 2025</td></tr><tr><td>14.7.5</td><td>23H527</td><td>Mar 31, 2025</td></tr><tr><td>14.7.6</td><td>23H626</td><td>May 12, 2025</td></tr><tr><td>14.7.7</td><td>23H723</td><td>Jul 29, 2025</td></tr><tr><td>14.7.8</td><td>23H730</td><td>Aug 20, 2025</td></tr><tr><td>14.8</td><td>23J21</td><td>Sep 15, 2025</td></tr><tr><td>14.8.1</td><td>23J30</td><td>Sep 29, 2025</td></tr><tr><td>14.8.2</td><td>23J126</td><td>Nov 3, 2025</td></tr><tr><td>14.8.3</td><td>23J220</td><td>Dec 12, 2025</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "macOS 15 Sequoia",
+        "Type": "macOS",
+        "image": "macOS15.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 16, 2024",
+                "Model Identifier": "macOS 15.7.3",
+                "Model Number": "macOS 15"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>15.0</td><td>24A335</td><td>Sep 16, 2024</td></tr><tr><td>15.0.1</td><td>24A348</td><td>Oct 3, 2024</td></tr><tr><td>15.1</td><td>24B83</td><td>Oct 28, 2024</td></tr><tr><td>15.1.1</td><td>24B91<br>24B2091</td><td>Nov 19, 2024</td></tr><tr><td>15.2</td><td>24C101</td><td>Dec 11, 2024</td></tr><tr><td>15.3</td><td>24D60</td><td>Jan 27, 2025</td></tr><tr><td>15.3.1</td><td>24D70</td><td>Feb 10, 2025</td></tr><tr><td>15.3.2</td><td>24D81</td><td>Mar 11, 2025</td></tr><tr><td>15.4</td><td>24E248</td><td>Mar 31, 2025</td></tr><tr><td>15.4.1</td><td>24E263</td><td>Apr 16, 2025</td></tr><tr><td>15.5</td><td>24F74</td><td>May 12, 2025</td></tr><tr><td>15.6</td><td>24G84</td><td>Jul 29, 2025</td></tr><tr><td>15.6.1</td><td>24G90</td><td>Aug 20, 2025</td></tr><tr><td>15.7</td><td>24G222</td><td>Sep 15, 2025</td></tr><tr><td>15.7.1</td><td>24G231</td><td>Sep 29, 2025</td></tr><tr><td>15.7.2</td><td>24G325</td><td>Nov 3, 2025</td></tr><tr><td>15.7.3</td><td>24G419</td><td>Dec 12, 2025</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "macOS 26 Tahoe",
+        "Type": "macOS",
+        "image": "macOS26.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 15, 2025",
+                "Model Identifier": "macOS 26.2",
+                "Model Number": "macOS 26"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>26.0</td><td>25A354</td><td>Sep 15, 2025</td></tr><tr><td>26.0.1</td><td>25A362</td><td>Oct 15, 2025</td></tr><tr><td>26.1</td><td>25B78</td><td>Nov 3, 2025</td></tr><tr><td>26.2</td><td>25C56</td><td>Dec 12, 2025</td></tr></tbody></table></div>"
+            }
+        }
+    }
+]

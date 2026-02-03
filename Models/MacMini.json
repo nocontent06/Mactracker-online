@@ -11,7 +11,7 @@
                 "Model Number": "A1103",
                 "EMC": "2026",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.32 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
+                "Weight/Dimensions": "1.32 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
             },
             "Processor": {
                 "Processor Name": "PowerPC 7447A (G4)",
@@ -57,7 +57,7 @@
                 "Model Number": "A1103 (Late 2005)",
                 "EMC": "2026",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.32 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
+                "Weight/Dimensions": "1.32 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
             },
             "Processor": {
                 "Processor Name": "PowerPC 7447A (G4)",
@@ -102,7 +102,7 @@
                 "Model Number": "A1176",
                 "EMC": "2108",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
+                "Weight/Dimensions": "1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
 
             },
             "Processor": {
@@ -151,7 +151,7 @@
                 "Model Number": "A1176 (Late 2006)",
                 "EMC": "2108",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
+                "Weight/Dimensions": "1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core Duo (T2300, T2400) ('Yonah')",
@@ -199,7 +199,7 @@
                 "Model Number": "A1176 (Mid 2007)",
                 "EMC": "2108",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
+                "Weight/Dimensions": "1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (T5600, T7200) ('Merom')",
@@ -247,7 +247,7 @@
                 "Model Number": "A1283",
                 "EMC": "2264",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
+                "Weight/Dimensions": "1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (P7350, P8400) ('Penryn')",
@@ -293,7 +293,7 @@
                 "Model Number": "A1283 (Late 2009)",
                 "EMC": "2336",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
+                "Weight/Dimensions": "1.31 kg, 5.08 H x 16.51 W x 16.51 D cm<br>2.9 lbs, 2 H x 6.5 W x 6.5 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (P7550, P8700, P8800) ('Penryn')",
@@ -340,7 +340,7 @@
                 "Model Number": "A1347",
                 "EMC": "2364",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.37 kg, 3.6 H x 19.56 W x 19.56 D cm<br>3 lbs, 1.4 H x 7.7 W x 7.7 D inch"
+                "Weight/Dimensions": "1.37 kg, 3.6 H x 19.56 W x 19.56 D cm<br>3 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (P8600, P8800) ('Penryn')",
@@ -386,10 +386,10 @@
                 "Introduced": "Jul 2011",
                 "Discontinued": "Oct 2012",
                 "Model Identifier": "Macmini5,1 or 5,2",
-                "Model Number": "A1347",
+                "Model Number": "A1347 (2011)",
                 "EMC": "2442",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.22 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.7 lbs, 1.4 H x 7.7 W x 7.7 D inch"
+                "Weight/Dimensions": "1.22 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.7 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core i5 (2415M, 2520M) or Core i7 (2620M) ('Sandy Bridge')",
@@ -441,7 +441,7 @@
                 "Model Number": "A1347 (Server)",
                 "EMC": "2442",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.37 kg, 3.6 H x 19.56 W x 19.56 D cm<br>3 lbs, 1.4 H x 7.7 W x 7.7 D inch"
+                "Weight/Dimensions": "1.37 kg, 3.6 H x 19.56 W x 19.56 D cm<br>3 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core i7 (2635QM) ('Sandy Bridge')",
@@ -494,7 +494,7 @@
                 "Model Number": "A1347 (2012)",
                 "EMC": "2570",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.22 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.7 lbs, 1.4 H x 7.7 W x 7.7 D inch"
+                "Weight/Dimensions": "1.22 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.7 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core i5 (3210M) ('Ivy Bridge')",
@@ -548,7 +548,7 @@
                 "Model Number": "A1347 (2012 Server)",
                 "EMC": "2570",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.22 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.7 lbs, 1.4 H x 7.7 W x 7.7 D inch"
+                "Weight/Dimensions": "1.22 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.7 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core i7 (3615QM, 3720QM) ('Ivy Bridge')",
@@ -600,7 +600,7 @@
                 "Model Number": "A1347 (2014)",
                 "EMC": "2840",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.19 - 1.22kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.6 - 2.7 lbs, 1.4 H x 7.7 W x 7.7 D inch"
+                "Weight/Dimensions": "1.19 - 1.22kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.6 - 2.7 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core i5 or i7 (4260U, 4278U, 4308U, 4578U) ('Broadwell')",
@@ -652,7 +652,7 @@
                 "Model Number": "A1993",
                 "EMC": "3213",
                 "Color": "Space Gray",
-                "Weight/Dimensions": "<br>1.3 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.9 lbs, 1.4 H x 7.7 W x 7.7 D inch"
+                "Weight/Dimensions": "1.3 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.9 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core i3 (8100B) i5 (8500B) or i7 (8700B) ('Coffee Lake')",
@@ -701,7 +701,7 @@
                 "Model Number": "A2348",
                 "EMC": "3569",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.2 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.6 lbs, 1.4 H x 7.7 W x 7.7 D inch"
+                "Weight/Dimensions": "1.2 kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.6 lbs, 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Chip Name": "Apple M1",
@@ -749,7 +749,7 @@
                 "Other Model Numbers": "A2816 (M2 Pro)",
                 "EMC": "8003 (M2), 8180 (M2 Pro)",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.18 (M2), 1.28 (M2 Pro) kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.6 lbs (M2), 2.8 lbs (M2 Pro), 1.4 H x 7.7 W x 7.7 D inch"
+                "Weight/Dimensions": "1.18 (M2), 1.28 (M2 Pro) kg, 3.6 H x 19.7 W x 19.7 D cm<br>2.6 lbs (M2), 2.8 lbs (M2 Pro), 1.4 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M2",
@@ -798,7 +798,7 @@
                 "Other Model Numbers": "A3239 (M4 Pro)",
                 "EMC": "8739 (M4), 8852 (M4 Pro)",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>0.67 kg (M4), 0.73 (M4 Pro), 5 H x 12.7 W x 12.7 D cm<br>1.5 lbs (M4), 1.6 lbs (M4 Pro), 2 H x 5 W x 5 D inch"
+                "Weight/Dimensions": "0.67 kg (M4), 0.73 (M4 Pro), 5 H x 12.7 W x 12.7 D cm<br>1.5 lbs (M4), 1.6 lbs (M4 Pro), 2 H x 5 W x 5 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M4",

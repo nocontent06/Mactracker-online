@@ -1,0 +1,396 @@
+[
+    {
+        "Name": "Xserve",
+        "Type": "Xserve",
+        "image": "Xserve.jpg",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jul 2002",
+                "Discontinued": "Feb 2003",
+                "Model Identifier": "RackMac1,1",
+                "Model Number": "n/a",
+                "EMC": "1917",
+                "Color": "Silver",
+                "Weight/Dimensions": "11.8 - 14.1 kg, 4.3 H x 44.7 W x 71.1 D cm<br>26 - 31 lbs., 1.73 H x 17.6 W x 28 D inch"
+            },
+            "Processor": {
+                "Processor Name": "PowerPC 7455 v2.1 (G4)",
+                "Processor Speed": "1x or 2x 1 GHz",
+                "# of Cores": "1",
+                "Manufacturing Process": "180 nm"
+            },
+            "Storage": {
+                "HDD": "60 or 120 GB 7200 RPM"
+            },
+            "Software": {
+                "Original OS": "Mac OS X Server 10.1.5",
+                "Maximum OS": "Mac OS X 10.5.8"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "266 MHz DDR SDRAM",
+                "# of Slots": "4"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI PCI GPU or Radeon 8500 AGP",
+                "Graphics Memory": "32 or 64 MB"
+            },
+            "Connections": {
+                "Wi-Fi": "none",
+                "Bluetooth": "none",
+                "Ethernet": "2 - 1 GBit/s",
+                "Serial": "1 - DB9",
+                "USB": "2 - 12 MBit/s", 
+                "FireWire": "3 - 400 MBit/s",
+                "Audio Out": "none",
+                "Display": "VGA or DVI, VGA and S-video"
+            },
+            "Expansion": {
+                "Slots": "2 - PCI, 1 - PCI/AGP Combo",
+                "Bays": "4 - Apple Drive Module bays",
+                "HD Interface": "4 - Ultra ATA/100 (ATA-6)"
+            },
+            "Power": {
+                "Battery": "3.6 V 850 mAh lithium",
+                "Max. Cont. Power": "133 - 183 W"
+            }
+        }
+
+    },
+    {
+        "Name": "Xserve (Slot Load)",
+        "Type": "Xserve",
+        "image": "Xserve_Slot.jpg",
+        "Info": {
+            "Overview": {
+                "Introduced": "Feb 2003",
+                "Discontinued": "Jan 2004",
+                "Model Identifier": "RackMac1,2",
+                "Model Number": "A1004",
+                "EMC": "1971",
+                "Color": "Silver",
+                "Weight/Dimensions": "11.8 - 14.1 kg, 4.3 H x 44.7 W x 71.1 D cm<br>26 - 31 lbs., 1.73 H x 17.6 W x 28 D inch"
+            },
+            "Processor": {
+                "Processor Name": "PowerPC 7455 v3.3 (G4)",
+                "Processor Speed": "1x or 2x 1.33 GHz",
+                "# of Cores": "1",
+                "Manufacturing Process": "180 nm"
+            },
+            "Storage": {
+                "HDD": "60 or 180 GB 7200 RPM",
+                "Media": "CD-ROM or Combo (DVD/CD-RW)"
+            },
+            "Software": {
+                "Original OS": "Mac OS X Server 10.2.4",
+                "Maximum OS": "Mac OS X 10.5.8"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "333 MHz DDR SDRAM",
+                "# of Slots": "4"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI PCI or AGP GPU",
+                "Graphics Memory": "32 or 64 MB"
+            },
+            "Connections": {
+                "Wi-Fi": "none",
+                "Bluetooth": "none",
+                "Ethernet": "2 - 1 GBit/s",
+                "Serial": "1 - DB9 (RS-232)",
+                "USB": "2 - 12 MBit/s", 
+                "FireWire": "2 - 800 MBit/s, 1 - 400 MBit/s",
+                "Audio Out": "none",
+                "Display": "VGA or DVI, VGA and S-video"
+            },
+            "Expansion": {
+                "Slots": "2 - PCI, 1 - PCI/AGP Combo",
+                "Bays": "4 - Apple Drive Module bays",
+                "HD Interface": "4 - Ultra ATA/133 (ATA-7)"
+            },
+            "Power": {
+                "Battery": "--",
+                "Max. Cont. Power": "94 - 244 W"
+            }
+        }
+    },
+    {
+        "Name": "Xserve G5",
+        "Type": "Xserve",
+        "image": "Xserve_G5.jpg",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2004",
+                "Discontinued": "Jan 2005",
+                "Model Identifier": "RackMac3,1",
+                "Model Number": "A1068",
+                "EMC": "1994",
+                "Color": "Silver",
+                "Weight/Dimensions": "15 kg, 4.4 H x 44.7 W x 71.1 D cm<br>33 lbs., 1.73 H x 17.6 W x 28 D inch"
+            },
+            "Processor": {
+                "Processor Name": "PowerPC 970fx (G5)",
+                "Processor Speed": "1x or 2x 2.0 GHz",
+                "# of Cores": "1",
+                "Manufacturing Process": "90 nm"
+            },
+            "Storage": {
+                "HDD": "80 GB 7200 RPM",
+                "Media": "CD-ROM or optional Combo (DVD/CD-RW)"
+            },
+            "Software": {
+                "Original OS": "Mac OS X Server 10.3",
+                "Maximum OS": "Mac OS X 10.5.8"
+            },
+            "Memory": {
+                "Maximum Memory": "8 GB",
+                "Supported RAM": "400 MHz DDR SDRAM",
+                "# of Slots": "8"
+            },
+            "Graphics": {
+                "Graphics Chip": "none",
+                "Graphics Memory": "none"
+            },
+            "Connections": {
+                "Wi-Fi": "none",
+                "Bluetooth": "none",
+                "Ethernet": "2 - 1 GBit/s",
+                "Serial": "1 - DB9 (RS-232)",
+                "USB": "2 - 480 MBit/s", 
+                "FireWire": "2 - 800 MBit/s, 1 - 400 MBit/s",
+                "Audio Out": "none",
+                "Display": "none"
+            },
+            "Expansion": {
+                "Slots": "2 - PCI-X 133 MHz",
+                "Bays": "3 - Apple Drive Module bays",
+                "HD Interface": "3 - 1.5 Gbps Serial ATA (SATA)"
+            },
+            "Power": {
+                "Battery": "--",
+                "Max. Cont. Power": "170 - 290 W"
+            }
+        }
+    },
+    {
+        "Name": "Xserve G5 (Jan 2005)",
+        "Type": "Xserve",
+        "image": "Xserve_G5.jpg",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2005",
+                "Discontinued": "Nov 2006",
+                "Model Identifier": "RackMac3,1",
+                "Model Number": "A1068 (2005)",
+                "EMC": "1994",
+                "Color": "Silver",
+                "Weight/Dimensions": "15 kg, 4.4 H x 44.7 W x 71.1 D cm<br>33 lbs., 1.73 H x 17.6 W x 28 D inch"
+            },
+            "Processor": {
+                "Processor Name": "PowerPC 970fx (G5)",
+                "Processor Speed": "1x 2.0 or 2x 2.3 GHz",
+                "# of Cores": "1",
+                "Manufacturing Process": "90 nm"
+            },
+            "Storage": {
+                "HDD": "80 GB 7200 RPM",
+                "Media": "CD-ROM or optional Combo (DVD/CD-RW)"
+            },
+            "Software": {
+                "Original OS": "Mac OS X Server 10.3",
+                "Maximum OS": "Mac OS X 10.5.8"
+            },
+            "Memory": {
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "400 MHz DDR SDRAM",
+                "# of Slots": "8"
+            },
+            "Graphics": {
+                "Graphics Chip": "none",
+                "Graphics Memory": "none"
+            },
+            "Connections": {
+                "Wi-Fi": "none",
+                "Bluetooth": "none",
+                "Ethernet": "2 - 1 GBit/s",
+                "Serial": "1 - DB9 (RS-232)",
+                "USB": "2 - 480 MBit/s", 
+                "FireWire": "2 - 800 MBit/s, 1 - 400 MBit/s",
+                "Audio Out": "none",
+                "Display": "none"
+            },
+            "Expansion": {
+                "Slots": "2 - PCI-X 133 MHz",
+                "Bays": "3 - Apple Drive Module bays",
+                "HD Interface": "3 - 1.5 Gbps Serial ATA (SATA)"
+            }
+        }
+    },
+    {
+        "Name": "Xserve (Late 2006)",
+        "Type": "Xserve",
+        "image": "Xserve_G5.jpg",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2006",
+                "Discontinued": "Jan 2008",
+                "Model Identifier": "Xserve1,1",
+                "Model Number": "A1196",
+                "EMC": "2107",
+                "Color": "Silver",
+                "Weight/Dimensions": "14.4 - 17.4 kg, 4.4 H x 44.7 W x 76.2 D cm<br>31.7 - 38.3 lbs., 1.73 H x 17.6 W x 30 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Intel Xeon 5100 Series ('Woodcrest')",
+                "Processor Speed": "2x 2.0, 2x 2.66 or 2x 3 GHz",
+                "# of Cores": "2 per CPU",
+                "Manufacturing Process": "65 nm"
+            },
+            "Storage": {
+                "HDD": "80 GB 7200 RPM",
+                "Media": "Combo (DVD-ROM/CD-RW) or 8x SuperDrive (DVD+R DL/DVD+RW/CD-RW)"
+            },
+            "Software": {
+                "Original OS": "Mac OS X Server 10.4.8",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "667 MHz DDR2 ECC FB-DIMM",
+                "# of Slots": "8"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon X1300",
+                "Graphics Memory": "64 or 256 MB GDDR3 SDRAM"
+            },
+            "Connections": {
+                "Wi-Fi": "none",
+                "Bluetooth": "none",
+                "Ethernet": "2 - 1 GBit/s",
+                "Serial": "1 - DB9 (RS-232)",
+                "USB": "2 - 480 MBit/s", 
+                "FireWire": "2 - 800 MBit/s, 1 - 400 MBit/s",
+                "Audio Out": "none",
+                "Display": "1 - mini-DVI or 1 - DVI"
+            },
+            "Expansion": {
+                "Slots": "1 - PCI-Express",
+                "Bays": "3 - Apple Drive Module bays",
+                "HD Interface": "3 - 3 Gbps Serial ATA (SATA) or Serial Attached SCSI (SAS)"
+            },
+            "Power": {
+                "Max. Cont. Power": "253 - 414 W"
+            }
+        }
+    },
+    {
+        "Name": "Xserve (Early 2008)",
+        "Type": "Xserve",
+        "image": "Xserve_G5.jpg",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2008",
+                "Discontinued": "Apr 2009",
+                "Model Identifier": "Xserve2,1",
+                "Model Number": "A1246",
+                "EMC": "2186",
+                "Color": "Silver",
+                "Weight/Dimensions": "14.4 - 17.4 kg, 4.4 H x 44.7 W x 76.2 D cm<br>31.7 - 38.3 lbs., 1.73 H x 17.6 W x 30 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Intel Xeon 5400 Series ('Harpertown')",
+                "Processor Speed": "2.8, 2x 2.8 or 2x 3 GHz",
+                "# of Cores": "4 per CPU",
+                "Manufacturing Process": "45 nm"
+            },
+            "Storage": {
+                "HDD": "80 GB 7200 RPM",
+                "Media": "8x SuperDrive (DVD+R DL/DVD+RW/CD-RW)"
+            },
+            "Software": {
+                "Original OS": "Mac OS X Server 10.5.1",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "800 MHz DDR2 ECC FB-DIMM",
+                "# of Slots": "8"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon X1300",
+                "Graphics Memory": "64 MB GDDR3 SDRAM"
+            },
+            "Connections": {
+                "Wi-Fi": "none",
+                "Bluetooth": "none",
+                "Ethernet": "2 - 1 GBit/s",
+                "Serial": "1 - DB9 (RS-232)",
+                "USB": "3 - 480 MBit/s", 
+                "FireWire": "2 - 800 MBit/s",
+                "Audio Out": "none",
+                "Display": "1 - mini-DVI"
+            },
+            "Expansion": {
+                "Slots": "1 - PCI-E 2.0 x8, 1 - PCI-E x16",
+                "Bays": "3 - Apple Drive Module bays",
+                "HD Interface": "3 - 3 Gbps Serial ATA (SATA) or Serial Attached SCSI (SAS)"
+            }
+        }
+    },
+    {
+        "Name": "Xserve (Early 2009)",
+        "Type": "Xserve",
+        "image": "Xserve_G5.jpg",
+        "Info": {
+            "Overview": {
+                "Introduced": "Apr 2009",
+                "Discontinued": "Jan 2011",
+                "Model Identifier": "Xserve3,1",
+                "Model Number": "A1279",
+                "EMC": "2279",
+                "Color": "Silver",
+                "Weight/Dimensions": "14.4 - 17.4 kg, 4.4 H x 44.7 W x 76.2 D cm<br>31.7 - 38.3 lbs., 1.73 H x 17.6 W x 30 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Intel Xeon 5500 Series ('Woodcrest')",
+                "Processor Speed": "2.26, 2x 2.26, 2x 2.66 or 2x 2.93 GHz",
+                "# of Cores": "4 per CPU",
+                "Manufacturing Process": "45 nm"
+            },
+            "Storage": {
+                "HDD": "160 GB, 1 or 2 TB 7200 RPM",
+                "SSD": "128 GB",
+                "Media": "8x SuperDrive (DVD+R DL/DVD+RW/CD-RW)"
+            },
+            "Software": {
+                "Original OS": "Mac OS X Server 10.5.6",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "96 GB (8-Core Actual), 48 GB (Apple)",
+                "Supported RAM": "1067 MHz DDR3 ECC FB-DIMM",
+                "# of Slots": "6 (Quad-Core), 12 (8-Core)"
+            },
+            "Graphics": {
+                "Graphics Chip": "NVIDIA GeForce GT 120",
+                "Graphics Memory": "256 MB GDDR3 SDRAM"
+            },
+            "Connections": {
+                "Wi-Fi": "none",
+                "Bluetooth": "none",
+                "Ethernet": "2 - 1 GBit/s",
+                "Serial": "1 - DB9 (RS-232)",
+                "USB": "3 - 480 MBit/s", 
+                "FireWire": "2 - 800 MBit/s",
+                "Audio Out": "none",
+                "Display": "1 - mini-DVI"
+            },
+            "Expansion": {
+                "Slots": "2 - PCI-E x16",
+                "Bays": "3 - Apple Drive Module bays",
+                "HD Interface": "3 - 3 Gbps Serial ATA (SATA) or Serial Attached SCSI (SAS)"
+            }
+        }
+    }
+]

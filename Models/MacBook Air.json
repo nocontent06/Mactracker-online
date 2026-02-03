@@ -10,7 +10,7 @@
                 "Model Identifier": "MacBookAir1,1",
                 "Model Number": "A1237",
                 "EMC": "2142",
-                "Weight/Dimensions": "<br>1.36 kg, 0.4 - 1.94 H x 32.4 x 22.7 cm<br>3 lbs., 0.16 - 0.76 H x 12.74 W x 8.9 D inches"
+                "Weight/Dimensions": "1.36 kg, 0.4 - 1.94 H x 32.4 x 22.7 cm<br>3 lbs., 0.16 - 0.76 H x 12.74 W x 8.9 D inches"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (P7500, P7700) ('Merom')",
@@ -63,7 +63,7 @@
                 "Model Identifier": "MacBookAir2,1",
                 "Model Number": "A1304",
                 "EMC": "2253",
-                "Weight/Dimensions": "<br>1.36 kg, 0.4 - 1.94 H x 32.4 x 22.7 cm<br>3 lbs., 0.16 - 0.76 H x 12.74 W x 8.9 D inches"
+                "Weight/Dimensions": "1.36 kg, 0.4 - 1.94 H x 32.4 x 22.7 cm<br>3 lbs., 0.16 - 0.76 H x 12.74 W x 8.9 D inches"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (L9300, L9400) ('Penryn')",
@@ -113,7 +113,7 @@
                 "Introduced": "Oct 2009",
                 "Discontinued": "Jun 2010",
                 "Model Identifier": "MacBookAir2,1",
-                "Model Number": "A1304 (2009)",
+                "Model Number": "A1304 (Mid 2009)",
                 "EMC": "2334",
                 "Weight/Dimensions":"<br>1.36 kg, 0.4 - 1.94 H x 32.4 x 22.7 cm<br>3 lbs., 0.16 - 0.76 H x 12.74 W x 8.9 D inches"
             },
@@ -168,7 +168,7 @@
                 "Model Identifier": "MacBookAir3,1",
                 "Model Number": "A1370",
                 "EMC": "2393",
-                "Weight/Dimensions": "<br>1.06 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.3 lbs, 0.11 - 0.68 H x 11.8 W x 7.56 D inch"
+                "Weight/Dimensions": "1.06 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.3 lbs, 0.11 - 0.68 H x 11.8 W x 7.56 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (U9400, U9600) ('Penryn')",
@@ -220,7 +220,7 @@
                 "Model Identifier": "MacBookAir3,2",
                 "Model Number": "A1369",
                 "EMC": "2392",
-                "Weight/Dimensions": "<br>1.32 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.9 lbs, 0.11 - 0.68 H x 12.8 W x 8.94 D inch"
+                "Weight/Dimensions": "1.32 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.9 lbs, 0.11 - 0.68 H x 12.8 W x 8.94 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (L9400, L9600) ('Penryn')",
@@ -272,7 +272,7 @@
                 "Model Identifier": "MacBookAir4,1",
                 "Model Number": "A1370 (2011)",
                 "EMC": "2471",
-                "Weight/Dimensions": "<br>1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
+                "Weight/Dimensions": "1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (2467M, 2677M) ('Sandy Bridge')",
@@ -324,7 +324,7 @@
                 "Model Identifier": "MacBookAir4,2",
                 "Model Number": "A1369 (2011)",
                 "EMC": "2469",
-                "Weight/Dimensions": "<br>1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
+                "Weight/Dimensions": "1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (2557M, 2677M) ('Sandy Bridge')",
@@ -377,7 +377,7 @@
                 "Model Identifier": "MacBookAir5,1",
                 "Model Number": "A1465",
                 "EMC": "2558",
-                "Weight/Dimensions": "<br>1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
+                "Weight/Dimensions": "1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (3317U, 3667U) ('Ivy Bridge')",
@@ -429,7 +429,7 @@
                 "Model Identifier": "MacBookAir5,2",
                 "Model Number": "A1466",
                 "EMC": "2559",
-                "Weight/Dimensions": "<br>1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
+                "Weight/Dimensions": "1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (3427U, 3667U) ('Ivy Bridge')",
@@ -482,7 +482,7 @@
                 "Model Identifier": "MacBookAir6,1",
                 "Model Number": "A1465 (2013)",
                 "EMC": "2631",
-                "Weight/Dimensions": "<br>1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
+                "Weight/Dimensions": "1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (4250U, 4650U) ('Haswell')",
@@ -534,7 +534,7 @@
                 "Model Identifier": "MacBookAir6,2",
                 "Model Number": "A1466 (2013)",
                 "EMC": "2632",
-                "Weight/Dimensions": "<br>1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
+                "Weight/Dimensions": "1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (4250U, 4650U) ('Haswell')",
@@ -587,7 +587,7 @@
                 "Model Identifier": "MacBookAir6,1",
                 "Model Number": "A1465 (2014)",
                 "EMC": "2631",
-                "Weight/Dimensions": "<br>1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
+                "Weight/Dimensions": "1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (4260U, 4650U) ('Haswell')",
@@ -638,7 +638,7 @@
                 "Model Identifier": "MacBookAir6,2",
                 "Model Number": "A1466 (2014)",
                 "EMC": "2632",
-                "Weight/Dimensions": "<br>1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
+                "Weight/Dimensions": "1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (4260U, 4650U) ('Haswell')",
@@ -690,7 +690,7 @@
                 "Model Identifier": "MacBookAir7,1",
                 "Model Number": "A1465 (2015)",
                 "EMC": "2924",
-                "Weight/Dimensions": "<br>1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
+                "Weight/Dimensions": "1.08 kg, 0.3 - 1.7 H x 29.95 W x 19.2 D cm<br>2.38 lbs., 0.11 - 0.68 H x 11.8 W x 7.56 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (5250U, 5650U) ('Broadwell')",
@@ -741,7 +741,7 @@
                 "Model Identifier": "MacBookAir7,2",
                 "Model Number": "A1465 (2015)",
                 "EMC": "2925",
-                "Weight/Dimensions": "<br>1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
+                "Weight/Dimensions": "1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (5250U, 5650U) ('Broadwell')",
@@ -793,7 +793,7 @@
                 "Model Identifier": "MacBookAir7,2",
                 "Model Number": "A1466 (2017)",
                 "EMC": "3178",
-                "Weight/Dimensions": "<br>1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
+                "Weight/Dimensions": "1.35 kg, 0.3 - 1.7 H x 32.5 W x 22.7 D cm<br>2.96 lbs., 0.11 - 0.68 H x 12.8 W x 8.94 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (5350U, 5650U) ('Broadwell')",
@@ -845,7 +845,7 @@
                 "Model Identifier": "MacBookAir8,1",
                 "Model Number": "A1932",
                 "EMC": "3184",
-                "Weight/Dimensions": "<br>1.25 kg, 0.41 - 1.56 H x 30.41 W x 21.24 D cm<br>2.75 lbs., 0.16 - 0.61 H x 11.97 W x 8.36 D inches"
+                "Weight/Dimensions": "1.25 kg, 0.41 - 1.56 H x 30.41 W x 21.24 D cm<br>2.75 lbs., 0.16 - 0.61 H x 11.97 W x 8.36 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i5 (8210Y) ('Amber Lake')",
@@ -895,7 +895,7 @@
                 "Model Identifier": "MacBookAir8,2",
                 "Model Number": "A1932 (2019)",
                 "EMC": "3184",
-                "Weight/Dimensions": "<br>1.25 kg, 0.41 - 1.56 H x 30.41 W x 21.24 D cm<br>2.75 lbs., 0.16 - 0.61 H x 11.97 W x 8.36 D inches"
+                "Weight/Dimensions": "1.25 kg, 0.41 - 1.56 H x 30.41 W x 21.24 D cm<br>2.75 lbs., 0.16 - 0.61 H x 11.97 W x 8.36 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i5 (8210Y) ('Amber Lake')",
@@ -946,7 +946,7 @@
                 "Model Identifier": "MacBookAir9,1",
                 "Model Number": "A2179",
                 "EMC": "3302",
-                "Weight/Dimensions": "<br>1.29 kg, 0.41 - 1.61 H x 30.41 W x 21.24 D cm<br>2.8 lbs., 0.16 - 0.63 H x 11.97 W x 8.36 D inches"
+                "Weight/Dimensions": "1.29 kg, 0.41 - 1.61 H x 30.41 W x 21.24 D cm<br>2.8 lbs., 0.16 - 0.63 H x 11.97 W x 8.36 D inches"
             },
             "Processor": {
                 "Name": "Intel Core i3, i5, i7 (1000NG4, 1030NG7, 1060NG7) ('Ice Lake')",
@@ -997,7 +997,7 @@
                 "Model Identifier": "MacBookAir10,1",
                 "Model Number": "A2337",
                 "EMC": "3598",
-                "Weight/Dimensions": "<br>1.29 kg, 0.41 - 1.61 H x 30.41 W x 21.24 D cm<br>2.8 lbs., 0.16 - 0.63 H x 11.97 W x 8.36 D inches"
+                "Weight/Dimensions": "1.29 kg, 0.41 - 1.61 H x 30.41 W x 21.24 D cm<br>2.8 lbs., 0.16 - 0.63 H x 11.97 W x 8.36 D inches"
             },
             "Processor": {
                 "Name": "Apple M1 (APL1102)",
@@ -1047,7 +1047,7 @@
                 "Model Identifier": "Mac14,2",
                 "Model Number": "A2681",
                 "EMC": "4074",
-                "Weight/Dimensions": "<br>1.24 kg, 1.13 H x 30.41 W x 21.5 D cm<br>2.7 lbs, 0.44 H x 11.97 W x 8.46 D inches"
+                "Weight/Dimensions": "1.24 kg, 1.13 H x 30.41 W x 21.5 D cm<br>2.7 lbs, 0.44 H x 11.97 W x 8.46 D inches"
             },
             "Processor": {
                 "Name": "Apple M2 (APL1109)",
@@ -1096,7 +1096,7 @@
                 "Model Identifier": "Mac14,15",
                 "Model Number": "A2941",
                 "EMC": "8301",
-                "Weight/Dimensions": "<br>1.51 kg, 1.15 H x 34.04 W x 23.76 D cm<br>3.3 lbs, 0.45 H x 13.4 W x 9.35 D inches"
+                "Weight/Dimensions": "1.51 kg, 1.15 H x 34.04 W x 23.76 D cm<br>3.3 lbs, 0.45 H x 13.4 W x 9.35 D inches"
             },
             "Processor": {
                 "Name": "Apple M2 (APL1109)",
@@ -1141,11 +1141,11 @@
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2024",
-                "Discontinued": "--",
+                "Discontinued": "Mar 2025",
                 "Model Identifier": "Mac15,12",
                 "Model Number": "A3113",
                 "EMC": "8611",
-                "Weight/Dimensions": "<br>1.24 kg, 1.13 H x 30.41 W x 21.5 D cm<br>2.7 lbs, 0.44 H x 11.97 W x 8.46 D inches"
+                "Weight/Dimensions": "1.24 kg, 1.13 H x 30.41 W x 21.5 D cm<br>2.7 lbs, 0.44 H x 11.97 W x 8.46 D inches"
             },
             "Processor": {
                 "Name": "Apple M3",
@@ -1190,11 +1190,11 @@
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2024",
-                "Discontinued": "--",
+                "Discontinued": "Mar 2025",
                 "Model Identifier": "Mac15,13",
                 "Model Number": "A3114",
                 "EMC": "8612",
-                "Weight/Dimensions": "<br>1.51 kg, 1.15 H x 34.04 W x 23.76 D cm<br>3.3 lbs, 0.45 H x 13.4 W x 9.35 D inches"
+                "Weight/Dimensions": "1.51 kg, 1.15 H x 34.04 W x 23.76 D cm<br>3.3 lbs, 0.45 H x 13.4 W x 9.35 D inches"
             },
             "Processor": {
                 "Name": "Apple M3",
@@ -1230,6 +1230,114 @@
                 "Audio In": "3 - Built-in microphones",
                 "Audio Out": "1 - 3.5-mm jack, 4 - Built-in speakers",
                 "Power": "MagSafe 3"
+            }
+        }
+    }, {
+        "Name": "MacBook Air (13-inch, M4, 2025)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_13-inch_2025.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2025",
+                "Discontinued": "--",
+                "Model Identifier": "Mac16,12",
+                "Model Number": "A3240",
+                "EMC": "8781",
+                "Weight/Dimensions": "1.24 kg, 1.13 H x 30.41 W x 21.5 D cm<br>2.7 lbs, 0.44 H x 11.97 W x 8.46 D inches"
+            },
+            "Processor": {
+                "Name": "Apple M4",
+                "Speed": "4.4 GHz (high-performance), 2.9 GHz (high-efficiency)",
+                "# of Cores": "10 (4 high-performance, 6 high-efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 15.3 (Sequoia)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Options": "16, 24 or 32 GB",
+                "Supported": "7500 MT/s LPDDR5"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "Graphics Cores": "8 or 10"
+            },
+            "Display": {
+                "Display Type": "13.6-inch LED-backlit display with IPS technology",
+                "Native Resolution": "2560 x 1664",
+                "Brightness": "500 nits"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "Bluetooth 5.3",
+                "Thunderbolt": "2 - Thunderbolt 4 (up to 40 Gbps)",
+                "Audio In": "3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 4 - Built-in speakers",
+                "Power": "MagSafe 3"
+            },
+            "Battery": {
+                "Type": "Lithium-polymer",
+                "Capacity": "53.8 Wh",
+                "Life": "Up to 15 - 18 hours"
+            }
+        }
+    }, {
+        "Name": "MacBook Air (15-inch, M4, 2025)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_15-inch_2025.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2025",
+                "Discontinued": "--",
+                "Model Identifier": "Mac16,13",
+                "Model Number": "A3241",
+                "EMC": "8782",
+                "Weight/Dimensions": "1.51 kg, 1.15 H x 34.04 W x 23.76 D cm<br>3.3 lbs, 0.45 H x 13.4 W x 9.35 D inches"
+            },
+            "Processor": {
+                "Name": "Apple M4",
+                "Speed": "4.4 GHz (high-performance), 2.9 GHz (high-efficiency)",
+                "# of Cores": "10 (4 high-performance, 6 high-efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 15.3 (Sequoia)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Options": "16, 24 or 32 GB",
+                "Supported": "7500 MT/s LPDDR5"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Type": "15.3-inch LED-backlit display with IPS technology",
+                "Native Resolution": "2880 x 1864",
+                "Brightness": "500 nits"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "Bluetooth 5.3",
+                "Thunderbolt": "2 - Thunderbolt 4 (up to 40 Gbps)",
+                "Audio In": "3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 4 - Built-in speakers",
+                "Power": "MagSafe 3"
+            },
+            "Battery": {
+                "Type": "Lithium-polymer",
+                "Capacity": "66.5 Wh",
+                "Life": "Up to 15 - 18 hours"
             }
         }
     }

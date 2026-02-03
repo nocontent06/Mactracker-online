@@ -10,7 +10,7 @@
                 "Model Identifier": "MacBookPro1,1",
                 "Model Number": "A1150",
                 "EMC": "2101",
-                "Weight/Dimensions": "<br>2.54 kg, 2.59 H x 35.7 W x 24.3 D cm<br>5.6 lbs, 1.0 H x 14.1 W x 9.6 D inch"
+                "Weight/Dimensions": "2.54 kg, 2.59 H x 35.7 W x 24.3 D cm<br>5.6 lbs, 1.0 H x 14.1 W x 9.6 D inch"
             },
             "Processor": {
                 "Name": "Intel Core Duo (T2400, T2500, T2600) ('Yonah')<br><span style=\"font-size: 0.7em;\">Glossy display without Intel Core Duo T2400</span>",
@@ -70,7 +70,7 @@
                 "Model Identifier": "MacBookPro1,2",
                 "Model Number": "A1151",
                 "EMC": "2102",
-                "Weight/Dimensions": "<br>3.08 kg, 2.59 H x 39.2 W x 26.5 D cm<br>6.8 lbs, 1 H x 15.4 W x 10.4 D inch"
+                "Weight/Dimensions": "3.08 kg, 2.59 H x 39.2 W x 26.5 D cm<br>6.8 lbs, 1 H x 15.4 W x 10.4 D inch"
             },
             "Processor": {
                 "Name": "Intel Core Duo (T2600) ('Yonah')",
@@ -129,7 +129,7 @@
                 "Model Identifier": "MacBookPro2,2",
                 "Model Number": "A1211",
                 "EMC": "2120",
-                "Weight/Dimensions": "<br>2.54 kg, 2.59 H x 35.7 W x 24.3 D cm<br>5.6 lbs, 1.0 H x 14.1 W x 9.6 D inch"
+                "Weight/Dimensions": "2.54 kg, 2.59 H x 35.7 W x 24.3 D cm<br>5.6 lbs, 1.0 H x 14.1 W x 9.6 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T7400, T7600) ('Merom')",
@@ -188,7 +188,7 @@
                 "Model Identifier": "MacBookPro2,1",
                 "Model Number": "A1212",
                 "EMC": "--",
-                "Weight/Dimensions": "<br>3.08 kg, 2.59 H x 39.2 W x 26.5 D cm<br>6.8 lbs, 1 H x 15.4 W x 10.4 D inch"
+                "Weight/Dimensions": "3.08 kg, 2.59 H x 39.2 W x 26.5 D cm<br>6.8 lbs, 1 H x 15.4 W x 10.4 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T7600) ('Merom')",
@@ -247,7 +247,7 @@
                 "Model Identifier": "MacBookPro3,1",
                 "Model Number": "A1226",
                 "EMC": "2136",
-                "Weight/Dimensions": "<br>2.54 kg, 2.59 H x 35.7 W x 24.3 D cm<br>5.6 lbs, 1.0 H x 14.1 W x 9.6 D inch"
+                "Weight/Dimensions": "2.54 kg, 2.59 H x 35.7 W x 24.3 D cm<br>5.6 lbs, 1.0 H x 14.1 W x 9.6 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T7500, T7700, T7800) ('Merom')",
@@ -307,7 +307,7 @@
                 "Model Identifier": "MacBookPro3,1",
                 "Model Number": "A1229",
                 "EMC": "2137",
-                "Weight/Dimensions": "<br>3.08 kg, 2.59 H x 39.2 W x 26.5 D cm<br>6.8 lbs, 1 H x 15.4 W x 10.4 D inch"
+                "Weight/Dimensions": "3.08 kg, 2.59 H x 39.2 W x 26.5 D cm<br>6.8 lbs, 1 H x 15.4 W x 10.4 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T7700, T7800) ('Merom')",
@@ -367,7 +367,7 @@
                 "Model Identifier": "MacBookPro4,1",
                 "Model Number": "A1260",
                 "EMC": "2198",
-                "Weight/Dimensions": "<br>2.45 kg, 2.59 H x 35.7 W x 24.3 D cm<br>5.4 lbs, 1 H x 14.1 W x 9.6 D inch"
+                "Weight/Dimensions": "2.45 kg, 2.59 H x 35.7 W x 24.3 D cm<br>5.4 lbs, 1 H x 14.1 W x 9.6 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T8300, T9300, T9500) ('Penryn')",
@@ -426,7 +426,7 @@
                 "Model Identifier": "MacBookPro4,1",
                 "Model Number": "A1261",
                 "EMC": "2199",
-                "Weight/Dimensions": "<br>3.08 kg, 2.59 H x 39.2 W x 26.5 D cm<br>6.8 lbs, 1 H x 15.4 W x 10.4 D inch"
+                "Weight/Dimensions": "3.08 kg, 2.59 H x 39.2 W x 26.5 D cm<br>6.8 lbs, 1 H x 15.4 W x 10.4 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T9300, T9500) ('Penryn')",
@@ -485,7 +485,7 @@
                 "Model Identifier": "MacBookPro5,1",
                 "Model Number": "A1286",
                 "EMC": "2255",
-                "Weight/Dimensions": "<br>2.49 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.5 lbs, 0.95 H x 14.35 W x 9.82 D inch"
+                "Weight/Dimensions": "2.49 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.5 lbs, 0.95 H x 14.35 W x 9.82 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (P8600, T9400, T9550, T9600, T9800) ('Penryn')",
@@ -543,9 +543,9 @@
                 "Introduced": "Oct 2008",
                 "Discontinued": "Jan 2009",
                 "Model Identifier": "MacBookPro4,1",
-                "Model Number": "A1261 (L2008)",
+                "Model Number": "A1261 (Late 2008)",
                 "EMC": "2199",
-                "Weight/Dimensions": "<br>3.08 kg, 2.59 H x 39.2 W x 26.5 D cm<br>6.8 lbs, 1 H x 15.4 W x 10.4 D inch"
+                "Weight/Dimensions": "3.08 kg, 2.59 H x 39.2 W x 26.5 D cm<br>6.8 lbs, 1 H x 15.4 W x 10.4 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T9300, T9500) ('Penryn')",
@@ -605,7 +605,7 @@
                 "Model Identifier": "MacBookPro5,2",
                 "Model Number": "A1297",
                 "EMC": "2272",
-                "Weight/Dimensions": "<br>2.99 kg, 2.5 H x 39.3 W x 26.7 D cm<br>6.6 lbs, 0.98 H x 15.47 W x 10.51 D inch"
+                "Weight/Dimensions": "2.99 kg, 2.5 H x 39.3 W x 26.7 D cm<br>6.6 lbs, 0.98 H x 15.47 W x 10.51 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T9550, T9800) ('Penryn')",
@@ -665,7 +665,7 @@
                 "Model Identifier": "MacBookPro5,5",
                 "Model Number": "A1278",
                 "EMC": "2326",
-                "Weight/Dimensions": "<br>2.04 kg, 2.41 H x 32.5 W x 22.7 D cm<br>4.5 lbs, 0.95 H x 12.78 W x 8.94 D inch"
+                "Weight/Dimensions": "2.04 kg, 2.41 H x 32.5 W x 22.7 D cm<br>4.5 lbs, 0.95 H x 12.78 W x 8.94 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (P7550, P8400, P8700) ('Penryn')",
@@ -725,7 +725,7 @@
                 "Model Identifier": "MacBookPro5,4",
                 "Model Number": "A1286 (2.53 GHz)",
                 "EMC": "2324",
-                "Weight/Dimensions": "<br>2.49 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.5 lbs, 0.95 H x 14.35 W x 9.82 D inch"
+                "Weight/Dimensions": "2.49 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.5 lbs, 0.95 H x 14.35 W x 9.82 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (P8700) ('Penryn')",
@@ -786,7 +786,7 @@
                 "Model Identifier": "MacBookPro5,3",
                 "Model Number": "A1286 (Mid 2009)",
                 "EMC": "2353",
-                "Weight/Dimensions": "<br>2.49 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.5 lbs, 0.95 H x 14.35 W x 9.82 D inch"
+                "Weight/Dimensions": "2.49 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.5 lbs, 0.95 H x 14.35 W x 9.82 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (P8800, T9600, T9900) ('Penryn')",
@@ -847,7 +847,7 @@
                 "Model Identifier": "MacBookPro5,2",
                 "Model Number": "A1297 (Mid 2009)",
                 "EMC": "2329",
-                "Weight/Dimensions": "<br>2.99 kg, 2.5 H x 39.3 W x 26.7 D cm<br>6.6 lbs, 0.98 H x 15.47 W x 10.51 D inch"
+                "Weight/Dimensions": "2.99 kg, 2.5 H x 39.3 W x 26.7 D cm<br>6.6 lbs, 0.98 H x 15.47 W x 10.51 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (T9600, T9900) ('Penryn')",
@@ -908,7 +908,7 @@
                 "Model Identifier": "MacBookPro7,1",
                 "Model Number": "A1278 (Mid 2010)",
                 "EMC": "2351",
-                "Weight/Dimensions": "<br>2.04 kg, 2.41 H x 32.5 W x 22.7 D cm<br>4.5 lbs, 0.95 H x 12.78 W x 8.94 D inch"
+                "Weight/Dimensions": "2.04 kg, 2.41 H x 32.5 W x 22.7 D cm<br>4.5 lbs, 0.95 H x 12.78 W x 8.94 D inch"
             },
             "Processor": {
                 "Name": "Intel Core 2 Duo (P8600, P8800) ('Penryn')",
@@ -969,7 +969,7 @@
                 "Model Identifier": "MacBookPro6,2",
                 "Model Number": "A1286 (Mid 2010)",
                 "EMC": "2353",
-                "Weight/Dimensions": "<br>2.54 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.6 lbs, 0.95 H x 14.35 W x 9.82 D inch"
+                "Weight/Dimensions": "2.54 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.6 lbs, 0.95 H x 14.35 W x 9.82 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (520M, 540M, 620M, 640M) ('Arrandale')",
@@ -1031,7 +1031,7 @@
                 "Model Identifier": "MacBookPro6,1",
                 "Model Number": "A1297 (Mid 2010)",
                 "EMC": "2352",
-                "Weight/Dimensions": "<br>2.99 kg, 2.5 H x 39.3 W x 26.7 D cm<br>6.6 lbs, 0.98 H x 15.47 W x 10.51 D inch"
+                "Weight/Dimensions": "2.99 kg, 2.5 H x 39.3 W x 26.7 D cm<br>6.6 lbs, 0.98 H x 15.47 W x 10.51 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (540M, 620M, 640M) ('Arrandale')",
@@ -1093,7 +1093,7 @@
                 "Model Identifier": "MacBookPro8,1",
                 "Model Number": "A1278 (Early 2011)",
                 "EMC": "2419",
-                "Weight/Dimensions": "<br>2.04 kg, 2.41 H x 32.5 W x 22.7 D cm<br>4.5 lbs, 0.95 H x 12.78 W x 8.94 D inch"
+                "Weight/Dimensions": "2.04 kg, 2.41 H x 32.5 W x 22.7 D cm<br>4.5 lbs, 0.95 H x 12.78 W x 8.94 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (2415M) or i7 (2620M) ('Sandy Bridge')",
@@ -1155,7 +1155,7 @@
                 "Model Identifier": "MacBookPro8,2",
                 "Model Number": "A1286 (Early 2011)",
                 "EMC": "2353",
-                "Weight/Dimensions": "<br>2.54 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.6 lbs, 0.95 H x 14.35 W x 9.82 D inch"
+                "Weight/Dimensions": "2.54 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.6 lbs, 0.95 H x 14.35 W x 9.82 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (2635QM, 2720QM, 2820QM) ('Sandy Bridge')",
@@ -1217,7 +1217,7 @@
                 "Model Identifier": "MacBookPro8,3",
                 "Model Number": "A1297 (Early 2011)",
                 "EMC": "2352",
-                "Weight/Dimensions": "<br>2.99 kg, 2.5 H x 39.3 W x 26.7 D cm<br>6.6 lbs, 0.98 H x 15.47 W x 10.51 D inch"
+                "Weight/Dimensions": "2.99 kg, 2.5 H x 39.3 W x 26.7 D cm<br>6.6 lbs, 0.98 H x 15.47 W x 10.51 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (2720QM, 2820QM) ('Sandy Bridge')",
@@ -1279,7 +1279,7 @@
                 "Model Identifier": "MacBookPro8,1",
                 "Model Number": "A1278 (Late 2011)",
                 "EMC": "2555",
-                "Weight/Dimensions": "<br>2.04 kg, 2.41 H x 32.5 W x 22.7 D cm<br>4.5 lbs, 0.95 H x 12.78 W x 8.94 D inch"
+                "Weight/Dimensions": "2.04 kg, 2.41 H x 32.5 W x 22.7 D cm<br>4.5 lbs, 0.95 H x 12.78 W x 8.94 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (2435M) or i7 (2640M) ('Sandy Bridge')",
@@ -1340,7 +1340,7 @@
                 "Model Identifier": "MacBookPro8,2",
                 "Model Number": "A1286 (Late 2011)",
                 "EMC": "2563",
-                "Weight/Dimensions": "<br>2.54 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.6 lbs, 0.95 H x 14.35 W x 9.82 D inch"
+                "Weight/Dimensions": "2.54 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.6 lbs, 0.95 H x 14.35 W x 9.82 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (2675QM, 2760QM, 2860QM) ('Sandy Bridge')",
@@ -1401,7 +1401,7 @@
                 "Model Identifier": "MacBookPro8,3",
                 "Model Number": "A1297 (Late 2011)",
                 "EMC": "2564",
-                "Weight/Dimensions": "<br>2.99 kg, 2.5 H x 39.3 W x 26.7 D cm<br>6.6 lbs, 0.98 H x 15.47 W x 10.51 D inch"
+                "Weight/Dimensions": "2.99 kg, 2.5 H x 39.3 W x 26.7 D cm<br>6.6 lbs, 0.98 H x 15.47 W x 10.51 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (2760QM, 2860QM) ('Sandy Bridge')",
@@ -1460,9 +1460,9 @@
                 "Introduced": "Jun 2012",
                 "Discontinued": "Oct 2016",
                 "Model Identifier": "MacBookPro9,2",
-                "Model Number": "A1278",
+                "Model Number": "A1278 (Mid 2012)",
                 "EMC": "2554",
-                "Weight/Dimensions": "<br>2.06 kg, 2.41 H x 32.5 W x 22.7 D cm<br>4.5 lbs, 0.95 H x 12.78 W x 8.94 D inch"
+                "Weight/Dimensions": "2.06 kg, 2.41 H x 32.5 W x 22.7 D cm<br>4.5 lbs, 0.95 H x 12.78 W x 8.94 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 (3210M) ('Ivy Bridge'), Intel Core i7 (3520M) ('Ivy Bridge')",
@@ -1523,7 +1523,7 @@
                 "Model Identifier": "MacBookPro9,1",
                 "Model Number": "A1286",
                 "EMC": "2556",
-                "Weight/Dimensions": "<br>2.56 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.6 lbs, 0.95 H x 14.35 W x 9.82 D inch"
+                "Weight/Dimensions": "2.56 kg, 2.41 H x 36.4 W x 24.9 D cm<br>5.6 lbs, 0.95 H x 14.35 W x 9.82 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (3615QM, 3720QM, 3820QM) ('Ivy Bridge')",
@@ -1584,7 +1584,7 @@
                 "Model Identifier": "MacBookPro10,1",
                 "Model Number": "A1398",
                 "EMC": "2512",
-                "Weight/Dimensions": "<br>2.02 kg, 1.8 H x 35.89 W x 24.71 D cm<br>4.46 lbs, 0.71 H x 14.13 W x 9.73 D inch"
+                "Weight/Dimensions": "2.02 kg, 1.8 H x 35.89 W x 24.71 D cm<br>4.46 lbs, 0.71 H x 14.13 W x 9.73 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (3615QM, 3720QM, 3820QM) ('Ivy Bridge')",
@@ -1643,7 +1643,7 @@
                 "Model Identifier": "MacBookPro10,2",
                 "Model Number": "A1425",
                 "EMC": "2557",
-                "Weight/Dimensions": "<br>1.62 kg, 1.9 H x 31.4 W x 21.9 D cm<br>3.57 lbs, 0.75 H x 12.35 W x 8.62 D inch"
+                "Weight/Dimensions": "1.62 kg, 1.9 H x 31.4 W x 21.9 D cm<br>3.57 lbs, 0.75 H x 12.35 W x 8.62 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (3210M, 3520M) ('Ivy Bridge')",
@@ -1702,7 +1702,7 @@
                 "Model Identifier": "MacBookPro10,2",
                 "Model Number": "A1425 (2013)",
                 "EMC": "2672",
-                "Weight/Dimensions": "<br>1.62 kg, 1.9 H x 31.4 W x 21.9 D cm<br>3.57 lbs, 0.75 H x 12.35 W x 8.62 D inch"
+                "Weight/Dimensions": "1.62 kg, 1.9 H x 31.4 W x 21.9 D cm<br>3.57 lbs, 0.75 H x 12.35 W x 8.62 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (3230M, 3540M) ('Ivy Bridge')",
@@ -1761,7 +1761,7 @@
                 "Model Identifier": "MacBookPro10,1",
                 "Model Number": "A1398 (2013)",
                 "EMC": "2673",
-                "Weight/Dimensions": "<br>2.02 kg, 1.8 H x 35.89 W x 24.71 D cm<br>4.46 lbs, 0.71 H x 14.13 W x 9.73 D inch"
+                "Weight/Dimensions": "2.02 kg, 1.8 H x 35.89 W x 24.71 D cm<br>4.46 lbs, 0.71 H x 14.13 W x 9.73 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (3635QM, 3740QM, 3840QM) ('Ivy Bridge')",
@@ -1820,7 +1820,7 @@
                 "Model Identifier": "MacBookPro11,1",
                 "Model Number": "A1502",
                 "EMC": "2678",
-                "Weight/Dimensions": "<br>1.57 kg, 1.8 H x 31.4 W x 21.9 D cm<br>3.46 lbs, 0.71 H x 12.35 W x 8.62 D inch"
+                "Weight/Dimensions": "1.57 kg, 1.8 H x 31.4 W x 21.9 D cm<br>3.46 lbs, 0.71 H x 12.35 W x 8.62 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (4258U, 4288U, 4558U) ('Haswell')",
@@ -1879,7 +1879,7 @@
                 "Model Identifier": "<li>MacBookPro11,2<br><li>MacBookPro11,3",
                 "Model Number": "A1398 (L2013)",
                 "EMC": "2674 (2.0 GHz), 2745 (2.3 and 2.6 GHz)",
-                "Weight/Dimensions": "<br>2.02 kg, 1.8 H x 35.89 W x 24.71 D cm<br>4.46 lbs, 0.71 H x 14.13 W x 9.73 D inch"
+                "Weight/Dimensions": "2.02 kg, 1.8 H x 35.89 W x 24.71 D cm<br>4.46 lbs, 0.71 H x 14.13 W x 9.73 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (4750HQ, 4850HQ, 4960HQ) ('Haswell')",
@@ -1938,7 +1938,7 @@
                 "Model Identifier": "MacBookPro11,1",
                 "Model Number": "A1502 (2014)",
                 "EMC": "2875",
-                "Weight/Dimensions": "<br>1.57 kg, 1.8 H x 31.4 W x 21.9 D cm<br>3.46 lbs, 0.71 H x 12.35 W x 8.62 D inch"
+                "Weight/Dimensions": "1.57 kg, 1.8 H x 31.4 W x 21.9 D cm<br>3.46 lbs, 0.71 H x 12.35 W x 8.62 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (4278U, 4308U, 4578U) ('Haswell')",
@@ -1996,7 +1996,7 @@
                 "Model Identifier": "<li>MacBookPro11,2<br><li>MacBookPro11,3",
                 "Model Number": "A1398 (2014)",
                 "EMC": "2876, 2881",
-                "Weight/Dimensions": "<br>2.02 kg, 1.8 H x 35.89 W x 24.71 D cm<br>4.46 lbs, 0.71 H x 14.13 W x 9.73 D inch"
+                "Weight/Dimensions": "2.02 kg, 1.8 H x 35.89 W x 24.71 D cm<br>4.46 lbs, 0.71 H x 14.13 W x 9.73 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (4770HQ, 4870HQ, 4980HQ) ('Haswell')",
@@ -2054,7 +2054,7 @@
                 "Model Identifier": "MacBookPro12,1",
                 "Model Number": "A1502 (2015)",
                 "EMC": "2835",
-                "Weight/Dimensions": "<br>1.58 kg, 1.8 H x 31.4 W x 21.9 D cm<br>3.48 lbs, 0.71 H x 12.35 W x 8.62 D inch"
+                "Weight/Dimensions": "1.58 kg, 1.8 H x 31.4 W x 21.9 D cm<br>3.48 lbs, 0.71 H x 12.35 W x 8.62 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (5257U, 5287U, 5557U) ('Broadwell')",
@@ -2112,7 +2112,7 @@
                 "Model Identifier": "<li>MacBookPro11,4<br><li>MacBookPro11,5",
                 "Model Number": "A1398 (2015)",
                 "EMC": "2909, 2910",
-                "Weight/Dimensions": "<br>2.04 kg, 1.8 H x 35.89 W x 24.71 D cm<br>4.46 lbs, 0.71 H x 14.13 W x 9.73 D inch"
+                "Weight/Dimensions": "2.04 kg, 1.8 H x 35.89 W x 24.71 D cm<br>4.46 lbs, 0.71 H x 14.13 W x 9.73 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (4770HQ, 4870HQ, 4980HQ) ('Haswell')",
@@ -2171,7 +2171,7 @@
                 "Model Identifier": "MacBookPro13,1",
                 "Model Number": "A1708",
                 "EMC": "2978",
-                "Weight/Dimensions": "<br>1.37 kg, 1.49 H x 30.41 W x 21.24 D cm, 3.02 lbs., 0.59 H x 11.94 W x 8.36 D inch"
+                "Weight/Dimensions": "1.37 kg, 1.49 H x 30.41 W x 21.24 D cm, 3.02 lbs., 0.59 H x 11.94 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (6360U, 6660U) ('Skylake')",
@@ -2229,7 +2229,7 @@
                 "Model Identifier": "MacBookPro13,2",
                 "Model Number": "A1706",
                 "EMC": "3071",
-                "Weight/Dimensions": "<br>1.37 kg, 1.49 H x 30.41 W x 21.24 D cm<br>3.02 lbs., 0.59 H x 11.97 W x 8.36 D inch"
+                "Weight/Dimensions": "1.37 kg, 1.49 H x 30.41 W x 21.24 D cm<br>3.02 lbs., 0.59 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (6267U, 6287U, 6567U) ('Skylake')",
@@ -2287,7 +2287,7 @@
                 "Model Identifier": "MacBookPro13,3",
                 "Model Number": "A1707",
                 "EMC": "3072",
-                "Weight/Dimensions": "<br>1.83 kg, 1.55 H x 34.93 W x 24.07 D cm<br>4.02 lbs., 0.61 H x 13.75 W x 9.48 D inch"
+                "Weight/Dimensions": "1.83 kg, 1.55 H x 34.93 W x 24.07 D cm<br>4.02 lbs., 0.61 H x 13.75 W x 9.48 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (6700HQ, 6820HQ, 6920HQ) ('Skylake')",
@@ -2345,7 +2345,7 @@
                 "Model Identifier": "MacBookPro14,1",
                 "Model Number": "A1708 (2017)",
                 "EMC": "3164",
-                "Weight/Dimensions": "<br>1.37 kg, 1.49 H x 30.41 W x 21.24 D cm<br>3.02 lbs., 0.59 H x 11.97 W x 8.36 D inch"
+                "Weight/Dimensions": "1.37 kg, 1.49 H x 30.41 W x 21.24 D cm<br>3.02 lbs., 0.59 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (7360U, 7660U) ('Kaby Lake')",
@@ -2403,7 +2403,7 @@
                 "Model Identifier": "MacBookPro14,2",
                 "Model Number": "A1706 (2017)",
                 "EMC": "3163",
-                "Weight/Dimensions": "<br>1.37 kg, 1.49 H x 30.41 W x 21.24 D cm<br>3.02 lbs., 0.59 H x 11.97 W x 8.36 D inch"
+                "Weight/Dimensions": "1.37 kg, 1.49 H x 30.41 W x 21.24 D cm<br>3.02 lbs., 0.59 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (7267U, 7287U, 7567U) ('Kaby Lake')",
@@ -2461,7 +2461,7 @@
                 "Model Identifier": "MacBookPro14,3",
                 "Model Number": "A1707 (2017)",
                 "EMC": "3162",
-                "Weight/Dimensions": "<br>1.83 kg, 1.55 H x 34.93 W x 24.07 D cm<br>4.02 lbs., 0.61 H x 13.75 W x 9.48 D inch"
+                "Weight/Dimensions": "1.83 kg, 1.55 H x 34.93 W x 24.07 D cm<br>4.02 lbs., 0.61 H x 13.75 W x 9.48 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (7700HQ, 7820HQ, 7920HQ) ('Kaby Lake')",
@@ -2519,7 +2519,7 @@
                 "Model Identifier": "MacBookPro15,2",
                 "Model Number": "A1989",
                 "EMC": "3214",
-                "Weight/Dimensions": "<br>1.37 kg, 1.49 H x 30.41 W x 21.24 D cm<br>3.02 lbs., 0.59 H x 11.97 W x 8.36 D inch"
+                "Weight/Dimensions": "1.37 kg, 1.49 H x 30.41 W x 21.24 D cm<br>3.02 lbs., 0.59 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (8259U, 8559U) ('Coffee Lake')",
@@ -2577,7 +2577,7 @@
                 "Model Identifier": "<li>MacBookPro15,1<br><li>MacBookPro15,3",
                 "Model Number": "A1990",
                 "EMC": "3215",
-                "Weight/Dimensions": "<br>1.83 kg, 1.55 H x 34.93 W x 24.07 D cm<br>4.02 lbs., 0.61 H x 13.75 W x 9.48 D inch"
+                "Weight/Dimensions": "1.83 kg, 1.55 H x 34.93 W x 24.07 D cm<br>4.02 lbs., 0.61 H x 13.75 W x 9.48 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 or i9 (8750H, 8850H, 8950HK) ('Coffee Lake')",
@@ -2635,7 +2635,7 @@
                 "Model Identifier": "MacBookPro15,4",
                 "Model Number": "A2159",
                 "EMC": "3301",
-                "Weight/Dimensions": "<br>1.37 kg, 1.49 H x 30.41 W x 21.24 D cm, 3.02 lbs., 0.59 H x 11.94 W x 8.36 D inch"
+                "Weight/Dimensions": "1.37 kg, 1.49 H x 30.41 W x 21.24 D cm, 3.02 lbs., 0.59 H x 11.94 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (8257U, 8557U) ('Coffee Lake')",
@@ -2693,7 +2693,7 @@
                 "Model Identifier": "MacBookPro15,2",
                 "Model Number": "A1989 (2019)",
                 "EMC": "3358",
-                "Weight/Dimensions": "<br>1.37 kg, 1.49 H x 30.41 W x 21.24 D cm, 3.02 lbs., 0.59 H x 11.94 W x 8.36 D inch"
+                "Weight/Dimensions": "1.37 kg, 1.49 H x 30.41 W x 21.24 D cm, 3.02 lbs., 0.59 H x 11.94 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (8279U, 8579U) ('Coffee Lake')",
@@ -2806,7 +2806,7 @@
                 "Model Identifier": "<li>MacBookPro16,1<br><li>MacBookPro16,4",
                 "Model Number": "A2141",
                 "EMC": "3347",
-                "Weight/Dimensions": "<br>2 kg, 1.62 H x 35.79 W x 24.59 D cm<br>4.3 lbs, 0.64 H x 14.09 W x 9.68 D inch"
+                "Weight/Dimensions": "2 kg, 1.62 H x 35.79 W x 24.59 D cm<br>4.3 lbs, 0.64 H x 14.09 W x 9.68 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 or i9 (9750H, 9850H, 9980HK) ('Coffee Lake')",
@@ -2864,7 +2864,7 @@
                 "Model Identifier": "MacBookPro16,3",
                 "Model Number": "A2289",
                 "EMC": "3456",
-                "Weight/Dimensions": "<br>1.4 kg, 1.56 H x 30.41 W x 21.24 D cm<br>3.1 lbs., 0.61 H x 11.97 W x 8.36 D inch"
+                "Weight/Dimensions": "1.4 kg, 1.56 H x 30.41 W x 21.24 D cm<br>3.1 lbs., 0.61 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (8257U, 8557U) ('Coffee Lake')",
@@ -2922,7 +2922,7 @@
                 "Model Identifier": "MacBookPro16,2",
                 "Model Number": "A2251",
                 "EMC": "3348",
-                "Weight/Dimensions": "<br>1.4 kg, 1.56 H x 30.41 W x 21.24 D cm<br>3.1 lbs., 0.61 H x 11.97 W x 8.36 D inch"
+                "Weight/Dimensions": "1.4 kg, 1.56 H x 30.41 W x 21.24 D cm<br>3.1 lbs., 0.61 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (1038NG7, 1068NG7) ('Ice Lake')",
@@ -2980,7 +2980,7 @@
                 "Model Identifier": "MacBookPro17,1",
                 "Model Number": "A2338",
                 "EMC": "3578",
-                "Weight/Dimensions": "<br>1.4 kg, 1.56 H x 30.41 W x 21.24 D cm<br>3 lbs., 0.61 H x 11.97 W x 8.36 D inch"
+                "Weight/Dimensions": "1.4 kg, 1.56 H x 30.41 W x 21.24 D cm<br>3 lbs., 0.61 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Apple M1",
@@ -3038,7 +3038,7 @@
                 "Model Identifier": "<li>MacBookPro18,3<br><li>MacBookPro18,4",
                 "Model Number": "A2442",
                 "EMC": "3650",
-                "Weight/Dimensions": "<br>1.6 kg, 1.55 H x 31.26 W x 22.12 D cm<br>3.5 lbs., 0.61 H x 12.31 W x 8.71 D inch"
+                "Weight/Dimensions": "1.6 kg, 1.55 H x 31.26 W x 22.12 D cm<br>3.5 lbs., 0.61 H x 12.31 W x 8.71 D inch"
             },
             "Processor": {
                 "Name": "Apple M1 Pro or M1 Max",
@@ -3097,7 +3097,7 @@
                 "Model Identifier": "<li>MacBookPro18,1<br><li>MacBookPro18,2",
                 "Model Number": "A2485",
                 "EMC": "3651",
-                "Weight/Dimensions": "<br>2.1 kg (M1 Pro) 2.2 kg (M1 Max), 1.68 H x 35.57 W x 24.81 D cm<br>4.7 lbs. (M1 Pro) 4.8 lbs. (M1 Max), 0.66 H x 14.01 W x 9.77 D inch"
+                "Weight/Dimensions": "2.1 kg (M1 Pro) 2.2 kg (M1 Max), 1.68 H x 35.57 W x 24.81 D cm<br>4.7 lbs. (M1 Pro) 4.8 lbs. (M1 Max), 0.66 H x 14.01 W x 9.77 D inch"
             },
             "Processor": {
                 "Name": "Apple M1 Pro or M1 Max",
@@ -3156,7 +3156,7 @@
                 "Model Identifier": "Mac14,7",
                 "Model Number": "A2338 (M2)",
                 "EMC": "8162",
-                "Weight/Dimensions": "<br>1.4 kg, 1.56 H x 30.41 W x 21.24 D cm<br>3 lbs., 0.61 H x 11.97 W x 8.36 D inch"
+                "Weight/Dimensions": "1.4 kg, 1.56 H x 30.41 W x 21.24 D cm<br>3 lbs., 0.61 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Apple M2",
@@ -3214,7 +3214,7 @@
                 "Model Identifier": "<li>Mac14,9 (M2 Pro)<br><li>Mac14,5 (M2 Max)",
                 "Model Number": "A2779",
                 "EMC": "8102",
-                "Weight/Dimensions": "<br>1.6 kg (M2 Pro) 1.63 kg (M2 Max), 1.55 H x 31.26 W x 22.12 D cm<br>3.5 lbs. (M1 Pro) 3.6 lbs. (M1 Max), 0.61 H x 12.31 W x 8.71 D inch"
+                "Weight/Dimensions": "1.6 kg (M2 Pro) 1.63 kg (M2 Max), 1.55 H x 31.26 W x 22.12 D cm<br>3.5 lbs. (M1 Pro) 3.6 lbs. (M1 Max), 0.61 H x 12.31 W x 8.71 D inch"
             },
             "Processor": {
                 "Name": "Apple M2 Pro or M2 Max",
@@ -3271,7 +3271,7 @@
                 "Model Identifier": "<li>Mac14,10 (M2 Pro)<br><li>Mac14,6 (M2 Max)",
                 "Model Number": "A2780",
                 "EMC": "8103",
-                "Weight/Dimensions": "<br>2.15 kg (M2 Pro) 2.16 (M2 Max), 1.68 H x 35.57 W x 24.81 D cm<br>4.7 lbs. (M2 Pro) 4.8 (M2 Max), 0.66 H x 14.01 W x 9.77 D inch"
+                "Weight/Dimensions": "2.15 kg (M2 Pro) 2.16 (M2 Max), 1.68 H x 35.57 W x 24.81 D cm<br>4.7 lbs. (M2 Pro) 4.8 (M2 Max), 0.66 H x 14.01 W x 9.77 D inch"
             },
             "Processor": {
                 "Name": "Apple M2 Pro or M2 Max",
@@ -3330,7 +3330,7 @@
                 "Model Identifier": "Mac15,3",
                 "Model Number": "A2918",
                 "EMC": "8304",
-                "Weight/Dimensions": "<br>1.55 kg, 1.55 H x 31.26 W x 22.12 D cm<br>3.4 lbs., 0.61 H x 12.31 W x 8.71 D inch"
+                "Weight/Dimensions": "1.55 kg, 1.55 H x 31.26 W x 22.12 D cm<br>3.4 lbs., 0.61 H x 12.31 W x 8.71 D inch"
             },
             "Processor": {
                 "Name": "Apple M3",
@@ -3389,7 +3389,7 @@
                 "Model Identifier": "<li>Mac15,6 (M3 Pro)<br><li>Mac15,10 (M3 Max)<br><li>Mac15,11 (M3 Max)",
                 "Model Number":"A2992",
                 "EMC": "8407",
-                "Weight/Dimensions": "<br>1.61 kg (M3 Pro) 1.62 kg (M3 Max), 1.55 H x 31.26 W x 22.12 D cm<br>3.5 lbs. (M3 Pro) 3.6 lbs. (M3 Max), 0.61 H x 12.31 W x 8.71 D inch"
+                "Weight/Dimensions": "1.61 kg (M3 Pro) 1.62 kg (M3 Max), 1.55 H x 31.26 W x 22.12 D cm<br>3.5 lbs. (M3 Pro) 3.6 lbs. (M3 Max), 0.61 H x 12.31 W x 8.71 D inch"
             },
             "Processor": {
                 "Name": "Apple M3 Pro or M3 Max",
@@ -3447,7 +3447,7 @@
                 "Model Identifier": "<li>Mac15,7 (M3 Pro)<br><li>Mac15,11 (M3 Max)<br><li>Mac15,9 (M3 Max)",
                 "Model Number": "A2991",
                 "EMC": "8408",
-                "Weight/Dimensions": "<br>2.14 kg (M3 Pro) 2.16 (M3 Max), 1.68 H x 35.57 W x 24.81 D cm<br>4.7 lbs. (M3 Pro) 4.8 (M3 Max), 0.66 H x 14.01 W x 9.77 D inch"
+                "Weight/Dimensions": "2.14 kg (M3 Pro) 2.16 (M3 Max), 1.68 H x 35.57 W x 24.81 D cm<br>4.7 lbs. (M3 Pro) 4.8 (M3 Max), 0.66 H x 14.01 W x 9.77 D inch"
             },
             "Processor": {
                 "Name": "Apple M3 Pro or M3 Max",
@@ -3506,7 +3506,7 @@
                 "Model Identifier": "Mac16,1",
                 "Model Number": "A3112",
                 "EMC": "8526",
-                "Weight/Dimensions": "<br>1.55 kg, 1.55 H x 31.26 W x 22.12 D cm<br>3.4 lbs., 0.61 H x 12.31 W x 8.71 D inch"
+                "Weight/Dimensions": "1.55 kg, 1.55 H x 31.26 W x 22.12 D cm<br>3.4 lbs., 0.61 H x 12.31 W x 8.71 D inch"
             },
             "Processor": {
                 "Name": "Apple M4",
@@ -3565,7 +3565,7 @@
                 "Model Identifier": "<li>Mac16,8 (M4 Pro)<br><li>Mac16,6 (M4 Max)",
                 "Model Number":"A3401 or A3185",
                 "EMC": "8894 (M4 Pro), 8623 (M4 Max)",
-                "Weight/Dimensions": "<br>1.6 kg (M4 Pro) 1.62 kg (M4 Max), 1.55 H x 31.26 W x 22.12 D cm<br>3.5 lbs. (M4 Pro) 3.6 lbs. (M4 Max), 0.61 H x 12.31 W x 8.71 D inch"
+                "Weight/Dimensions": "1.6 kg (M4 Pro) 1.62 kg (M4 Max), 1.55 H x 31.26 W x 22.12 D cm<br>3.5 lbs. (M4 Pro) 3.6 lbs. (M4 Max), 0.61 H x 12.31 W x 8.71 D inch"
             },
             "Processor": {
                 "Name": "Apple M4 Pro or M4 Max",
@@ -3623,7 +3623,7 @@
                 "Model Identifier": "<li>Mac16,7 (M4 Pro)<br><li>Mac16,5 (M4 Max)",
                 "Model Number": "A3403 or A3186",
                 "EMC": "8895 (M4 Pro), 8624 (M4 Max)",
-                "Weight/Dimensions": "<br>2.14 kg (M4 Pro) 2.15 (M4 Max), 1.68 H x 35.57 W x 24.81 D cm<br>4.7 lbs. (M2 Pro), 0.66 H x 14.01 W x 9.77 D inch"
+                "Weight/Dimensions": "2.14 kg (M4 Pro) 2.15 (M4 Max), 1.68 H x 35.57 W x 24.81 D cm<br>4.7 lbs. (M2 Pro), 0.66 H x 14.01 W x 9.77 D inch"
             },
             "Processor": {
                 "Name": "Apple M4 Pro or M4 Max",
@@ -3664,6 +3664,64 @@
                 "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
                 "Thunderbolt": "3 - Thunderbolt 5 (Up to 120 GBit/s)",
                 "Display": "1 - HDMI, through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
+                "Power": "1 - MagSafe 3",
+                "Slots": "1 - SDXC Card Slot"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro<br>(14-inch, M5)",
+        "Type": "MacBook Pro",
+        "image": "mbp_14_m5.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2025",
+                "Discontinued": "--",
+                "Model Identifier": "Mac17,2",
+                "Model Number": "A3434",
+                "EMC": "8896",
+                "Weight/Dimensions": "1.55 kg, 1.55 H x 31.26 W x 22.12 D cm<br>3.4 lbs., 0.61 H x 12.31 W x 8.71 D inch"
+            },
+            "Processor": {
+                "Name": "Apple M5",
+                "Speed": "4.6 GHz (High Performance), 3 GHz (High Efficiency)",
+                "# of Cores": "10 (4 high performance, 6 high efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 26 (Tahoe)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Options": "16, 24 or 32 GB",
+                "Supported": "9600 MT/s LPDDR5X",
+                "Bandwidth": "153 GB/s"
+            },
+             "Graphics": {
+                "Chip": "Apple GPU",
+                "Graphics Cores": "10"
+            },
+            "Display": {
+                "Type": "14.2-inch Liquid Retina XDR display",
+                "Brightness":"up to 1000 nits (outdoor SDR and sustained HDR) or 1600 nits (peak HDR)",
+                "Refresh Rate": "Up to 120 Hz ProMotion",
+                "Native Resolution": "3024 x 1964"
+            },
+            "Storage": {
+                "SSD": "512 GB, 1, 2 or 4 TB"
+            },
+            "Power": {
+                "Battery": "72.4 Wh Lithium-polymer",
+                "Life": "Up to 16 - 24 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
+                "Thunderbolt": "3 - Thunderbolt 4 (Up to 40 GBit/s)",
+                "Display": "1 - HDMI 2.1, through Thunderbolt Ports",
                 "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
                 "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
                 "Power": "1 - MagSafe 3",

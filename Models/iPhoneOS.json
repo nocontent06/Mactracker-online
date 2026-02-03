@@ -6,12 +6,12 @@
         "Info": {
             "Overview": {
                 "Introduced": "Jun 2007",
-                "Supported Devices": "<br><a href='detailed.html?modelNumber=A1203&type=iPhone'class='results-link'>iPhone</a> <br> iPod Touch",
+                "Supported Devices": "iPhone<br>iPod Touch",
                 "Model Identifier": "Latest: iPhoneOS 1.1.5",
                 "Model Number": "iPhoneOS"
             },
             "Versions": {
-                "Version": "<table><tbody><tr><td style='padding-right: 3em'>Version<hr></td><td style='padding-right: 8em'>Build<hr></td><td>Release Date<hr></td></tr><tr><td>1.0</td><td>1A543a</td><td>June 29, 2007</td></tr><tr><td>1.0.1</td><td>1C25</td><td>July 31, 2007</td></tr><tr><td>1.0.2</td><td>1C28 </td><td>August 21, 2007</td></tr><tr><td>1.1</td><td>3A100a, 3A101a</td><td>September 14, 2007 </td></tr><tr><td>1.1.1</td><td>3A109a, 3A110a</td><td>September 27, 2007 </td></tr><tr><td>1.1.2</td><td>3B48b</td><td>November 12, 2007 </td></tr><tr><td>1.1.3</td><td>4A93</td><td>January 15, 2008</td></tr><tr><td>1.1.4</td><td>4A102</td><td>February 26, 2008</td></tr><tr><td>1.1.5</td><td>4B1</td><td>July 15, 2008</td></tr></tbody></table>"
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>1.0</td><td>1A543a</td><td>Jun 29, 2007</td></tr><tr><td>1.0.1</td><td>1C25</td><td>Jul 31, 2007</td></tr><tr><td>1.0.2</td><td>1C28</td><td>Aug 21, 2007</td></tr><tr><td>1.1</td><td>3A100a<br>3A101a</td><td>Sep 14, 2007<br>Sep 27, 2007</td></tr><tr><td>1.1.1</td><td>3A109a<br>3A110a</td><td>Sep 27, 2007<br>Oct 1, 2007</td></tr><tr><td>1.1.2</td><td>3B48b</td><td>Nov 12, 2007</td></tr><tr><td>1.1.3</td><td>4A93</td><td>Jan 15, 2008</td></tr><tr><td>1.1.4</td><td>4A102</td><td>Feb 26, 2008</td></tr><tr><td>1.1.5</td><td>4B1</td><td>Jul 15, 2008</td></tr></tbody></table></div>"
             }
         }
     }, {
@@ -26,7 +26,7 @@
                 "Model Number": "iPhoneOS 2"
             },
             "Versions": {
-                "Version": "<table><tbody><tr><td style='padding-right: 3em'>Version<hr></td><td>Relase Date<hr></td></tr><tr><td>2.0</td><td>Jul 11, 2008</td></tr><tr><td>2.0.1</td><td>Aug 4, 2008</td></tr><tr><td>2.0.2</td><td>Aug 18, 2008</td></tr><tr><td>2.1</td><td>Sep 9 (11), 2008</td></tr><tr><td>2.2</td><td>Nov 21, 2008</td></tr><tr><td>2.2.1</td><td>Jan 27, 2009</td></tr></tbody></table>"
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>2.0</td><td>5A347</td><td>Jul 11, 2008</td></tr><tr><td>2.0.1</td><td>5B108</td><td>Aug 4, 2008</td></tr><tr><td>2.0.2</td><td>5C1</td><td>Aug 18, 2008</td></tr><tr><td>2.1</td><td>5F136<br>5F137</td><td>Sep 9, 2008<br>Sep 12, 2008</td></tr><tr><td>2.2</td><td>5G77<br>5G77a</td><td>Nov 21, 2008<br>Nov 28, 2008</td></tr><tr><td>2.2.1</td><td>5H11</td><td>Jan 27, 2009</td></tr></tbody></table></div>"
             }
         }
     }, {
@@ -41,7 +41,7 @@
                 "Model Number":"iPhoneOS 3"
             },
             "Versions": {
-                "Version": "<table><tbody><tr><td style='padding-right: 3em'>Version<hr></td><td>Release Date<hr></td></tr><tr><td>3.0</td><td>Jun 17, 2009</td></tr><tr><td>3.0.1</td><td>Jul 31, 2009</td></tr><tr><td>3.1</td><td>Sep 9, 2009</td></tr><tr><td>3.1.2</td><td>Oct 8, 2009</td></tr><tr><td>3.1.3</td><td>Feb 2, 2010</td></tr><tr><td>3.2</td><td>Apr 3, 2010</td></tr><tr><td>3.2.1</td><td>Jul 15, 2010</td></tr><tr><td>3.2.2</td><td>Aug 11, 2010</td></tr></tbody></table>"
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>3.0</td><td>7A341</td><td>Jun 17, 2009</td></tr><tr><td>3.0.1</td><td>7A400</td><td>Jul 31, 2009</td></tr><tr><td>3.1</td><td>7C144</td><td>Sep 9, 2009</td></tr><tr><td>3.1.2</td><td>7D11</td><td>Oct 8, 2009</td></tr><tr><td>3.1.3</td><td>7E18</td><td>Feb 2, 2010</td></tr><tr><td>3.2</td><td>7B367</td><td>Apr 3, 2010</td></tr><tr><td>3.2.1</td><td>7B405</td><td>Jul 15, 2010</td></tr><tr><td>3.2.2</td><td>7B500</td><td>Aug 11, 2010</td></tr></tbody></table></div>"
             }
         }
     }

@@ -720,5 +720,141 @@
                 "SIM Slot": "Built-in Apple eSIM (Cellular variants only)"
             }
         }
+    }, {
+        "Name": "Apple Watch Ultra 3",
+        "Type": "Watch",
+        "image": "watchU3.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2025",
+                "Discontinued": "--",
+                "Model Identifier": "Watch7,12",
+                "Model Number": "A3281, A3282",
+                "EMC": "8911, 8912",
+                "Color": "Natural or Black",
+                "Weight/Dimensions": "61.6 - 61.8 g (case), 4.9 H x 4.4 W x 1.2 D cm"
+            },
+            "Processor": {
+                "Name": "Apple S10",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3 & Apple U2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
+            },
+            "Software": {
+                "Original OS": "watchOS 26",
+                "Maximum OS": "Latest release of watchOS"
+            },
+            "Display": {
+                "Type": "Sapphire crystal LTPO3 OLED Always-On Retina display",
+                "Size": "1245 mm<sup>2</sup>",
+                "Resolution": "410 x 502",
+                "Brightness": "3000 nits"
+            },
+            "Storage": {
+                "Capacity": "64 GB"
+            },
+            "Battery": {
+                "Life": "Up to 42 Hours, Up to 72 Hours (Low Power Mode)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11b/g/n (WiFi 4)",
+                "Bluetooth": "5.3",
+                "Networks": "5G & LTE",
+                "SIM Slot": "Built-in Apple eSIM",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Speakers"
+            }
+        }
+    }, {
+        "Name": "Apple Watch SE (3rd Gen)",
+        "Type": "Watch",
+        "image": "watchSE3.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2025",
+                "Discontinued": "--",
+                "Model Identifier": "<li>Watch7,13 (40mm GPS)<li>Watch7,14 (44mm GPS)<li>Watch7,15 (40mm GPS + Cellular)<li>Watch7,16 (44mm GPS + Cellular)",
+                "Model Number": "A3324, A3391 (40mm GPS)",
+                "Other Model Numbers": "<li>A3325, A3392 (44mm GPS)<li>A3326, A3327 (40mm GPS + Cellular)<li>A3328, A3329 (44mm GPS + Cellular)",
+                "EMC": "8913, 8914 (40mm GPS)<li>8915, 8916 (44mm GPS)<li>8917, 8918 (40mm GPS + Cellular)<li>8919, 8920 (44mm GPS + Cellular)",
+                "Color": "Midnight, Starlight",
+                "Weight/Dimensions": "<li>26.3 - 26.4 g (case), 4 H x 3.4 W x 1.07 D cm (40mm)<li>32.9 - 33 g (case), 4.4 H x 3.8 W x 1.07 D cm (44mm)"
+            },
+            "Processor": {
+                "Name": "Apple S10",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
+            },
+            "Software": {
+                "Original OS": "watchOS 26",
+                "Maximum OS": "Latest release of watchOS"
+            },
+            "Display": {
+                "Type": "Ion-X glass LTPO3 OLED Retina display",
+                "Size": "989 mm<sup>2</sup> (40mm) or 1220 mm<sup>2</sup> (44mm)",
+                "Resolution": "352 x 394 (40mm) or 368 x 448 (44mm)",
+                "Brightness": "1000 nits"
+            },
+            "Storage": {
+                "Capacity": "64 GB"
+            },
+            "Battery": {
+                "Life": "Up to 18 hours (Up to 32 hours in Low Power Mode)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11b/g/n (WiFi 4)",
+                "Bluetooth": "5.3",
+                "Networks": "5G & LTE (Cellular variants only)",
+                "SIM Slot": "Built-in Apple eSIM (Cellular variants only)"
+            }
+        }
+    }, {
+        "Name": "Apple Watch Series 11",
+        "Type": "Watch",
+        "image": "watchS11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2025",
+                "Discontinued": "--",
+                "Model Identifier": "<li>Watch7,17 (42mm GPS)<li>Watch7,18 (46mm GPS)<li>Watch7,19 (42mm GPS + Cellular)<li>Watch7,20 (46mm GPS + Cellular)",
+                "Model Number": "A3317, A3450 (42mm GPS)",
+                "Other Model Numbers": "<li>A3333, A3451 (46mm GPS)<li>A3335, A3452 (42mm GPS + Cellular)<li>A3337, A3453 (46mm GPS + Cellular)",
+                "EMC": "8921, 8922 (42mm GPS)<li>8923, 8924 (46mm GPS)<li>8925, 8926 (42mm GPS + Cellular)<li>8927, 8928 (46mm GPS + Cellular)",
+                "Color": "<li>Jet Black, Rose Gold, Silver, Space Gray (aluminum)<li>Slate, Gold, Natural (titanium)",
+                "Weight/Dimensions": "<li>29.7 - 34.6 g (case), 4.2 H x 3.6 W x 0.97 D cm (42mm)<li>36.9 - 43.1 g (case), 4.6 H x 3.9 W x 0.97 D cm (46mm)"
+            },
+            "Processor": {
+                "Name": "Apple S10",
+                "# of Cores": "2",
+                "Coprocessor": "Apple W3 & Apple U2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
+            },
+            "Software": {
+                "Original OS": "watchOS 26",
+                "Maximum OS": "Latest release of watchOS"
+            },
+            "Display": {
+                "Type": "Ion-X glass (alum.) Sapphire crystal (titanium) LTPO3 OLED Always-On Retina display",
+                "Size": "989 mm<sup>2</sup> (42mm) 1220 mm<sup>2</sup> (46mm)",
+                "Resolution": "374 x 446 (42mm) 416 x 496 (46mm)",
+                "Brightness": "2000 nits"
+            },
+            "Storage": {
+                "Capacity": "64 GB"
+            },
+            "Battery": {
+                "Life": "Up to 24 hours (Up to 38 hours in Low Power Mode)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11b/g/n (WiFi 4)",
+                "Bluetooth": "5.3",
+                "Networks": "5G & LTE (GPS + Cellular only)",
+                "SIM Slot": "Built-in Apple eSIM (GPS + Cellular only)"
+            }
+        }
     }
 ]
