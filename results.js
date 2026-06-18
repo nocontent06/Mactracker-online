@@ -85,6 +85,7 @@ const processData = async () => {
         "Mac Pro.json",
         "Mac Studio.json",
         "MacBook Air.json",
+        "MacBook Neo.json",
         "MacBook Pro.json",
         "MacMini.json",
         "Mac Pro.json",
@@ -189,6 +190,7 @@ const processData = async () => {
     const models = [
         { keywords: ["MacBook Pro", "MBP", "MacBookPro"], device: "MacBook Pro" },
         { keywords: ["MacBook Air", "MBA", "MacBookAir"], device: "MacBook Air" },
+        { keywords: ["MacBook Neo", "MBN", "MacBookNeo"], device: "MacBook Neo" },
         { keywords: ["MacBook", "MB"], device: "MacBook" },
         { keywords: ["Mac Pro", "MacPro"], device: "Mac Pro" },
         { keywords: ["Mac Mini", "MacMini", "Mini"], device: "MacMini" },

@@ -344,6 +344,9 @@ Minor release. Updated meta Tags.
 - Added Macbook Air 2025
 - Added all missing macOS Versions
 
+# 1.5.1 (1F2a)
+
+- Updated to the latest devices and Versions
 
 
 

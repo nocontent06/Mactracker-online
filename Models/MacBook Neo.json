@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "MacBook Neo (13-inch)<br>(A18 Pro)",
+        "Type": "MacBook Neo",
+        "image": "macbook_neo_1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2026",
+                "Discontinued": "--",
+                "Model Identifier": "Mac17,5",
+                "Model Number": "A3404",
+                "EMC": "8984",
+                "Weight/Dimensions": "1.23 kg, 1.27 H x 29.75 W x 20.64 D cm<br>2.7 lbs, 0.5 H x 11.71 W x 8.12 D inches"
+            },
+            "Processor": {
+                "Name": "Apple A18 Pro",
+                "Speed": "4 GHz (high-performance), 2.4 GHz (high-efficiency)",
+                "# of Cores": "6 (2 high-performance, 4 high-efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 26.3 (Tahoe)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Options": "8 GB"
+            },
+            "Storage": {
+                "SSD": "256 or 512 GB"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Type": "13-inch LED-backlit display with IPS technology",
+                "Native Resolution": "2408 x 1506",
+                "Brightness": "500 nits"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "6",
+                "Thunderbolt": "--",
+                "USB": "2 - USB-C (1 - USB 3 up to 10 GBit/s, 1 - USB 2 up to 480 MBit/s)",
+                "Audio In": "2 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "Charging via USB-C"
+            },
+            "Battery": {
+                "Type": "Lithium-polymer",
+                "Capacity": "36.5 Wh (9573 mAh)",
+                "Life": "Up to 11 - 16 hours"
+            }
+        }
+    }
+]

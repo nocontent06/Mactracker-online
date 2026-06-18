@@ -3128,7 +3128,7 @@
                 "Camera Control Button": "Yes"
             }
         }
-    },  {
+    }, {
         "Name": "iPhone 16e",
         "Type": "iPhone",
         "image": "iphone_16e.png",
@@ -3197,8 +3197,7 @@
                 "Camera Control Button": "No"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPhone 17",
         "Type": "iPhone",
         "image": "iphone_17.png",
@@ -3267,8 +3266,7 @@
                 "Camera Control Button": "Yes"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPhone Air",
         "Type": "iPhone",
         "image": "iphone_air.png",
@@ -3337,8 +3335,7 @@
                 "Camera Control Button": "Yes"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPhone 17 Pro",
         "Type": "iPhone",
         "image": "iphone_17_pro.png",
@@ -3407,8 +3404,7 @@
                 "Camera Control Button": "Yes"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPhone 17 Pro Max",
         "Type": "iPhone",
         "image": "iphone_17_pro_max.png",

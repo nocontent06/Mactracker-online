@@ -3561,7 +3561,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Nov 2024",
-                "Discontinued": "--",
+                "Discontinued": "Mar 2026",
                 "Model Identifier": "<li>Mac16,8 (M4 Pro)<br><li>Mac16,6 (M4 Max)",
                 "Model Number":"A3401 or A3185",
                 "EMC": "8894 (M4 Pro), 8623 (M4 Max)",
@@ -3619,7 +3619,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Nov 2024",
-                "Discontinued": "--",
+                "Discontinued": "Mar 2026",
                 "Model Identifier": "<li>Mac16,7 (M4 Pro)<br><li>Mac16,5 (M4 Max)",
                 "Model Number": "A3403 or A3186",
                 "EMC": "8895 (M4 Pro), 8624 (M4 Max)",
@@ -3722,6 +3722,122 @@
                 "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
                 "Thunderbolt": "3 - Thunderbolt 4 (Up to 40 GBit/s)",
                 "Display": "1 - HDMI 2.1, through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
+                "Power": "1 - MagSafe 3",
+                "Slots": "1 - SDXC Card Slot"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro<br>(14-inch)<br>(M5 Pro or M5 Max)",
+        "Type": "MacBook Pro",
+        "image": "mbp_14_2026.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2026",
+                "Discontinued": "--",
+                "Model Identifier": "<li>Mac17,9 (M5 Pro)<br><li>Mac17,7 (M5 Max)",
+                "Model Number":"A3426 or A3427",
+                "EMC": "8934 (M5 Pro), 8935 (M5 Max)",
+                "Weight/Dimensions": "1.6 kg (M5 Pro) 1.62 kg (M5 Max), 1.55 H x 31.26 W x 22.12 D cm<br>3.5 lbs. (M5 Pro) 3.56 lbs. (M5 Max), 0.61 H x 12.31 W x 8.71 D inch"
+            },
+            "Processor": {
+                "Name": "Apple M5 Pro or M5 Max",
+                "Speed": "4.6 GHz (Super), 2.9 GHz (Performance)",
+                "# of Cores": "<br><li>15 (5 - Super, 10 - Performance) (M5 Pro)<br><li>18 (6 - Super, 12 - Performance) (M5 Pro & M5 Max)<br><li>16 (12 high performance, 4 high efficiency) (M5 Max)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 26.3 (Tahoe)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Options": "<br><li>24, 48 or 64 GB (M5 Pro)<br><li>36 (M5 Max with 32-core GPU)<br><li>48, 64 or 128 GB (M5 Max with 40-core GPU)",
+                "Supported": "8533 MT/s LPDDR5",
+                "Bandwidth": "<br><li>307 GB/s (M5 Pro)<br><li>460 GB/s (M5 Max with 32-core GPU)<br><li>614 GB/s (M5 Max with 40-core GPU)"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "Graphics Cores": "16 or 20 (M5 Pro), 32 or 40 (M5 Max)"
+            },
+            "Display": {
+                "Type": "14.2-inch Liquid Retina XDR display",
+                "Brightness":"up to 1000 nits (outdoor SDR and sustained HDR) or 1600 nits (peak HDR)",
+                "Refresh Rate": "Up to 120 Hz ProMotion",
+                "Native Resolution": "3024 x 1964"
+            },
+            "Storage": {
+                "SSD": "1, 2, 4 or 8 TB"
+            },
+            "Power": {
+                "Battery": "72.4 Wh Lithium-polymer",
+                "Life": "Up to 14 - 22 Hours (M5 Pro), Up to 13 - 20 Hours (M5 Max)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
+                "USB": "Through Thunderbolt 5 Ports (USB 4) (up to 40 GBit/s)",
+                "Thunderbolt": "3 - Thunderbolt 5 (Up to 120 GBit/s)",
+                "Display": "1 - HDMI, through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
+                "Power": "1 - MagSafe 3",
+                "Slots": "1 - SDXC Card Slot"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro<br>(16-inch)<br>(M5 Pro or M5 Max)",
+        "Type": "MacBook Pro",
+        "image": "mbp_16_2026.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2026",
+                "Discontinued": "--",
+                "Model Identifier": "<li>Mac17,8 (M5 Pro)<br><li>Mac17,6 (M5 Max)",
+                "Model Number": "A3428 or A3429",
+                "EMC": "8936 (M5 Pro), 8937 (M5 Max)",
+                "Weight/Dimensions": "2.14 kg (M5 Pro) 2.15 (M5 Max), 1.68 H x 35.57 W x 24.81 D cm<br>4.7 lbs. (M5 Pro), 0.66 H x 14.01 W x 9.77 D inch"
+            },
+            "Processor": {
+                "Name": "Apple M5 Pro or M5 Max",
+                "Speed": "4.6 GHz (Super), 4.3 GHz (Performance)",
+                "# of Cores": "18 (6 - Super, 12 - Performance)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 26.3 (Tahoe)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Options": "<br><li>24, 48 or 64 GB (M5 Pro)<br><li>36 (M5 Max with 32-core GPU)<br><li>48, 64 or 128 GB (M5 Max with 40-core GPU)",
+                "Supported": "8533 MT/s LPDDR5X",
+                "Bandwidth": "<br><li>307 GB/s (M5 Pro)<br><li>460 GB/s (M5 Max with 32-core GPU)<br><li>614 GB/s (M5 Max with 40-core GPU)"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "Graphics Cores": "20 (M5 Pro), 32 or 40 (M5 Max)"
+            },
+            "Display": {
+                "Type": "16.2-inch Liquid Retina XDR display",
+                "Brightness":"up to 1000 nits (outdoor SDR and sustained HDR) or 1600 nits (peak HDR)",
+                "Refresh Rate": "Up to 120 Hz ProMotion",
+                "Native Resolution": "3456 x 2234"
+            },
+            "Storage": {
+                "SSD": "512 GB, 1, 2, 4 or 8 TB"
+            },
+            "Power": {
+                "Battery": "100 Wh Lithium-polymer",
+                "Life": "Up to 17 - 24 Hours (M5 Pro), Up to 16 - 22 Hours (M5 Max)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
+                "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
+                "Thunderbolt": "3 - Thunderbolt 5 (Up to 120 GBit/s)",
+                "Display": "1 - HDMI, through Thunderbolt Ports",
                 "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
                 "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
                 "Power": "1 - MagSafe 3",

@@ -103,14 +103,14 @@
             "Overview": {
                 "Introduced": "Mar 2025",
                 "Discontinued": "--",
-                "Model Identifier": "TBD",
-                "Model Number": "TBD",
-                "EMC": "TBD",
-                "Weight/Dimensions": "TBD"
+                "Model Identifier": "Mac16,9 (M4 Max)<br>Mac15,14 (M3 Ultra)",
+                "Model Number": "A3143 (M4 Max)<br>A3389 (M3 Ultra)",
+                "EMC": "8549 (M4 Max)<br>8859 (M3 Ultra)",
+                "Weight/Dimensions": "2.74 kg, 9.5 H x 19.7 W x 19.7 D cm (M4 Max)<br>6.1 lbs, 3.7 H x 7.7 W x 7.7 D in (M4 Max)<br>3.64 kg, 9.5 H x 19.7 W x 19.7 D cm (M3 Ultra)<br>8 lbs, 3.7 H x 7.7 W x 7.7 D in (M3 Ultra)"
             },
             "Processor": {
                 "Processor Name": "Apple M4 Max or M3 Ultra",
-                "Processor Speed": "4.5 GHz (high-performance), 2.9 GHz (high-efficiency)",
+                "Processor Speed": "4.5 GHz (high-performance), 2.9 GHz (high-efficiency) (M4 Max)<br>4.1 GHz (high-performance), 2.8 GHz (high-efficiency) (M3 Ultra)",
                 "# of Cores": "<li>14 (10 high-performance, 4 high-efficiency) (M4 Max)<li>16 (12 high-performance, 4 high-efficiency) (M4 Max)<li>28 (20 high-performance, 8 high-efficiency) (M3 Ultra)<li>32 (24 high-performance, 8 high-efficiency) (M3 Ultra)",
                 "# or Neural Engine Cores": "<li>16 (M4 Max)<li>32 (M3 Ultra)",
                 "Manufacturing Process": "3 nm"

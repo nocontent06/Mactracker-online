@@ -1239,7 +1239,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2025",
-                "Discontinued": "--",
+                "Discontinued": "Mar 2026",
                 "Model Identifier": "Mac16,12",
                 "Model Number": "A3240",
                 "EMC": "8781",
@@ -1293,7 +1293,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2025",
-                "Discontinued": "--",
+                "Discontinued": "Mar 2026",
                 "Model Identifier": "Mac16,13",
                 "Model Number": "A3241",
                 "EMC": "8782",
@@ -1329,6 +1329,114 @@
             "Connections": {
                 "Wi-Fi": "802.11ax (Wi-Fi 6E)",
                 "Bluetooth": "Bluetooth 5.3",
+                "Thunderbolt": "2 - Thunderbolt 4 (up to 40 Gbps)",
+                "Audio In": "3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 4 - Built-in speakers",
+                "Power": "MagSafe 3"
+            },
+            "Battery": {
+                "Type": "Lithium-polymer",
+                "Capacity": "66.5 Wh",
+                "Life": "Up to 15 - 18 hours"
+            }
+        }
+    }, {
+        "Name": "MacBook Air (13-inch, M5)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_13-inch_m5.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2026",
+                "Discontinued": "--",
+                "Model Identifier": "Mac17,3",
+                "Model Number": "A3449",
+                "EMC": "8877",
+                "Weight/Dimensions": "1.23 kg, 1.13 H x 30.41 W x 21.5 D cm<br>2.7 lbs, 0.44 H x 11.97 W x 8.46 D inches"
+            },
+            "Processor": {
+                "Name": "Apple M5",
+                "Speed": "4.6 GHz (Super), 3.0 GHz (Efficiency)",
+                "# of Cores": "10 (4 Super, 6 Efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 26.3 (Tahoe)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Options": "16, 24 or 32 GB",
+                "Supported": "9600 MT/s LPDDR5"
+            },
+            "Storage": {
+                "SSD": "512 GB, 1, 2 or 4 TB"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "Graphics Cores": "8 or 10"
+            },
+            "Display": {
+                "Display Type": "13.6-inch LED-backlit display with IPS technology",
+                "Native Resolution": "2560 x 1664",
+                "Brightness": "500 nits"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
+                "Thunderbolt": "2 - Thunderbolt 4 (up to 40 Gbps)",
+                "Audio In": "3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 4 - Built-in speakers",
+                "Power": "MagSafe 3"
+            },
+            "Battery": {
+                "Type": "Lithium-polymer",
+                "Capacity": "53.8 Wh",
+                "Life": "Up to 15 - 18 hours"
+            }
+        }
+    }, {
+        "Name": "MacBook Air (15-inch, M5)",
+        "Type": "MacBook Air",
+        "image": "macbook_air_15-inch_m5.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2026",
+                "Discontinued": "--",
+                "Model Identifier": "Mac17,4",
+                "Model Number": "A3448",
+                "EMC": "8878",
+                "Weight/Dimensions": "1.51 kg, 1.15 H x 34.04 W x 23.76 D cm<br>3.3 lbs, 0.45 H x 13.4 W x 9.35 D inches"
+            },
+            "Processor": {
+                "Name": "Apple M5",
+                "Speed": "4.6 GHz (Super), 3.0 GHz (Efficiency)",
+                "# of Cores": "10 (4 Super, 6 Efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 26.3 (Tahoe)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Options": "16, 24 or 32 GB",
+                "Supported": "9600 MT/s LPDDR5"
+            },
+            "Storage": {
+                "SSD": "512 GB, 1, 2 or 4 TB"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Type": "15.3-inch LED-backlit display with IPS technology",
+                "Native Resolution": "2880 x 1864",
+                "Brightness": "500 nits"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
                 "Thunderbolt": "2 - Thunderbolt 4 (up to 40 Gbps)",
                 "Audio In": "3 - Built-in microphones",
                 "Audio Out": "1 - 3.5-mm jack, 4 - Built-in speakers",

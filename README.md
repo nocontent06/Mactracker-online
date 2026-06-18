@@ -26,9 +26,6 @@ Now :) You can access it at https://mactracker.online
 - Discord Username: i_progeny
 
 ## Some Pics?
-
-<img width="1478" alt="image" src="https://github.com/user-attachments/assets/86893f8c-2389-4ab5-9606-149850f8074e" />
-
-<img width="1478" alt="image" src="https://github.com/user-attachments/assets/e3c58429-71cb-4462-ab32-c9d81145bddc" />
-
-<img width="1478" alt="image" src="https://github.com/user-attachments/assets/d90e85cf-df5a-43b1-b4f4-e896cc16035d" />
+<img width="1912" height="1168" alt="Screenshot 2026-02-03 at 08 14 50" src="https://github.com/user-attachments/assets/f474dad5-5606-4b2c-8a46-b1285aa92795" />
+<img width="1912" height="1168" alt="Screenshot 2026-02-03 at 08 15 53" src="https://github.com/user-attachments/assets/b70898d1-5872-4a86-87ff-a2ec185e93ba" />
+<img width="1912" height="1168" alt="Screenshot 2026-02-03 at 08 16 08" src="https://github.com/user-attachments/assets/db59272c-9f8e-4887-b25d-b7bf57aa0d88" />

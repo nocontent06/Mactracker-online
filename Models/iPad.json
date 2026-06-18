@@ -5312,5 +5312,256 @@
                 "Authentication": "Face ID"
             }
         }
+    }, {
+        "Name": "iPad Air 11-inch (M4)<br>(Wi-Fi)",
+        "Type": "iPad",
+        "image": "ipad_air_m2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2026",
+                "Discontinued": "--",
+                "Model Identifier": "iPad16,8",
+                "Model Number": "A3459",
+                "EMC": "8943",
+                "Color":"Space Gray, Blue, Purple, Starlight",
+                "Weight/Dimensions": "464 g, 24.76 H x 17.85 W x 0.61 cm<br>1.02 lbs, 9.74 H x 7.02 W x 0.24 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M4",
+                "Processor Speed": "4.4 GHz (High Performance), 2.9 GHz (High Efficiency)",
+                "# of Cores": "8 (3 High Performance, 5 High Efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process":"3 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 26.3",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "9"
+            },
+            "Display": {
+                "Display Size": "11-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2360 x 1640"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 28.93 Wh lithium-polymer",
+                "Battery Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Air 11-inch (M4)<br>(Wi-Fi + Cellular)",
+        "Type": "iPad",
+        "image": "ipad_air_m2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2026",
+                "Discontinued": "--",
+                "Model Identifier": "iPad16,9",
+                "Model Number": "A3460, A3463",
+                "EMC": "8944",
+                "Color":"Space Gray, Blue, Purple, Starlight",
+                "Weight/Dimensions": "465 g, 24.76 H x 17.85 W x 0.61 cm<br>1.02 lbs, 9.74 H x 7.02 W x 0.24 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M4",
+                "Processor Speed": "4.4 GHz (High Performance), 2.9 GHz (High Efficiency)",
+                "# of Cores": "8 (3 High Performance, 5 High Efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process":"3 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 26.3",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "9"
+            },
+            "Display": {
+                "Display Size": "11-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2360 x 1640"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot": "eSIM",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 28.93 Wh lithium-polymer",
+                "Battery Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Air 13-inch (M4)<br>(Wi-Fi)",
+        "Type": "iPad",
+        "image": "ipad_air_m2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2026",
+                "Discontinued": "--",
+                "Model Identifier": "iPad16,1",
+                "Model Number": "A3461",
+                "EMC": "8945",
+                "Color":"Space Gray, Blue, Purple, Starlight",
+                "Weight/Dimensions": "616 g, 28.06 H x 21.46 W x 0.61 cm<br>1.36 lbs, 11.04 H x 8.46 W x 0.24 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M4",
+                "Processor Speed": "4.4 GHz (High Performance), 2.9 GHz (High Efficiency)",
+                "# of Cores": "8 (3 High Performance, 5 High Efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process":"3 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 26.3",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "9"
+            },
+            "Display": {
+                "Display Size": "13-inch widescreen",
+                "Brightness":"600 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2732 x 2048"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 36.59 Wh lithium-polymer",
+                "Battery Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Air 13-inch (M4)<br>(Wi-Fi + Cellular)",
+        "Type": "iPad",
+        "image": "ipad_air_m2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2026",
+                "Discontinued": "--",
+                "Model Identifier": "iPad16,11",
+                "Model Number": "A3462, A3464",
+                "EMC": "8946",
+                "Color":"Space Gray, Blue, Purple, Starlight",
+                "Weight/Dimensions": "617 g, 28.06 H x 21.46 W x 0.61 cm<br>1.36 lbs, 11.04 H x 8.46 W x 0.24 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M4",
+                "Processor Speed": "4.4 GHz (High Performance), 2.9 GHz (High Efficiency)",
+                "# of Cores": "8 (3 High Performance, 5 High Efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process":"3 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 26.3",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "9"
+            },
+            "Display": {
+                "Display Size": "13-inch widescreen",
+                "Brightness":"600 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2732 x 2048"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot": "eSIM",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 36.59 Wh lithium-polymer",
+                "Battery Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
     }
 ]

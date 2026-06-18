@@ -267,14 +267,10 @@
         "Info": {
             "Overview": {
                 "Introduced": "Dec 2019",
-                "Discontinued": "--",
+                "Discontinued": "Mar 2026",
                 "Model Identifier": "Pro Display XDR",
                 "Model Number": "A1999",
                 "Weight/Dimensions": "<br>7.48 kg, 41.2 H x 71.8 W x 2.7 D cm<br>16.49 lbs, 16.2 H x 28.3 W x 1.1 D inch"
-            },
-            "Software": {
-                "Original OS": "Display Firmware 1.2.2.26",
-                "Latest OS": "4.2.37 (14/12/2020)"
             },
             "Display": {
                 "Type": "LCD (IPS) with oxide TFT",
@@ -302,7 +298,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2022",
-                "Discontinued": "--",
+                "Discontinued": "Mar 2026",
                 "Model Identifier": "AppleDisplay2,1",
                 "Model Number": "A2525",
                 "Weight/Dimensions": "<li>6.3 kg, 47.8 H x 62.3 W x 16.8 D cm (Tilt-adjustable stand)<li>7.7 kg, 47.9 - 58.3 H x 62.3 W x 20.7 D cm (Tilt and height-adjustable)<li>5.5 kg, 36.2 H x 62.3 W x 3.1 D cm (VESA mount)<br><br><li>13.9 lbs., 18.8 H x 24.5 W x 6.6 D inch (Tilt-adjustable stand)<li>16.9 lbs., 18.8 - 23 H x 24.5 W x 8.1 D inch (Tilt and height-adjustable)<li>12.1 lbs., 14.3 H x 24.5 W x 1.2 D inch (VESA mount)"
@@ -327,6 +323,68 @@
             },
             "Power": {
                 "Maximum": "250 W"
+            }
+        }
+    }, {
+        "Name": "Studio Display (2026)",
+        "Type": "Display",
+        "image": "StudioDisplay22.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2026",
+                "Discontinued": "--",
+                "Model Identifier": "AppleDisplay18,2",
+                "Model Number": "A3350",
+                "Weight/Dimensions": "<li>6.3 kg, 47.8 H x 62.3 W x 16.8 D cm (Tilt-adjustable stand)<li>7.7 kg, 47.9 - 58.3 H x 62.3 W x 20.7 D cm (Tilt and height-adjustable)<li>5.5 kg, 36.2 H x 62.3 W x 3.1 D cm (VESA mount)<br><br><li>13.9 lbs., 18.8 H x 24.5 W x 6.6 D inch (Tilt-adjustable stand)<li>16.9 lbs., 18.8 - 23 H x 24.5 W x 8.1 D inch (Tilt and height-adjustable)<li>12.1 lbs., 14.3 H x 24.5 W x 1.2 D inch (VESA mount)"
+            },
+            "Software": {
+                "Original OS": "Studio Display Firmware 26.2 (23C8051)",
+                "Latest OS": "26.4 (23E246)"
+            },
+            "Display": {
+                "Type": "LCD (IPS)",
+                "Size": "27 inch",
+                "Colors": "1 Bio.",
+                "Brightness": "600 nits",
+                "Resolutions": "5120 x 2880 px",
+                "Refresh Rate": "60 Hz"
+            },
+            "Connections": {
+                "Connection": "Thunderbolt 5",
+                "Audio": "6 - High-fidelity speakers with force-cancelling woofers, 3 - Microphones",
+                "Camera":"12 MP Center Stage camera",
+                "Ports": "<li>2 - Thunderbolt 5 (up to 120 Gb/s)<li>2 - USB-C (up to 10 Gb/s)"
+            }
+        }
+    }, {
+        "Name": "Studio Display XDR (2026)",
+        "Type": "Display",
+        "image": "XDRDisplay.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2026",
+                "Discontinued": "--",
+                "Model Identifier": "AppleDisplay18,1",
+                "Model Number": "A3348",
+                "Weight/Dimensions": "<li>8.5 kg, 47.9 - 58.3 H x 62.3 W x 20.7 D cm (Tilt- and height-adjustable stand)<li>6.3 kg, 36.2 H x 62.3 W x 3.1 D cm (VESA mount)<br><br><li>18.7 lbs., 18.8 - 23.0 H x 24.5 W x 8.1 D inch (Tilt- and height-adjustable stand)<li>13.9 lbs., 14.3 H x 24.5 W x 1.2 D inch (VESA mount)"
+            },
+            "Software": {
+                "Original OS": "Studio Display Firmware 26.2 (23C8051)",
+                "Latest OS": "26.4 (23E246)"
+            },
+            "Display": {
+                "Type": "mini-LED LCD",
+                "Size": "27 inch",
+                "Colors": "1 Bio.",
+                "Brightness": "1000 nits (SDR), 2000 nits (HDR)",
+                "Resolutions": "5120 x 2880 px",
+                "Refresh Rate": "120 Hz"
+            },
+            "Connections": {
+                "Connection": "Thunderbolt 5",
+                "Audio": "6 - High-fidelity speakers with force-cancelling woofers, 3 - Microphones",
+                "Camera":"12 MP Center Stage camera",
+                "Ports": "<li>2 - Thunderbolt 5 (up to 120 Gb/s)<li>2 - USB-C (up to 10 Gb/s)"
             }
         }
     }
