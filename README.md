@@ -49,6 +49,7 @@ Prefer a desktop app instead? Download the latest build for your platform from t
 <br/><br/>
 <img width="900" alt="Mactracker Online specifications page" src="https://github.com/user-attachments/assets/db59272c-9f8e-4887-b25d-b7bf57aa0d88" />
 </div>
+
 ## 📊 Repo Activity
  
 <div align="center">
@@ -56,6 +57,7 @@ Prefer a desktop app instead? Download the latest build for your platform from t
   <img src="https://api.star-history.com/svg?repos=nocontent06/Mactracker-online&type=Date" alt="Star History Chart" width="700"/>
 </a>
 </div>
+
 ## 🙏 Data Sources & Credits
  
 - Personal hardware collection — specs verified by hand against real devices
