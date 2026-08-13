@@ -522,6 +522,10 @@ processData().then(() => {
             // Footer is already in the HTML, no need to append it
         });
     }
+
+    if (filtData.length !== 1) {
+        document.dispatchEvent(new Event("mactracker:results-loaded"));
+    }
 }).catch((error) => {
     console.error(error);
 });

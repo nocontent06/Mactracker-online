@@ -476,6 +476,12 @@ body::before {
         margin-left: 0;
         margin-top: 1rem;
     }
+
+    .buymeacoffee-counter {
+        width: fit-content;
+        margin-top: 1rem;
+        margin-left: 0;
+    }
     
     .search-wrapper-nav {
         max-width: 100%;
@@ -509,6 +515,10 @@ body::before {
     .footer-section {
         padding: 1.25rem;
     }
+
+    .buymeacoffee-prompt__panel {
+        padding: 2rem 1.5rem;
+    }
 }
 
 /* WIP Badge */
@@ -527,6 +537,123 @@ body::before {
 /* Enhanced Search Form */
 .search-form-container {
     margin-left: 1rem;
+}
+
+.buymeacoffee-counter {
+    display: flex;
+    align-items: center;
+    margin-left: 0.75rem;
+    line-height: 0;
+}
+
+.buymeacoffee-counter img {
+    display: block;
+    max-width: 154px;
+    height: auto;
+}
+
+.buymeacoffee-prompt {
+    position: fixed;
+    inset: 0;
+    z-index: 2000;
+    display: grid;
+    place-items: center;
+    padding: 1.5rem;
+}
+
+.buymeacoffee-prompt__backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(8px);
+}
+
+.buymeacoffee-prompt__panel {
+    position: relative;
+    width: min(100%, 420px);
+    padding: 2.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    border-radius: 12px;
+    background: #1a1a1b;
+    box-shadow: var(--shadow-large);
+    text-align: center;
+}
+
+.buymeacoffee-prompt__logo {
+    display: block;
+    width: min(100%, 210px);
+    height: auto;
+    margin: 0 auto 1.5rem;
+}
+
+.buymeacoffee-prompt__close {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    width: 2rem;
+    height: 2rem;
+    border: 0;
+    border-radius: 50%;
+    background: transparent;
+    color: var(--text-secondary);
+    font-size: 1.75rem;
+    line-height: 1;
+}
+
+.buymeacoffee-prompt__close:hover,
+.buymeacoffee-prompt__close:focus-visible {
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.buymeacoffee-prompt__eyebrow {
+    margin-bottom: 0.5rem;
+    color: #ffdd00;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.buymeacoffee-prompt h2 {
+    margin-bottom: 0.75rem;
+    font-size: 1.75rem;
+}
+
+.buymeacoffee-prompt p:not(.buymeacoffee-prompt__eyebrow) {
+    margin-bottom: 1.5rem;
+    color: var(--text-secondary);
+}
+
+.buymeacoffee-prompt__button {
+    display: block;
+    padding: 0.8rem 1.25rem;
+    border: 1px solid #ffdd00;
+    border-radius: 8px;
+    background: #ffdd00;
+    color: #000;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.buymeacoffee-prompt__button:hover,
+.buymeacoffee-prompt__button:focus-visible {
+    background: #ffe766;
+    color: #000;
+}
+
+.buymeacoffee-prompt__dismiss {
+    margin-top: 0.75rem;
+    border: 0;
+    background: transparent;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    text-decoration: underline;
+}
+
+.buymeacoffee-prompt__dismiss:hover,
+.buymeacoffee-prompt__dismiss:focus-visible {
+    color: var(--text-primary);
 }
 
 .search-wrapper-nav {
