@@ -66,7 +66,7 @@ const OS_VERSION_MAP = {
     'Latest release of iOS 16': { modelNumber: 'iOS 16', type: 'iOS', displayText: 'Latest release of iOS 16' },
     'Latest release of iOS 17': { modelNumber: 'iOS 17', type: 'iOS', displayText: 'Latest release of iOS 17' },
     'Latest release of iOS 18': { modelNumber: 'iOS 18', type: 'iOS', displayText: 'Latest release of iOS 18' },
-    'Latest release of iOS': { modelNumber: 'iOS 26', type: 'iOS', displayText: 'Latest release of iOS' }
+    'Latest release of iOS': { modelNumber: 'iOS 27', type: 'iOS', displayText: 'Latest release of iOS' }
 };
 
 // Device Mapping for dynamic linking in Supported Devices
@@ -744,7 +744,7 @@ function initializeFooter() {
             if (versionInfoElements.length >= 4) {
                 versionInfoElements[0].textContent = `Version ${version} (Build ${build})`;
                 versionInfoElements[1].textContent = `Commit: ${commit}`;
-                versionInfoElements[2].textContent = `©2023-2025 MangoCoding-Inc. (Felix)`;
+                versionInfoElements[2].textContent = `©2023-2026 Mactracker Online`;
                 versionInfoElements[3].textContent = "All rights reserved.";
             }
         }

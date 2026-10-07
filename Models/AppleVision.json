@@ -1,0 +1,110 @@
+[
+    {
+        "Name": "Apple Vision Pro",
+        "Type": "AppleVision",
+        "image": "avp_1.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Feb 2024",
+                "Discontinued": "Oct 2025",
+                "Model Identifier": "RealityDevice14,1",
+                "Model Number": "A2117",
+                "EMC": "4075",
+                "Weight/Dimensions": "600 - 650g, 353g Battery<br>21.2 - 22.9 oz, 12.5 oz Battery"
+            },
+            "Processor": {
+                "Name": "Apple M2",
+                "Speed": "3.5 GHz (high-performance), 2.4 GHz (high-efficiency)",
+                "# of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "5 nm"
+            },
+            "Software": {
+                "Original OS": "visionOS 1.0",
+                "Maximum OS": "Latest release of visionOS"
+            },
+            "Memory": {
+                "Options": "16 GB",
+                "Bandwidth": "256 GB/s (Apple R1)"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB or 1 TB"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "Graphics Cores": "10"
+            },
+            "Display": {
+                "Type": "2 - Micro-OLED (Inward), 1 - EyeSight OLED (Outward)",
+                "Size": "1.41-inch (Inward)",
+                "Refresh Rate": "90, 96 or 100 Hz"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Camera": "Stereoscopic 3D main camera system",
+                "Audio In": "6 - Built-in microphone array",
+                "Audio Out": "2 - Built-in speakers"
+            },
+            "Battery": {
+                "Type": "Lithium-ion",
+                "Capacity": "35.9 Wh (3166 mAh)",
+                "Life": "Up to 2 - 2.5 hours"
+            }
+        }
+    },
+    {
+        "Name": "Apple Vision Pro (M5)",
+        "Type": "AppleVision",
+        "image": "avp_m5.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2025",
+                "Discontinued": "--",
+                "Model Identifier": "RealityDevice17,1",
+                "Model Number": "A3416",
+                "EMC": "8977",
+                "Weight/Dimensions": "750 - 800g, 353g Battery<br>26.4 - 28.2 oz, 12.5 oz Battery"
+            },
+            "Processor": {
+                "Name": "Apple M5",
+                "Speed": "4.6 GHz (super), 3 GHz (efficiency)",
+                "# of Cores": "10 (4 super, 6 efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "5 nm"
+            },
+            "Software": {
+                "Original OS": "visionOS 26.0",
+                "Maximum OS": "Latest release of visionOS"
+            },
+            "Memory": {
+                "Options": "16 GB",
+                "Bandwidth": "153 GB/s (M5), 256 GB/s (Apple R1)"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB or 1 TB"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "Graphics Cores": "10"
+            },
+            "Display": {
+                "Type": "2 - Micro-OLED (Inward), 1 - EyeSight OLED (Outward)",
+                "Size": "1.41-inch (Inward)",
+                "Refresh Rate": "90, 96, 100 or 120 Hz"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Camera": "Stereoscopic 3D main camera system",
+                "Audio In": "6 - Built-in microphone array",
+                "Audio Out": "2 - Built-in speakers"
+            },
+            "Battery": {
+                "Type": "Lithium-ion",
+                "Capacity": "35.9 Wh (3166 mAh)",
+                "Life": "Up to 2.5 - 3 hours"
+            }
+        }
+    }
+]

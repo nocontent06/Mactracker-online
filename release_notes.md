@@ -348,6 +348,14 @@ Minor release. Updated meta Tags.
 
 - Updated to the latest devices and Versions
 
+# 1.5.2 (1F3a)
+
+- Added Buy me a coffee
+
+# 1.5.3 (1F4a)
+
+- Added latest devices (Mac Mini, Mac Studio)
+- Added Apple Vision Pro
 
 
 

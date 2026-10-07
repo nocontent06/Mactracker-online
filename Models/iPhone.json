@@ -3342,7 +3342,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2025",
-                "Discontinued": "--",
+                "Discontinued": "Sep 2026",
                 "Model Identifier": "iPhone18,1",
                 "Model Number": "A3256",
                 "Other Model Numbers": "<li>A3522<li>A3523<li>A3524",
@@ -3411,7 +3411,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2025",
-                "Discontinued": "--",
+                "Discontinued": "Sep 2026",
                 "Model Identifier": "iPhone18,2",
                 "Model Number": "A3257",
                 "Other Model Numbers": "<li>A3525<li>A3526<li>A3527",
@@ -3471,6 +3471,148 @@
                 "Dynamic Island": "Yes",
                 "Action Button": "Yes",
                 "Camera Control Button": "Yes"
+            }
+        }
+    }, {
+        "Name": "iPhone 18 Pro",
+        "Type": "iPhone",
+        "image": "iphone_18_pro.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPhone19,2",
+                "Model Number": "A3272",
+                "Other Model Numbers": "<li>A3713<li>A3715<li>A3714",
+                "EMC": "9186, 9192, 9194, 9193",
+                "Colors": "Burgundy, Glacier, Silver, Black",
+                "Weight/Dimensions": "<li>211 g, 15 H x 7.19 W x 0.875 D cm<li>7.44 oz, 5.91 H x 2.83 W x 0.34 D inch"
+            },
+            "Processor": {
+                "Name": "Apple A20 Pro",
+                "Speed": "4.9 GHz (super)",
+                "# of Cores": "6 (2 super, 4 efficiency)",
+                "# of Neural Engine Cores": "32",
+                "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "4685 / 12461",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "2 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 27",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "# of Cores": "7"
+            },
+            "Display": {
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.3-inch widescreen",
+                "Resolution": "2622 x 1206",
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On",
+                "Brightness": "1000 nits (typical), 1600 nits (HDR), 3000 nits (outdoor)"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB, 1 or 2 TB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (WiFi 7)",
+                "Bluetooth": "6",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "dual eSIM (A3472, A3713), nano-SIM and eSIM (A3714) dual nano-SIM (A3715)",
+                "Audio In": "4 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "USB-C connector (USB 3, up to 10Gb/s)"
+            },
+            "Camera": {
+                "Rear Camera": "3 - Main: 48 MP, Ultra Wide: 48 MP, Telephoto: 48 MP",
+                "Front Camera": "1 - 18 MP (Center Stage)"
+            },
+            "Power": {
+                "Battery": "Built-in 16.758 Wh (A3472, A3713)lithium-ion<br>Built-in 15.855 Wh (A3715, A3714) lithium-ion",
+                "Capacity": "4288 mAh, 4056 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68",
+                "Dynamic Island": "Yes",
+                "Action Button": "Yes",
+                "Camera Control Button": "Yes",
+                "Variable Aperture Lens": "Yes"
+            }
+        }
+    }, {
+        "Name": "iPhone 18 Pro Max",
+        "Type": "iPhone",
+        "image": "iphone_18_pro_max.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2026",
+                "Discontinued": "--",
+                "Model Identifier": "iPhone19,3 or iPhone 19,7",
+                "Model Number": "A3473",
+                "Other Model Numbers": "<li>A3716<li>A3717<li>A3718",
+                "EMC": "9187, 9195, 9196, 9197",
+                "Colors": "Burgundy, Glacier, Silver, Black",
+                "Weight/Dimensions": "<li>249 g, 16.34 H x 7.8 W x 0.875 D cm<li>8.78 oz, 6.43 H x 3.07 W x 0.34 D inch"
+            },
+            "Processor": {
+                "Name": "Apple A20 Pro",
+                "Speed": "4.9 GHz (super)",
+                "# of Cores": "6 (2 super, 4 efficiency)",
+                "# of Neural Engine Cores": "32",
+                "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "4696 / 12540",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "2 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 27",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "# of Cores": "7"
+            },
+            "Display": {
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.9-inch widescreen",
+                "Resolution": "2868 x 1320",
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On",
+                "Brightness": "1000 nits (typical), 1600 nits (HDR), 3000 nits (outdoor)"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB, 1 or 2 TB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (WiFi 7)",
+                "Bluetooth": "6",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "dual eSIM (A3473, A3716), nano-SIM and eSIM (A3717) dual nano-SIM (A3718)",
+                "Audio In": "4 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "USB-C connector (USB 3, up to 10Gb/s)"
+            },
+            "Camera": {
+                "Rear Camera": "3 - Main: 48 MP, Ultra Wide: 48 MP, Telephoto: 48 MP",
+                "Front Camera": "1 - 18 MP (Center Stage)"
+            },
+            "Power": {
+                "Battery": "Built-in 21.751 Wh (A3473, A3716) lithium-ion<br>Built-in 21.063 Wh (A3717, A3718) lithium-ion",
+                "Capacity": "5567 mAh, 5391 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68",
+                "Dynamic Island": "Yes",
+                "Action Button": "Yes",
+                "Camera Control Button": "Yes",
+                "Variable Aperture Lens": "Yes"
             }
         }
     }

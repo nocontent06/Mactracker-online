@@ -54,7 +54,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Jun 2023",
-                "Discontinued": "--",
+                "Discontinued": "Mar 2025",
                 "Model Identifier": "<br>Mac14,13 (M2 Max)<br>Mac14,14 (M2 Ultra)",
                 "Model Number": "A2901",
                 "EMC": "8292",
@@ -102,7 +102,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Mar 2025",
-                "Discontinued": "--",
+                "Discontinued": "Aug 2026",
                 "Model Identifier": "Mac16,9 (M4 Max)<br>Mac15,14 (M3 Ultra)",
                 "Model Number": "A3143 (M4 Max)<br>A3389 (M3 Ultra)",
                 "EMC": "8549 (M4 Max)<br>8859 (M3 Ultra)",
@@ -138,6 +138,54 @@
                 "Thunderbolt": "4 - Thunderbolt (TBD (4 or 5))",
                 "Display": "1 - HDMI 2.1",
                 "Audio In": "none",
+                "Audio Out": "1 - 3.5-mm jack, 1 - Built-in speaker",
+                "SD Card": "1 - SDXC"
+            }
+        }
+    },
+    {
+        "Name": "Mac Studio (M5 Max or M5 Ultra)",
+        "Type": "Mac Studio",
+        "image": "mac_studio_2022-23.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2026",
+                "Discontinued": "--",
+                "Model Identifier": "Mac17,14 (M5 Max)<br>Mac17,15 (M5 Ultra)",
+                "Model Number": "A3545 (M5 Max)<br>A3546 (M5 Ultra)",
+                "EMC": "9029 (M5 Max)<br>9098 (M5 Ultra)",
+                "Weight/Dimensions": "2.7 kg, 9.5 H x 19.7 W x 19.7 D cm (M5 Max)<br>6.0 lbs, 3.7 H x 7.7 W x 7.7 D in (M5 Max)<br>3.6 kg, 9.5 H x 19.7 W x 19.7 D cm (M5 Ultra)<br>8 lbs, 3.7 H x 7.7 W x 7.7 D in (M5 Ultra)"
+            },
+            "Processor": {
+                "Processor Name": "Apple M5 Max or M5 Ultra",
+                "Processor Speed": "4.6 GHz (super), 4.3 GHz (performance)",
+                "# of Cores": "<li>18 (6 super, 12 performance) (M5 Max)<li>30 (10 super, 20 performance) (M5 Ultra)<li>36 (12 super, 24 performance) (M5 Ultra)",
+                "# or Neural Engine Cores": "<li>16 (M5 Max)<li>32 (M5 Ultra)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 27.0 (Golden Gate)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Built-in": "<li>36 GB (32-Core GPU M5 Max)<li>48, 64 or 128 (40-Core GPU M5 Max)<li>96, 256 or 512 GB (M5 Ultra)",
+                "Speed": "9600 MT/s LPDDR5X",
+                "Bandwidth": "460 or 614 GB/s (M5 Max) 1.2 TB/s (M5 Ultra)"
+            },
+            "Storage": {
+                "SSD": "512 GB, 1, 2, 4, 8 or 16 TB"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# pr Graphics Cores": "<li>32 or 40 (M5 Max)<br>64 or 80 (M5 Ultra)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
+                "Ethernet": "1 - 1, 2.5, 5 or 10 GBit/s (RJ-45)",
+                "USB": "<li>2 - USB-A (5 GBit/s) (M5 Max, M5 Ultra)</li><li>2 - USB-C (10 GBit/s) (M5 Max)</li>",
+                "Thunderbolt": "4 - TB 5 (M5 Max), 6 - TB 5 (M5 Ultra)",
+                "Display": "1 - HDMI 2.1",
                 "Audio Out": "1 - 3.5-mm jack, 1 - Built-in speaker",
                 "SD Card": "1 - SDXC"
             }

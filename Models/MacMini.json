@@ -707,6 +707,7 @@
                 "Chip Name": "Apple M1",
                 "Chip Speed": "3.2 GHz (high-performance), 2.1 GHz (high-efficiency)",
                 "# of Cores": "8 (4 high-performance, 4 high-efficiency)",
+                "# of Neural Engine Cores": "16",
                 "Manufacturing Process": "5 nm"
             },
             "Storage": {
@@ -755,6 +756,7 @@
                 "Processor Name": "Apple M2",
                 "Processor Speed": "3.5 GHz (high-performance), 2.4 GHz (high-efficiency)",
                 "# of Cores": "<br>8 (4 high-performance, 4 high-efficiency) (M2)<br>10 (6 high-performance, 4 high-efficiency) (M2 Pro)<br>12 (8 high-performance, 4 high-efficiency) (M2 Pro)",
+                "# of Neural Engine Cores": "16",
                 "Manufacturing Process": "5 nm"
             },
             "Storage": {
@@ -792,7 +794,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Nov 2024",
-                "Discontinued": "--",
+                "Discontinued": "Aug 2026",
                 "Model Identifier": "Mac16,10 or Mac16,11",
                 "Model Number": "A3238 (M4)",
                 "Other Model Numbers": "A3239 (M4 Pro)",
@@ -804,6 +806,7 @@
                 "Processor Name": "Apple M4",
                 "Processor Speed": "4.4 GHz (high-performance) (M4), 4.5 GHz (high-performance) (M4 Pro), 2.9 GHz (high-efficiency)",
                 "# of Cores": "<br>10 (4 high-performance, 6 high-efficiency) (M4)<br>12 (8 high-performance, 4 high-efficiency) (M4 Pro)<br>14 (10 high-performance, 4 high-efficiency) (M4 Pro)",
+                "# of Neural Engine Cores": "16",
                 "Manufacturing Process": "5 nm"
             },
             "Storage": {
@@ -830,6 +833,54 @@
                 "Thunderbolt": "3 - 40 GBit/s (M4), 3 - 120 GBit/s (M4 Pro)",
                 "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker",
                 "Display": "1 - HDMI 2.1, TB 4 (M4), TB 5 (M4 Pro)"
+            }
+        }
+
+    }, {
+        "Name": "Mac Mini (M6 or M5 Pro)",
+        "Type": "MacMini",
+        "image": "Macmini_2024.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2026",
+                "Discontinued": "--",
+                "Model Identifier": "Mac18,5 or Mac17,16",
+                "Model Number": "A3534 (M6)",
+                "Other Model Numbers": "A3535 (M5 Pro)",
+                "Color": "Silver",
+                "Weight/Dimensions": "0.67 kg (M4), 0.73 (M4 Pro), 5 H x 12.7 W x 12.7 D cm<br>1.5 lbs (M4), 1.6 lbs (M4 Pro), 2 H x 5 W x 5 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M6",
+                "Processor Speed": "4.8 GHz (super) (M6), 4.6 GHz (super), 4.3 GHz (performance) (M4 Pro)",
+                "# of Cores": "<br>12 (2 super, 4 performance, 6 efficiency) (M6)<br>15 (5 super, 10 high-performance) (M5 Pro)<br>18 (6 super, 12 performance) (M5 Pro)",
+                "# of Neural Engine Cores": "32 (M6) 16 (M5 Pro)",
+                "Manufacturing Process": "2 nm (M6), 3 nm (M5 Pro)"
+            },
+            "Storage": {
+                "HDD": "256, 512 GB, 1, 2, 4 or 8 TB SSD"
+            },
+            "Software": {
+                "Original OS": "macOS 27 (Golden Gate)",
+                "Maximum OS": "Latest Release of macOS"
+            },
+            "Memory": {
+                "Options": "16, 24 or 32 (M4) 24, 48 or 64 GB (M4 Pro)",
+                "Bandwidth": "153 or 170 GB/s (M6) 307 GB/s (M5 Pro)"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "12 (M6) 16 or 20 (M5 Pro)",
+                "Graphics Memory": "Shared through UMA (Unified Memory Architecture)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
+                "Ethernet": "1 - 2.5 GBit/s or 10 GBit/s",
+                "USB": "2 - 10 GBit/s (USB-C)", 
+                "Thunderbolt": "3 - TB 4 at 40 GBit/s (M6), 3 - TB 5 at 120 GBit/s (M5 Pro)",
+                "Display": "1 - HDMI 2.1, Thunderbolt",
+                "Audio Out": "1 - 3.5mm jack, 1 - Built-in Speaker"
             }
         }
 

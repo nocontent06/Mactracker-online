@@ -28,7 +28,7 @@ function updateFooter() {
     if (versionInfoElements.length >= 4) {
         versionInfoElements[0].textContent = `Version ${version} (Build ${build})`;
         versionInfoElements[1].textContent = `Commit: ${commit}`;
-        versionInfoElements[2].textContent = `©2023-2026 MangoCoding-Inc. (Felix)`;
+        versionInfoElements[2].textContent = `©2023-2026 Mactracker Online`;
         versionInfoElements[3].textContent = "All rights reserved.";
     }
 

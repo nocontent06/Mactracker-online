@@ -74,6 +74,7 @@ let filtData = [];
 const processData = async () => {
     const deviceFiles = [
         "AppleTV.json",
+        "AppleVision.json",
         "Display.json",
         "iMac.json",
         "iOS.json",
@@ -202,6 +203,7 @@ const processData = async () => {
         { keywords: ["iPad"], device: "iPad" },
         { keywords: ["iPod"], device: "iPod" },
         { keywords: ["Apple TV", "AppleTV", "TV"], device: "AppleTV" },
+        { keywords: ["Apple Vision Pro", "Vision Pro", "AVP"], device: "AppleVision"},
         { keywords: ["Apple Watch", "AppleWatch", "AW", "Watch"], device: "Watch"},
         { keywords: ["Pencil", "Apple Pencil"], device: "Pencil"},
         { keywords: ["macOS", "MacOS"], device: "macOS"},

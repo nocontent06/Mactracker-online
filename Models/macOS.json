@@ -351,11 +351,26 @@
         "Info": {
             "Overview": {
                 "Introduced": "Sep 15, 2025",
-                "Model Identifier": "macOS 26.5",
+                "Model Identifier": "macOS 26.7.1",
                 "Model Number": "macOS 26"
             },
             "Versions": {
-                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>26.0</td><td>25A354</td><td>September 15, 2025</td></tr><tr><td>26.0.1</td><td>25A362</td><td>October 15, 2025</td></tr><tr><td>26.1</td><td>25B78</td><td>November 3, 2025</td></tr><tr><td>26.2</td><td>25C56</td><td>December 12, 2025</td></tr><tr><td>26.3</td><td>25D125</td><td>February 11, 2026</td></tr><tr><td>26.3.1</td><td>25D2128</td><td>March 4, 2026</td></tr><tr><td>26.3.2</td><td>25D2140</td><td>March 10, 2026</td></tr><tr><td>26.4</td><td>25E246</td><td>March 24, 2026</td></tr><tr><td>26.4.1</td><td>25E253</td><td>April 8, 2026</td></tr><tr><td>26.5</td><td>25F71</td><td>May 11, 2026</td></tr></tbody></table></div>"
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>26.0</td><td>25A354</td><td>September 15, 2025</td></tr><tr><td>26.0.1</td><td>25A362</td><td>October 15, 2025</td></tr><tr><td>26.1</td><td>25B78</td><td>November 3, 2025</td></tr><tr><td>26.2</td><td>25C56</td><td>December 12, 2025</td></tr><tr><td>26.3</td><td>25D125</td><td>February 11, 2026</td></tr><tr><td>26.3.1</td><td>25D2128</td><td>March 4, 2026</td></tr><tr><td>26.3.2</td><td>25D2140</td><td>March 10, 2026</td></tr><tr><td>26.4</td><td>25E246</td><td>March 24, 2026</td></tr><tr><td>26.4.1</td><td>25E253</td><td>April 8, 2026</td></tr><tr><td>26.5</td><td>25F71</td><td>May 11, 2026</td></tr><tr><td>26.5.1</td><td>25F80</td><td>June 1, 2026</td></tr><tr><td>26.5.2</td><td>25F84</td><td>June 29, 2026</td></tr><tr><td>26.6</td><td>25G72</td><td>July 27, 2026</td></tr><tr><td>26.6.1</td><td>25G76</td><td>August 6, 2026</td></tr><tr><td>26.6.2</td><td>25G83</td><td>August 17, 2026</td></tr><tr><td>26.7</td><td>25G229</td><td>September 14, 2026</td></tr><tr><td>26.7.1</td><td>25G241</td><td>September 28, 2026</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "macOS 27",
+        "Type": "macOS",
+        "image": "macOS27.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2026",
+                "Model Identifier": "macOS 27.0.1",
+                "Model Number": "macOS 27"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>27.0</td><td>26A428</td><td>September 14, 2026</td></tr><tr><td>27.0.1</td><td>26A434</td><td>September 28, 2026</td></tr></tbody></table></div>"
             }
         }
     }
