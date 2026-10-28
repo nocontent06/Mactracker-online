@@ -848,11 +848,11 @@
                 "Model Number": "A3534 (M6)",
                 "Other Model Numbers": "A3535 (M5 Pro)",
                 "Color": "Silver",
-                "Weight/Dimensions": "0.67 kg (M4), 0.73 (M4 Pro), 5 H x 12.7 W x 12.7 D cm<br>1.5 lbs (M4), 1.6 lbs (M4 Pro), 2 H x 5 W x 5 D inch"
+                "Weight/Dimensions": "0.67 kg (M6), 0.73 (M5 Pro), 5 H x 12.7 W x 12.7 D cm<br>1.5 lbs (M6), 1.6 lbs (M5 Pro), 2 H x 5 W x 5 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M6",
-                "Processor Speed": "4.8 GHz (super) (M6), 4.6 GHz (super), 4.3 GHz (performance) (M4 Pro)",
+                "Processor Speed": "4.8 GHz (super) (M6), 4.6 GHz (super), 4.3 GHz (performance) (M5 Pro)",
                 "# of Cores": "<br>12 (2 super, 4 performance, 6 efficiency) (M6)<br>15 (5 super, 10 high-performance) (M5 Pro)<br>18 (6 super, 12 performance) (M5 Pro)",
                 "# of Neural Engine Cores": "32 (M6) 16 (M5 Pro)",
                 "Manufacturing Process": "2 nm (M6), 3 nm (M5 Pro)"
@@ -865,7 +865,7 @@
                 "Maximum OS": "Latest Release of macOS"
             },
             "Memory": {
-                "Options": "16, 24 or 32 (M4) 24, 48 or 64 GB (M4 Pro)",
+                "Options": "16, 24 or 32 (M6) 24, 48 or 64 GB (M5 Pro)",
                 "Bandwidth": "153 or 170 GB/s (M6) 307 GB/s (M5 Pro)"
             },
             "Graphics": {

@@ -635,7 +635,7 @@ fetch(`Models/${type}.json`)
                     } else if (detail.toLowerCase().includes('original os') || detail.toLowerCase().includes('maximum os')) {
                         // Apply OS linking for Original OS and Maximum OS fields
                         value.innerHTML = createOSLink(infoValue);
-                    } else if (detail.toLowerCase().includes('supported devices') || detail.toLowerCase().includes('supported')) {
+                    } else if (detail.toLowerCase().includes('supported devices')) {
                         // Apply device linking for Supported Devices and Supported fields
                         value.innerHTML = convertSupportedDevicesToLinkedList(infoValue);
                     } else {
